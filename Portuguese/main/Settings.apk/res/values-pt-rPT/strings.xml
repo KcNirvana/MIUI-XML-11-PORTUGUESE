@@ -592,8 +592,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="battery_saver">Poupança de bateria</string>
   <string name="battery_saver_desc_turn_on_auto_never">Nunca ligar automaticamente</string>
   <string name="battery_saver_desc_turn_on_auto_pct">Ligar automaticamente com %1$s de bateria</string>
-  <string name="battery_saver_off_summary">Desligada / %1$s</string>
-  <string name="battery_saver_on_summary">Ligada / %1$s</string>
+  <string name="battery_saver_off_summary">Desligada</string>
+  <string name="battery_saver_on_summary">Ligada</string>
   <string name="battery_saver_turn_on_automatically_never">Nunca</string>
   <string name="battery_saver_turn_on_automatically_pct">com %1$s de bateria</string>
   <string name="battery_saver_turn_on_automatically_title">Ligar automaticamente</string>
@@ -2429,7 +2429,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="location_network_based">Wi-Fi e redes móveis</string>
   <string name="location_no_recent_apps">Sem aplicações</string>
   <string name="location_off_summary">Desligada</string>
-  <string name="location_on_summary">Ligada / %1$s</string>
+  <string name="location_on_summary">Ligada</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Melhorar a localização ao permitir que os serviços e as aplicações do sistema detectem dispositivos Bluetooth em qualquer altura</string>
   <string name="location_scanning_bluetooth_always_scanning_title">Pesquisa Bluetooth</string>
   <string name="location_scanning_screen_title">Pesquisa</string>

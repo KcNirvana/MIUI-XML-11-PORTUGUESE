@@ -271,7 +271,7 @@ utilizando %s"</string>
   <string name="expand_button_content_description_collapsed">Expandir</string>
   <string name="expand_button_content_description_expanded">Fechar</string>
   <string name="expires_on">Expira em:</string>
-  <string name="ext_media_badremoval_notification_message">Desmontar o %s antes de o remover para evitar a perda de dados</string>
+  <string name="ext_media_badremoval_notification_message">Ejectar multimédia antes de o remover para evitar a perda de dados</string>
   <string name="ext_media_badremoval_notification_title">O %s foi removido inesperadamente</string>
   <string name="ext_media_browse_action">Explorar</string>
   <string name="ext_media_checking_notification_message">A verificar se existem erros</string>
@@ -285,8 +285,9 @@ utilizando %s"</string>
   <string name="ext_media_move_success_message">Os dados foram movidos para %s</string>
   <string name="ext_media_move_success_title">Transferência concluída</string>
   <string name="ext_media_move_title">A mover dados</string>
-  <string name="ext_media_new_notification_message">Novo %s detectado</string>
-  <string name="ext_media_nomedia_notification_message">%s removido. Insira um novo</string>
+  <string name="ext_media_new_notification_message">Toque para configurar</string>
+  <string name="ext_media_new_notification_title">Novo %s</string>
+  <string name="ext_media_nomedia_notification_message">Algumas funcionalidades podem não funcionar correctamente. Insira um novo armazenamento</string>
   <string name="ext_media_nomedia_notification_title">%s removido</string>
   <string name="ext_media_ready_notification_message">Para transferir fotos e conteúdos multimédia</string>
   <string name="ext_media_status_bad_removal">Removido de forma não segura</string>
@@ -301,7 +302,7 @@ utilizando %s"</string>
   <string name="ext_media_status_unmounted">Ejectado</string>
   <string name="ext_media_status_unsupported">Incompatível</string>
   <string name="ext_media_unmount_action">Ejectar</string>
-  <string name="ext_media_unmountable_notification_message">O %s está danificado. Toque para corrigir</string>
+  <string name="ext_media_unmountable_notification_message">Toque para corrigir</string>
   <string name="ext_media_unmountable_notification_title">%s danificado</string>
   <string name="ext_media_unmounting_notification_message">Não remover</string>
   <string name="ext_media_unmounting_notification_title">Ainda a ejectar %s…</string>

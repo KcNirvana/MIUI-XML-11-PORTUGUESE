@@ -1102,8 +1102,8 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="notification_header_title">Notificações</string>
   <string name="notification_hidden_by_policy_text">Conteúdos ocultos</string>
   <string name="notification_hidden_text">Tem uma nova mensagem</string>
-  <string name="notification_info_channel_disabled_text">Não vai receber notificações de %1$s</string>
-  <string name="notification_info_channel_enabled_text">Vai receber notificações de %1$s</string>
+  <string name="notification_info_channel_disabled_text">Não vai receber notificações de %2$s de %1$s</string>
+  <string name="notification_info_channel_enabled_text">Vai receber notificações de %2$s de %1$s</string>
   <string name="notification_low_battery_action_btn">Ligar</string>
   <string name="notification_low_battery_need_charge">Bateria fraca. Carregue o seu dispositivo</string>
   <string name="notification_low_battery_open_save_mode">Ligar a poupança de bateria</string>
