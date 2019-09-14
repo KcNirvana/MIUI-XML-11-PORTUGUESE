@@ -672,8 +672,6 @@ e traz as pessoas que estão na frente"</string>
   <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>
   <string name="ubi_focus_capture_fail">Não foi possível tirar foto</string>
   <string name="ubifocus_capture_warning_message">Para melhorar o resultado da foto os objectos devem estar a menos de um metro de distância da lente</string>
-  <string name="ultra_wide_open_tip">Ultra grande-angular</string>
-  <string name="ultra_wide_recommend_tip_hint">Experimente o modo Ultra grande-angular</string>
   <string name="ultra_pixel_photography_close_tip">%s Ultra HD desligado</string>
   <string name="ultra_pixel_photography_open_tip">%s Ultra HD ligado</string>
   <string name="ultra_pixel_zoom_no_support_tip">O zoom não funciona no modo %s Ultra HD</string>
