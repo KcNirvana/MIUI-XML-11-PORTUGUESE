@@ -58,8 +58,8 @@
   <string name="accessibility_ultra_pixel_photography_32mp_on">32MP ligado</string>
   <string name="accessibility_ultra_pixel_photography_48mp_off">48MP desligado</string>
   <string name="accessibility_ultra_pixel_photography_48mp_on">48MP ligado</string>
-  <string name="accessibility_ultra_wide_off">Modo ângulo amplo desligado</string>
-  <string name="accessibility_ultra_wide_on">Modo ângulo amplo ligado</string>
+  <string name="accessibility_ultra_wide_off">Modo Ultra grande-angular desligado</string>
+  <string name="accessibility_ultra_wide_on">Modo Ultra grande-angular ligado</string>
   <string name="accessibility_video_btn_play">Reproduzir vídeo</string>
   <string name="accessibility_zoom_button">Modo Zoom</string>
   <string name="ai_scene_mode_use_hint_text">"A câmara IA detecta os cenários automaticamente
@@ -530,7 +530,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_ubifocus_title">Refocar</string>
   <string name="pref_camera_ultra_wide_ldc_description">Corrigir objectos distorcidos automaticamente</string>
   <string name="pref_camera_ultra_wide_ldc_title">Correção de distorção em disparos amplos</string>
-  <string name="pref_camera_ultra_wide_mode_title">Modo ângulo amplo</string>
+  <string name="pref_camera_ultra_wide_mode_title">Modo Ultra grande-angular</string>
   <string name="pref_camera_video_bokeh_off">Efeito desfocar desligado</string>
   <string name="pref_camera_video_bokeh_on">Efeito desfocar</string>
   <string name="pref_camera_video_duration_entry_10">10 minutos</string>
@@ -623,6 +623,9 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">90X (3 segundos de intervalo)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">900X (30 segundos de intervalo)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Intervalo de Time Lapse</string>
+  <string name="pref_watermark_off">Desligada</string>
+  <string name="pref_watermark_on">Ligada</string>
+  <string name="pref_watermark_title">"Marca d'água"</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
   <string name="record_back_pressed_hint">Prima Voltar novamente para terminar a gravação</string>
   <string name="screen_on_proximity_sensor_hint">Para desligar esta funcionalidade, prima os botões Volume + e Voltar simultaneamente</string>
@@ -669,22 +672,29 @@ e traz as pessoas que estão na frente"</string>
   <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>
   <string name="ubi_focus_capture_fail">Não foi possível tirar foto</string>
   <string name="ubifocus_capture_warning_message">Para melhorar o resultado da foto os objectos devem estar a menos de um metro de distância da lente</string>
-  <string name="ultra_pixel_photography_32mp_close_tip">32MP desligado</string>
-  <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
-  <string name="ultra_pixel_photography_48mp_close_tip">48MP desligado</string>
-  <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
+  <string name="ultra_wide_open_tip">Ultra grande-angular</string>
+  <string name="ultra_wide_recommend_tip_hint">Experimente o modo Ultra grande-angular</string>
+  <string name="ultra_pixel_photography_close_tip">%s Ultra HD desligado</string>
+  <string name="ultra_pixel_photography_open_tip">%s Ultra HD ligado</string>
+  <string name="ultra_pixel_zoom_no_support_tip">O zoom não funciona no modo %s Ultra HD</string>
   <string name="ultra_wide_bokeh_close_tip">Modo ecrã inteiro desligado</string>
   <string name="ultra_wide_bokeh_open_tip">Modo ecrã inteiro</string>
-  <string name="ultra_wide_close_tip">Ângulo amplo desligado</string>
-  <string name="ultra_wide_mode">Ângulo amplo</string>
+  <string name="ultra_wide_close_tip">Ultra grande-angular desligado</string>
+  <string name="ultra_wide_mode">Ultra grande-angular</string>
   <string name="ultra_wide_mode_use_hint_text">"Utilize este modo para incluir mais da cena na sua foto.
-O modo ângulo amplo vem ajudar quando não se consegue mover para longe da cena"</string>
-  <string name="ultra_wide_open_tip">Wide angle mode</string>
-  <string name="ultra_wide_recommend_tip_hint">Try wide angle mode</string>
+O modo Ultra grande-angular vem ajudar quando não se consegue mover para longe da cena"</string>
+  <string name="ultra_wide_mode_use_hint_text_sat">"Experimente o Ultra grande-angular 0.6X para incluir mais da cena na sua foto.
+O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da cena"</string>
+  <string name="ultra_wide_open_tip">Ultra grande-angular</string>
+  <string name="ultra_wide_open_tip_sat">Ultra grande-angular 0.6X</string>
+  <string name="ultra_wide_recommend_tip_hint">Experimente o Ultra grande-angular</string>
+  <string name="ultra_wide_recommend_tip_hint_sat">Experimente o Ultra grande-angular 0.6X</string>
   <string name="user_agree">Concordar</string>
   <string name="user_agreement2">Termos de Serviço</string>
   <string name="user_agreement4">Política de Privacidade</string>
-  <string name="user_notice_identify_summary_format">Ao utilizar este serviço está a concordar com %1$s e %2$s</string>
+  <string name="user_define_watermark_cancel">Cancelar</string>
+  <string name="user_define_watermark_save">Guardar</string>
+  <string name="user_notice_identify_summary_format">Antes de utilizar Câmara, tem de concordar com os nossos &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt;. Concorda?</string>
   <string name="user_notice_title">Termos e Condições</string>
   <string name="video_camera_label">Máquina de filmar</string>
   <string name="video_effect_entry_blackwhite">Preto e branco</string>
