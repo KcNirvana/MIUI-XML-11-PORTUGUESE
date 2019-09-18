@@ -842,6 +842,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_writeSettings">Permite à aplicação modificar os dados das definições do sistema. As aplicações maliciosas podem corromper a configuração do seu sistema</string>
   <string name="permdesc_writeSyncSettings">Permite que uma aplicação modifique as definições de sincronização de uma conta. Por exemplo, pode ser utilizada para activar a sincronização da aplicação Contactos com uma conta</string>
   <string name="permgroupdesc_calendar">aceder ao calendário</string>
+  <string name="permgroupdesc_calllog">ler e escrever nos registos de chamadas</string>
   <string name="permgroupdesc_camera">tirar fotos e gravar vídeos</string>
   <string name="permgroupdesc_contacts">aceder aos contactos</string>
   <string name="permgroupdesc_location">aceder à localização do seu dispositivo</string>
@@ -851,6 +852,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permgroupdesc_sms">enviar e ver mensagens SMS</string>
   <string name="permgroupdesc_storage">aceder a fotos, multimédia e ficheiros no dispositivo</string>
   <string name="permgrouplab_calendar">Calendário</string>
+  <string name="permgrouplab_calllog">Registos de chamadas</string>
   <string name="permgrouplab_camera">Câmara</string>
   <string name="permgrouplab_contacts">Contactos</string>
   <string name="permgrouplab_location">Localização</string>
@@ -859,6 +861,16 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permgrouplab_sensors">Sensores de corpo</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Armazenamento</string>
+  <string name="permgrouprequest_calendar">Permitir que <b>%1$s</b> possa aceder ao seu calendário?</string>
+  <string name="permgrouprequest_calllog">Permitir que <b>%1$s</b> possa aceder aos seus registos de chamadas?</string>
+  <string name="permgrouprequest_camera">Permitir que <b>%1$s</b> possa tirar fotos e gravar vídeos?</string>
+  <string name="permgrouprequest_contacts">Permitir que <b>%1$s</b> possa aceder aos seus contactos?</string>
+  <string name="permgrouprequest_location">Permitir que <b>%1$s</b> possa aceder à localização do dispositivo?</string>
+  <string name="permgrouprequest_microphone">Permitir que <b>%1$s</b> possa gravar áudio?</string>
+  <string name="permgrouprequest_phone">Permitir que <b>%1$s</b> possa fazer e gerir chamadas telefónicas?</string>
+  <string name="permgrouprequest_sensors">Permitir que <b>%1$s</b> possa aceder a dados dos sensores acerca dos seus sinais vitais?</string>
+  <string name="permgrouprequest_sms">Permitir que <b>%1$s</b> possa enviar e ver mensagens SMS?</string>
+  <string name="permgrouprequest_storage">Permitir que <b>%1$s</b> possa aceder a fotos, multimédia e ficheiros no seu dispositivo?</string>
   <string name="permission">Permissão</string>
   <string name="permission_request_notification_title">Permissão pedida</string>
   <string name="permission_request_notification_with_subtitle">"Permissão pedida
