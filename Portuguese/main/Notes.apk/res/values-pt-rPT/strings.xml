@@ -31,6 +31,8 @@
   <string name="check_in_todo_app">Ver tarefas</string>
   <string name="cloud_service_state_open_reminder">Ligue a sincronização com a Xiaomi Cloud para sincronizar notas</string>
   <string name="cloud_trash_bin_title">Eliminar notas na Xiaomi Cloud</string>
+  <string name="confirm_cancel">Não concordar</string>
+  <string name="confirm_ok">Concordar</string>
   <string name="cta_confirm_cancel">Não permitir</string>
   <string name="cta_confirm_ok">Permitir</string>
   <string name="cta_dialog_message">O Notas necessita de permissões para ligar à Internet, gravar áudio e aceder aos seus contactos para funcionar normalmente. Permitir?</string>
@@ -136,13 +138,20 @@
   <string name="notealert_ok">Rejeitar</string>
   <string name="notify_alarm_title">Lembrete de nota</string>
   <string name="permdesc_accessNote">Aplicações maliciosas podem utilizar esta funcionalidade para aceder aos seus dados pessoais</string>
+  <string name="permission_get_account_desc">A sincronizar notas com a Xiaomi Cloud</string>
   <string name="permission_intro_contact">Para marcar notas tiradas durante chamadas</string>
   <string name="permission_intro_microphone">Para gravar notas de voz</string>
   <string name="permission_intro_phone">Para marcar notas tiradas durante chamadas</string>
   <string name="permission_intro_storage">Para guardar notas e anexos</string>
+  <string name="permission_microphone_desc">Fazer notas de voz</string>
+  <string name="permission_network_for_cloud_desc">Para sincronizar notas com a Xiaomi Cloud, necessita de ligar à Internet. Os dados móveis podem ser utilizados para sincronizar itens. Ligar agora?</string>
+  <string name="permission_read_contact_desc">A associar as notas criadas durante as chamadas com contactos</string>
+  <string name="permission_xiaoai_desc">A IA Mi vai obter as suas gravações de voz e ID de dispositivo para transcrever o áudio e criar notas de voz. Saiba mais em IA Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;</string>
   <string name="permlab_accessNote">Aceder a notas</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Deslize para cima com dois dedos para eliminar notas sem confirmação</string>
   <string name="pref_desc_todo_float_mode">Deslize a partir da borda do ecrã para abrir as ferramentas</string>
+  <string name="pref_remind_type_summary">Tocar sons de lembretes no modo Silêncio</string>
+  <string name="pref_remind_type_title">Ignorar modo Silêncio</string>
   <string name="pref_title_cloud_trash_bin">Eliminar notas na Xiaomi Cloud</string>
   <string name="pref_title_common">Definições adicionais</string>
   <string name="pref_title_font_size">Tamanho do tipo de letra</string>
@@ -155,6 +164,7 @@
   <string name="redo">Refazer</string>
   <string name="refuse_to_share_as_pic_because_of_content">Esta nota é demasiado grande para partilhar</string>
   <string name="refuse_to_share_as_pic_because_of_loading">Aguarde até a nota estar carregada e tente novamente</string>
+  <string name="remind_title">Lembretes</string>
   <string name="rename_folder_dialog_tile">Mudar o nome da pasta</string>
   <string name="rich_text_bold_description">Negrito</string>
   <string name="rich_text_center_description">Centrado</string>

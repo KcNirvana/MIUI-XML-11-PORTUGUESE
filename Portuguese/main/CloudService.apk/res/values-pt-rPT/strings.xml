@@ -368,6 +368,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="storage_manage_list_title">Dados da Xiaomi Cloud</string>
   <string name="storage_manage_list_title_action">Ver mais</string>
   <string name="storage_manage_renewal">Renovar</string>
+  <string name="storage_manage_title">Alterar o plano da Xiaomi Cloud</string>
   <string name="storage_manage_upgrade">Actualizar</string>
   <string name="sub_alert_notif_content">Ligar sincronização com a Xiaomi Cloud</string>
   <string name="sub_alert_notif_title">Sincronizar com a Xiaomi Cloud</string>

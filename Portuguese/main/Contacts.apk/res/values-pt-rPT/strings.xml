@@ -131,6 +131,7 @@
   <string name="callrecordview_menu_delete_sim">Eliminar registos das chamadas (%s)</string>
   <string name="callrecordview_menu_delete_stranger">Eliminar números desconhecidos</string>
   <string name="callrecordview_menu_edit_call_note">Editar nota de chamada</string>
+  <string name="callrecordview_menu_identify_numbers">Identificar números de telefone</string>
   <string name="callrecordview_menu_ip">Marc. auto. de IP</string>
   <string name="callrecordview_menu_misim">Mi SIM</string>
   <string name="callrecordview_menu_mobiledata">Comprar dados</string>
@@ -212,7 +213,9 @@
   <string name="contact_detail_action_item_nocalllog">Sem chamadas</string>
   <string name="contact_detail_calllog_call_note_tips">Notas</string>
   <string name="contact_detail_calllog_call_record_tips">Chamada gravada</string>
+  <string name="contact_detail_calllog_correct_yellow_page">Corrigir ou reportar</string>
   <string name="contact_detail_calllog_empty">Sem chamadas</string>
+  <string name="contact_detail_more_calllog">Mostrar mais</string>
   <string name="contact_detail_entry_pay">Pagar</string>
   <string name="contact_detail_entry_pay_dialog_title">Seleccionar número de telefone</string>
   <string name="contact_detail_entry_pay_request">Pedir dinheiro</string>
@@ -1219,6 +1222,7 @@ Escolher uma das seguintes opções:"</string>
   <string name="wipe_data">Limpar dados</string>
   <string name="yellowPageNavigationIconLabel">Pág. Amarelas</string>
   <string name="yellowPageNavigationLabel">Pág. Amarelas</string>
+  <string name="yellowpage_address_tag">Endereço</string>
   <string name="yellowpage_fc_toast">Não é possível continuar devido a um erro nas páginas amarelas</string>
   <string name="yellowpage_navigation_ad_hint">Anúncios</string>
   <string name="yellowpage_navigation_balance_refresh_failed">O saldo e os dados móveis não puderam ser verificados. Tente novamente mais tarde</string>
@@ -1239,6 +1243,7 @@ Escolher uma das seguintes opções:"</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">A transferir…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Não é possível ligar à rede</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Adicionado ao ecrã inicial</string>
+  <string name="yellowpage_provider_label">Dados fornecidos por</string>
   <string name="yellowpage_search_the_yellowpage">Pesquisar nas páginas amarelas</string>
   <string name="yellowpage_user_profile">Perfil</string>
   <string name="yesterday">Ontem</string>

@@ -28,6 +28,7 @@
   <string name="HIPS_Perm_Mobile_Connectivity_Desc">ligar ou desligar dados móveis</string>
   <string name="HIPS_Perm_PhoneID">Obter informação do dispositivo</string>
   <string name="HIPS_Perm_PhoneID_Desc">aceder ao número de telefone, IMEI e IMSI</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">aceder ao número de telefone e IMSI</string>
   <string name="HIPS_Perm_ROOT">Obter acesso root</string>
   <string name="HIPS_Perm_ROOT_Desc">obter acesso root</string>
   <string name="HIPS_Perm_Read_Call_Log">Ler o registo de chamadas</string>
@@ -100,6 +101,17 @@
   <string name="location_warning">%1$s é um fornecedor de serviços de localização para este dispositivo. O acesso à localização pode ser modificado nas definições de localização</string>
   <string name="never_ask_again">Não perguntar novamente</string>
   <string name="ok">OK</string>
+  <string name="permdesc_camera">Tirar fotos e gravar vídeos</string>
+  <string name="permdesc_in_calls">Monitorizar chamadas recebidas</string>
+  <string name="permdesc_location">Aceder à informação da localização</string>
+  <string name="permdesc_microphone">Gravar chamadas e áudio</string>
+  <string name="permdesc_out_calls">Monitorizar chamadas efectuadas</string>
+  <string name="permdesc_read_calendar">Aceder aos eventos do calendário</string>
+  <string name="permdesc_read_storage">Aceder a fotos e ficheiros armazenados no dispositivo</string>
+  <string name="permdesc_recognition">Aceder a dados de saúde e actividades</string>
+  <string name="permdesc_sensors">Aceder a dados dos sensores de corpo</string>
+  <string name="permdesc_write_calendar">Access and add calendar events</string>
+  <string name="permdesc_write_storage">Access and save photos and files on device</string>
   <string name="permgroupdesc_calendar">Aceder aos eventos do calendário</string>
   <string name="permgroupdesc_calllog">Aceder e guardar itens no registo de chamadas</string>
   <string name="permgroupdesc_camera">Tirar fotos e gravar vídeos</string>

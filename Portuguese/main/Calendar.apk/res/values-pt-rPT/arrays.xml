@@ -103,6 +103,12 @@
         <item>Talvez</item>
         <item>Não</item>
     </string-array>
+    <string-array name="response_labels2">
+        <item>Não responder</item>
+        <item>Aceitar</item>
+        <item>Decidir mais tarde</item>
+        <item>Rejeitar</item>
+    </string-array>
     <string-array name="timezone_labels">
         <item>Ilhas Marshall</item>
         <item>Atol Midway</item>
@@ -129,7 +135,7 @@
         <item>Buenos Aires</item>
         <item>Gronelândia</item>
         <item>Montevidéu</item>
-        <item>Mid-Atlantic</item>
+        <item>Médio Atlântico</item>
         <item>Açores</item>
         <item>Cabo Verde</item>
         <item>Casablanca</item>
@@ -184,6 +190,96 @@
         <item>Brisbane</item>
         <item>Hobart</item>
         <item>Sydney, Camberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="timezone_labels_v3">
+        <item>Ilhas Marshall</item>
+        <item>Atol Midway</item>
+        <item>Havaí</item>
+        <item>Alasca</item>
+        <item>Hora do Pacífico</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Hora Montanhas Rochosas</item>
+        <item>América Central</item>
+        <item>Hora Central</item>
+        <item>Cidade do México</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Hora Europa Oriental</item>
+        <item>Venezuela</item>
+        <item>Hora Atlântico (Barbados)</item>
+        <item>Hora Atlântico (Canadá)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Terra Nova</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Gronelândia</item>
+        <item>Montevidéu</item>
+        <item>Médio Atlântico</item>
+        <item>Açores</item>
+        <item>Cabo Verde</item>
+        <item>Casablanca</item>
+        <item>Londres, Dublin</item>
+        <item>Amsterdão, Berlim</item>
+        <item>Belgrado</item>
+        <item>Bruxelas</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Hora África Ocidental</item>
+        <item>Amã, Jordânia</item>
+        <item>Atenas, Istambul</item>
+        <item>Beirute, Líbano</item>
+        <item>Cairo</item>
+        <item>Helsínquia</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdade</item>
+        <item>Moscovo</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Tehran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Banguecoque</item>
+        <item>Pequim</item>
+        <item>Chongqing</item>
+        <item>Hong Kong</item>
+        <item>Macau</item>
+        <item>Singapura</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>Tóquio</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney</item>
+        <item>Camberra</item>
         <item>Vladivostok</item>
         <item>Guam</item>
         <item>Magadan</item>

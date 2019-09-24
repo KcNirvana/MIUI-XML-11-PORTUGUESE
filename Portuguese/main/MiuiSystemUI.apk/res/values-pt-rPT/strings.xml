@@ -559,6 +559,8 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="ext_media_unmountable_notification_title">Armazenamento USB danificado</string>
   <string name="external_source_trusted">Permitido</string>
   <string name="external_source_untrusted">Não permitido</string>
+  <string name="face_data_apply_for_category_title">Desbloquear utilizando dados de rosto</string>
+  <string name="face_data_apply_for_keyguard_title">Ecrã de bloqueio</string>
   <string name="face_data_input_camera_fail">Não foi possível carregar a câmara</string>
   <string name="face_data_input_camera_ok">A carregar a câmara…</string>
   <string name="face_data_input_cancel">Cancelar</string>
@@ -590,6 +592,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_be_on_the_screen">Segure o dispositivo em frente ao seu rosto</string>
   <string name="face_unlock_by_notification_screen_on_msg">Pode desbloquear o dispositivo utilizando o seu rosto sempre que houver notificações. Isto gasta mais bateria</string>
   <string name="face_unlock_by_notification_screen_on_title">Permitir o desbloqueio por rosto</string>
+  <string name="face_unlock_category_title">Opções do ecrã de bloqueio</string>
   <string name="face_unlock_check_failed">Não foi possível reconhecer o seu rosto</string>
   <string name="face_unlock_close_screen">Aproxime-se do ecrã</string>
   <string name="face_unlock_down">Levante a sua cabeça</string>
@@ -1234,7 +1237,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="qs_paging">Utilizar as Definições rápidas</string>
   <string name="qs_rearrange">Reorganizar as Definições rápidas</string>
   <string name="quick_settings">Definições rápidas</string>
-  <string name="quick_settings_autobrightness_label">Brilho auto</string>
+  <string name="quick_settings_autobrightness_label">Brilho auto.</string>
   <string name="quick_settings_batterysaver_label">Poup. bateria</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Sem dispositivos emparelhados disponíveis</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>

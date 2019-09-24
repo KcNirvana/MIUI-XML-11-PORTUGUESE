@@ -372,7 +372,7 @@
   <string name="auto_task_notify_task_count_down">A acção automática vai iniciar em 5 segundos</string>
   <string name="auto_task_notify_task_exit_task">Cancelar tarefa</string>
   <string name="auto_task_operation_airplane_mode">Modo Avião</string>
-  <string name="auto_task_operation_auto_brightness">Brilho auto</string>
+  <string name="auto_task_operation_auto_brightness">Brilho auto.</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">Brilho do ecrã</string>
   <string name="auto_task_operation_close">Desligado</string>
@@ -1690,6 +1690,17 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="permission_with_SMS_and_MMS">Permissões relacionadas com SMS e MMS</string>
   <string name="permission_with_call_and_contact">Permissões relacionadas com chamadas telefónicas, informação de contactos e registo de chamadas</string>
   <string name="permit_running_network">Dados em segundo plano</string>
+  <string name="permgroupdesc_calendar">Aceder aos eventos do calendário</string>
+  <string name="permgroupdesc_calllog">Aceder e guardar itens no registo de chamadas</string>
+  <string name="permgroupdesc_camera">Tirar fotos e gravar vídeos</string>
+  <string name="permgroupdesc_contacts">Aceder a contactos</string>
+  <string name="permgroupdesc_location">Aceder à informação da localização</string>
+  <string name="permgroupdesc_microphone">Gravar áudio</string>
+  <string name="permgroupdesc_phone">Fazer chamadas e gerir conversas</string>
+  <string name="permgroupdesc_recognition">Aceder a dados de saúde e actividades</string>
+  <string name="permgroupdesc_sensors">Aceder a dados dos sensores de corpo</string>
+  <string name="permgroupdesc_sms">Ler ou enviar SMS</string>
+  <string name="permgroupdesc_storage">Aceder a fotos ou ficheiros no dispositivo</string>
   <string name="person_hotpot">Pontos de Acesso Móveis</string>
   <string name="phone">Telefone</string>
   <string name="phone_manage">Utilitários</string>
@@ -2314,6 +2325,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="superpower_dialog_massage">A poupança de bateria extrema restringe as funcionalidades que consomem mais bateria e diminui o desempenho do dispositivo para deixar apenas as funções mais básicas (p.e. chamadas, SMS, etc.) disponíveis o maior tempo possível. Ligar a poupança de bateria extrema?</string>
   <string name="superpower_dialog_title">Poupança de bateria extrema</string>
   <string name="superpower_notification_hint_enter">Ligar</string>
+  <string name="superpower_notification_new_title">Menos de %d%% de bateria restante</string>
   <string name="superpower_notification_summary">Ligar a poupança de bateria extrema</string>
   <string name="superpower_notification_time_12">"EEEE, d 'de' MMMM"</string>
   <string name="superpower_notification_time_24">"EEEE, d 'de' MMMM"</string>

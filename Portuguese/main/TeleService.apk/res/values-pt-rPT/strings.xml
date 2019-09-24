@@ -1269,6 +1269,14 @@ As chamadas de emergência apenas estão disponíveis com rede móvel"</string>
   <string name="wfcmode_mobile_preferred">Dados móveis</string>
   <string name="wfcmode_wifi_only">Apenas Wi-Fi</string>
   <string name="wfcmode_wifi_preferred">Wi-Fi</string>
+  <string name="wifi_call_accept">OK</string>
+  <string name="wifi_call_available_message">Pode efectuar chamadas Wi-Fi agora. Se estiver ligado a uma rede Wi-Fi, vai poder efectuar chamadas mesmo que não tenha rede móvel</string>
+  <string name="wifi_call_available_title">A ligar chamadas Wi-Fi</string>
+  <string name="wifi_call_cancel">Cancelar</string>
+  <string name="wifi_call_help">Ajuda</string>
+  <string name="wifi_call_help_message">Se seleccionar a preferência por redes móveis, elas vão ser utilizadas por defeito. Em caso de não haver sinal de rede móvel, vai ser utilizada a rede Wi-Fi</string>
+  <string name="wifi_call_help_title">Ajuda Chamadas Wi-Fi</string>
+  <string name="wifi_call_notification_message">Este serviço é fornecido pela Orange. Pode levar várias horas até que o mesmo esteja activo. Vai receber uma SMS de confirmação assim que estiver disponível</string>
   <string name="wifi_call_setting">Definições de chamadas Wi-Fi</string>
   <string name="wifi_calling">Chamadas Wi-Fi</string>
   <string name="wifi_call_setting_vodafone_de">Chamadas Wi-Fi</string>

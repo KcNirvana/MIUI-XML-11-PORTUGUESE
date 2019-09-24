@@ -246,7 +246,6 @@ Para activar a sua conta siga o
   <string name="passport_error_user_name">O nome de utilizador que introduziu é inválido</string>
   <string name="passport_error_verify_activator_phone_message">Certifique-se que o serviço do seu cartão SIM está activado e o dispositivo ligado à rede</string>
   <string name="passport_error_verify_activator_phone_title">Não foi possível verificar o número de telefone</string>
-  <string name="passport_extra_gdpr_license">Criar a sua Conta Mi significa que concordou que a Xiaomi vai obter, processar, utilizar os seus dados pessoais e outros dados específicos na nossa Política de Privacidade. Consulte a nossa Política de Privacidade para saber como processamos e utilizamos os dados pessoais</string>
   <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
   <string name="passport_find_password_on_web_msg">Visite account.mi.com para repor a sua palavra-passe</string>
   <string name="passport_first_login_prompt">A Conta Mi vai ser criada automaticamente quando iniciar sessão pela primeira vez</string>
@@ -274,8 +273,6 @@ Para activar a sua conta siga o
   <string name="passport_input_voice_hint">Código de voz</string>
   <string name="passport_international_register_by_email">Criar uma conta utilizando o email</string>
   <string name="passport_license_host_unreachable">Não é possível ligar à rede. Pode ver esta página em %s</string>
-  <string name="passport_license_info_collapse">Fechar</string>
-  <string name="passport_license_info_open">Detalhes</string>
   <string name="passport_loading">A carregar…</string>
   <string name="passport_login">Iniciar sessão</string>
   <string name="passport_login_failed">Não é possível iniciar sessão</string>
@@ -373,6 +370,10 @@ Para activar a sua conta siga o
   <string name="passport_talkback_switch_image_captcha">Trocar para verificação de imagem</string>
   <string name="passport_talkback_switch_voice_captcha">Trocar para verificação de voz</string>
   <string name="passport_talkback_voice_captcha">Reproduzir verificação de voz</string>
+  <string name="passport_ticket_login_select_sim_card">Seleccionar cartão SIM</string>
+  <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+  <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
+  <string name="passport_ticket_login_select_sim_card_cancel">Cancelar</string>
   <string name="passport_title_reg">Criar uma conta</string>
   <string name="passport_trust_device">Adicionar este dispositivo aos dispositivos verificados</string>
   <string name="passport_trying_read_verify_code_sms">A obter código de verificação…</string>

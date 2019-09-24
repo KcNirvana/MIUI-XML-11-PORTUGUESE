@@ -692,6 +692,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="notification_channel_physical_keyboard">Teclado físico</string>
   <string name="notification_channel_retail_mode">Demonstração para retalho</string>
   <string name="notification_channel_security">Segurança</string>
+  <string name="notification_channel_sim">Estado do SIM</string>
   <string name="notification_channel_sms">Mensagens SMS</string>
   <string name="notification_channel_updates">Actualizações</string>
   <string name="notification_channel_usb">Ligação USB</string>

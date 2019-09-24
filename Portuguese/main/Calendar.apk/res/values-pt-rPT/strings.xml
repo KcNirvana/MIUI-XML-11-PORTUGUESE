@@ -316,6 +316,10 @@
   <string name="online_reminder_header_text">Memorizar</string>
   <string name="path_calendar_settings">Calendário/Definições</string>
   <string name="pengzu">PANG</string>
+  <string name="permission_accounts">Para iniciar sessão e gerir as suas contas de sistema e associar itens a elas</string>
+  <string name="permission_contacts">Para sincronizar os aniversários dos seus contactos e enviar lembretes</string>
+  <string name="permission_main_purpose">Para ver e gerir eventos do calendário, planear viagens, receber lembretes e subscrever serviços</string>
+  <string name="permission_storage">Para guardar lembretes e toques</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
   <string name="pref_reminder_time">Hora do lembrete</string>
   <string name="pref_title_alarm_remind">Lembretes de alarmes</string>

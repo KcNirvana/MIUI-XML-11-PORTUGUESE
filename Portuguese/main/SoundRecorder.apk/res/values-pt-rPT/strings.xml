@@ -166,6 +166,7 @@
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s pode gravar por cerca de %2$s</string>
   <string name="toast_uninstall_fileexplorer">O Explorador não está instalado</string>
+  <string name="usage_description">A transcrever itens de áudio e sincronizar com a Xiaomi Cloud</string>
   <string name="wifi_recommended_body" formatted="false">Se utilizar a sua ligação de dados móveis para transferir este ficheiro (%s) vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais. Para aguardar por uma ligação Wi-Fi para transferir este ficheiro toque em %s</string>
   <string name="wifi_recommended_title">Aviso de utilização de dados</string>
 </resources>

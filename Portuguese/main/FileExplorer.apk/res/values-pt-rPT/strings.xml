@@ -292,6 +292,7 @@
   <string name="partial_cancel_successful">Não foi possível remover alguns ficheiros. O resto dos ficheiro foram movidos para sdcard/fileexplorer/decryption</string>
   <string name="partial_delete_failure">Não foi possível eliminar alguns ficheiros. Tente novamente</string>
   <string name="partial_encrypt_success">Não foi possível ocultar alguns ficheiros. Tente novamente</string>
+  <string name="path_name_email">Email</string>
   <string name="permission_denial">Não foi possível aceder aos ficheiros. Permita que o Ficheiros possa aceder a ficheiros nas Definições</string>
   <string name="permission_required">Não foi possível aceder aos ficheiros. Permita que o Ficheiros possa aceder a ficheiros nas Definições</string>
   <string name="petabyteShort">PB</string>

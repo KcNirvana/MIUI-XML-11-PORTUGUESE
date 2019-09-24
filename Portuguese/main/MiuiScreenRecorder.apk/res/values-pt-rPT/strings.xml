@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Grav. de Ecrã</string>
+  <string name="app_name">Gravador de Ecrã</string>
   <string name="app_notification_info">O gravador de ecrã está a ser executado em segundo plano</string>
   <string name="app_notification_title">Gravador de ecrã</string>
   <string name="auto_stop_title">Vídeo guardado com sucesso</string>
@@ -39,8 +39,8 @@
   <string name="hint_volume_up">Volume mais</string>
   <string name="home_title_none">Seleccionar itens</string>
   <string name="is_checked">Seleccionado</string>
-  <string name="is_go_home">Voltar ao Grav. de Ecrã</string>
-  <string name="is_go_home_summary">Abrir a página inicial do Grav. de Ecrã após parar a gravação</string>
+  <string name="is_go_home">Voltar ao Gravador de Ecrã</string>
+  <string name="is_go_home_summary">Abrir a página inicial do Gravador de Ecrã após parar a gravação</string>
   <string name="loopback_sound">Colunas</string>
   <string name="low_battery">Carregue a bateria antes de começar a gravar</string>
   <string name="low_battery_title">Bateria fraca</string>
@@ -57,6 +57,7 @@
   <string name="operation_send">Enviar</string>
   <string name="permission_intro_microphone">Para gravar som quando a origem do som for o microfone</string>
   <string name="permission_intro_storage">Para guardar gravações de ecrã</string>
+  <string name="permission_microphone_desc">Utilizar o microfone como origem do áudio para gravações de ecrã</string>
   <string name="quit_recording">Sair do Gravador de Ecrã</string>
   <string name="recording_failure">Não foi possível gravar. Comece de novo</string>
   <string name="recording_max_size">A gravação foi parada e guardada porque o vídeo atingiu o tamanho máximo. Comece a gravar de onde ficou se ainda não terminou</string>
@@ -69,6 +70,8 @@
   <string name="screen_record_params">Parâmetros de gravação</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="settings">Definições</string>
+  <string name="settings_other">Outros</string>
+  <string name="settings_privacy">Política de Privacidade</string>
   <string name="show_hard_key">Mostrar botões de navegação</string>
   <string name="show_hard_key_summary">Mostrar aviso quando premir os botões Início, Menu e Voltar</string>
   <string name="show_screen_touch">Mostrar gestos de toque</string>

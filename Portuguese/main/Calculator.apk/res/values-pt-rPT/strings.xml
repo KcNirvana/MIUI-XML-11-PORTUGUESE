@@ -160,6 +160,7 @@
   <string name="negDesc">Trocar entre temperaturas acima e abaixo de zero</string>
   <string name="network_confirm_content">O conversor de moeda e o calculador taxas e hipoteca necessitam de utilizar a ligação à Internet para funcionar normalmente</string>
   <string name="network_confirm_title">Ligação à rede necessária</string>
+  <string name="network_purpose">Bem-vindo à Calculadora! A Calculadora permite converter divisas, calcular empréstimos, etc.</string>
   <string name="not_supported_due_to_language">Funcionalidade apenas disponível para o idioma chinês</string>
   <string name="percentDesc">Percentagem</string>
   <string name="piDesc">Pi</string>

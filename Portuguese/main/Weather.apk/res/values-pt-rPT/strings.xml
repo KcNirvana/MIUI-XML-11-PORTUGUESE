@@ -235,6 +235,10 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="retry">Tentar novamente</string>
   <string name="refresh_fail">Não foi possível ligar à rede</string>
   <string name="reminder_from_xiaomi_weather_app">Alertas de Tempo</string>
+  <string name="request_permission_location_dialog_content">Para mostrar a informação do tempo relevante na sua localização actual</string>
+  <string name="request_permission_main_purpose">Para mostrar a informação do tempo</string>
+  <string name="request_permission_read_phone_state_dialog_content">Para identificar o seu dispositivo</string>
+  <string name="request_permission_storage_dialog_content">Para partilhar a informação do tempo no formato de imagem</string>
   <string name="search_weather">Tempo</string>
   <string name="search_weather_keywords">Temperatura;Previsão do tempo;Tempo;Qualidade do ar;Humidade</string>
   <string name="settings">Definições</string>

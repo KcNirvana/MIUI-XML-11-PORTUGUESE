@@ -36,6 +36,9 @@
   <string name="app_clean_group_document_send">Ficheiros enviados</string>
   <string name="app_clean_group_image_recv">Imagens recebidas</string>
   <string name="app_clean_group_image_send">Imagens enviadas</string>
+  <string name="appcleaner_g_day_earlier">Mais cedo</string>
+  <string name="appcleaner_g_seven_day">Últimos 7 dias</string>
+  <string name="appcleaner_g_thirty_day">Últimos 30 dias</string>
   <string name="app_description_content">A Limpeza procura lixo no seu dispositivo e liberta espaço de armazenamento. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
   <string name="app_description_title">Acerca de Limpeza</string>
   <string name="app_name">Limpeza</string>
@@ -62,6 +65,8 @@
   <string name="btn_text_quick_cleanup_video">Eliminar vídeos seleccionados %1$s</string>
   <string name="btn_text_quick_scan">Verificar</string>
   <string name="btn_text_stop">Parar</string>
+  <string name="button_agree">Concordar</string>
+  <string name="button_deny">Não concordar</string>
   <string name="button_optimizer">OK</string>
   <string name="button_text_add_to_white_list">Excepções</string>
   <string name="button_text_backup_uninstall">Copiar primeiro</string>

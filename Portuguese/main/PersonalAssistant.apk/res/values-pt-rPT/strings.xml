@@ -334,6 +334,7 @@
   <string name="load_more_error">Ocorreu um erro de rede. Aguarde um momento e tente novamente</string>
   <string name="load_no_more">É tudo por agora</string>
   <string name="locating_fail">"Couldn't get location"</string>
+  <string name="location_permission_desc">Para construir rotas de navegação e fornecer serviços de boleia</string>
   <string name="locations">Frequent places</string>
   <string name="locations_preferences">Addresses</string>
   <string name="main_add">Add</string>

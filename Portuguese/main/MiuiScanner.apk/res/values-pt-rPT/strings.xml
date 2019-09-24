@@ -29,6 +29,7 @@
   <string name="character_counter_content_description">Limite de caracteres excedido %1$d de %2$d</string>
   <string name="choose_pay_title">Seleccionar método de pagamento</string>
   <string name="choose_picture">Seleccionar a imagem do código QR</string>
+  <string name="close_hotspot_when_connecting_to_wifi">PA Móvel ligado. Ligue o Wi-Fi</string>
   <string name="common_retake_picture">Tirar novamente</string>
   <string name="common_retry">Tentar novamente</string>
   <string name="common_save">Guardar</string>
@@ -150,6 +151,7 @@
   <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">Perguntar sempre</string>
   <string name="setting_default_function">Opção predefinida</string>
+  <string name="setting_function_sort">Reordenar funcionalidades</string>
   <string name="setting_preference_pay">Método pagamento preferido</string>
   <string name="setting_title">Definições</string>
   <string name="setting_use_last_choose">Última escolha</string>

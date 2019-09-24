@@ -150,6 +150,7 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="confirm_recording_fail_calling_alert">Não é possível gravar durante uma chamada</string>
   <string name="confirm_recording_fail_recorder_busy_alert">Outra aplicação pode já estar a usar o microfone para gravar</string>
   <string name="confirm_recording_fail_title">Não é possível gravar</string>
+  <string name="confirm_reset_manually_parameter_message">Repor todos os parâmetros para os valores predefinidos?</string>
   <string name="confirm_restore_message">Restaurar as definições predefinidas da câmara?</string>
   <string name="confirm_restore_title">Restaurar definições predefinidas</string>
   <string name="custom_watermark_contains_senstive_words">"A marca d'água não pode conter termos restringidos (%1$s)"</string>
@@ -628,6 +629,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_watermark_title">"Marca d'água"</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
   <string name="record_back_pressed_hint">Prima Voltar novamente para terminar a gravação</string>
+  <string name="reset_manually_parameter_confirmed">OK</string>
+  <string name="reset_manually_parameter_hint">Repor</string>
   <string name="screen_on_proximity_sensor_hint">Para desligar esta funcionalidade, prima os botões Volume + e Voltar simultaneamente</string>
   <string name="screen_on_proximity_sensor_summary">Não tape a área dos auriculares</string>
   <string name="search_settings">Definições da câmara;Qualidade;Qualidade de imagem;Localização de imagem;Localização de foto;Detecção de rosto;Sons da câmara</string>

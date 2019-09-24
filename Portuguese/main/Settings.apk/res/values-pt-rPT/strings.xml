@@ -233,6 +233,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="always">Sempre</string>
   <string name="always_allow_bind_appwidgets_text">Escolheu permitir que esta aplicação crie widgets e aceda aos dados</string>
   <string name="always_running">Sempre em execução (%s)</string>
+  <string name="always_style">Sempre</string>
   <string name="amber_alerts_summary">Receber boletins acerca de rapto de crianças</string>
   <string name="amber_alerts_title">Alertas AMBER</string>
   <string name="ambient_display_pickup_summary">Para verificar as suas notificações, pegue no seu telefone</string>
@@ -254,8 +255,17 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="another_migration_already_in_progress">Já existe outra migração em curso</string>
   <string name="anti_spam">Lista de bloqueio</string>
   <string name="aod_and_lock_screen_settings_title">Ecrã ambiente e ecrã de bloqueio</string>
+  <string name="aod_close_color_inversion">Esta funcionalidade não funciona com inversão de cores. Desligue a inversão de cores primeiro</string>
+  <string name="aod_name_wanxiang">Ecrã ambiente</string>
+  <string name="aod_notification_style_animation">Mostrar animação</string>
+  <string name="aod_notification_style_none">Não fazer nada</string>
+  <string name="aod_notification_style_screen_on">Ligar o ecrã</string>
   <string name="aod_settings_category_name">Ecrã ambiente</string>
   <string name="aod_settings_title">Ecrã ambiente</string>
+  <string name="aod_show_mode_title">Mostrar ecrã</string>
+  <string name="aod_style_description">Mostrar relógio, data, hora, notificações e outros itens quando o ecrã estiver desligado</string>
+  <string name="aod_style_title">Estilo</string>
+  <string name="aod_to_close">Desligar</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -710,7 +720,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="bluetooth_device_context_pair_connect">Emparelhar e ligar</string>
   <string name="bluetooth_device_context_unpair">Desemparelhar</string>
   <string name="bluetooth_device_details">Definições do dispositivo</string>
-  <string name="bluetooth_device_misc_title">Dispositivos Bluetooth raramente utilizados</string>
+  <string name="bluetooth_device_misc_title">Dispositivos raramente utilizados</string>
   <string name="bluetooth_device_name">Nome:</string>
   <string name="bluetooth_device_searchable">Visível</string>
   <string name="bluetooth_devices">Dispositivos Bluetooth</string>
@@ -998,6 +1008,7 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_size_label">Cache</string>
   <string name="cached">Processo em segundo plano em cache</string>
+  <string name="calendar_remind">Eventos</string>
   <string name="calendar_sound_dialog_title">Escolher som do calendário</string>
   <string name="calendar_sound_title">Som do calendário</string>
   <string name="call_manager_enable_summary">Permitir que este serviço gira a forma como as suas chamadas são efectuadas</string>
@@ -1081,6 +1092,7 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="choose_a_card_to_reset">Seleccionar cartão SIM para repor</string>
   <string name="choose_keyguard_clock_style">Relógio do ecrã de bloqueio</string>
   <string name="choose_keyguard_clock_summary">Esta definição não funciona com temas de terceiros</string>
+  <string name="choose_lock_pattern_header_text">Definir padrão</string>
   <string name="choose_profile">Escolher perfil</string>
   <string name="choose_smartcover_type">Escolher tipo de capa</string>
   <string name="choose_timezone">Escolher fuso horário</string>
@@ -1150,6 +1162,7 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="confirm_frp_credential_message">O seu dispositivo foi reposto com as definições de fábrica, pode desbloqueá-lo utilizando a sua palavra-passe anterior</string>
   <string name="confirm_frp_credential_skip_txt">Utilizar conta Google</string>
   <string name="confirm_frp_credential_title">Desbloqueio após reposição de fábrica</string>
+  <string name="confirm_lock_pattern_header_text">Desenhe o seu padrão</string>
   <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
   <string name="confirm_password_with_fingerprint">Utilize a impressão digital</string>
   <string name="confirm_password_with_password">Introduza a palavra-passe</string>
@@ -1700,6 +1713,7 @@ Pode ver o registo gerado no Explorador"</string>
   <string name="enable_multi_window_summary">Várias actividades no ecrã ao mesmo tempo</string>
   <string name="enable_opengl_traces_title">Activar traços OpenGL</string>
   <string name="enable_quick_setting">Mostrar nas Definições rápidas</string>
+  <string name="enable_screen_projection_summary">Transmitir conteúdos do ecrã para um ecrã externo</string>
   <string name="enable_service_encryption_warning">Se ligar o %1$s, o dispositivo não vai utilizar o bloqueio de ecrã para optimizar a encriptação de dados</string>
   <string name="enable_service_password_reason">Uma vez que ligar %1$s afecta a encriptação de dados, o utilizador tem de confirmar a sua palavra-passe</string>
   <string name="enable_service_pattern_reason">Uma vez que ligar %1$s afecta a encriptação de dados, o utilizador tem de confirmar o seu padrão</string>
@@ -2098,13 +2112,13 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gxzw_add_fingerprint_move_message">Mova o dedo para gravar todas as partes da sua impressão digital</string>
   <string name="gxzw_add_fingerprint_move_title">Mova o dedo levemente</string>
   <string name="gxzw_add_fingerprint_put_finger_message">Prima o ecrã e levante o seu dedo após vibrar. Repita várias vezes</string>
-  <string name="gxzw_add_fingerprint_put_finger_title">Premir e levantar após vibração</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Prima e levante após vibração</string>
   <string name="gxzw_add_fingerprint_title">Adicionar impressão digital</string>
   <string name="gxzw_anim_light">Néon</string>
   <string name="gxzw_anim_pulse">Pulso</string>
   <string name="gxzw_anim_rhythm">Ritmo</string>
   <string name="gxzw_anim_star">Estrelas</string>
-  <string name="gxzw_anim_title">Animação de impressão digital</string>
+  <string name="gxzw_anim_title">Animações da impressão digital</string>
   <string name="gxzw_aod_show_summary">Levante o dispositivo ou toque no ecrã para fazer aparecer o ícone de impressão digital. Esta funcionalidade aumenta o consumo de bateria</string>
   <string name="gxzw_aod_show_tittle">Ícone de impressão digital com o ecrã desligado</string>
   <string name="gxzw_dialog_message">Para ser possível utilizar o sensor de impressão digital no ecrã, não utilize protectores de ecrã</string>
@@ -2112,6 +2126,13 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gxzw_dialog_ok">Percebi</string>
   <string name="gxzw_dialog_title">Acerca do sensor de impressão digital</string>
   <string name="gxzw_enroll_again">Levante o dedo e prima o sensor novamente</string>
+  <string name="gxzw_quick_open_enable_summary">Utilize gestos para abrir aplicações ou utilizar funcionalidades quando o seu dispositivo estiver desbloqueado</string>
+  <string name="gxzw_quick_open_enable_title">Atalhos de impressão digital</string>
+  <string name="gxzw_quick_open_fast_summary">Deslize para utilizar um atalho assim que o dispositivo estiver desbloqueado</string>
+  <string name="gxzw_quick_open_fast_title">Desliza rápido (avançado)</string>
+  <string name="gxzw_quick_open_slow_summary">Prima e segure o ícone da impressão digital para abrir o menu de atalhos. Deslize para utilizar</string>
+  <string name="gxzw_quick_open_slow_title">Premir e segurar</string>
+  <string name="gxzw_quick_open_title">Atalhos</string>
   <string name="handy_mode">Modo Uma Mão</string>
   <string name="handy_mode_enable">Modo Uma Mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
@@ -2207,7 +2228,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="input_method">Teclado</string>
   <string name="input_method_bottom_close">Desligado</string>
   <string name="input_method_bottom_open">Ligado</string>
-  <string name="input_method_manage">Gerir teclados</string>
+  <string name="input_method_manage">Gestão de teclados</string>
   <string name="input_method_selector">Selecção do método de entrada</string>
   <string name="input_method_selector_always_hide_title">Ocultar sempre</string>
   <string name="input_method_selector_always_show_title">Mostrar sempre</string>
@@ -2889,6 +2910,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="model_info">Modelo</string>
   <string name="model_name">Modelo</string>
   <string name="model_number">Modelo do dispositivo</string>
+  <string name="modify_default_browser_message">Se definir uma aplicação de terceiros como navegador predefinido, pode começar a obter dados de histórico e outros dados. Definir mesmo assim?</string>
   <string name="modify_instruction_password_settings">Definir palavra-passe</string>
   <string name="modify_privacy_password">Alterar palavra-passe</string>
   <string name="more_account_settings_title">Outras contas</string>
@@ -3131,7 +3153,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="no_running_services">Sem serviços em execução</string>
   <string name="no_services">Sem serviços activos</string>
   <string name="no_trust_agents">Nenhum agente fidedigno disponível</string>
-  <string name="no_vr_listeners">Nenhuma aplicação instalada pediu para ser executada como serviço de assistente de RV</string>
+  <string name="no_vr_listeners">Nenhuma aplicação instalada solicitou a execução como serviço de assistente de RV</string>
   <string name="no_update_found">Já está a utilizar a versão mais recente do MIUI</string>
   <string name="no_updates_found">Já está utilizar a versão mais recente do MIUI</string>
   <string name="no_updates_warning">O seu sistema está actualizado</string>
@@ -3161,6 +3183,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notifi_importance_none">Nunca mostrar notificações</string>
   <string name="notifi_importance_unspecified">Permitir som</string>
   <string name="notifi_no_channels">Esta aplicação ainda não recebeu notificações</string>
+  <string name="notification_animation_style">Efeitos especiais</string>
   <string name="notification_app_settings_button">Definições de notificações</string>
   <string name="notification_badge_title">Permitir ponto de notificação</string>
   <string name="notification_badging_title">Permitir pontos de notificação</string>
@@ -3204,6 +3227,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notification_reboot_summary_hm">Toque para reiniciar o seu dispositivo</string>
   <string name="notification_reboot_title">Reiniciar para aplicar actualização</string>
   <string name="notification_reboot_title_hm">Reiniciar para aplicar actualização</string>
+  <string name="notification_remind">Notificações</string>
   <string name="notification_ringtone_title">Toque de notificação predefinido</string>
   <string name="notification_shade_shortcut_title">Atalho nas notificações</string>
   <string name="notification_show_lights_title">LED de notificações</string>
@@ -3904,6 +3928,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="saved_wifi_delete">Eliminar</string>
   <string name="scan_list_label">Resultados da pesquisa:</string>
   <string name="sccret_code_error">O código introduzi está incorrecto</string>
+  <string name="scheduled_style">Programado</string>
   <string name="screen">Ecrã</string>
   <string name="screen_cancel">Cancelar</string>
   <string name="screen_color_and_optimize">Cores e contraste</string>
@@ -4525,6 +4550,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
   <string name="sim_slot_empty">SIM vazio</string>
   <string name="sim_status_title">Estado do SIM</string>
+  <string name="sim_status_title_sim_slot">Estado do SIM (ranhura %1$d)</string>
   <string name="simulate_color_space">Simular espaço de cor</string>
   <string name="single_key_use">Botão único</string>
   <string name="single_key_use_summary">Utilizar o botão Início em vez dos outros dois para as operações normais</string>
@@ -4623,6 +4649,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_status_bar">Barra de estado</string>
   <string name="status_bar_title">Barra de estado</string>
   <string name="status_bt_address">Endereço Bluetooth</string>
+  <string name="status_data_network_type">Tipo de rede de dados móveis</string>
   <string name="status_data_state">Estado da rede móvel</string>
   <string name="status_failed_to_write">Não é possível escrever dados na etiqueta NFC. Caso o problema persista, experimente uma etiqueta diferente</string>
   <string name="status_icc_id">ICCID</string>
@@ -4635,6 +4662,8 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_msid_number">MSID</string>
   <string name="status_network_type">Tipo de rede móvel</string>
   <string name="status_number">O meu número de telefone</string>
+  <string name="status_number_sim_slot">Número de telefone (ranhura %1$d)</string>
+  <string name="status_number_sim_status">Número de telefone no SIM</string>
   <string name="status_operator">Rede</string>
   <string name="status_prl_version">Versão PRL</string>
   <string name="status_roaming">Roaming</string>
@@ -4649,6 +4678,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_tag_not_writable">A etiqueta NFC não é gravável. Utilize uma etiqueta diferente</string>
   <string name="status_unavailable">Não disponível</string>
   <string name="status_up_time">Tempo de actividade</string>
+  <string name="status_voice_network_type">Tipo de rede de voz móvel</string>
   <string name="status_wifi_mac_address">Endereço MAC Wi-Fi</string>
   <string name="status_wimax_mac_address">Endereço MAC 4G</string>
   <string name="status_write_success">Sucesso!</string>
@@ -4866,6 +4896,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="system_apps_updater">Actualizar aplicações de sistema</string>
   <string name="system_backup_section_title">Cópias de segurança</string>
   <string name="system_dashboard_summary">Idiomas, hora, cópia de segurança, actualizações</string>
+  <string name="system_haptic_feedback">Feedback táctil</string>
   <string name="system_package">As actualizações do sistema não podem ser instaladas em fontes externas</string>
   <string name="system_print_service_help">Acerca da impressão</string>
   <string name="system_shortcut_wake">Ligar com os atalhos dos botões</string>
@@ -4876,6 +4907,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="tap_to_wake">Tocar para activar</string>
   <string name="tap_to_wake_summary">Tocar duas vezes em qualquer ponto do ecrã para activar o dispositivo</string>
   <string name="taplus_title">Taplus</string>
+  <string name="temporary_style">10 segundos após tocar no ecrã</string>
   <string name="terms_title">Termos e Condições</string>
   <string name="testing">Testes</string>
   <string name="testing_phone_info">Informações do telefone</string>
@@ -4928,6 +4960,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="title_jeejen">Ecrã inicial Jeejen</string>
   <string name="title_layout_current">Tamanho do texto</string>
   <string name="title_layout_current2">Tamanho do texto</string>
+  <string name="title_layout_current2_weight">Tamanho do texto</string>
   <string name="title_of_auto_launch_manage">Início automático</string>
   <string name="to_close">Desligar</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
@@ -5570,6 +5603,9 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="webview_disabled_for_user">(desactivado para o utilizador %s)</string>
   <string name="webview_license_title">Licença WebView do sistema</string>
   <string name="webview_uninstalled_for_user">(desinstalado para o utilizador %s)</string>
+  <string name="weight_heavy">Negrito</string>
+  <string name="weight_light">Claro</string>
+  <string name="weight_setting_toast">Pode alterar a espessura da fonte apenas para a fonte predefinida do sistema</string>
   <string name="welcome">Bem-vindo</string>
   <string name="wfc_provisioned_switch_string">Chamadas Wi-Fi fornecidas</string>
   <string name="wfd_available_devices">Dispositivos disponíveis</string>
@@ -6060,7 +6096,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="xspace">Aplicações clonadas</string>
   <string name="yes">Sim</string>
   <string name="zen_access_disabled_package_warning">Tem de ficar ligado porque a notificação de acesso está ligada</string>
-  <string name="zen_access_empty_text">Nenhuma aplicação instalada pediu acesso a Não incomodar</string>
+  <string name="zen_access_empty_text">Nenhuma aplicação instalada solicitou o acesso a Não incomodar</string>
   <string name="zen_access_revoke_warning_dialog_summary">Todas as regras de Não incomodar criadas por esta aplicação vão ser removidas</string>
   <string name="zen_access_revoke_warning_dialog_title">Revogar o acesso a Não incomodar para %1$s?</string>
   <string name="zen_access_warning_dialog_summary">A aplicação vai conseguir ligar e desligar o modo Não incomodar e efectuar alterações nas definições relacionadas</string>
@@ -6084,7 +6120,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="zen_mode_configure_rule">Configurar regra</string>
   <string name="zen_mode_delete_rule">Eliminar regra</string>
   <string name="zen_mode_delete_rule_button">Eliminar</string>
-  <string name="zen_mode_delete_rule_confirmation">"Eliminar a regra \"%1$s\"?"</string>
+  <string name="zen_mode_delete_rule_confirmation">Eliminar a regra \"%1$s\"?</string>
   <string name="zen_mode_end_time">Hora de fim</string>
   <string name="zen_mode_end_time_next_day_summary_format">%s do dia seguinte</string>
   <string name="zen_mode_event_rule_calendar">Durante eventos de</string>

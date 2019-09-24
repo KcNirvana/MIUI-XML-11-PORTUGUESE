@@ -98,6 +98,10 @@ Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão 
     <string name="hang_up_alert_dialog_content">A transmissão não vai ser interrompida quando o ecrã desligar. Prima o botão Ligar/Desligar para voltar a ligar o ecrã</string>
     <string name="hang_up_alert_dialog_pos">OK</string>
     <string name="hang_up_alert_dialog_neg">Cancelar</string>
+    <string name="san_wait_msg_1">O destinatário necessita de ligar a transmissão sem fios</string>
+    <string name="san_wait_msg_2">Procurar por dispositivos pode levar algum tempo…</string>
+    <string name="san_wait_msg_3">Dispositivos externos são mais simples de localizar quando estão ligados à mesma rede que o telefone</string>
+    <string name="san_wait_msg_4">Ver \"Ajuda\" se não conseguir localizar dispositivos</string>
     <string name="status_bar_in_casting">A transmitir</string>
     <string name="status_bar_in_casting_long">Clique para mais funcionalidades</string>
     <string name="toast_msg_for_multi_window">Não é possível transmitir no modo ecrã dividido</string>

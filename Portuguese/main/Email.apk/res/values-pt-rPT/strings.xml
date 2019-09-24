@@ -8,6 +8,7 @@
   <string name="account_duplicate_dlg_title">Conta duplicada</string>
   <string name="account_failure">A sessão expirou</string>
   <string name="account_name_toast">Já existe uma conta com este nome</string>
+  <string name="account_options_actionbar_title">Definições gerais</string>
   <string name="account_options_sync_title">Sincronizar</string>
   <string name="account_password_spaces_error">Essa palavra-passe inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam palavras-passe com espaços</string>
   <string name="account_security_dialog_content_fmt">%s solicita que actualize as suas definições de segurança</string>
@@ -173,6 +174,7 @@
   <string name="add_pre_message_attachments_no">Não adicionar</string>
   <string name="add_pre_message_attachments_yes">Adicionar</string>
   <string name="add_star">Estrela</string>
+  <string name="all_purpose">Bem-vindo ao EMail! Este cliente de email foi criado pela Kingsoft para a Xiaomi. Pode utilizar esta aplicação para enviar e receber emails</string>
   <string name="allread">Ler todos</string>
   <string name="always_bcc_myself">Enviar sempre Bcc para mim</string>
   <string name="always_show_images">Mostrar sempre imagens deste remetente</string>
@@ -276,6 +278,7 @@
   <string name="config_cancel">Cancelar</string>
   <string name="config_retry">Repetir</string>
   <string name="confirm">OK</string>
+  <string name="confirm_age">Confirmar idade</string>
   <string name="confirm_before_delete">Confirmar antes de eliminar</string>
   <string name="confirm_before_delete_keywords">Confirmar antes de eliminar;eliminar confirmação</string>
   <string name="confirm_before_send">Confirmar antes de enviar</string>
@@ -522,6 +525,7 @@
   <string name="header_category_other">Comentários</string>
   <string name="header_label_general_preferences">Definições gerais</string>
   <string name="help_and_info">Ajuda</string>
+  <string name="help_email_title">Email</string>
   <string name="help_weixin_title">"Se tiver alguma dúvida, sinta-se à vontade para nos deixar um comentário na nossa conta oficial do WeChat: "</string>
   <string name="hide_elided">▼ Ocultar texto citado</string>
   <string name="hide_password">Ocultar palavra-passe</string>
@@ -567,6 +571,9 @@
   <string name="mail_description_content">Email é um cliente de email que consegue gerir várias contas, enviar e receber emails e fornece a sincronização de calendários e contactos. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
   <string name="mail_description_title">Acerca de Email</string>
   <string name="mail_header_network_not_available">Não tem uma ligação de rede</string>
+  <string name="mail_outlook_login_tips">Segundo os requisitos da Microsoft, necessita de introduzir a palavra-passe na página de autorização da Microsoft</string>
+  <string name="mail_outlook_oauth_login">Iniciar sessão com OAuth</string>
+  <string name="mail_outlook_psw_login">Iniciar sessão com palavra-passe</string>
   <string name="mailbox_list_account_selector_combined_view">Vista combinada</string>
   <string name="mailbox_name_display_ad">Anúncios</string>
   <string name="mailbox_name_display_add_account">Adicionar conta de email</string>
@@ -738,11 +745,14 @@
   <string name="outbox_alert_select_operation">Escolha uma acção</string>
   <string name="outbox_alert_title_sent_failed">Não foi possível enviar email</string>
   <string name="outbox_no_mails">Vazio</string>
+  <string name="outlook_login_failed_non_proxy_title">Não foi possível aceder ao servidor do Outlook</string>
   <string name="output_all_log">Enviar todos os registos</string>
   <string name="output_db_summary">Vai enviar a sua base de dados</string>
   <string name="output_db_title">Envio de base dados</string>
   <string name="output_to_disk">Guardar registos num ficheiro</string>
+  <string name="over_16_content">Confirma ser maior de 16 anos?</string>
   <string name="overlays_fail_tip">A sua caixa de entrada não foi configurada. Abra as permissões das janelas flutuantes e tente novamente</string>
+  <string name="over_sixteen">Eu tenho mais de 16 anos</string>
   <string name="overlays_ok">Abrir permissões</string>
   <string name="overlays_tip">Abra as permissões das janelas flutuantes e disfrute da caixa de entrada configurada automaticamente</string>
   <string name="overlays_tip_23">Abra as permissões das janelas flutuantes e disfrute da caixa de entrada configurada automaticamente</string>
@@ -773,12 +783,21 @@
   <string name="perference_setup_send_tag">Servidor de emails enviados</string>
   <string name="permission_access_provider_desc">Permitir que a aplicação aceda ao seu email, utilizadores, e palavras-passe</string>
   <string name="permission_access_provider_label">Aceder aos dados de utilizador</string>
+  <string name="permission_des_calendar">Utilizada para sincronizar as mensagens do calendário</string>
+  <string name="permission_des_contact">Utilizada para ler os endereços de email dos contactos</string>
+  <string name="permission_des_detail">"Se não concordar com as permissões ou a partilha e envio de informações pessoais, não vai poder utilizar esta aplicação. Pode desinstalar, terminar sessão ou restringir permissões em Definições</string>
+  <string name="permission_des_external_storage">Utilizada para escrever o seu email e ler ficheiros no dispositivo para concluir o processo de adicionar e guardar anexos</string>
+  <string name="permission_des_phone_status">Utilizada para obter o IMEI para distinguir dispositivos diferentes</string>
+  <string name="permission_des_storage">Para criar novos emails, assim como guardar e adicionar anexos</string>
   <string name="permission_read_attachment_desc">Permitir que a aplicação leia os anexos dos seus emails</string>
   <string name="permission_read_attachment_label">Ler anexos</string>
   <string name="permission_tip">Erro na configuração. Dê permissão a chamadas e mensagens de texto durante a configuração das permissões</string>
+  <string name="personal_data_collection_summary">Quando esta opção está ligada, está a concordar com a obtenção de dados pessoais. Pode desligar esta opção, revogar a autorização ou eliminar os dados dos nossos servidores em qualquer momento</string>
+  <string name="personal_data_collection_title">A obter dados pessoais</string>
   <string name="phone">telefone</string>
   <string name="photo_load_failed">Não foi possível carregar a imagem</string>
   <string name="photo_view_count">%1$d de %2$d</string>
+  <string name="pl_select_age">Seleccionar idade</string>
   <string name="please_fill_in_your_mailbox_information2">Introduza as informações da sua caixa de correio</string>
   <string name="policy_app_blacklist">Não permitir aplicações especificadas</string>
   <string name="policy_app_whitelist">Permitir apenas aplicações especificadas</string>
@@ -824,6 +843,7 @@
   <string name="print_scheduler_title">Imprimir tudo</string>
   <string name="privacy_des">Os registos contém informações sobre o email e o seu dispositivo. Esta informação é utilizada para localizar problemas rapidamente. Ao clicar \"%1$s\", está a concordar com os nossos \"%2$s\"</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="privacy_setting_agree">Concordar</string>
   <string name="prompt_title">Perguntar</string>
   <string name="protocol_setting_toast">Toque no canto superior direito para ir às definições depois de concordar</string>
   <string name="pull_load_more">Puxe para carregar mais</string>
@@ -852,6 +872,7 @@
   <string name="quick_3">Irei ler isso mais tarde e dar-lhe-ei uma resposta</string>
   <string name="quick_4">Podemos marcar uma reunião para discutir isso</string>
   <string name="quick_reply_dialog_title">Escolher uma resposta</string>
+  <string name="quick_reply_expend">Expandir</string>
   <string name="quick_reply_hint_bcc">(Em BCC)</string>
   <string name="quick_reply_hint_cc">(Em CC)</string>
   <string name="quick_reply_hint_reply_only_from">Resposta rápida (apenas remetente)</string>
@@ -963,6 +984,8 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="service_protocol_discribe"><u>"Eu li e concordei com os Termos de Serviço do WPS Mail"</u></string>
   <string name="service_protocol_title">Termos de Serviço</string>
   <string name="set_network">Definir rede</string>
+  <string name="setting_kids_subtitle">Confirmar a idade</string>
+  <string name="setting_kids_title">Maior de 16 anos</string>
   <string name="settings_activity_title">Definições</string>
   <string name="share_choose">Escolher ficheiro para partilhar</string>
   <string name="sharing">Partilhar</string>
@@ -987,6 +1010,9 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="str_select_all">Seleccionar tudo</string>
   <string name="str_select_none">Desmarcar tudo</string>
   <string name="subject_hint">Assunto</string>
+  <string name="sync_calendra_fail_per_content">Toque para permitir acesso ao calendário</string>
+  <string name="sync_calendra_fail_per_title">Não foi possível sincronizar o calendário</string>
+  <string name="sync_calendra_fail_permission">Não foi possível sincronizar o calendário. Conceda permissão ao Email para aceder ao calendário</string>
   <string name="sync_contacts_fail_per_content">Toque para permitir acesso aos contactos</string>
   <string name="sync_contacts_fail_per_title">Não foi possível sincronizar contactos</string>
   <string name="sync_contacts_fail_permission">Não foi possível sincronizar contactos devido a permissões de acesso</string>
@@ -1049,6 +1075,8 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="turn_auto_sync_on_dialog_title">Activar sincronização automática?</string>
   <string name="unbind_dialog_text">"O Email não vai mais analizar os seus emails.
 Remover conta?"</string>
+  <string name="under_16_content">Confirma ser maior de 16 anos?</string>
+  <string name="under_sixteen">Eu tenho menos de 16 anos</string>
   <string name="undo">Anular</string>
   <string name="unknow">Desconhecido</string>
   <string name="unread_string">conversa não lida</string>
@@ -1067,6 +1095,8 @@ Remover conta?"</string>
   <string name="upload_logs">Enviar registos</string>
   <string name="upload_logs_keywords">Enviar registos</string>
   <string name="uploading_logs">Aguarde…</string>
+  <string name="user_privacy_settings">Definições de privacidade</string>
+  <string name="user_privacy_settings_agreement_authorization">(Ao clicar em \"Autorizo\" estou a conceder todas as permissões necessárias a WPS Mail)</string>
   <string name="validation_failed_prompt">Não foi possível verificar a conta, verifique as definições do servidor %s</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>

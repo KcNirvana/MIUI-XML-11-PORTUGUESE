@@ -108,6 +108,7 @@
   <string name="app_name">Galeria</string>
   <string name="app_name_view_picture">Ver fotos</string>
   <string name="app_name_view_video">Ver vídeos</string>
+  <string name="app_summary">Gerir e editar as suas fotos e vídeos no seu dispositivo e na Xiaomi Cloud</string>
   <string name="apply">Aplicar</string>
   <string name="assistant_page_discovery">Navegar</string>
   <string name="assistant_page_label">Memórias</string>
@@ -203,8 +204,9 @@
   <string name="base_btn_download">Transferir</string>
   <string name="begin_share">Foi criado o álbum de bebé \"%s\". Pode agora partilhá-lo</string>
   <string name="begin_share_toast">Criar um álbum em separado para esta criança antes de o partilhar?</string>
-  <string name="blank_app_name"/>
   <string name="browse_category_title">Navegação</string>
+  <string name="btn_cancel">Cancelar</string>
+  <string name="btn_sure">OK</string>
   <string name="burst_image_download_item_title" formatted="false">Transferir original (%s|%s)</string>
   <string name="burst_preview_title">Disparo Contínuo</string>
   <string name="burst_save_all">Manter todas as fotos</string>
@@ -298,6 +300,8 @@
   <string name="cloud_guide_auto_backup_title">Escolher álbuns para fazer cópia</string>
   <string name="cloud_guide_login_title">Fazer cópias de fotos e vídeos automaticamente</string>
   <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
+  <string name="cloud_privacy_with_ai_album">Declaração de privacidade em cópias automáticas e processamento de imagem</string>
+  <string name="cloud_privacy_with_face">Declaração de privacidade em cópias automáticas e reconhecimento facial</string>
   <string name="cloud_screenshots_display_name">Capturas de ecrã</string>
   <string name="cloud_settings">Xiaomi Cloud</string>
   <string name="cloud_storage_extend">Aumentar o espaço da Xiaomi Cloud</string>
@@ -338,6 +342,8 @@
   <string name="collage_title_stitching">Rolo de filme</string>
   <string name="collaps_people">Ocultar</string>
   <string name="confirm">OK</string>
+  <string name="confirm_cancel_task_files">Cancelar o envio de ficheiro para %1$s?</string>
+  <string name="confirm_cancel_task_images">Cancelar o envio de imagens para %1$s?</string>
   <string name="confirm_download_video_message">Tem que terminar de transferir este vídeo para que possa vê-lo. A transferência vai ser retomada quando a ligação Wi-Fi estiver disponível</string>
   <string name="confirm_download_video_title">Transferir vídeo</string>
   <string name="confirm_face">Corresponder</string>
@@ -377,6 +383,7 @@
   <string name="debugging_tip">Gerar dados de depuração</string>
   <string name="decrypt_video_failed">Não foi possível preparar vídeo</string>
   <string name="decrypting_video">A preparar vídeo…</string>
+  <string name="default_device_name">Dispositivo desconhecido</string>
   <string name="default_relation_name">Novo grupo</string>
   <string name="define_by_user">Personalizado</string>
   <string name="delete">Eliminar</string>
@@ -401,6 +408,8 @@
   <string name="delete_to_trash_tips">Pode ver as fotos eliminadas recentemente em Definições &gt; Lixo</string>
   <string name="deny">Rejeitar</string>
   <string name="detail_title">Detalhes</string>
+  <string name="device_offline">O outro dispositivo está offline. Comece de novo</string>
+  <string name="device_type_pc">Computador</string>
   <string name="disable_auto_upload_tip">Desligar a sincronização com a Xiaomi Cloud para este álbum?</string>
   <string name="disable_auto_upload_title">Desligar a sincronização com a Xiaomi Cloud</string>
   <string name="do_not_remind_me">Não mostrar novamente</string>
@@ -427,6 +436,7 @@
   <string name="download_with_metered_network_title">Está ligado a uma rede paga</string>
   <string name="downloading_dialog_message">Pode seleccionar a qualidade das imagens transferidas ou desligar as transferências automáticas nas Definições</string>
   <string name="downloading_title">Transferir fotos da Xiaomi Cloud</string>
+  <string name="double_tap_for_hr_preview_108m">Faça duplo toque novamente para trocar para pré-visualização de 108MB</string>
   <string name="edit_baby_info">Ver informação do bebé</string>
   <string name="editor_cancel">Cancelar</string>
   <string name="editor_export">Guardar</string>
@@ -450,6 +460,7 @@
   <string name="enable_cloud_for_sharing">Ligar a Xiaomi Cloud para ver as fotos partilhadas</string>
   <string name="enable_face_album_summary">Ordenar fotos automaticamente pelas pessoas que estão nelas</string>
   <string name="enable_face_album_title">Ordenar por pessoas</string>
+  <string name="enable_midrop">Ligar</string>
   <string name="enter_choice_mode">Abriu opções de partilha</string>
   <string name="enter_email_hint">Inserir endereço de email</string>
   <string name="eras_ad">DC</string>
@@ -564,6 +575,9 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="feature_guidance_photo_effects">"Estão disponíveis novos
 efeitos de fotos"</string>
   <string name="feature_guidance_video_editor_smart_effects">Estão disponíveis novos efeitos</string>
+  <string name="file_cannot_print">Não é possível imprimir este item</string>
+  <string name="file_cannot_screen_throw">Não é possível transmitir este item</string>
+  <string name="file_sending">A transferir ficheiros…</string>
   <string name="filter_bi_bw">Preto e branco</string>
   <string name="filter_bi_dusk">Sombra</string>
   <string name="filter_bi_lilt">Lilt</string>
@@ -646,6 +660,7 @@ efeitos de fotos"</string>
   <string name="friday">Sexta-feira</string>
   <string name="friday_short">Sex</string>
   <string name="friday_shortest">S</string>
+  <string name="functions_are_being_developed">Esta funcionalidade vai estar disponível em breve</string>
   <string name="gallery_setting">Definições</string>
   <string name="gallery_sync_disable_toast">A sincronização com a Galeria está desligada</string>
   <string name="generate_story_summary">A MIUI vai analisar as suas fotos e criar memórias. Desligue esta opção para parar de criar memórias</string>
@@ -668,6 +683,7 @@ efeitos de fotos"</string>
   <string name="home_menu_print">Imprimir fotos</string>
   <string name="home_page_empty_action">Tirar uma foto</string>
   <string name="home_page_label">Fotos</string>
+  <string name="hr_preview_108m">Trocado para pré-visualização 108MP</string>
   <string name="how_to_set_relation">Prima e segure um álbum para criar um grupo</string>
   <string name="hybrid_check_network">Definições de rede</string>
   <string name="hybrid_data_error">Ocorreu um erro</string>
@@ -939,12 +955,15 @@ para personalizar a galeria"</string>
   <string name="other_album">Outros álbuns</string>
   <string name="other_settings">Definições adicionais</string>
   <string name="owner_album_subtitle">Partilhar com %1$s pessoas</string>
+  <string name="pc_device_model_name">Computador</string>
   <string name="people_album_empty_title">As fotos podem ser ordenadas pelas pessoas contidas nelas</string>
   <string name="people_jump_failed">Aguarde até as fotos com pessoas estarem sincronizadas com a Xiaomi Cloud e tente novamente</string>
   <string name="people_mark_mode_title">Seleccionar \"%s\"</string>
   <string name="people_mark_mode_title_no_mark_name">Seleccione uma pessoa</string>
   <string name="people_page_label">Pessoas</string>
   <string name="people_page_unname">Sem nome</string>
+  <string name="permission_contacts_desc">Para atribuir nomes de pessoas em fotos</string>
+  <string name="permission_contacts_name">Contactos</string>
   <string name="permissin_contract_desc">Para atribuir nomes de pessoas em fotos</string>
   <string name="permission_contract_name">Contactos</string>
   <string name="permission_optional_category">Permissões opcionais</string>
@@ -1164,6 +1183,7 @@ para personalizar a galeria"</string>
   <string name="scan_barcode_guide">Para obter o código QR do álbum, toque no ícone Partilhar</string>
   <string name="scan_barcode_to_join">Digitalizar código QR para adicionar álbum</string>
   <string name="scan_qr_code_buttom_text">Digitalizar código QR para ver este álbum</string>
+  <string name="scanning_device_tips">A procurar por dispositivos perto… Certifique-se que o outro dispositivo está disponível</string>
   <string name="screen_doodle_talkback_size">Largura da linha</string>
   <string name="screen_editor_btn_delete">Eliminar</string>
   <string name="screen_editor_btn_save">Guardar</string>
@@ -1248,6 +1268,7 @@ para personalizar a galeria"</string>
   <string name="secret_reason_type_not_support">Este tipo de ficheiro não é suportado</string>
   <string name="secret_reason_unknow_reasons">Erro desconhecido</string>
   <string name="secret_reason_video_not_support">Não é possível adicionar vídeos a álbuns ocultos</string>
+  <string name="send_files_to">Enviar itens para</string>
   <string name="see_ignore_faces">Ver as pessoas que ignorou</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_image_operation">A adicionar fotos</string>
@@ -1394,6 +1415,8 @@ para personalizar a galeria"</string>
   <string name="text_tab_bubble">Bolhas</string>
   <string name="text_tab_watermark">"Marcas d'água"</string>
   <string name="things_album_empty_title">As fotos podem ser ordenadas pelos objectos nelas contidos</string>
+  <string name="throwing_print">Imprimir</string>
+  <string name="throwing_screen">Transmitir</string>
   <string name="thursday">Quinta-feira</string>
   <string name="thursday_short">Qui</string>
   <string name="thursday_shortest">Q</string>
@@ -1403,6 +1426,7 @@ para personalizar a galeria"</string>
   <string name="tip_file_info">Info. do ficheiro:</string>
   <string name="tip_file_path">Caminho:</string>
   <string name="tip_not_download">Não está no dispositivo. Vai transferir automaticamente da Xiaomi Cloud durante a reprodução</string>
+  <string name="tips_prompt_enable_midrop">Partilhar ficheiros com dispositivos próximos</string>
   <string name="title_set_name">Introduzir nome</string>
   <string name="title_tip">Dicas</string>
   <string name="title_warn">Aviso</string>
@@ -1430,6 +1454,8 @@ para personalizar a galeria"</string>
   <string name="unpublish_failed">Não foi possível anular a publicação</string>
   <string name="unpublish_succeeded">Publicação de álbum anulada</string>
   <string name="unpublishing">A cancelar…</string>
+  <string name="unrecognized_manufacture">Desconhecido</string>
+  <string name="unrecognized_model">Dispositivo desconhecido</string>
   <string name="unsupport_video">%s não funciona com vídeos</string>
   <string name="user_agree">Concordar</string>
   <string name="user_agreement2">Termos de Serviço</string>
