@@ -5,7 +5,11 @@
   <string name="accessibility_shutter_button">Disparador</string>
   <string name="action_search">Pesquisar</string>
   <string name="address">Endereço:</string>
+  <string name="agree_app_use">Digitalizar códigos QR e reconhecê-los noutras imagens</string>
   <string name="agree_btn">Concordar</string>
+  <string name="agree_camera_permission">Para tirar fotos e gravar vídeos</string>
+  <string name="agree_storage_permission">Para aceder a fotos e ficheiros armazenados no seu dispositivo</string>
+  <string name="always">Sempre</string>
   <string name="amazon_assistant_shopping_title">Pesquisar na Amazon</string>
   <string name="app_description_content">O Digitalizador fornece digitalização de códigos QR, digitalização para traduções e reconhecimento de cartões comerciais. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
   <string name="app_description_title">Acerca do Digitalizador</string>
@@ -27,6 +31,7 @@
   <string name="camera_error_title">Erro da câmara</string>
   <string name="cancel">Cancelar</string>
   <string name="character_counter_content_description">Limite de caracteres excedido %1$d de %2$d</string>
+  <string name="choose_open_code_app">Seleccionar uma aplicação</string>
   <string name="choose_pay_title">Seleccionar método de pagamento</string>
   <string name="choose_picture">Seleccionar a imagem do código QR</string>
   <string name="close_hotspot_when_connecting_to_wifi">PA Móvel ligado. Ligue o Wi-Fi</string>
@@ -124,6 +129,7 @@
   <string name="not_insert_contact">Não é possível adicionar contacto</string>
   <string name="not_recommend_access_web_url">Ir mesmo assim</string>
   <string name="note">Observação:</string>
+  <string name="once">Apenas uma vez</string>
   <string name="open_url">Abrir URL</string>
   <string name="pay_no_tip">Não mostrar novamente</string>
   <string name="pay_save_this_choose">Memorizar a minha preferência</string>
@@ -168,6 +174,8 @@
   <string name="switch_open">Ligar</string>
   <string name="tel">Telefone</string>
   <string name="title">Título:</string>
+  <string name="to_install_title">Este código QR redirecciona-o para uma aplicação desinstalada. Transferir esta aplicação agora?</string>
+  <string name="toinstall">Download</string>
   <string name="translate_auto_lock">Bloquear tradução</string>
   <string name="translate_auto_unlock">Desbloquear tradução</string>
   <string name="translate_copy_success">Copiado com sucesso</string>

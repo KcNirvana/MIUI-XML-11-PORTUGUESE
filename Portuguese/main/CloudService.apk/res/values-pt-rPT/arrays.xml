@@ -104,6 +104,18 @@
         <item>Transferir itens copiados para o seu dispositivo</item>
         <item>Cloud;Copiar;Cópias;Restaurar;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>Para sincronizar eventos</item>
+        <item>Para sincronizar mensagens</item>
+        <item>Para sincronizar mensagens</item>
+        <item>Para sincronizar contactos</item>
+        <item>Para sincronizar contactos</item>
+        <item>Para guardar itens no seu dispositivo</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>Para identificar o seu dispositivo</item>
+        <item>Para localizar o seu dispositivo e trocar para o modo perdido</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronizar dados</item>
         <item>Copiar layout do ecrã inicial</item>

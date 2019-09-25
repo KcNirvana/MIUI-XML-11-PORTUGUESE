@@ -14,6 +14,6 @@
   <string name="refocus_type_relighting">Iluminação de estúdio</string>
   <string name="refocus_type_relighting_no_face">Não foi possível encontrar rosto</string>
   <string name="refocus_type_relighting_small_face">A iluminação 3D funciona em fotos em que os rostos ocupam mais espaço do que aqui</string>
-  <string name="refocus_type_static">Nível de blur</string>
+  <string name="refocus_type_static">Nível de focagem</string>
   <string name="refocus_type_video">Trilhas leves</string>
 </resources>
