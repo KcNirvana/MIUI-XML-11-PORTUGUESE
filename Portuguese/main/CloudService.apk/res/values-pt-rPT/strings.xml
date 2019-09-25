@@ -337,7 +337,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="priv_dialog_finddevice_all_purpose_pad">Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido</string>
   <string name="priv_dialog_finddevice_all_purpose_phone">Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido</string>
   <string name="priv_dialog_sync_all_purpose">Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados</string>
-  <string name="priv_doc_cloudservice">Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados. Aceda aos itens sincronizados de qualquer navegador em i<b><font color='#FF0000'>.mi.com.</font></b>
+  <string name="priv_doc_cloudservice">"Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados. Aceda aos itens sincronizados de qualquer navegador em i<b><font color='#FF0000'>.mi.com.</font></b>
 
 É necessário uma mensagem SMS para activar este serviço. Quando troca de cartão SIM, é enviada uma mensagem automaticamente para reactivar esta funcionalidade.
 
