@@ -1255,7 +1255,7 @@ Este tablet não tem fones de ouvido. Pode mudar para o modo mãos-livres ou uti
   <string name="volte_switch_title_ct">Utilizar VoLTE</string>
   <string name="volte_tips_when_turn_on">Os serviços VoLTE China Telecom apenas são fornecidos em áreas com rede 4G</string>
   <string name="vowifi_emergency_notification_channel">Aviso de chamadas Wi-Fi de emergência</string>
-  <string name="vowifi_emergency_notification_content">As chamadas de emergência apenas estão disponíveis com rede móvel</string>
+  <string name="vowifi_emergency_notification_content">Chamadas de emergência apenas em áreas com rede móvel</string>
   <string name="vowifi_emergency_notification_title">Chamadas Wi-Fi Vodafone</string>
   <string name="vowifi_emergency_warning_check">Não mostrar novamente</string>
   <string name="vowifi_emergency_warning_message">"As chamadas de emergência não são possíveis através de chamadas Wi-Fi.

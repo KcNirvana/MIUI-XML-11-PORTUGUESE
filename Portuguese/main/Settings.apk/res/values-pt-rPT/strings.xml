@@ -2820,8 +2820,8 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_lab_ai_cloud_closed">O pré-carregamento IA ainda não está disponível</string>
   <string name="miui_lab_ai_preload_desc">O pré-carregamento IA aumenta a velocidade de execução da aplicação</string>
   <string name="miui_lab_ai_preload_title">Pré-carregamento IA</string>
-  <string name="miui_lab_aiasst_call_screen_desc">Ligar por dicas</string>
-  <string name="miui_lab_aiasst_call_screen_title">Dicas de chamadas</string>
+  <string name="miui_lab_aiasst_call_screen_desc">Transformar voz em texto para atender chamadas silenciosamente</string>
+  <string name="miui_lab_aiasst_call_screen_title">Assistente de chamadas IA</string>
   <string name="miui_lab_drive_mode_desc">Utilizar controlos de voz e ouvir as mensagens WeChat</string>
   <string name="miui_lab_drive_mode_title">Modo Condução</string>
   <string name="miui_lab_super_resolution_desc">Tornar as imagens mais nítidas</string>
