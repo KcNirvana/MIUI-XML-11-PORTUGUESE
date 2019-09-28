@@ -151,7 +151,7 @@
   <string name="app_manager_as_dlg_msg">Permitir que as aplicações iniciem automaticamente requer RAM e bateria adicional. Permitir mesmo assim?</string>
   <string name="app_manager_as_dlg_title">Atenção</string>
   <string name="app_manager_back">Voltar</string>
-  <string name="app_manager_bipartition">Aplic. clonadas</string>
+  <string name="app_manager_bipartition">Aplicações clonadas</string>
   <string name="app_manager_cache_size">Cache</string>
   <string name="app_manager_card_permission_title">Permissões</string>
   <string name="app_manager_clear_all_data">Limpar todos os dados</string>

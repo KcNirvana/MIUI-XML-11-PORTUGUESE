@@ -1129,6 +1129,11 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Predefinido</item>
         <item>Compacto</item>
     </string-array>
+    <string-array name="time_format_entries">
+        <item>12 horas</item>
+        <item>24 horas</item>
+        <item>Automático</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>América</item>
         <item>Europa</item>
