@@ -818,6 +818,21 @@ Para activar a sua conta, siga o
   <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
   <string name="passport_yes">Sim</string>
   <string name="password_toggle_content_description">Alterar visibilidade da palavra-passe</string>
+  <string name="permission_audio_rational_desc">"Quando em utilização, esta aplicação necessita de autorização para aceder a funções de gravação, para operar dispositivos via comandos de voz.
+
+Se não concordar em dar esta autorização, não vai poder utilizar esta funcionalidade. Pode retirar o seu consentimento a qualquer momento no seu telefone"</string>
+  <string name="permission_camera_rational_desc">"Quando em utilização, esta aplicação necessita de autorização à câmara, para partilhar dispositivos IR com outros via digitalização.
+
+Se não concordar em dar esta autorização, não vai poder utilizar esta funcionalidade. Pode retirar o seu consentimento a qualquer momento no seu telefone"</string>
+  <string name="permission_location_rational_desc">esta aplicação necessita de autorização à localização para partilhar dispositivos ou receber dispositivos partilhados</string>
+  <string name="permission_name_camera">Câmara</string>
+  <string name="permission_name_location">Localização</string>
+  <string name="permission_name_microphone">Microfone</string>
+  <string name="permission_name_phone_state">Informação do telefone</string>
+  <string name="permission_name_storage">Armazenamento</string>
+  <string name="permission_phone_imei_rational_desc">Quando em utilização, esta aplicação necessita de adquirir o IMEI do telefone para diferenciar dispositivos</string>
+  <string name="permission_storage_rational_desc">Quando em utilização, esta aplicação necessita de autorização para aceder ao armazenamento para guardar cache e informação de dispositivos duplicados</string>
+  <string name="phone_num_use_for">O número de telefone é utilizado para:</string>
   <string name="place_frame">"Localização: "</string>
   <string name="play_in_phone">Ver no telefone</string>
   <string name="play_on_tv">Reproduzir na TV</string>
@@ -836,6 +851,24 @@ Para activar a sua conta, siga o
   <string name="press_to_continue_match">Toque para continuar</string>
   <string name="press_to_match">Toque para emparelhar</string>
   <string name="privacy_content">Leia a <a href="http://www.miui.com/res/doc/privacy/en.html">Política de Privacidade</a> e os <a href="http://www.miui.com/res/doc/eula/en.html">Termos de Utilização</a> da Xiaomi antes de utilizar C.Remoto. É necessário acesso à Internet e aos serviços de localização para a aplicação funcionar normalmente</string>
+  <string name="privacy_content_new">"Bem-vindo ao C. Remoto. Com esta aplicação pode controlar os seus dispositivos IR e muito mais.
+ Cumpriremos rigorosamente as leis, regulamentos e políticas de privacidade relevantes para proteger as suas informações pessoais.
+ Para fornecer os serviços básicos, esta aplicação necessita de aceder à Internet e ter as seguintes permissões para obter as informações pessoais necessárias:
+
+•Para adquirir informações do telefone:
+para adquirir o IMEI do telefone para diferenciar dispositivos;
+
+•Para adquirir informações de conta:
+para permitir o início de sessão rápido da Conta Mi;
+
+•Para ler e escrever no armazenamento do telefone:
+para armazenar cache e informação de dispositivos duplicados.
+
+Se não concordar em conceder estas permissões ou não permitir obter as informações acima, não vai poder utilizar esta aplicação. Pode desinstalar ou sair desta aplicação.
+
+Leia e concorde com os nossos %2$s e %1$s"</string>
+  <string name="privacy_content_new_license">\"Termos de Utilização\"</string>
+  <string name="privacy_content_new_privacy">\"Política de Privacidade\"</string>
   <string name="privacy_nohit">Não mostrar novamente</string>
   <string name="privacy_title">Termos e Condições</string>
   <string name="program_booking_book_filter_book_status">Estado da verificação</string>
@@ -890,6 +923,7 @@ Para activar a sua conta, siga o
   <string name="rename_hint">Introduzir nome do dispositivo</string>
   <string name="repeat_diagnosis">Testar novamente</string>
   <string name="report_problem">Reportar problema</string>
+  <string name="require">Obrigatório</string>
   <string name="require_login">Iniciar sessão primeiro</string>
   <string name="rescan">Pesquisar novamente</string>
   <string name="reset">Repor</string>
@@ -1175,6 +1209,7 @@ Para alterar, mantenha premido o botão Ligar/Desligar da TV"</string>
   <string name="volume">Volume</string>
   <string name="volume_dec">Vol -</string>
   <string name="volume_inc">Vol +</string>
+  <string name="we_wanna_require_those_permissions">%s necessita de obter as seguintes permissões:</string>
   <string name="weather_out">Temperatura exterior:</string>
   <string name="wechat_account">Conta WeChat</string>
   <string name="wifi_rc_create_help">Como criar um controlo remoto Wi-Fi</string>

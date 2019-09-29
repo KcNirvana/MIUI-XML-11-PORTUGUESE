@@ -641,9 +641,9 @@ efeitos de fotos"</string>
   <string name="filter_single_sky">Skyscaping</string>
   <string name="filter_sky_cloudy">Com nuvens</string>
   <string name="filter_sky_detect_forbidden_tips">Não foi possível detectar o céu</string>
-  <string name="filter_sky_download_failed">"Não foi possível transferir o plugin. Verifique as suas definições de rede e tente novamente</string>
+  <string name="filter_sky_download_failed">Não foi possível transferir o plugin. Verifique as suas definições de rede e tente novamente</string>
   <string name="filter_sky_download_finish">Plugin transferido com sucesso</string>
-  <string name="filter_sky_download_sdk_without_wifi_msg">"If you aren't connected to Wi-Fi, you can use mobile data to download the plug-in (%1$dMB) that allows you to replace the sky on your photos."</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">Se não estiver ligado ao Wi-Fi, pode utilizar os dados móveis para transferir o plugin (%1$dMB) que permite substituir o céu nas suas fotos</string>
   <string name="filter_sky_download_sdk_without_wifi_title">Transferir plugin</string>
   <string name="filter_sky_dusk">Escuro</string>
   <string name="filter_sky_glow">Quente</string>

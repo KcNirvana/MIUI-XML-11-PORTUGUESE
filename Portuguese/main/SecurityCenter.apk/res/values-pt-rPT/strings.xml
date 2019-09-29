@@ -2358,7 +2358,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="system_permission_declare_agree">Concordar</string>
   <string name="system_permission_declare_analytics_declare">Obrigado por participar do Programa de Experiência do Utilizador. O seu dispositivo necessita de estar ligado à Internet para permitir que esta funcionalidade funcione normalmente. É também necessário conceder as seguintes permissões para nos permitir a recolha de dados que vai ajudar a melhorar os nossos produtos e serviços</string>
   <string name="system_permission_declare_disagree">Não concordar</string>
-  <string name="system_permission_declare_double_link">Leia e concorde com os nossos Read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar esta funcionalidade</string>
+  <string name="system_permission_declare_double_link">Leia e concorde com os nossos Termos de Utilização e Política de Privacidade antes de utilizar esta funcionalidade</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo a %1s! Esta aplicação permite que utilize a seguinte funcionalidades: %2s.</string>
   <string name="system_permission_declare_no_say_no">Se escolher não conceder as permissões necessárias ou a obtenção dos seus dados, esta aplicação não vai funcionar normalmente</string>
   <string name="system_permission_declare_no_say_no_analytics">Se não quiser conceder as permissões necessárias, pode sair do programa em Definições &gt; Definições adicionais &gt; Privacidade &gt; Programa de Experiência do Utilizador</string>

@@ -1399,6 +1399,10 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="date_time_auto">Data e hora automáticas</string>
   <string name="date_time_auto_summaryOff">Utilizar a hora fornecida pela rede</string>
   <string name="date_time_auto_summaryOn">Utilizar a hora fornecida pela rede</string>
+  <string name="date_time_search_region">Pesquisar região</string>
+  <string name="date_time_select_fixed_offset_time_zones">Seleccionar deslocamento UTC</string>
+  <string name="date_time_select_region">Região</string>
+  <string name="date_time_select_zone">Fuso horário</string>
   <string name="date_time_set_date">Definir data</string>
   <string name="date_time_set_date_title">Data</string>
   <string name="date_time_set_time">Definir hora</string>
@@ -3848,6 +3852,7 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="reset_shortcut_manager_throttling">Repor o limite de taxa do ShortcutManager</string>
   <string name="reset_shortcut_manager_throttling_complete">>O limite de taxa do ShortcutManager foi reposto</string>
   <string name="resetting_second_space_passwd">A repor a palavra-passe do Segundo espaço</string>
+  <string name="resident_timezone_summary">Segundo relógio</string>
   <string name="resolver_settings_label">Ordenar</string>
   <string name="restore_default_apn">A restaurar as definições APN predefinidas</string>
   <string name="restore_default_apn_completed">A reposição das definições predefinidas do APN foi concluída</string>
@@ -4637,6 +4642,12 @@ Esta funcionalidade necessita de permissões para aceder à sua localização, u
   <string name="speaker">Altifalante</string>
   <string name="speaker_clean">Limpar altifalante</string>
   <string name="special_access">Acesso especial de aplicações</string>
+  <string name="speed_label_fast">Rápida</string>
+  <string name="speed_label_medium">Média</string>
+  <string name="speed_label_okay">OK</string>
+  <string name="speed_label_slow">Lenta</string>
+  <string name="speed_label_very_fast">Muito rápida</string>
+  <string name="speed_label_very_slow">Muito lenta</string>
   <string name="spellchecker_language">Idioma</string>
   <string name="spellchecker_quick_settings">Definições</string>
   <string name="spellchecker_security_warning">Este verificador ortográfico vai poder recolher todo o texto que digita, incluindo dados pessoais, como palavras-passe e números de cartões de crédito. Tem origem na aplicação %1$s. Quer utilizar este verificador ortográfico?</string>

@@ -397,7 +397,7 @@ Esta mensagem pode não ser solicitada"</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Bloquear o Mi Message de números desconhecidos</string>
   <string name="mx_filter_message_from_stranger_summary">Ainda vai conseguir receber mensagens SMS de números desconhecidos</string>
   <string name="mx_main_purpose">O Mi Message permite enviar mensagens para outros utilizadores Mi Message através da Internet sem custos.
-Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode cobrar taxas por esta mensagem"</string>
+Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode cobrar taxas por esta mensagem</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_msg_pageview_setting_title">Definições do Mi Message</string>
   <string name="mx_offline">Inactivo</string>
