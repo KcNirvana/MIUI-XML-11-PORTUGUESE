@@ -409,7 +409,7 @@ For locating your device and switching to the lost mode
 If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.
 Read and agree to our"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; User Agreement &lt;/a&gt;&lt;/u&gt;and&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Privacy Policy &lt;/a&gt;&lt;/u&gt;"before using Find device.
 "</string>
-  <string name="privacy_and_agreement">Termos e Condições</string>
+  <string name="privacy_and_agreement">Termos e condições</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="provision_sync_items_loading">A preparar para sincronizar…</string>
   <string name="reading_status">A carregar estado…</string>

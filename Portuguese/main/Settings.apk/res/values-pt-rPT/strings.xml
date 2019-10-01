@@ -4623,7 +4623,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="sos_privacy_dialog_button_ok">Concordar</string>
   <string name="sos_privacy_dialog_message">"Leia e concorde com os nossos %s antes de utilizar esta funcionalidade.
 Esta funcionalidade necessita de permissões para aceder à sua localização, utilizar redes móveis e ler os seus contactos. Concorda?"</string>
-  <string name="sos_privacy_dialog_title">Termos e Condições</string>
+  <string name="sos_privacy_dialog_title">Termos e condições</string>
   <string name="sound_category_call_ringtone_vibrate_title">Toques e notificações</string>
   <string name="sound_category_sound_title">Geral</string>
   <string name="sound_category_system_title">Sistema</string>
@@ -4950,7 +4950,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="tap_to_wake_summary">Tocar duas vezes em qualquer ponto do ecrã para activar o dispositivo</string>
   <string name="taplus_title">Taplus</string>
   <string name="temporary_style">10 segundos após tocar no ecrã</string>
-  <string name="terms_title">Termos e Condições</string>
+  <string name="terms_title">Termos e condições</string>
   <string name="testing">Testes</string>
   <string name="testing_phone_info">Informações do telefone</string>
   <string name="testing_sim_toolkit">Ferramentas do SIM</string>

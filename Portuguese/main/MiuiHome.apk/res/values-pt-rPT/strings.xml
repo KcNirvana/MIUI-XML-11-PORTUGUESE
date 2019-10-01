@@ -334,7 +334,9 @@
   <string name="shake_to_align_icons_summary">Agitar o seu dispositivo enquanto estiver no modo de edição para preencher as automaticamente as células vazias com ícones</string>
   <string name="shake_to_align_icons_title">Agitar para preencher</string>
   <string name="share">Partilhar</string>
-  <string name="sharedUserId"/>
+  <string name="shortcut_share_dialog_content">Os ficheiros que enviar do seu telefone são determinados por si. Tenha em atenção quando escolher ficheiros para partilhar e seleccionar os seus remetentes. Não utilize o seu telefone para enviar software que possa afectar o normal funcionamento do dispositivo do remetente</string>
+  <string name="shortcut_share_dialog_positive_button">Percebi</string>
+  <string name="shortcut_share_dialog_title">Aviso legal</string>
   <string name="show_all">Ver tudo</string>
   <string name="show_recents_recommend_title">Mostrar sugestões</string>
   <string name="show_mem_info_title">Mostrar estado da memória</string>

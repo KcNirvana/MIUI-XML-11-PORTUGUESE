@@ -605,7 +605,7 @@
   <string name="cta_HIPS_Perm_Location_Desc">obter localização precisa (baseada em GPS e rede)</string>
   <string name="cta_dialog_negative">Sair</string>
   <string name="cta_dialog_positive">Concordar</string>
-  <string name="cta_dialog_title">Termos e Condições</string>
+  <string name="cta_dialog_title">Termos e condições</string>
   <string name="cta_main_purpose">Bem-vindo a Segurança! Pode utilizar esta aplicação para limpar lixo no seu dispositivo, limpar vírus, optimizar desempenho em jogos, poupar bateria, etc.</string>
   <string name="cta_settings">Permitir ligação à Internet</string>
   <string name="current_network_state_not_need_diagnose">A ligação à Internet está normal</string>
@@ -1007,7 +1007,7 @@ medical card"</string>
   <string name="game_booster_jump_webview">Aguarde…</string>
   <string name="game_booster_tab_top">Topo</string>
   <string name="game_booster_title">Acelerador de jogos</string>
-  <string name="game_bootser_tab_settings">Definições do acel. de jogos</string>
+  <string name="game_bootser_tab_settings">Definições do acelerador</string>
   <string name="game_else_function">Outros</string>
   <string name="game_more_improve">Restrinja actividades em segundo plano e velocidade de transferências para poupar bateria e banda para jogar</string>
   <string name="game_setting">Definições de jogos</string>
@@ -2259,7 +2259,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>
   <string name="st_title_sim_unknown">Desconhecido</string>
   <string name="st_title_whitelist_numbers">Excepções</string>
-  <string name="start">Iniciar</string>
+  <string name="start">Ligado</string>
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">A iniciar transferência: %1$s</string>
   <string name="start_game">Iniciar</string>
@@ -2367,7 +2367,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
 Note que %1s necessita de obter os seus dados e as seguintes permissões para funcionar normalmente:"</string>
   <string name="system_permission_declare_privacy_no_permission">"Note que %1s necessita de obter os seus dados para funcionar normalmente.
 Nós respeitamos e protegemos a sua privacidade"</string>
-  <string name="system_permission_declare_privacy_policy">Leia e concorde com a nossa &amp;lt;a href=\"%1$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar esta funcionalidade</string>
+  <string name="system_permission_declare_privacy_policy">Leia e concorde com a nossa Política de Privacidade antes de utilizar esta funcionalidade</string>
   <string name="system_permission_declare_revoke_system">Pode sair desta aplicação</string>
   <string name="system_permission_declare_revoke_uninstallable">Pode desinstalar esta aplicação ou gerir as suas permissões e autorizações em Segurança &gt; Gestão de aplicações &gt; Permissões &gt; Outras permissões</string>
   <string name="system_permission_declare_use_network">Ligue-se à rede</string>

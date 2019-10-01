@@ -51,7 +51,7 @@
   <string name="description_title">Acerca de Calculadora</string>
   <string name="devided_by_zero_reminder_message">Não é possível a divisão por zero</string>
   <string name="dialog_privacy_content">Além das funcionalidades básicas também tem uma calculadora científica e um conversor. Algumas funcionalidade necessitam de ligar à Internet para funcionar normalmente. Tem de ler e concordar com os nossos %1$s e %2$s antes de utilizar a Calculadora</string>
-  <string name="dialog_privacy_title">Termos e Condições</string>
+  <string name="dialog_privacy_title">Termos e condições</string>
   <string name="divDesc">Dividir</string>
   <string name="dotDesc">Ponto</string>
   <string name="eDesc">Número de Euler</string>
