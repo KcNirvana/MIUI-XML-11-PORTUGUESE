@@ -48,7 +48,14 @@
   <string name="search_menu_title">Pesquisa</string>
   <string name="share">Partilhar</string>
   <string name="superpower_app_add">Adicionar</string>
+  <string name="superpower_app_contact">Contactos</string>
+  <string name="superpower_app_delete">Eliminar</string>
+  <string name="superpower_app_edit">Editar</string>
+  <string name="superpower_app_exit">Sair</string>
   <string name="superpower_app_finish">Concluído</string>
+  <string name="superpower_app_isadded">Adicionado</string>
+  <string name="superpower_app_mms">Mensagens</string>
+  <string name="superpower_app_phone">Telefone</string>
   <string name="superpower_battery_dangerous">Ligue o carregador assim que possível</string>
   <string name="superpower_date">"EEEE, d 'de' MMMM"</string>
   <string name="superpower_dialog_app_select_content">As aplicações de terceiros normalmente consomem mais bateria que as aplicações de sistema. Adicionar mesmo assim?</string>
@@ -57,10 +64,12 @@
   <string name="superpower_incharging">A carregar</string>
   <string name="superpower_progress_battery_last">%s restante</string>
   <string name="superpower_search_hint">Pesquisar aplicações</string>
-  <string name="superpower_select_app_title">Layout do ecrã inicial</string>
+  <string name="superpower_select_app_title">Aplicações utilizadas frequentemente</string>
   <string name="superpower_settings">Poupança de bateria extrema</string>
+  <string name="superpower_settings_launcher">Poupança de bateria extrema</string>
   <string name="superpower_system">Recomendado</string>
   <string name="superpower_third">Aplicações de terceiros</string>
+  <string name="superpower_toast_app_select_full">Pode adicionar até 6 itens às aplicações utilizadas frequentemente</string>
   <string name="title_share_link">Partilhar URL</string>
   <string name="xunyou_pay_webview">Serviços Xunyou</string>
 </resources>

@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Instalador do certificado</string>
+  <string name="action_missing_private_key">Necessário chave privada para instalar o certificado</string>
+  <string name="action_missing_user_cert">Necessário certificado para instalar a chave privada</string>
+  <string name="app_name">Instalador de certificados</string>
   <string name="cert_is_added">O %s está instalado</string>
   <string name="cert_missing_error">Não foi possível instalar, porque não foi possível localizar o ficheiro do certificado</string>
   <string name="cert_not_saved">O certificado não está instalado</string>
@@ -19,7 +21,6 @@
   <string name="name_char_error">Escreva um nome que contenha apenas letras e números</string>
   <string name="name_credential_dialog_title">Atribua um nome ao certificado</string>
   <string name="name_empty_error">Introduza um nome</string>
-  <string name="no_cert_file_found">Não foi encontrado qualquer ficheiro de certificado no armazenamento USB</string>
   <string name="no_cert_to_saved">Não há certificado para instalar</string>
   <string name="one_cacrt">um certificado da AC</string>
   <string name="one_usercrt">certificado para um utilizador</string>
@@ -31,7 +32,7 @@
   <string name="pick_file_title">Escolher um certificado</string>
   <string name="pkcs12_file_password_dialog_title">Extrair de %s</string>
   <string name="pkcs12_password_dialog_title">Extrair certificado</string>
-  <string name="sdcard_not_present">Armazenamento USB não disponível</string>
+  <string name="userkey_type">Algoritmo:</string>
   <string name="storage_error">Não foi possível guardar o certificado. Toque em OK para tentar novamente</string>
   <string name="unable_to_save_cert">Não foi possível guardar o certificado. O armazenamento de credenciais não está activado ou não foi iniciado correctamente</string>
   <string name="wifi_cancel_label">Cancelar</string>

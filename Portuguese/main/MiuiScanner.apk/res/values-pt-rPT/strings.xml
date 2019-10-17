@@ -83,6 +83,7 @@
   <string name="feed_search_fail">Sem resultados</string>
   <string name="feedback_description_camera_access">O Digitalizador não consegue ligar à Câmara</string>
   <string name="feedback_description_save_photo">Não foi possível guardar foto ou vídeo</string>
+  <string name="flight_mode_connecting_to_wifi">Ligue o Wi-Fi manualmente quando o Modo Avião estiver ligado</string>
   <string name="got_it">Percebi</string>
   <string name="gps">Navegar</string>
   <string name="import_contact">Importar contacto</string>

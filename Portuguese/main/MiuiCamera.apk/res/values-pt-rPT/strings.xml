@@ -26,6 +26,7 @@
   <string name="accessibility_filter_open_panel">Menu de filtros aberto</string>
   <string name="accessibility_filter_pad_close">Menu de filtros fechado</string>
   <string name="accessibility_flash_auto">Flash auto ligado</string>
+  <string name="accessibility_flash_back_soft_light">O flash está ligado no modo Soft</string>
   <string name="accessibility_flash_off">Flash desligado</string>
   <string name="accessibility_flash_on">Flash ligado</string>
   <string name="accessibility_flash_torch">Flash ligado, modo lanterna</string>
@@ -41,6 +42,8 @@
   <string name="accessibility_intent_done_retry">Repetir</string>
   <string name="accessibility_lighting_panel_off">Barra de luz de estúdio desligada</string>
   <string name="accessibility_lighting_panel_on">Barra de luz de estúdio ligada</string>
+  <string name="accessibility_mimovie_off">Modo Filme desligado</string>
+  <string name="accessibility_mimovie_on">Modo Filme ligado</string>
   <string name="accessibility_mode_dismiss_button">Fechar o modo de selecção de botões</string>
   <string name="accessibility_more">Mais</string>
   <string name="accessibility_open">Ligado</string>
@@ -108,10 +111,13 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="cannot_connect_camera_volte_call">Está em curso uma videochamada. Tente mais tarde</string>
   <string name="cannot_move_warning_message">Ao tirar a foto mantenha o dispositivo quieto</string>
   <string name="capture_back_pressed_hint">Toque novamente para sair</string>
+  <string name="ccc_temperature_warning_msg">O seu dispositivo está superaquecido. A câmara vai ser fechado em %d segundos. As suas fotos ou vídeos vão ser guardadas automaticamente</string>
+  <string name="ccc_temperature_warning_title">O dispositivo está superaquecido</string>
   <string name="close_back_flash_toast">O seu dispositivo está superaquecido. Não é possível utilizar o flash</string>
   <string name="close_front_flash_toast">O seu dispositivo está superaquecido. Não é possível utilizar o flash</string>
   <string name="color_effect_entry_berry">Bagas</string>
   <string name="color_effect_entry_blackwhite">Preto e branco</string>
+  <string name="color_effect_entry_classic">Clássico</string>
   <string name="color_effect_entry_cookie">Bolacha</string>
   <string name="color_effect_entry_delicacy">Gourmet</string>
   <string name="color_effect_entry_fade">Desvaneio</string>
@@ -135,6 +141,7 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="config_name_group">Selfie de grupo</string>
   <string name="config_name_hht">Nocturno</string>
   <string name="config_name_magic">Magia</string>
+  <string name="config_name_mimovie">Modo Filme</string>
   <string name="config_name_scene">Cenário</string>
   <string name="config_name_setting">Definições</string>
   <string name="config_name_sound">Áudio</string>
@@ -161,6 +168,8 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="custom_watermark_words_save_success">Guardado com sucesso</string>
   <string name="dialog_google_lens_option_0">Google Lens (recomendado)</string>
   <string name="dialog_ok">OK</string>
+  <string name="dialog_ok_time">OK (%ds)</string>
+  <string name="dirty_tip_toast">A lente está suja. Limpe-a</string>
   <string name="do_not_remind_me">Não mostrar novamente</string>
   <string name="dual_camera_lens_covered_toast">A lente está tapada</string>
   <string name="dual_camera_lowlight_toast">A iluminação é muito baixa</string>
@@ -222,8 +231,11 @@ e criar uma com o mínimo de ruído"</string>
   <string name="hint_fast_motion">O vídeo que gravar vai ser reproduzido mais rápido</string>
   <string name="hint_groupshot">"A câmara vai tirar várias fotos
 e criar uma espectacular"</string>
+  <string name="hint_mimovie">Tire a foto no modo paisagem para um melhor efeito</string>
   <string name="hint_groupshot_beauty">Não pode utilizar Embelezar em fotos de grupo</string>
   <string name="hint_slow_motion">O vídeo que gravar vai ser reproduzido mais lento</string>
+  <string name="hint_subtitle">Ditar legendas na gravação de vídeos</string>
+  <string name="hint_subtitle_prompt">Pode ditar legendas agora</string>
   <string name="hunt_dual_water_mark">A data e hora vão ser adicionadas automaticamente</string>
   <string name="install_confirmed">Instalar</string>
   <string name="lens_dirty_detected_content">"Parece que a lente da câmara está suja.
@@ -304,6 +316,7 @@ Ao clicar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://
   <string name="pano_how_to_use_prompt_to_move">Comece a mover devagar</string>
   <string name="pano_how_to_use_prompt_start">Toque na seta para mudar direcção e comece a mover-se lentamente</string>
   <string name="path_settings">Aplicações de sistema/Câmara/Definições</string>
+  <string name="photo_assistance_tips_title">Dicas live</string>
   <string name="popup_tip_3d_beauty_intro_text">Beleza 3D</string>
   <string name="portait_effect_entry_blackwhite">Preto e branco</string>
   <string name="portait_effect_entry_cool">Menta</string>
@@ -334,6 +347,7 @@ Mantenha a pessoa nítida ao desfocar o fundo"</string>
   <string name="portrait_mode_use_hint">"O Modo Retrato desfoca o fundo
 e traz as pessoas que estão na frente"</string>
   <string name="pref_advance_settings">Definições adicionais</string>
+  <string name="pref_960_watermark_title">"Marca d'água 960fps"</string>
   <string name="pref_ai_detect">Detecção IA</string>
   <string name="pref_audio_focus_entry_front">Frente</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
@@ -578,10 +592,14 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_google_lens_summary">Aponte a sua câmara para as informações do contacto, URLs e códigos QR para ver as opções disponíveis</string>
   <string name="pref_google_lens_title">Sugestões Google Lens</string>
   <string name="pref_groupshot_with_primitive_title">Guardar também as fotos originais</string>
+  <string name="pref_lens_dirty_detect_summary">Receber uma notificação quando a lente tiver suja</string>
+  <string name="pref_lens_dirty_detect_title">Notificações sobre a lente suja</string>
   <string name="pref_manual_exposure_title">Tempo de exposição</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Apenas pode gravar vídeos HD (720p) com 240fps</string>
   <string name="pref_new_slow_motion_video_quality_entry_1080p">Full HD (1080p)</string>
   <string name="pref_new_slow_motion_video_quality_entry_720p">HD (720p)</string>
+  <string name="pref_photo_assistance_tips_off">Desligado</string>
+  <string name="pref_photo_assistance_tips_on">Ligado</string>
   <string name="pref_priority_storage_title">Guardar no cartão SD</string>
   <string name="pref_privacy_title">Política de Privacidade</string>
   <string name="pref_qc_focus_position_title">Focar</string>
@@ -612,6 +630,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_video_quality_entry_4kuhd">4K (2160p) 30fps</string>
   <string name="pref_video_quality_entry_4kuhd_60fps">4K (2160p) 60fps</string>
   <string name="pref_video_quality_entry_720p">HD (720p) 30fps</string>
+  <string name="pref_video_quality_entry_8kuhd">UHD (8K) 30fps</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
   <string name="pref_video_quality_title">Qualidade de vídeo</string>
   <string name="pref_video_speed_entry_fast">Rápido</string>
@@ -620,6 +639,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_video_speed_fast_title">Time Lapse</string>
   <string name="pref_video_speed_slow_title">Câmara Lenta</string>
   <string name="pref_video_speed_title">Velocidade de gravação do vídeo</string>
+  <string name="pref_video_subtitle">Legendas</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">10X (0.3 segundos de intervalo)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">120X (4 segundos de intervalo)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">150X (5 segundos de intervalo)</string>
@@ -638,6 +658,10 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_watermark_on">Ligada</string>
   <string name="pref_watermark_title">"Marca d'água"</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
+  <string name="recommend_macro_mode">Experiment o Modo Macro</string>
+  <string name="recommend_portrait">Experimente o Modo Retrato</string>
+  <string name="recommend_soft_light_tip">Ligue o flash</string>
+  <string name="recommend_super_night">Experimente o Modo Nocturno</string>
   <string name="record_back_pressed_hint">Prima Voltar novamente para terminar a gravação</string>
   <string name="reset_manually_parameter_confirmed">OK</string>
   <string name="reset_manually_parameter_hint">Repor</string>
@@ -673,6 +697,10 @@ e traz as pessoas que estão na frente"</string>
   <string name="spaceIsLow_content_external_storage_priority">O cartão SD está a ficar cheio</string>
   <string name="spaceIsLow_content_primary_storage_priority">O armazenamento USB está a ficar cheio</string>
   <string name="start_capture">OK</string>
+  <string name="subtitle_network_exception_tips">Não foi possível ligar à rede</string>
+  <string name="super_eis">Super estabilização</string>
+  <string name="super_eis_disabled_hint">Super estabilização desligada</string>
+  <string name="super_night_hint">A optimizar imagem… Mantenha o dispositivo estável</string>
   <string name="super_night_toast">Mantenha o seu telefone quieto enquanto tira a foto</string>
   <string name="tap_to_exposure">Toque para ajustar a exposição manualmente</string>
   <string name="tap_to_focus">Toque para focar</string>
@@ -687,7 +715,11 @@ e traz as pessoas que estão na frente"</string>
   <string name="ubifocus_capture_warning_message">Para melhorar o resultado da foto os objectos devem estar a menos de um metro de distância da lente</string>
   <string name="ultra_pixel_photography_close_tip">%s Ultra HD desligado</string>
   <string name="ultra_pixel_photography_open_tip">%s Ultra HD ligado</string>
+  <string name="ultra_pixel_portrait_hint">Retrato em luz fraca</string>
   <string name="ultra_pixel_zoom_no_support_tip">O zoom não funciona no modo %s Ultra HD</string>
+  <string name="ultra_tele_use_hint_text_body">"Utilize zoom 50X para capturar objectos distantes
+com grande detalhe"</string>
+  <string name="ultra_tele_use_hint_text_title">Zoom 50X</string>
   <string name="ultra_wide_bokeh_close_tip">Modo ecrã inteiro desligado</string>
   <string name="ultra_wide_bokeh_open_tip">Modo ecrã inteiro</string>
   <string name="ultra_wide_close_tip">Ultra grande-angular desligado</string>
@@ -699,7 +731,7 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
   <string name="ultra_wide_open_tip">Ultra grande-angular</string>
   <string name="ultra_wide_open_tip_sat">Ultra grande-angular 0.6X</string>
   <string name="ultra_wide_recommend_tip_hint">Experimente o Ultra grande-angular</string>
-  <string name="ultra_wide_recommend_tip_hint_sat">Experimente o Ultra grande-angular 0.6X</string>
+  <string name="ultra_wide_recommend_tip_hint_sat">Troque para o modo Ultra grande-angular 0.6X</string>
   <string name="user_agree">Concordar</string>
   <string name="user_agreement2">Termos de Serviço</string>
   <string name="user_agreement4">Política de Privacidade</string>
@@ -717,6 +749,13 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
   <string name="video_effect_entry_polaroid">Polaroid</string>
   <string name="video_reach_size_limit">Limite de tamanho atingido</string>
   <string name="view_privacy_policy">Ver Política de Privacidade</string>
+  <string name="vv_duartion_hint">%1$s | Segmento %2$d | %3$ss</string>
+  <string name="vv_hint">Apenas pode tirar registos de vídeo em modo paisagem</string>
+  <string name="vv_stability_hint">Mantenha o dispositivo estável</string>
+  <string name="vv_start">Tirar registos de vídeo</string>
+  <string name="vv_use_hint_text_body">"O modo registos de vídeo permite
+gravar e editar vídeos no momento"</string>
+  <string name="vv_use_hint_text_title">Registos de vídeo</string>
   <string name="wait">Aguarde…</string>
   <string name="wideselfie_press_shoot_key_to_start">Toque no botão de disparo</string>
   <string name="wideselfie_result_image_lossless">Não foi possível guardar o panorama</string>

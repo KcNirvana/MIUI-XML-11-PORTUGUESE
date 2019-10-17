@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="accessibility_usage_summary">
+        <item quantity="other">%1$d aplicações com acesso total ao seu dispositivo</item>
+        <item quantity="one">1 aplicação com acesso total ao seu dispositivo</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Atraso extremamente curto (%1$d ms)</item>
         <item quantity="one">Atraso extremamente curto (%1$d ms)</item>
@@ -104,6 +108,14 @@
         <item quantity="other">%s horas</item>
         <item quantity="one">1 hora</item>
     </plurals>
+    <plurals name="location_app_permission_summary_location_on">
+        <item quantity="other">%1$d de %2$d aplicações têm acesso à localização</item>
+        <item quantity="one">%1$d de %2$d aplicações têm acesso à localização</item>
+    </plurals>
+    <plurals name="location_settings_summary_location_on">
+        <item quantity="other">Ligado - %1$d aplicações têm acesso à localização</item>
+        <item quantity="one">Ligado - %1$d aplicação tem acesso à localização</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">A palavra-passe tem de ter pelo menos %d letras</item>
         <item quantity="one">A palavra-passe tem de ter pelo menos uma letra</item>
@@ -184,17 +196,37 @@
         <item quantity="other">%d adicionados</item>
         <item quantity="one">%d adicionado</item>
     </plurals>
+    <plurals name="mobile_network_summary_count">
+        <item quantity="other">%1$d SIMs</item>
+        <item quantity="one">%1$d SIM</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d restrições</item>
         <item quantity="one">1 restrição</item>
+    </plurals>
+    <plurals name="notification_few_channel_count_summary">
+        <item quantity="other">%1$d canais de notificações</item>
+        <item quantity="one">%1$d canal de notificações</item>
     </plurals>
     <plurals name="notification_summary">
         <item quantity="other">Desligado para %d aplicações</item>
         <item quantity="one">Desligado para 1 aplicação</item>
     </plurals>
+    <plurals name="notifications_sent_daily">
+        <item quantity="other">~%d notificações por dia</item>
+        <item quantity="one">~%d notificação por dia</item>
+    </plurals>
+    <plurals name="notifications_sent_weekly">
+        <item quantity="other">~%d notificações por semana</item>
+        <item quantity="one">~%d notificação por semana</item>
+    </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d aplicações activas</item>
         <item quantity="one">%d aplicação activa</item>
+    </plurals>
+    <plurals name="permission_bar_chart_label">
+        <item quantity="other">%s aplicações</item>
+        <item quantity="one">1 aplicação</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d permissões concedidas</item>
@@ -231,6 +263,10 @@
     <plurals name="show_audio_logcat_countdown">
         <item quantity="other">Está a %1$d passos de criar um registo de áudio</item>
         <item quantity="one">Está a %1$d passo de criar um registo de áudio</item>
+    </plurals>
+    <plurals name="show_bluetooth_devices">
+        <item quantity="other">%1$d dispositivos ligados</item>
+        <item quantity="one">%1$d dispositivo ligado</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Está a %1$d passos de entrar nos testes de hardware</item>
@@ -376,6 +412,14 @@ Para obter mais informações acerca deste certificado, contacte o seu administr
         <item quantity="other">%d redes</item>
         <item quantity="one">1 rede</item>
     </plurals>
+    <plurals name="wifi_saved_all_access_points_summary">
+        <item quantity="other">%d redes e subscrições</item>
+        <item quantity="one">1 rede e subscrição</item>
+    </plurals>
+    <plurals name="wifi_saved_passpoint_access_points_summary">
+        <item quantity="other">%d subscriptions</item>
+        <item quantity="one">1 subscription</item>
+    </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d redes partilhadas</item>
         <item quantity="one">%d rede partilhada</item>
@@ -384,9 +428,26 @@ Para obter mais informações acerca deste certificado, contacte o seu administr
         <item quantity="other">Código PIN inválido. Tem mais %d tentativas restantes</item>
         <item quantity="one">Código PIN inválido. Tem mais %d tentativa restante</item>
     </plurals>
+    <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">Notificações de %1$d aplicação podem sobrepor Não incomodar</item>
+        <item quantity="zero">Nenhuma aplicação pode sobrepor Não incomodar</item>
+        <item quantity="one">Notificações de 1 aplicação podem sobrepor Não incomodar</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">1 hora</item>
+    </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d regras automáticas ligadas</item>
-        <item quantity="one">1 regra automática ligada</item>
+        <item quantity="other">%d activadas</item>
+        <item quantity="one">1 activada</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item quantity="other">%d programações podem ligar automaticamente</item>
+        <item quantity="one">1 programação pode ligar automaticamente</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item quantity="other">%d outros</item>
+        <item quantity="one">1 outro</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Alterar para apenas alarmes por %1$d horas até às %2$s</item>

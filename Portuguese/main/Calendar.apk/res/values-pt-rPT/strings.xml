@@ -183,7 +183,7 @@
   <string name="event_info_reminders_label">Lembretes</string>
   <string name="event_info_reminders_label_1">Lembrete</string>
   <string name="event_info_repeat">Repetir</string>
-  <string name="event_info_title">Ver evento</string>
+  <string name="event_info_title">Detalhes do evento</string>
   <string name="event_info_title_invite">Convite para reunião</string>
   <string name="event_info_title_anniversary">Aniversário</string>
   <string name="event_info_title_birthday">Data de nascimento</string>
@@ -288,8 +288,8 @@
   <string name="month_medium_september">Set</string>
   <string name="month_view">Mês</string>
   <string name="monthly">Mensalmente</string>
-  <string name="monthly_on_day">Mensalmente (mesmo dia)</string>
-  <string name="monthly_on_day_count">Mensalmente (%1$s de cada mês)</string>
+  <string name="monthly_on_day">Mensalmente (mesma data)</string>
+  <string name="monthly_on_day_count">Mensalmente (%1$s)</string>
   <string name="more_match">Mais eventos</string>
   <string name="more_string">+%1$s</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
@@ -424,6 +424,7 @@
   <string name="setting_holiday_display_desc">Os cartões de feriados estão localizados em baixo do calendário na página inicial</string>
   <string name="setting_holiday_reminder">Lembretes de feriados</string>
   <string name="setting_others">Adicionais</string>
+  <string name="setting_show_reject_agenda">Mostrar eventos rejeitados</string>
   <string name="setting_sms_import">Importar eventos de SMS</string>
   <string name="setting_title_about">Acerca de</string>
   <string name="setting_title_holiday_display">Mostrar feriados</string>

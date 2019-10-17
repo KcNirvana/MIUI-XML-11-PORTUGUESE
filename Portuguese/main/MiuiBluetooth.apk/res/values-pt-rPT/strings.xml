@@ -15,8 +15,11 @@
   <string name="bluetooth_preference_found_devices">Dispositivos disponíveis</string>
   <string name="bluetooth_preference_scan_title">Procurar dispositivos</string>
   <string name="bluetooth_search_for_devices">Procurar dispositivos</string>
+  <string name="copy">Copiar</string>
   <string name="device_picker">Definições de dispositivo Bluetooth</string>
   <string name="disconnect">Desemparelhar</string>
+  <string name="expand_button_title">Avançado</string>
+  <string name="fast_connect_device_battery">Bateria</string>
   <string name="fast_connect_device_box">Box</string>
   <string name="fast_connect_device_box_name">Box %1$s</string>
   <string name="fast_connect_device_connect_cancel">Cancelar</string>
@@ -49,9 +52,11 @@
   <string name="mi_key_summary_open_camera">Duplo toque na MiKey para abrir a câmara</string>
   <string name="mi_key_summary_take_photo">Toque na MiKey para tirar uma foto</string>
   <string name="mi_key_take_photo">Tirar foto</string>
+  <string name="not_set">Não definido</string>
   <string name="notify_device_lose_connection_text">Toque para desemparelhar %1$s</string>
   <string name="notify_device_lose_connection_title">Ligação perdida com %1$s</string>
   <string name="ok_button">OK</string>
+  <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="progress_scanning">A procurar</string>
   <string name="reset_function_msg">Ao repor esta funcionalidade pode fazer com que %1$s deixe de funcionar normalmente</string>
   <string name="some_app_taking">(%1$s já está a utilizar esta funcionalidade)</string>

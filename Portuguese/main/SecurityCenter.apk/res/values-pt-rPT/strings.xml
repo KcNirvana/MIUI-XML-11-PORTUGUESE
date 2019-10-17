@@ -603,11 +603,15 @@
   <string name="create_gamebooster_destop">Atalho criado no ecrã inicial com sucesso</string>
   <string name="create_shortcut">Criar um atalho no ecrã inicial para o Acelerador de jogos</string>
   <string name="cta_HIPS_Perm_Location_Desc">obter localização precisa (baseada em GPS e rede)</string>
+  <string name="cta_close_dialog_cancel">Cancelar</string>
+  <string name="cta_close_dialog_content">Se restringir o acesso de Segurança à Internet e informação da localização, não vai pode receber alertas de terramotos, actualizar as definições de vírus e lista de bloqueio. Restringir mesmo assim?</string>
+  <string name="cta_close_dialog_ok">Restringir</string>
+  <string name="cta_close_dialog_title">Restrição de acessos</string>
   <string name="cta_dialog_negative">Sair</string>
   <string name="cta_dialog_positive">Concordar</string>
   <string name="cta_dialog_title">Termos e condições</string>
   <string name="cta_main_purpose">Bem-vindo a Segurança! Pode utilizar esta aplicação para limpar lixo no seu dispositivo, limpar vírus, optimizar desempenho em jogos, poupar bateria, etc.</string>
-  <string name="cta_settings">Permitir ligação à Internet</string>
+  <string name="cta_settings">Permitir acesso à Internet e localização</string>
   <string name="current_network_state_not_need_diagnose">A ligação à Internet está normal</string>
   <string name="customize_limit_pkg">%s (personalizado)</string>
   <string name="customizer_mode_user_define_name">As minhas regras</string>
@@ -1436,7 +1440,7 @@ da operadora"</string>
   <string name="mixed_password_confirmed_header_confirm">Definido com sucesso. Toque para confirmar</string>
   <string name="mixed_password_confirmed_header_continue">Definido com sucesso. Toque \"Seguinte\"</string>
   <string name="mixed_pattern_entered_header">Definido com sucesso</string>
-  <string name="mixed_recording_intro_header">Introduza pelo menos 4 caracteres</string>
+  <string name="mixed_recording_intro_header">Introduza %1$s-%2$s caracteres</string>
   <string name="mixed_retry_button_text">Cancelar</string>
   <string name="mixed_settings_help_how_to_record">Como definir a palavra-passe</string>
   <string name="modifypassword">Alterar tipo de palavra-passe</string>
@@ -1476,20 +1480,20 @@ da operadora"</string>
   <string name="network_roaming_exception_tips">Não é possível utilizar dados móveis em roaming para ligar à rede</string>
   <string name="network_route_exception_detail">"Pode existir um problema com o router a que está ligado:
 
- "&lt;b&gt;"1. Problemas de redes Wi-Fi públicas
-"&lt;/b&gt;"Se está ligado a uma rede Wi-Fi pública, o número de utilizadores ligados a essa rede pode diminuir a velocidade ou criar problemas de ligação. Troque para outra rede e tente novamente.
+ "&lt;b&gt;"1. Problemas de redes Wi-Fi públicas&lt;/b&gt;"
+Se está ligado a uma rede Wi-Fi pública, o número de utilizadores ligados a essa rede pode diminuir a velocidade ou criar problemas de ligação. Troque para outra rede e tente novamente.
 
- 2."&lt;b&gt;" Problemas do prestador de serviços de Internet
-T"&lt;/b&gt;"er a certeza de que sua conta está normal no seu Fornecedor de Serviços de Internet.
+ 2."&lt;b&gt;" Problemas do prestador de serviços de Internet&lt;/b&gt;"
+Ter a certeza de que sua conta está normal no seu Fornecedor de Serviços de Internet.
 
- 3."&lt;b&gt;" Problemas de router
-T"&lt;/b&gt;"ente reiniciar o seu router ou verificar as definições de administrador para o seu router.
+ 3."&lt;b&gt;" Problemas de router&lt;/b&gt;"
+Tente reiniciar o seu router ou verificar as definições de administrador para o seu router.
 
- 4."&lt;b&gt;" Outros problemas de router
-L"&lt;/b&gt;"er as instruções que vieram com o seu router e restaurar o seu router para as definições de fábrica.
+ 4."&lt;b&gt;" Outros problemas de router&lt;/b&gt;"
+Ler as instruções que vieram com o seu router e restaurar o seu router para as definições de fábrica.
 
- 5."&lt;b&gt;" Verifique se o seu router está ligado correctamente
-T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um problema com a ligação, entre em contacto com o seu prestador de serviços de Internet</string>
+ 5."&lt;b&gt;" Verifique se o seu router está ligado correctamente&lt;/b&gt;"
+Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um problema com a ligação, entre em contacto com o seu prestador de serviços de Internet</string>
   <string name="network_sim_exception_detail">"Pode existir um problema com o seu cartão SIM:
 
  1. Certifique-se que a sua conta está normal na sua operadora. Tente usar um cartão SIM de um amigo e verificar se consegue ligar normalmente
@@ -1730,6 +1734,11 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analisar utilização de bateria</string>
   <string name="power_cell">Inactividade do telefone</string>
+  <string name="power_center_5g_save_close_detail">A poupança de bateria 5G aumenta a vida da bateria sem afectar a ligação 5G. Desligar mesmo assim?</string>
+  <string name="power_center_5g_save_close_later">Não desligar</string>
+  <string name="power_center_5g_save_close_title">A desligar a poupança de bateria 5G</string>
+  <string name="power_center_5g_save_summary_text">Torne a ligação 5G menos gastadora de bateria em determinados cenários</string>
+  <string name="power_center_5g_save_title_text">Poupança de bateria 5G</string>
   <string name="power_center_auto_shutdown">Ligar/desligar automaticamente</string>
   <string name="power_center_back">Voltar</string>
   <string name="power_center_battery_last">%s restante</string>
@@ -1941,6 +1950,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="privacy_prompt_traffic_adjust_message">Esta funcionalidade necessita de encriptar e enviar o IMEI, número de telefone e dados da operadora para os servidores Mi para conseguir receber as estatísticas de utilização de dados da sua operadora</string>
   <string name="privacy_prompt_upload">Enviar</string>
   <string name="process_mediaserver_label">Servidor de multimédia</string>
+  <string name="process_vpnsdkmanager_label">Game Turbo</string>
   <string name="promotion">Anúncios</string>
   <string name="prompt_all">Perguntar para todas</string>
   <string name="prompt_input_time_illegal">Não é possível definir esta hora. Altere-a e tente novamente</string>
@@ -2075,6 +2085,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="shield_keyboard_detail">Duplo toque nos botões para voltar a ligar</string>
   <string name="shield_keyboard_summary">Restringir botões e gestos durante jogos</string>
   <string name="shield_keyboard_title">Restringir botões e gestos</string>
+  <string name="shortcut_title_scan">Verificar</string>
+  <string name="shortcut_title_whatsapp_clean">Limpeza do WhatsApp</string>
   <string name="show_system_app">Mostrar aplicações de sistema</string>
   <string name="show_traffic_dialog_message">A sua utilização de dados vai estar visível na área de notificações. Pode ligar ou desligar esta funcionalidade em Utilização de dados &gt; Definições</string>
   <string name="show_traffic_dialog_title">Mostrar utilização de dados na área de notificações</string>

@@ -4,6 +4,7 @@
   <string name="activity_not_found">A aplicação não está instalada no seu dispositivo</string>
   <string name="activity_not_unlocked">Aguarde até o dispositivo estar totalmente reiniciado antes de abrir aplicações</string>
   <string name="add_screen">Adicionar ecrã</string>
+  <string name="additional_settings">Definições adicionais</string>
   <string name="all_apps">Todas as aplicações</string>
   <string name="all_apps_no_search_results">Sem resultados</string>
   <string name="all_apps_search_app">Pesquisar aplicações</string>
@@ -74,6 +75,7 @@
   <string name="apply_as_lock_screen">Definir como ecrã de bloqueio</string>
   <string name="apply_as_wallpaper">Definir como ecrã inicial</string>
   <string name="apply_both">Definir ambos</string>
+  <string name="apply_text">Aplicar</string>
   <string name="aqi_quality_index_dangerous">Perigoso</string>
   <string name="aqi_quality_index_good">Bom</string>
   <string name="aqi_quality_index_hazardous">Arriscado</string>
@@ -89,6 +91,7 @@
   <string name="cant_remove_folder">Não é possível remover a pasta</string>
   <string name="cant_remove_retained_app">Não foi possível remover esta aplicação</string>
   <string name="cant_remove_system_app">Não é possível remover aplicações de sistema</string>
+  <string name="cell_icon_size_title">Tamanho dos ícones</string>
   <string name="change_wallpaper">Alterar</string>
   <string name="choose_wallpaper">Escolher papel de parede</string>
   <string name="chooser_wallpaper">Escolher um novo papel de parede</string>
@@ -119,6 +122,11 @@
   <string name="disable_wallpaper_scroll">Desligar efeito de movimento</string>
   <string name="double_tap_to_lock_title">Duplo toque no ecrã para bloquear</string>
   <string name="download_action">Transferir</string>
+  <string name="drawer_background">Fundo</string>
+  <string name="drawer_background_dark">Escuro</string>
+  <string name="drawer_background_light">Claro</string>
+  <string name="drawer_background_transparency">Transparência da gaveta de aplicações</string>
+  <string name="drawer_settings">Gaveta de aplicações</string>
   <string name="dual_app">Clonar aplicações</string>
   <string name="edit_folder_title">Editar nome da pasta</string>
   <string name="edit_mode_dual_app">Clonar aplic.</string>
@@ -206,6 +214,7 @@
   <string name="home_gesture_notification_bar">Notificações</string>
   <string name="home_pull_down_action">Deslizar para baixo no ecrã inicial</string>
   <string name="home_screen">Ecrã inicial</string>
+  <string name="home_screen_settings">Ecrã inicial</string>
   <string name="home_slide_up_action">Deslizar para cima no ecrã inicial</string>
   <string name="icon_reorganize_channel">Organizar ícones</string>
   <string name="image_too_small_message">A imagem não tem a dimensão necessária</string>
@@ -213,6 +222,7 @@
   <string name="invalid_contact_shortcut">Contacto inválido</string>
   <string name="is_setting_wallpaper_message">A definir papel de parede…</string>
   <string name="is_system_wallpaper_message">Não foi possível eliminar os recursos de sistema</string>
+  <string name="launcher_minus_screen_title">Assistente no ecrã inicial</string>
   <string name="launcher_not_exist">Ocorreu um erro. Volte ao início e tente novamente</string>
   <string name="launcher_pull_down_title">Deslizar para baixo no ecrã inicial</string>
   <string name="launcher_slide_up_title">Deslizar para cima no ecrã inicial</string>
@@ -222,6 +232,7 @@
   <string name="liked">Adicionado aos favoritos</string>
   <string name="loading_desktop">Aguarde…</string>
   <string name="loading_wallpaper">Aguarde…</string>
+  <string name="local_apps">Aplicações locais</string>
   <string name="local_wallpaper">Transferido</string>
   <string name="lock_screen">Ecrã de bloqueio</string>
   <string name="lock_screen_cells_title">Bloquear disposição do ecrã</string>
@@ -305,6 +316,7 @@
   <string name="quick_app">Aplicações rápidas</string>
   <string name="recent_apps">Recentes</string>
   <string name="recents_config_title">Recentes</string>
+  <string name="recommend_app">Sugestões da aplicação</string>
   <string name="recommend_apps_default_title">Vazio</string>
   <string name="recommend_apps_no_data">Sem dados</string>
   <string name="recommend_apps_no_data_toast">Sem recomendações</string>
@@ -324,6 +336,8 @@
   <string name="screen_cells_config_title">Disposição do ecrã inicial</string>
   <string name="screen_locked_toast">O layout do ecrã inicial está bloqueado</string>
   <string name="screen_number">%d ecrã</string>
+  <string name="search_in_apps_store">Pesquisar \"%1$s\" em %2$s</string>
+  <string name="search_no_result">Sem resultados</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_frame">Fotograma</string>
   <string name="select_photo">Foto</string>
@@ -340,6 +354,7 @@
   <string name="show_all">Ver tudo</string>
   <string name="show_recents_recommend_title">Mostrar sugestões</string>
   <string name="show_mem_info_title">Mostrar estado da memória</string>
+  <string name="show_most_popular_apps_you_used">Mostrar as aplicações frequentas na gaveta</string>
   <string name="sort_by_abc">Ordenar por nome</string>
   <string name="sort_by_frequency">Ordenar por utilização</string>
   <string name="sort_by_not_defined">Ordenar automaticamente</string>
@@ -351,6 +366,7 @@
   <string name="status_paused">Em pausa</string>
   <string name="status_pending">Pendente</string>
   <string name="system_shortcuts_more_operation">Info. da aplicação</string>
+  <string name="system_text">Sistema</string>
   <string name="title_jeejen">Ecrã inicial Jeejen</string>
   <string name="title_select_live_folder">Seleccionar pasta</string>
   <string name="title_select_shortcut">Seleccionar atalho</string>

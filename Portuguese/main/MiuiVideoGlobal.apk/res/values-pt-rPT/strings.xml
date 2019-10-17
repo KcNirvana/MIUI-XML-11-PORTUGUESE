@@ -1,22 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Ir para o início</string>
-  <string name="abc_action_bar_up_description">Ir para cima</string>
-  <string name="abc_action_menu_overflow_description">Mais opções</string>
-  <string name="abc_action_mode_done">Concluído</string>
-  <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-  <string name="abc_activitychooserview_choose_application">Escolher uma aplicação</string>
-  <string name="abc_capital_off">Desligado</string>
-  <string name="abc_capital_on">Ligado</string>
-  <string name="abc_search_hint">Pesquisar…</string>
-  <string name="abc_searchview_description_clear">Limpar pesquisa</string>
-  <string name="abc_searchview_description_query">Pesquisar assunto</string>
-  <string name="abc_searchview_description_search">Pesquisar</string>
-  <string name="abc_searchview_description_submit">Submeter assunto</string>
-  <string name="abc_searchview_description_voice">Pesquisa por voz</string>
-  <string name="abc_shareactionprovider_share_with">Partilhar com</string>
-  <string name="abc_shareactionprovider_share_with_application">Partilhar com %s</string>
-  <string name="abc_toolbar_collapse_description">Fechar</string>
+  <string name="This_week">Esta semana</string>
+  <string name="Today">Hoje</string>
+  <string name="Yesterday">Ontem</string>
   <string name="app_name">Vídeos</string>
   <string name="cancel">Cancelar</string>
   <string name="canceled">Cancelado</string>
@@ -356,11 +342,11 @@ Aumentar a segurança da sua conta"</string>
   <string name="plus_player_share_screen_connect_success">Ligado com sucesso</string>
   <string name="plus_player_share_screen_device">Dispositivos disponíveis</string>
   <string name="plus_player_share_screen_in_device">A reproduzir em %s…</string>
-  <string name="plus_player_share_screen_no_device">"Couldn't find devices nearby."</string>
-  <string name="plus_player_share_screen_play">Casting video…</string>
-  <string name="plus_player_share_screen_searching_device">Searching for devices nearby…</string>
-  <string name="plus_player_share_screen_starting_service">Preparing to cast…</string>
-  <string name="plus_player_share_screen_stop">Stop casting</string>
+  <string name="plus_player_share_screen_no_device">Sem dispositivos próximos</string>
+  <string name="plus_player_share_screen_play">A transmitir vídeo…</string>
+  <string name="plus_player_share_screen_searching_device">A procurar dispositivos próximos…</string>
+  <string name="plus_player_share_screen_starting_service">A preparar para transmitir…</string>
+  <string name="plus_player_share_screen_stop">Parar transmissão</string>
   <string name="plus_player_share_screen_video_not_support">"Previews aren't supported for this video format."</string>
   <string name="plus_player_speed">Speed</string>
   <string name="plus_player_speed_toast">Switched to speed %s successfully</string>
@@ -417,19 +403,19 @@ Aumentar a segurança da sua conta"</string>
   <string name="pw_comment_type_hot">Comentários em destaque</string>
   <string name="pw_comment_write_comment">Add a comment…</string>
   <string name="pw_comment_write_comment2">Add a comment</string>
-  <string name="pw_debug_close">Turn off</string>
+  <string name="pw_debug_close">Desligar</string>
   <string name="pw_debug_close_log">Turn off debugging</string>
   <string name="pw_debug_open_log">Turn on debugging</string>
   <string name="pw_enter_detail">Ver detalhes</string>
-  <string name="pw_filter_empty">"Couldn't find results.
-Check out other videos!"</string>
-  <string name="pw_filter_no_result">"Couldn't find results. Try a different set of filters."</string>
+  <string name="pw_filter_empty">"Sem resultados.
+Tente ver outros vídeos!"</string>
+  <string name="pw_filter_no_result">Sem resultados</string>
   <string name="pw_onlineservice_close_info">"You won't be able to play latest videos after you turn this feature off."</string>
   <string name="pw_onlineservice_close_title">Atenção</string>
   <string name="pw_onlineservice_open_info">Turn on online services to use this feature.</string>
-  <string name="pw_onlineservice_open_title">Attention</string>
+  <string name="pw_onlineservice_open_title">Atenção</string>
   <string name="pw_people_search">Em destaque</string>
-  <string name="pw_permission_content">"You won't be able to use Mi Video without the required permissions."</string>
+  <string name="pw_permission_content">Não vai poder utilizar Vídeos sem as permissões necessárias</string>
   <string name="pw_permission_refuse">Restringir mesmo assim</string>
   <string name="pw_permission_retry">Permitir</string>
   <string name="pw_permission_title">Permissões necessárias</string>
@@ -492,6 +478,7 @@ Check out other videos!"</string>
   <string name="t_network_error">Ocorreu um erro de rede</string>
   <string name="t_ovp_check_delete_favor">Seleccionar itens para remover</string>
   <string name="t_start_download">A iniciar transferência:</string>
+  <string name="today">Hoje</string>
   <string name="ui_log_tip">Tap this area to hide, press and hold to clear old logs. Drag logs manually.</string>
   <string name="update">Actualizar</string>
   <string name="v_agree">Concordar</string>
@@ -527,4 +514,5 @@ Size: %2$s"</string>
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+  <string name="yesterday">Ontem</string>
 </resources>

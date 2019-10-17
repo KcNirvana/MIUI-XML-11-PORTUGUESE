@@ -68,6 +68,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Agora não</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ligar</string>
   <string name="fp_nav_center_action_choose_dlg_title">Ligar Toque rápido</string>
+  <string name="frequent_email">Emails utilizados frequentemente</string>
   <string name="frequent_phrases">Frases freqs.</string>
   <string name="functions_are_being_developed">Esta funcionalidade vai estar disponível em breve</string>
   <string name="global_actions_airplane_mode">Modo Avião</string>
@@ -79,6 +80,7 @@
   <string name="handy_mode_summary">Para sair toque na área escurecida</string>
   <string name="handy_mode_title">Modo Uma Mão</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Coloque o seu dedo no botão Início</string>
+  <string name="input_method_clipboard_tips">Os itens copiado vão ser eliminados da área de transferências após 48 horas</string>
   <string name="input_method_edit_phrase_text">Editar frases frequentes</string>
   <string name="input_method_no_content_text">Sem itens</string>
   <string name="input_method_switch_settings_text">Definições do teclado</string>

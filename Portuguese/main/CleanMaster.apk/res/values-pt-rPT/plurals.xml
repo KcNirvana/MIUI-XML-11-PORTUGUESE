@@ -113,8 +113,8 @@
        <item quantity="one">%1$d segundo</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d visualizações</item>
-        <item quantity="one">%1$d visualização</item>
+        <item quantity="other">%1$s visualizações</item>
+        <item quantity="one">%1$s visualização</item>
     </plurals>
     <plurals name="wechat_copy_video_failed_dialog_msg">
         <item quantity="other">Não foi possível exportar %d vídeos. Liberte espaço e tente novamente</item>

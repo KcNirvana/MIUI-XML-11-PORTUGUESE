@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="pc_manage_active_app_items">
-        <item>Inactivar aplicação</item>
-        <item>Poupança de bateria</item>
+    <string-array name="emode_app_groups">
+        <item>Aplicações de sistema</item>
+        <item>Outras aplicações</item>
+        <item>Aplicações seleccionadas</item>
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Personalizada</item>
@@ -12,10 +13,13 @@
         <item>Aplicações activas</item>
         <item>Aplicações inactivas</item>
     </string-array>
-    <string-array name="emode_app_groups">
-        <item>Aplicações de sistema</item>
-        <item>Outras aplicações</item>
-        <item>Aplicações seleccionadas</item>
+    <string-array name="pc_manage_active_app_items">
+        <item>Inactivar aplicação</item>
+        <item>Poupança de bateria</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Desempenho</item>
+        <item>Equilibrado</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>Modo predefinido</item>
@@ -25,9 +29,5 @@
         <item>Dar prioridade à temperatura</item>
         <item>Dar prioridade ao desempenho</item>
         <item>Não suportada pela poupança extrema de bateria</item>
-    </string-array>
-    <string-array name="power_mode_entries">
-        <item>Desempenho</item>
-        <item>Equilibrado</item>
     </string-array>
 </resources>

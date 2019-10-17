@@ -89,6 +89,7 @@
   <string name="class_0_message_activity">Mensagem de classe 0</string>
   <string name="click_to_view">Toque para ver</string>
   <string name="close">Fechar</string>
+  <string name="cloud_recommend_view_tip">Ligue a sincronização com a Xiaomi Cloud para restaurar mensagens importantes a qualquer hora</string>
   <string name="cloud_state_disabled">Ligue a sincronização com a Xiaomi Cloud para sincronizar mensagens</string>
   <string name="cloud_state_sync_finished">Sincronizado com a Xiaomi Cloud</string>
   <string name="cloud_state_syncing">A sincronizar com a Xiaomi Cloud…</string>

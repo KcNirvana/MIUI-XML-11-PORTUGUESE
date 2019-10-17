@@ -9,6 +9,20 @@
         <item>Morno</item>
         <item>Frio</item>
     </string-array>
+    <string-array name="ai_item_action_array">
+        <item>Nenhuma</item>
+        <item>Activar assistente Google</item>
+    </string-array>
+    <string-array name="ai_key_item_name">
+        <item>Falar com assistente Google</item>
+        <item>Abrir pesquisa Google</item>
+        <item>Abrir a câmara traseira</item>
+        <item>Abrir a câmara frontal</item>
+        <item>Abrir a aplicação anterior</item>
+        <item>Ligar a lanterna</item>
+        <item>Ligar o Modo de Leitura</item>
+        <item>Nenhum</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Todos os dias</item>
         <item>Dias úteis</item>
@@ -194,6 +208,11 @@
         <item>No máximo 3 processos</item>
         <item>No máximo 4 processos</item>
     </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>Desligado</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+    </string-array>
     <string-array name="automatic_storage_management_days">
         <item>Mais de 30 dias</item>
         <item>Mais de 60 dias</item>
@@ -287,7 +306,6 @@
         <item>Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ adaptável</item>
-        <item>LHDC</item>
         <item>Activar codecs opcionais</item>
         <item>Desactivar codecs opcionais</item>
     </string-array>
@@ -299,7 +317,6 @@
         <item>Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ adaptável</item>
-        <item>LHDC</item>
         <item>Activar codecs opcionais</item>
         <item>Desactivar codecs opcionais</item>
     </string-array>
@@ -315,11 +332,26 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_max_connected_audio_devices">
+        <item>Predefinição de sistema: %1$d</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 minutos</item>
         <item>5 minutos</item>
         <item>1 hora</item>
         <item>Nunca expirar</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Desactivado</item>
+        <item>Filtrados</item>
+        <item>Cabeçalhos filtrados</item>
+        <item>Multimédia filtrado</item>
+        <item>Activado</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -691,9 +723,8 @@
         <item>Alta velocidade</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>Automático</item>
-        <item>Ligado</item>
-        <item>Desligado</item>
+        <item>Escuro</item>
+        <item>Claro</item>
     </string-array>
     <string-array name="data_usage_data_range">
         <item>Últimos 30 dias</item>
@@ -969,6 +1000,31 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Email</item>
         <item>Vídeos</item>
     </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA preferida</item>
+        <item>Apenas GSM</item>
+        <item>Apenas WCDMA</item>
+        <item>GSM/WCDMA auto</item>
+        <item>CDMA/EvDo auto</item>
+        <item>CDMA sem EvDo</item>
+        <item>Apenas EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Global</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>Apenas TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Armazenamento interno</item>
         <item>Armazenamento externo</item>
@@ -1215,6 +1271,10 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Apenas favoritos</item>
         <item>Nenhuma</item>
     </string-array>
+    <string-array name="vpn_proxy_settings">
+        <item>Nenhum</item>
+        <item>Manual</item>
+    </string-array>
     <string-array name="vpn_states">
         <item>Desligada</item>
         <item>A iniciar…</item>
@@ -1313,6 +1373,10 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>Utilizar MAC aleatório</item>
+        <item>Utilizar MAC do dispositivo</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Nenhum</item>
