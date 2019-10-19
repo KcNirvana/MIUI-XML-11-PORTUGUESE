@@ -385,7 +385,6 @@
   <string name="subscribe_success_content_per_unlock">Alterar papel de parede cada vez que o dispositivo é bloqueado</string>
   <string name="subscribe_update_time_setting">Definir um intervalo diferente</string>
   <string name="summary">"Concordar com a nossa <a href ='%s'>Política de Privacidade</a> para ver conteúdo online"</string>
-  <string name="summary2">"Ao utilizar esta funcionalidade, está a concordar com os nossos <font color='#37A5FF'><a href ='%1$s'>Termos de Utilização</font></a> e <font color='#37A5FF'><a href='%2$s'>Política de Privacidade</font></a>. Esta aplicação necessita de ligar à Internet para funcionar normalmente"</string>
   <string name="summary_international">"Ao utilizar esta funcionalidade, está a concordar com os nossos <a href ='%1$s'>Termos de Utilização</a> e <a href='%2$s'>Política de Privacidade</a>. Esta aplicação necessita de ligar à Internet para funcionar normalmente"</string>
   <string name="sure_close_gallery">Desligar papéis de parede aleatórios?</string>
   <string name="sure_close_gallery_des">Não vai poder ter imagens novas no seu ecrã inicial se desligar os papéis de parede aleatórios. Desligar mesmo assim?</string>
