@@ -36,6 +36,13 @@
        <item>Predefinido</item>
        <item>Clássico</item>
     </string-array>
+    <string-array name="icon_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+    </string-array>
     <string-array name="transformation_entries">
        <item>Deslizar</item>
        <item>Desvanecer</item>
@@ -50,13 +57,6 @@
        <item>Centro</item>
        <item>Esquerda</item>
        <item>Direita</item>
-    </string-array>
-    <string-array name="cell_icon_size_entries">
-        <item>Minúsculo</item>
-        <item>Pequeno</item>
-        <item>Médio</item>
-        <item>Grande</item>
-        <item>Enorme</item>
     </string-array>
     <string-array name="minus_screen_entries">
         <item>Nenhum</item>

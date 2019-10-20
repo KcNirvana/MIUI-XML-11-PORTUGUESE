@@ -1129,14 +1129,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Desligado</item>
-        <item>Mem. int. 64K p rg.</item>
-        <item>Mem. int. 256K p rg.</item>
-        <item>Mem. int. 1M p rg.</item>
-        <item>Mem. int. 4M p rg.</item>
-        <item>Mem. int. 16M p rg.</item>
-    </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desligado</item>
         <item>64K</item>
