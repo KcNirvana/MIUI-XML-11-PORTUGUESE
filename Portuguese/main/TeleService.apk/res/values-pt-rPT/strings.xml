@@ -321,11 +321,11 @@ Selecção"</string>
   <string name="change_pin_enter_new_pin_header">Definir um PIN novo</string>
   <string name="change_pin_enter_new_pin_hint">O PIN tem de ter %1$d-%2$d dígitos</string>
   <string name="change_pin_enter_old_pin_header">Confirmar o seu PIN antigo</string>
-  <string name="change_pin_enter_old_pin_hint">Introduza o PIN do VoiceMail para continuar</string>
+  <string name="change_pin_enter_old_pin_hint">Introduza o PIN do Voice Mail para continuar</string>
   <string name="change_pin_ok_label">OK</string>
-  <string name="change_pin_succeeded">O PIN do VoiceMail foi avtualizado</string>
+  <string name="change_pin_succeeded">O PIN do Voice Mail foi actualizado</string>
   <string name="change_pin_system_error">Não é possível definir o seu PIN</string>
-  <string name="change_pin_title">Alterar o PIN do VoiceMail</string>
+  <string name="change_pin_title">Alterar o PIN do Voice Mail</string>
   <string name="charge_length_format">Há %1$s</string>
   <string name="choose_network_title">Escolher rede</string>
   <string name="choose_profile">Escolher perfil</string>

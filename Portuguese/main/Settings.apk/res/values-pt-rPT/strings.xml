@@ -2204,7 +2204,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="ignore_optimizations_on">Não optimizar</string>
   <string name="ignore_optimizations_on_desc">Pode descarregar a bateria mais rapidamente</string>
   <string name="ignore_optimizations_title">Permitir que %s ignore as optimizações da bateria?</string>
-  <string name="ime_security_warning">%1$s pode gravar todo o texto que introduzir, incluindo palavras-passe, números de cartões de crédito e outros dados pessoais</string>
+  <string name="ime_security_warning">%1$s pode gravar todo o texto que introduzir, incluindo palavras-passe, números de cartões de crédito e outros dados pessoais. Utilizar este método de introdução?</string>
   <string name="imei_information_summary">Informações relativas ao IMEI</string>
   <string name="imei_information_title">Informações do IMEI</string>
   <string name="imei_multi_sim">IMEI (ranhura %1$d)</string>
