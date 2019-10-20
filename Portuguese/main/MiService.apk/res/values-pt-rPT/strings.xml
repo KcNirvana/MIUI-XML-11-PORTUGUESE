@@ -105,7 +105,7 @@
   <string name="miui_main_update_success_sub_title">Conheça a nova MIUI</string>
   <string name="miui_main_update_success_title">Melhorar a productividade</string>
   <string name="permission_agree">Concordar</string>
-  <string name="permission_china_version_msg">Antes de utilizar \"Serviços e comentários\", tem de ler e concordar com os nossos &amp;lt;a href=%1$s&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;. Esta aplicação necessita também de ligar à Internet para funcionar normalmente</string>
+  <string name="permission_china_version_msg">Antes de utilizar \"Serviços e comentários\", tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade. Esta aplicação necessita também de ligar à Internet para funcionar normalmente</string>
   <string name="permission_complete">Concluído</string>
   <string name="permission_contacts_info">Aceder a informações de conta</string>
   <string name="permission_contacts_introduce">Para iniciar sessão utilizando a Conta Mi</string>
@@ -115,7 +115,7 @@
   <string name="permission_first_start_network_title">Termos e condições</string>
   <string name="permission_main_purpose">Mostrar funcionalidades da MIUI, submeter comentários e candidatar-se a serviços pós-venda.</string>
   <string name="permission_privacy">Política de Privacidade (obrigatório)</string>
-  <string name="permission_region_version_msg">Antes de utilizar \"Serviços e comentários\", tem de ler e concordar com os nossos &amp;lt;a href=%1$s&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;</string>
+  <string name="permission_region_version_msg">Antes de utilizar \"Serviços e comentários\", tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade</string>
   <string name="permission_select_all">Seleccionar tudo</string>
   <string name="permission_storage">Armazenamento</string>
   <string name="permission_storage_introduce">Para guardar itens no seu dispositivo</string>

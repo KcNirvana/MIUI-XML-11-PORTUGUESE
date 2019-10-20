@@ -1581,7 +1581,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="display_summary_example">Suspender após 10 minutos de inactividade</string>
   <string name="display_vr_pref_low_persistence">Reduzir a desfocagem (recomendado)</string>
   <string name="display_vr_pref_off">Reduzir a cintilação</string>
-  <string name="display_vr_pref_title">Quando o dispositivo está na RV</string>
+  <string name="display_vr_pref_title">Modo Realidade Virtual</string>
   <string name="dlg_cancel">Cancelar</string>
   <string name="dlg_close">Fechar</string>
   <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB, algumas aplicações que estão em utilização vão ser interrompidas e podem não estar disponíveis até ligar novamente o armazenamento USB</string>

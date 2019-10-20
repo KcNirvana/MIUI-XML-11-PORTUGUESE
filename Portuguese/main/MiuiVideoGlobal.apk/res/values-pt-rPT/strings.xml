@@ -5,6 +5,7 @@
   <string name="Yesterday">Ontem</string>
   <string name="app_name">Vídeos</string>
   <string name="cancel">Cancelar</string>
+  <string name="cancel_choose">Desmarcar</string>
   <string name="canceled">Cancelado</string>
   <string name="cast_ad_label">Anúncios</string>
   <string name="cast_casting_to_device">A transmitir para %1$s</string>
