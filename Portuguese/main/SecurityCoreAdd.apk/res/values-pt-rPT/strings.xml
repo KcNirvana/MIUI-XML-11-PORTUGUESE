@@ -457,6 +457,9 @@ para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   <string name="xspace_description">"As aplicações clonadas cópias das aplicações que pode ser utilizadas separadamente com diferentes contas.
   
 Algumas aplicações clonadas necessitam do suporte dos serviços Google. Nesses casos, é criada uma aplicação clonada dos serviços Google"</string>
+  <string name="xspace_disable">Não criado</string>
+  <string name="xspace_enable">Criado</string>
+  <string name="xspace_facebook_title">Facebook</string>
   <string name="xspace_guide_des">Utilizar 2 contas ao mesmo tempo</string>
   <string name="xspace_guide_title">Criar uma aplicação clonada</string>
   <string name="xspace_header">Aplicações clonadas</string>
@@ -467,9 +470,12 @@ Algumas aplicações clonadas necessitam do suporte dos serviços Google. Nesses
   <string name="xspace_introduce">Recomendadas</string>
   <string name="xspace_label">Aplicações clonadas</string>
   <string name="xspace_loading_msg">A carregar aplicações…</string>
+  <string name="xspace_notification">Notificações de aplicações clonadas</string>
+  <string name="xspace_notification_error">Inicie sessão na aplicação clonada WeChat e tente novamente</string>
   <string name="xspace_qq_title">QQ</string>
   <string name="xspace_remove">Eliminar aplicações clonadas</string>
   <string name="xspace_setting_label">Definições das aplic. clonadas</string>
+  <string name="xspace_settins">Definir</string>
   <string name="xspace_uninstall_completed">Aplicação clonada desinstalada com sucesso</string>
   <string name="xspace_uninstall_dialog_content">Desinstalar aplicação clonada vai remover todos os dados da mesma</string>
   <string name="xspace_uninstall_dialog_title">Desinstalar aplicação clonada</string>

@@ -5,7 +5,7 @@
   <string name="calendar_sound">Lembretes dos eventos</string>
   <string name="calendar_tip">Os sons dos lembretes dos eventos funcionam para calendário, lembretes, notas e tarefas</string>
   <string name="follow_sim1">Aplicar definições do SIM 1</string>
-  <string name="intelligent_recognition_item_summary">Identificar chamadas recebidas feitas pelos fornecedores de serviço (p.e. entregas) e utilizar toques separados para eles</string>
+  <string name="intelligent_recognition_item_summary">Utilizar um toque para chamadas de entregas e serviços de táxi. Esta funcionalidade vai funcionar quando %s está definido como toque predefinido</string>
   <string name="intelligent_recognition_item_title">Identificar serviços</string>
   <string name="mms">Mensagens</string>
   <string name="more_ringtone">Todos os toques</string>

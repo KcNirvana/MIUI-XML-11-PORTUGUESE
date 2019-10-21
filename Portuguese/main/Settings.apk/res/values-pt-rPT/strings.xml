@@ -3051,6 +3051,10 @@ Seleccione o seu sistema operativo:"</string>
   <string name="nearby_wifi">Redes disponíveis</string>
   <string name="need_reboot_now">Reiniciar para instalar a actualização</string>
   <string name="netcheck_title">Diagnósticos de rede</string>
+  <string name="network_alarm">Não silenciar chamadas da Internet</string>
+  <string name="network_alarm_summary">Nota: Algumas aplicações não são compatíveis com esta funcionalidade. %1$s</string>
+  <string name="network_alarm_summary_reg">Ver aplicações suportadas</string>
+  <string name="network_alarm_support_apps">Aplicações suportadas</string>
   <string name="network_assistant">Utilização de dados</string>
   <string name="network_changed_noti_summary">A utilizar dados móveis</string>
   <string name="network_changed_noti_title">Desligado do Wi-Fi</string>
@@ -5663,6 +5667,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="webview_disabled_for_user">(desactivado para o utilizador %s)</string>
   <string name="webview_license_title">Licença WebView do sistema</string>
   <string name="webview_uninstalled_for_user">(desinstalado para o utilizador %s)</string>
+  <string name="wechat">WeChat</string>
   <string name="weight_heavy">Negrito</string>
   <string name="weight_light">Claro</string>
   <string name="weight_setting_toast">Apenas pode alterar a espessura da fonte predefinida do sistema</string>

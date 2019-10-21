@@ -59,6 +59,7 @@
   <string name="feedback_choose_module_hint">Necessário</string>
   <string name="feedback_choose_reproductivity">Reprodutividade</string>
   <string name="feedback_choose_third_app_name">Seleccionar o nome da aplicação</string>
+  <string name="feedback_choose_occurrence_time">Hora</string>
   <string name="feedback_collect_log_failed">Não foi possível obter registos</string>
   <string name="feedback_contact_info_hint">Número de telefone/Email</string>
   <string name="feedback_continue">Continuar com o comentário</string>
@@ -87,6 +88,7 @@
   <string name="feedback_detail_waiting">A gerar…</string>
   <string name="feedback_empty_report_list">Sem relatórios ainda</string>
   <string name="feedback_guess">A nossa suposição</string>
+  <string name="feedback_hint_optional">Seleccionar</string>
   <string name="feedback_history_remind_login_desc">Iniciar sessão na sua Conta Mi para ver os detalhes e o estado dos seus relatórios</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">Chave JIRA: %s</string>
@@ -150,6 +152,7 @@
   <string name="feedback_third_packagename_hint">Que aplicação está a causar problemas?</string>
   <string name="feedback_title">Título</string>
   <string name="feedback_title_hint">Descreva detalhadamente o problema</string>
+  <string name="feedback_title_occurrence_time">Seleccionar hora</string>
   <string name="feedback_title_reproductivity">Seleccionar reprodutividade</string>
   <string name="feedback_tracking">Seguir problemas</string>
   <string name="feedback_version_label">Versão</string>

@@ -9,6 +9,12 @@
   <string name="cancelling_notification_title_template">A cancelar %1$s</string>
   <string name="choose_print_service">Escolher serviço de impressão</string>
   <string name="collapse_handle">Fechar alça</string>
+  <string name="connectio_delay_content">Tem de confirmar a ligação à sua impressora</string>
+  <string name="connectio_help_title">A ligar a uma impressora</string>
+  <string name="copies_decrease">Menos 1 cópia</string>
+  <string name="copies_increase">Mais 1 cópia</string>
+  <string name="could_not_create_file">Não foi</string>
+  <string name="delete_saved_printer_content">Eliminar impressoras seleccionadas agora?</string>
   <string name="expand_handle">Expandir alça</string>
   <string name="failed_notification_title_template">Erro ao imprimir %1$s</string>
   <string name="generating_print_job">Gerar trabalho de impressão</string>
