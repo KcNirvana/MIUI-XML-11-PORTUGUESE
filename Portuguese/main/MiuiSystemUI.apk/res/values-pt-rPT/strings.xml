@@ -419,8 +419,8 @@ Taxa de amostragem"</string>
   <string name="bubble_content_description_stack">%1$s de %2$s e %3$d mais</string>
   <string name="bubble_dismiss_text">Rejeitar</string>
   <string name="bubbles_deep_link_button_description">Abrir %1$s</string>
-  <string name="bubbles_prompt">Permitir bolhas de %1$s?</string>
-  <string name="bubbles_settings_button_description">Definições para bolhas de %1$s</string>
+  <string name="bubbles_prompt">Permitir balões de %1$s?</string>
+  <string name="bubbles_settings_button_description">Definições para balões de %1$s</string>
   <string name="call_status_dialing">A ligar</string>
   <string name="call_status_holding">Em espera</string>
   <string name="call_status_ringing">A tocar</string>
@@ -826,11 +826,6 @@ Utilize apenas o carregador fornecido"</string>
   <string name="keyguard_indication_charging_time_slowly">A carregar lentamente (%s até à carga máxima)</string>
   <string name="keyguard_indication_trust_disabled">O dispositivo vai permanecer bloqueado até ser desbloqueado manualmente</string>
   <string name="keyguard_instructions_when_pattern_disabled">Prima Menu para desbloquear</string>
-  <string name="keyguard_left_calculator">Calculadora</string>
-  <string name="keyguard_left_calendar">Calendário</string>
-  <string name="keyguard_left_contacts">Contactos</string>
-  <string name="keyguard_left_music">Música</string>
-  <string name="keyguard_left_notes">Notas</string>
   <string name="keyguard_left_remotecentral">C.Remoto</string>
   <string name="keyguard_left_smarthome">Mi Home</string>
   <string name="keyguard_left_torch">Lanterna</string>
