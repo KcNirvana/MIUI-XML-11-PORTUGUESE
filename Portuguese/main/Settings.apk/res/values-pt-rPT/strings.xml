@@ -848,7 +848,6 @@ Aplicações:
   <string name="bluetooth_connect_specific_profiles_title">Ligar a…</string>
   <string name="bluetooth_connected">Ligado</string>
   <string name="bluetooth_connected_multiple_devices_summary">Ligado a vários dispositivos</string>
-  <string name="bluetooth_connected_no_a2dp">Ligado (sem multimédia)</string>
   <string name="bluetooth_connected_no_a2dp">Ligado (sem multimédia)%1$s</string>
   <string name="bluetooth_connected_no_a2dp_battery_level">Ligado (sem multimédia) | Bateria %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset">Ligado (sem telefone)%1$s</string>
@@ -1141,7 +1140,7 @@ Taxa de amostragem"</string>
 
 Se já fez alguma das coisas de cima, adicione a sua Conta Mi outra vez senão não vai conseguir desbloquear o seu dispositivo"</string>
   <string name="bootloader_tips_ok">Percebi</string>
-  <string name="bootloader_tips_warning">Não desligue da rede, termine sessão da sua Conta Mi, faça uma reposição de fábrica ou formate os dados de sistema"</string>
+  <string name="bootloader_tips_warning">Não desligue da rede, termine sessão da sua Conta Mi, faça uma reposição de fábrica ou formate os dados de sistema</string>
   <string name="breathing_light_color_menu_title">Cor do LED</string>
   <string name="breathing_light_color_summary">Cor do LED ao receber novas notificações</string>
   <string name="breathing_light_freq_summary">Pulsar quando houver novas notificações</string>
@@ -1150,11 +1149,6 @@ Se já fez alguma das coisas de cima, adicione a sua Conta Mi outra vez senão n
   <string name="brightness_auto_adjust_off">O brilho do ecrã vai permanecer constante</string>
   <string name="brightness_auto_adjust_on">Optimizar nível do brilho do ecrã à luz ambiente</string>
   <string name="brightness_summary">Ajustar o brilho do ecrã</string>
-  <string name="bootloader_tips">"%s
-
-Se já fez alguma das opções acima, adicione a sua Conta Mi novamente senão não vai conseguir desbloquear o seu dispositivo"</string>
-  <string name="bootloader_tips_ok">Percebi</string>
-  <string name="bootloader_tips_warning">Não desligue da rede, termine sessão na sua Conta Mi, faça uma reposição de fábrica ou formate os dados de sistema</string>
   <string name="brightness_title">Brilho</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Activar registo de monitorização Bluetooth HCI</string>
@@ -4044,7 +4038,6 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="paper_mode_get_location_dlg_negative_btn_text">Cancelar</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Ir para as Definições</string>
   <string name="paper_mode_get_location_dlg_title">Definir localização</string>
-  <string name="paper_mode_start_time_title">Ligar</string>
   <string name="paper_mode_side_effect_hint">Uma intensidade mais alta pode afectar a maneira como o conteúdo é mostrado</string>
   <string name="paper_mode_start_time_title">Ligar</string>
   <string name="partial_connectivity_text">Algumas aplicações e serviços podem não funcionar devido à ligação limitada. Utilizar mesmo assim?</string>
