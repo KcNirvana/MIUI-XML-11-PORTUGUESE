@@ -1455,17 +1455,31 @@ As chamadas de emergência apenas estão disponíveis com rede móvel"</string>
   <string name="wfcmode_mobile_preferred">Dados móveis</string>
   <string name="wfcmode_wifi_only">Apenas Wi-Fi</string>
   <string name="wfcmode_wifi_preferred">Wi-Fi</string>
-  <string name="wifi_call_accept">OK</string>
+  <string name="wifi_call_accept">Ignorar</string>
   <string name="wifi_call_available_message">Pode efectuar chamadas Wi-Fi agora. Se estiver ligado a uma rede Wi-Fi, vai poder efectuar chamadas mesmo que não tenha rede móvel</string>
   <string name="wifi_call_available_title">A ligar chamadas Wi-Fi</string>
-  <string name="wifi_call_cancel">Cancelar</string>
+  <string name="wifi_call_cancel">Mais informações</string>
   <string name="wifi_call_help">Ajuda</string>
   <string name="wifi_call_help_message">Se seleccionar a preferência por redes móveis, elas vão ser utilizadas por defeito. Em caso de não haver sinal de rede móvel, vai ser utilizada a rede Wi-Fi</string>
+  <string name="wifi_call_help_message_1">"As chamadas Wi-Fi são um serviço fornecido pela Orange que permite que faça e receba chamadas via Wi-Fi. Esta funcionalidade pode ser utilizada em áreas com rede móvel fraca.
+
+Para utilizar as chamadas Wi-Fi, ligue-as em Definições &gt; Chamadas Wi-Fi.
+
+Para activar o serviço, a Orange vai enviar uma mensagem de confirmação assim que o serviço estiver disponível. Após ter recebido, vai poder ligar-se a uma rede Wi-Fi e fazer chamadas.
+
+As chamadas via Wi-Fi vão ser taxadas de acordo com as condições do seu plano.
+
+Sempre que esta funcionalidade estiver disponível, o ícone seguinte vai ser mostrado no topo do seu ecrã"</string>
+  <string name="wifi_call_help_message_2">"Se seleccionar preferência pelas redes Wi-Fi, vão ser utilizadas por defeito para efectuar chamadas. No caso de não estar ligado ao Wi-Fi ou o sinal for fraco, vão ser utilizadas as redes móveis.
+
+Se seleccionar preferência pelas redes móveis, vão ser utilizadas por defeito para efectuar chamadas. No caso de não haver sinal de rede móvel suficiente ou o sinal for fraco, vão ser utilizadas as redes Wi-Fi"</string>
   <string name="wifi_call_help_title">Ajuda Chamadas Wi-Fi</string>
   <string name="wifi_call_notification_message">Este serviço é fornecido pela Orange. Pode levar várias horas até que o mesmo esteja activo. Vai receber uma SMS de confirmação assim que estiver disponível</string>
+  <string name="wifi_call_preferred_summary">Se seleccionar preferência pelas redes móveis, vão ser utilizadas por defeito para efectuar chamadas. No caso de não haver sinal de rede móvel suficiente ou o sinal for fraco, vão ser utilizadas as redes Wi-Fi</string>
   <string name="wifi_call_setting">Definições de chamadas Wi-Fi</string>
   <string name="wifi_call_setting_vodafone_de">Chamadas Wi-Fi</string>
   <string name="wifi_call_setting_vodafone_uk">Chamadas Wi-Fi</string>
+  <string name="wifi_call_welcome_settings">Chamadas Wi-Fi</string>
   <string name="wifi_calling">Chamadas Wi-Fi</string>
   <string name="wifi_calling_settings_title">Chamadas Wi-Fi</string>
   <string name="wifi_cant_connect">Não é possível ligar</string>

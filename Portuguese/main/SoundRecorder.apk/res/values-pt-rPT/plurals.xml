@@ -20,7 +20,10 @@
         <item quantity="other">%d gravações transferidas</item>
         <item quantity="one">%d gravação transferida</item>
     </plurals>
-    
+    <plurals name="search_result">
+        <item quantity="other">Encontrou %d gravações</item>
+        <item quantity="one">Encontrou %d gravação</item>
+    </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d não sincronizados</item>
         <item quantity="one">%d não sincronizado</item>

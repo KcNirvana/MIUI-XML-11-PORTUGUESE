@@ -28,6 +28,7 @@
   <string name="download_fail_desc">O MD5 não corresponde…</string>
   <string name="downloading">A transferir…</string>
   <string name="downloading_desc">Transferência em curso. Verifique o estado na área de notificações</string>
+  <string name="fetching_data">A obter link para transferir…</string>
   <string name="install_desc">"O dispositivo vai reiniciar para o modo restauro e instalar o ficheiro: <b>%1$s</b>.
 Os dados não vão ser eliminados"</string>
   <string name="install_title">Tem a certeza que quer continuar?</string>
@@ -38,6 +39,7 @@ Os dados não vão ser eliminados"</string>
   <string name="message_title">Aviso</string>
   <string name="new_version">Nova versão encontrada</string>
   <string name="no_info">Sem informação disponível</string>
+  <string name="no_mirror">Todos os links estão offline. Tente novamente mais tarde…</string>
   <string name="no_network">Sem acesso à rede</string>
   <string name="no_update">Já está actualizado ou existe problemas no servidor. Verifique no site xiaomi.eu</string>
   <string name="no_xioamieu">"Está a utilizar uma ROM Xiaomi.eu.

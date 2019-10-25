@@ -147,6 +147,7 @@
   <string name="module_download_success">Áudios adicionais transferidos com sucesso</string>
   <string name="module_download_title">Necessário áudios adicionais</string>
   <string name="module_downloading">A transferir áudios adicionais…</string>
+  <string name="module_unzipping">A descompactar áudio…</string>
   <string name="module_update_success">Os áudios actualizados para os alarmes inteligentes da MIUI foram transferidos. Pode definir alarmes inteligentes nas definições do Relógio</string>
   <string name="module_update_success_control">Percebi</string>
   <string name="module_weather_ringtone_download_data">O alarme de tempo selecciona diferentes toques consoante o tempo actual. O Relógio necessita de transferir ≈30MB de áudio para funcionar. Transferir agora?</string>

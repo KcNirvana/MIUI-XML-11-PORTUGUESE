@@ -12,6 +12,22 @@
         <item quantity="other">Encontrou %d itens</item>
         <item quantity="one">Encontrou 1 item</item>
     </plurals>
+    <plurals name="durationDays">
+        <item quantity="other">%1$d dias</item>
+        <item quantity="one">%1$d dia</item>
+    </plurals>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d horas</item>
+        <item quantity="one">%1$d hora</item>
+    </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+    </plurals>
     <plurals name="numberOfItemsAvailable">
         <item quantity="other">Eliminar %d itens?</item>
         <item quantity="one">Eliminar este item?</item>

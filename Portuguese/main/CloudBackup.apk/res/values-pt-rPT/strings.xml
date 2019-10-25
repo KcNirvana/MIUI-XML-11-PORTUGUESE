@@ -37,7 +37,7 @@
   <string name="can_not_backup_in_lite_mode">Não é possível copiar no Modo Leve</string>
   <string name="can_not_restore_in_lite_mode">Não é possível restaurar no Modo Leve</string>
   <string name="cancel_backup">A cancelar cópia…</string>
-  <string name="cancel_recover_settings"><u>Cancelar</u></string>
+  <string name="cancel_recover_settings">Cancelar</string>
   <string name="cancel_restore_home">A cancelar…</string>
   <string name="click_try_to_restore_again">Toque para tentar novamente</string>
   <string name="cloud_app_backup_success">Cópia das aplicações com sucesso</string>
@@ -47,7 +47,6 @@
   <string name="cloud_app_no_data">Sem cópias</string>
   <string name="cloud_app_no_network">Não é possível ligar à rede</string>
   <string name="cloud_app_other_devices">Outros dispositivos</string>
-  <string name="cloud_app_restore_app_and_data">Configurar o dispositivo</string>
   <string name="cloud_app_restore_data">Os dados pessoais e aplicações instaladas anteriormente vão aparecer no seu dispositivo automaticamente</string>
   <string name="cloud_app_restore_error">Não foi possível restaurar</string>
   <string name="cloud_app_restore_success">Aplicações restauradas</string>
@@ -129,6 +128,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="lack_of_storage">Sem espaço de armazenamento</string>
   <string name="latest_backup_time_loading">A carregar…</string>
   <string name="load_backup_failed">Não foi possível carregar as cópias</string>
+  <string name="loading_progress_num">Carregados %s%%</string>
   <string name="loading_user_backup">A carregar cópias…</string>
   <string name="managespace_delete_backup">Eliminar</string>
   <string name="menu_item_managespace">Gerir espaço</string>
@@ -200,6 +200,7 @@ Verifique as suas definições de rede e tente novamente"</string>
   <string name="restore_unfinished">A restaurar. Tente novamente mais tarde</string>
   <string name="restoring_data">A restaurar dados…</string>
   <string name="restoring_file_title_no_progress">A restaurar ficheiros…</string>
+  <string name="restoring_home_screen_apps">A restaurar da Xiaomi Cloud…</string>
   <string name="restoring_settings">A restaurar definições…</string>
   <string name="retry">Tentar novamente</string>
   <string name="selected">Seleccionado</string>

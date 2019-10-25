@@ -188,6 +188,9 @@
   <string name="preference_settings">Definições</string>
   <string name="preference_use_degress_summary">Substituir radianos por ângulos nas funções trigonométricas</string>
   <string name="preference_use_degress_title">Utilizar ângulos</string>
+  <string name="preference_use_voice_summary">Ligar para utilizar a voz durante os cálculos</string>
+  <string name="preference_use_voice_title">Saída de voz</string>
+  <string name="preference_user_feedback_title">Comentários</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="radDesc">Radianos</string>
   <string name="rate_data_provider">Taxa de juro fornecida por HeXun</string>
@@ -447,6 +450,7 @@
   <string name="user_agreement">Termos de Utilização</string>
   <string name="view_float_window_move">Mover Calculadora</string>
   <string name="voiceDesc">Controlos de voz</string>
+  <string name="voice_guide_text">Pode ligar a saída de voz aqui</string>
   <string name="wf_word_figure">Caracteres financeiros</string>
   <string name="word_figure_guide_text">Prima e segure o texto para converter</string>
   <string name="xiaomi_connect_download_manager_fail">Erro no Gestor de Transferências</string>
