@@ -16,18 +16,18 @@
         <item quantity="other">Em meia-hora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Imediatamente</item>
+        <item quantity="other">Em breve</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">em %d minutos</item>
-        <item quantity="one">em 1 minuto</item>
+        <item quantity="other">Em %d minutos</item>
+        <item quantity="one">Em %d minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">1 minuto atrás</item>
+        <item quantity="one">%d minuto atrás</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">Ocultar estes ficheiros?</item>
@@ -94,8 +94,12 @@
         <item quantity="one">%d item é demasiado grande para copiar</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d fotos e vídeos | Em pausa</item>
-        <item quantity="one">%d foto e vídeo | Em pausa</item>
+        <item quantity="other">Vai retomar em %d minutos</item>
+        <item quantity="one">Vai retomar em %d minuto</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Pausar sincronização com a Xiaomi Cloud por %d minutos</item>
+        <item quantity="one">Pausar sincronização com a Xiaomi Cloud por %d minuto</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d fotos e vídeos | %2$s</item>
@@ -249,36 +253,36 @@
         <item quantity="one">%1$d ficheiro</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d itens a aguardar para serem copiados</item>
-        <item quantity="one">1 item a aguardar para ser copiado</item>
+        <item quantity="other">%1$d itens a aguardar sincronização</item>
+        <item quantity="one">%1$d item a aguardar sincronização</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d fotos</item>
         <item quantity="one">1 foto</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d fotos a aguardar para serem copiadas</item>
-        <item quantity="one">1 foto a aguardar para ser copiada</item>
+        <item quantity="other">%1$d fotos a aguardar sincronização</item>
+        <item quantity="one">%1$d foto a aguardar sincronização</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">A fazer cópia de %1$d fotos…</item>
-        <item quantity="one">A fazer cópia de foto…</item>
+        <item quantity="other">A sincronizar %1$d fotos…</item>
+        <item quantity="one">A sincronizar %1$d foto…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">A fazer cópia de %1$d itens…</item>
-        <item quantity="one">A fazer cópia de item…</item>
+        <item quantity="other">A sincronizar %1$d itens…</item>
+        <item quantity="one">A sincronizar %1$d item…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">A fazer cópia de %1$d vídeos…</item>
-        <item quantity="one">A fazer cópia de vídeo…</item>
+        <item quantity="other">A sincronizar %1$d vídeos…</item>
+        <item quantity="one">A sincronizar %1$d vídeo…</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d vídeos</item>
         <item quantity="one">1 vídeo</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d vídeos a aguardar para serem copiados</item>
-        <item quantity="one">1 vídeo a aguardar para ser copiado</item>
+        <item quantity="other">%1$d vídeos a aguardar sincronização</item>
+        <item quantity="one">%1$d vídeo a aguardar sincronização</item>
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">%1$d itens no total</item>

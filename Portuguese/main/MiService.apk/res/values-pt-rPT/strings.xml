@@ -22,6 +22,7 @@
   <string name="miui_feedback_edit_add_original_images_dialog_content">Se o problema que estiver a reportar estiver relacionado com a qualidade de imagem da câmara, adicione uma foto original para nos ajudar a localizar o problema. Adicionar foto agora?</string>
   <string name="miui_feedback_edit_choose_module">Seleccionar item</string>
   <string name="miui_feedback_edit_choose_module_hint">Necessário</string>
+  <string name="miui_feedback_edit_choose_occurrence_time">Hora</string>
   <string name="miui_feedback_edit_choose_reproductivity">Reprodutividade</string>
   <string name="miui_feedback_edit_choose_third_app_name">Seleccionar nome da aplicação</string>
   <string name="miui_feedback_edit_contact_info_hint">Número de telefone/Email</string>
@@ -34,6 +35,7 @@
   <string name="miui_feedback_edit_discard_draft_dialog_title">Rejeitar rascunho?</string>
   <string name="miui_feedback_edit_hint">Reportar erros sempre que encontrar problemas para nos ajudar a resolvê-los mais rapidamente</string>
   <string name="miui_feedback_edit_hint_gone">Mensagem fechadas</string>
+  <string name="miui_feedback_edit_hint_optional">Seleccionar</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Aguardar por Wi-Fi</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Enviar</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_content">Está ligado a uma rede paga. Enviar registos pode gerar custos adicionais</string>
@@ -68,6 +70,7 @@
   <string name="miui_feedback_edit_submit_dialog_not_show_again">Não mostrar novamente</string>
   <string name="miui_feedback_edit_submit_dialog_title">Enviar relatório</string>
   <string name="miui_feedback_edit_submit_directly">Submeter</string>
+  <string name="miui_feedback_edit_title_occurrence_time">Seleccionar hora</string>
   <string name="miui_feedback_edit_title_reproductivity">Seleccionar reprodutividade</string>
   <string name="miui_feedback_edit_toast_description_required">É necessário escrever uma descrição</string>
   <string name="miui_feedback_edit_toast_module_required">Seleccionar item</string>

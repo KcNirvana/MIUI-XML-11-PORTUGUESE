@@ -2329,11 +2329,14 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="fingerprint_removal_failed">Não foi possível remover impressão digital. Tente novamente mais tarde</string>
   <string name="fingerprint_swipe_for_notifications_summary">Para verificar as suas notificações, deslize rapidamente para baixo no sensor de impressões digitais situado na parte traseira do seu telefone</string>
   <string name="fingerprint_swipe_for_notifications_title">Impressão digital para ver notificações</string>
+  <string name="fingerprint_unlock_press_type">Pressão</string>
   <string name="fingerprint_unlock_set_unlock_password">Impressão digital + Palavra-passe</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Impressão digital + Padrão</string>
   <string name="fingerprint_unlock_set_unlock_pin">Impressão digital + PIN</string>
   <string name="fingerprint_unlock_skip_fingerprint">Continuar sem impressão digital</string>
   <string name="fingerprint_unlock_title">Pode desbloquear o seu telefone utilizando a sua impressão digital. Por motivos de segurança, esta opção necessita dum bloqueio de ecrã</string>
+  <string name="fingerprint_unlock_touch_type">Toque</string>
+  <string name="fingerprint_unlock_type">Método de reconhecimento</string>
   <string name="fingerprint_usage_category_title">Utilizar impressões digitais para</string>
   <string name="fingerprint_wakeup_summary">Ligar ecrã quando não tiver impressões digitais gravadas</string>
   <string name="fingerprint_wakeup_title">Ligar com sensor de impressão digital</string>
@@ -2523,6 +2526,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gxzw_add_fingerprint_put_finger_message">Prima o ecrã e levante o seu dedo após vibrar. Repita várias vezes</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Prima e levante após vibração</string>
   <string name="gxzw_add_fingerprint_title">Adicionar impressão digital</string>
+  <string name="gxzw_anim_aurora">Aurora</string>
   <string name="gxzw_anim_light">Néon</string>
   <string name="gxzw_anim_pulse">Pulsação</string>
   <string name="gxzw_anim_rhythm">Ritmo</string>
@@ -4120,7 +4124,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="power_autorun_empty">Vazio</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">Câmara</string>
-  <string name="power_cell">Inactividade do telefone</string>
+  <string name="power_cell">Rede móvel em espera</string>
   <string name="power_center">Optimização de bateria</string>
   <string name="power_charge_remaining">%1$s para carregar</string>
   <string name="power_charging_duration">%1$s - %2$s até ficar completa</string>
@@ -4698,8 +4702,11 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_dark_mode_smart_dark_title">Modo Escuro global</string>
   <string name="screen_dark_mode_time_title">Programar</string>
   <string name="screen_effect">Contraste e cores</string>
-  <string name="screen_fps_summary">Maiores taxas de actualização tornam a imagem mais suave enquanto menores taxas de actualização economizam bateria</string>
+  <string name="screen_fps_summary_power_save">Utilizar taxas de actualização fixas poupam bateria</string>
+  <string name="screen_fps_summary_smooth">Algumas aplicaçõe vão aumentar a taxa de actualização automaticamente para melhorar a qualidade de imagem</string>
   <string name="screen_fps_title">Taxa de actualização</string>
+  <string name="screen_fps_unit_power_save">%dHz (poupa bateria)</string>
+  <string name="screen_fps_unit_smooth">%dHz (melhor qualidade)</string>
   <string name="screen_key_long_press">Toque longo nos botões de navegação</string>
   <string name="screen_key_long_press_action">Activar função</string>
   <string name="screen_key_long_press_timeout">Definir tempo de espera do botão</string>
@@ -6020,6 +6027,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Definir um bloqueio de ecrã</string>
   <string name="unlock_setup_wizard_fingerprint_details">Assim que configurar um bloqueio de ecrã, também pode configurar a sua impressão digital em Definições &gt; Segurança</string>
+  <string name="unlock_type_category_title">Método de reconhecimento</string>
   <string name="unlogin_account_summary">Todos os serviços Mi. Uma Conta Mi</string>
   <string name="unlogin_account_title">Início de sessão Conta Mi</string>
   <string name="unmute_sound_title">Som de restauro do som</string>
@@ -6510,6 +6518,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="weight_light">Claro</string>
   <string name="weight_setting_toast">Apenas pode alterar a espessura da fonte predefinida do sistema</string>
   <string name="welcome">Bem-vindo</string>
+  <string name="wellbing_title">Bem-estar digital e controlos parentais</string>
   <string name="wfc_disclaimer_agree_button_text">Continuar</string>
   <string name="wfc_disclaimer_disagree_text">Não, obrigado</string>
   <string name="wfc_disclaimer_emergency_limitation_desc_text">"As chamadas de emergência através da funcionalidade chamadas Wi-Fi não são suportadas pela sua operadora.

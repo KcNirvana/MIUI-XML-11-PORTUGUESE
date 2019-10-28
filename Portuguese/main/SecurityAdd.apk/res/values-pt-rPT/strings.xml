@@ -3,6 +3,7 @@
   <string name="ad_downloading">A transferir…</string>
   <string name="app_name">Plugin do serviço de sistema</string>
   <string name="app_select_title">Adicionar aplicações utilizadas frequentemente</string>
+  <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="cta_main_purpose">Bem-vindo ao Game Turbo!</string>
   <string name="dialog_market_score_cancel">Cancelar</string>
@@ -26,6 +27,11 @@
   <string name="fastboot_status_locked_info">O fastboot não está desbloqueado neste dispositivo</string>
   <string name="fastboot_status_locked_summary">Não consigo ter acesso root</string>
   <string name="fastboot_unlock_web_title">Vá ao site oficial da MIUI para obter a ferramenta de desbloqueio</string>
+  <string name="fingerprint_not_remind">Não perguntar novamente</string>
+  <string name="free_send_net_booster">Optimização de velocidade de rede gratuira</string>
+  <string name="free_send_net_booster_busniess">Obter um aumento de velocidade gratuito Xunlei</string>
+  <string name="free_send_net_booster_busniess_tip">Toque para receber</string>
+  <string name="free_send_net_booster_tip">Desfrute de jogos tranquilos com o aumento gratuito da velocidade da rede</string>
   <string name="game_booster">Acelerador de jogos</string>
   <string name="gamebooster_network_dialog_message">Permitir que Segurança se ligue à rede para utilizar todas as funcionalidades do Acelerador de jogos?</string>
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
@@ -38,6 +44,9 @@
   <string name="miuishare_title_share">Partilhar</string>
   <string name="miuishare_wechat_timeline_title">Momentos WeChat</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="net_booster_expire_notification">A sessão de aumento de velocidade da rede está prestes a terminar</string>
+  <string name="net_booster_overdue_notification">A sessão de aumento de velocidade da rede está prestes a terminar</string>
+  <string name="net_booster_overdue_notification_tip">A sessão de aumento de velocidade da rede vai terminar em breve. Renovar a sessão?</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="no_network_btn">Tente novamente</string>
   <string name="ok_button">OK</string>
@@ -45,6 +54,7 @@
   <string name="pm_lable_name">Acerca do acesso root</string>
   <string name="privacy_declare_dialog_title">Termos de Serviço</string>
   <string name="privacy_prompt_traffic_purchase_message">O seu número de telefone e detalhes da operadora vão ser encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>
+  <string name="renew_now">Renovar</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="share">Partilhar</string>
   <string name="superpower_app_add">Adicionar</string>

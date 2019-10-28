@@ -95,8 +95,8 @@
   <string name="grant_dialog_button_allow_foreground">Permitir apenas quando estiver a utilizar a aplicação</string>
   <string name="grant_dialog_button_deny">Negar</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Negar e não perguntar novamente</string>
-  <string name="grant_dialog_button_deny_background">Manter enquanto em utilização</string>
-  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Manter e não perguntar novamente</string>
+  <string name="grant_dialog_button_deny_background">Apenas enquanto estiver a utilizar a aplicação</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Negar e não perguntar novamente</string>
   <string name="location_settings">Definições de localização</string>
   <string name="location_warning">%1$s é um fornecedor de serviços de localização para este dispositivo. O acesso à localização pode ser modificado nas definições de localização</string>
   <string name="never_ask_again">Não perguntar novamente</string>
@@ -104,6 +104,7 @@
   <string name="permdesc_camera">Tirar fotos e gravar vídeos</string>
   <string name="permdesc_in_calls">Monitorizar chamadas recebidas</string>
   <string name="permdesc_location">Aceder à informação da localização</string>
+  <string name="permdesc_location_background">Aceder à localização em segundo plano</string>
   <string name="permdesc_microphone">Gravar chamadas e áudio</string>
   <string name="permdesc_out_calls">Monitorizar chamadas efectuadas</string>
   <string name="permdesc_read_calendar">Aceder aos eventos do calendário</string>
