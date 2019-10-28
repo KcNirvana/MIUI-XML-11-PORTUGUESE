@@ -229,7 +229,7 @@
  "&lt;li&gt;Aplicações predefinidas&lt;/li&gt;"
  "&lt;li&gt;Restrições em segundo plano das aplicações&lt;/li&gt;"
 
- Nai vai perder dados das aplicações"</string>
+ Não vai perder dados das aplicações"</string>
   <string name="app_manager_reset_app_preferences_title">Repor preferências da aplicação?</string>
   <string name="app_manager_search_prompt">Não encontrou resultados? Tente mostrar resultados de todas as aplicações</string>
   <string name="app_manager_show_all_apps">Mostrar todas as aplicações</string>
