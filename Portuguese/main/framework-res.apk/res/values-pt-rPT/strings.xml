@@ -148,6 +148,7 @@
   <string name="battery_saver_description">"Para ajudar a melhorar a autonomia da bateria, a poupança de bateria reduz o desempenho do seu dispositivo e limita a vibração, os serviços de localização e a maioria dos dados em segundo plano. O email, as mensagens e outras aplicações que dependem da sincronização não podem ser actualizados excepto se os abrir.
 
 A poupança de bateria desliga-se automaticamente quando o dispositivo está a carregar"</string>
+  <string name="biometric_dialog_default_title">Verificar impressão</string>
   <string name="beforeOneMonthDurationPast">Há mais de 1 mês</string>
   <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
   <string name="browse">Navegador</string>
