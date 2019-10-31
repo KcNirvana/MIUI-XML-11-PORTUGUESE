@@ -842,6 +842,12 @@ para personalizar a galeria"</string>
   <string name="movie_audio_dream">Sonhos</string>
   <string name="movie_audio_electronics">Electro</string>
   <string name="movie_audio_none">Nenhuma</string>
+  <string name="movie_audio_point1">Neon</string>
+  <string name="movie_audio_point2">Pôr do sol</string>
+  <string name="movie_audio_point3">Memórias</string>
+  <string name="movie_audio_point4">Solstício de verão</string>
+  <string name="movie_audio_point5">Ondas</string>
+  <string name="movie_audio_point6">Carnaval</string>
   <string name="movie_audio_quiet">Zen</string>
   <string name="movie_audio_summertime">Verão</string>
   <string name="movie_audio_vitality">Vitalidade</string>
@@ -874,7 +880,13 @@ para personalizar a galeria"</string>
   <string name="movie_tab_music">Música</string>
   <string name="movie_tab_template">Templates</string>
   <string name="movie_template_baby">Engraçados</string>
-  <string name="movie_template_food">Foodies</string>
+  <string name="movie_template_cool">Luzes</string>
+  <string name="movie_template_cool2">Ritmo</string>
+  <string name="movie_template_cool3">Ondas</string>
+  <string name="movie_template_dull">Histórias</string>
+  <string name="movie_template_dull2">Hora</string>
+  <string name="movie_template_dull3">Beleza</string>
+  <string name="movie_template_food">Gastronomia</string>
   <string name="movie_template_new_year">Ano Novo</string>
   <string name="movie_template_normal">Melodias</string>
   <string name="movie_template_party">Festas</string>

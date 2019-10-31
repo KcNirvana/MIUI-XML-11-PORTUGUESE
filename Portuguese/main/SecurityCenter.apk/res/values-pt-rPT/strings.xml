@@ -1948,8 +1948,15 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="privacy_apps_tutorial_prompt_pagethree">Após introduzir a palavra-passe, a pasta com as aplicações ocultas vai aparecer</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Afaste 2 dedos no ecrã para ver uma mensagem a pedir a sua palavra-passe do Bloqueio de aplicações</string>
   <string name="privacy_declare_dialog_title">Termos de Serviço</string>
+  <string name="privacy_description_camera">%1s está a utilizar a câmara em segundo plano. Toque para restringir</string>
+  <string name="privacy_description_camera_mic">%1s está a utilizar a câmara e o microfone em segundo plano. Toque para restringir</string>
+  <string name="privacy_description_mic">%1s está a utilizar o microfone em segundo plano. Toque para restringir</string>
   <string name="privacy_dialog_message">Quando ligar à Internet, esta mensagem assim como os dados da operadora vai ser encriptada e carregada para os servidores Mi para nos ajudar a melhorar a monitorização de utilização de dados</string>
   <string name="privacy_mode_dialog_title">Modo Convidado</string>
+  <string name="privacy_notification_subtitle">Toque para gerir permissões</string>
+  <string name="privacy_notification_title_camera">%1s está a utilizar a câmara em segundo plano</string>
+  <string name="privacy_notification_title_camera_mic">%1s está a utilizar a câmara e o microfone em segundo plano</string>
+  <string name="privacy_notification_title_mic">%1s está a utilizar o microfone em segundo plano</string>
   <string name="privacy_prompt_tc_sms_report_message">O seu número de telefone e detalhes da operadora vão ser encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>
   <string name="privacy_prompt_traffic_adjust_message">Esta funcionalidade necessita de encriptar e enviar o IMEI, número de telefone e dados da operadora para os servidores Mi para conseguir receber as estatísticas de utilização de dados da sua operadora</string>
   <string name="privacy_prompt_upload">Enviar</string>

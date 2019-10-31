@@ -166,7 +166,7 @@ vá a Definições &gt; Sons e vibração &gt; Vídeos de perfil"</string>
   <string name="incall_show_apply_success_without_ringtone">"Aplicado com sucesso. Este vídeo não tem som. Vai ser utilizado o toque original.
 Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt; Vídeos de perfil"</string>
   <string name="incall_show_find_more">Procurar mais</string>
-  <string name="incall_show_not_set">Nenhum vídeo de perfil</string>
+  <string name="incall_show_not_set">Sem vídeos de perfil</string>
   <string name="incall_show_remove">Eliminar vídeo de perfil</string>
   <string name="incall_show_remove_dialog_message">Já foi definido um vídeo de perfil para chamadas efectuadas. Eliminar este vídeo agora?</string>
   <string name="incall_show_remove_success">Vídeo de perfil eliminado com sucesso</string>
