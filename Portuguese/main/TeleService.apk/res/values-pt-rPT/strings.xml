@@ -710,6 +710,10 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="lable_network_not_supported">A rede não suporta</string>
   <string name="lafs_disable">Horários de voo local do aeroporto estão desligados</string>
   <string name="lafs_enable">Horários de voo local do aeroporto estão ligados</string>
+  <string name="last_sim_callback_summary">Ao efectuar chamadas do registo de chamadas, utilizar o cartão SIM que efectuou a chamada com este contacto</string>
+  <string name="last_sim_callback_title">Memorizar preferências de cartão SIM</string>
+  <string name="launch_defaults_none">Sem predefinições</string>
+  <string name="launch_defaults_some">Com algumas predefinições</string>
   <string name="list_language_dtitle">Idiomas</string>
   <string name="list_language_summary">Seleccionar o idioma das notícias</string>
   <string name="list_language_title">Idioma</string>
