@@ -624,9 +624,9 @@ Sair desta página agora?"</string>
           &lt;li>Cookies e dados do site
           &lt;li>Informações introduzidas em formulários
         &lt;/ul>"</string>
-    <string name="mw_new_tab_otr_subtitle">Agora pode navegar com privacidade, e outras pessoas que utilizam este dispositivo não verão a sua atividade. Entretanto, transferências e favoritos ainda serão guardados.</string>
+    <string name="mw_new_tab_otr_subtitle">Agora pode navegar com privacidade, e outras pessoas que utilizam este dispositivo não verão a sua actividade. Entretanto, transferências e favoritos ainda serão guardados.</string>
     <string name="mw_new_tab_otr_title">Você está anónimo</string>
-    <string name="mw_new_tab_otr_visible">"A sua atividade &lt;em>pode ainda ser visível&lt;/em> para:
+    <string name="mw_new_tab_otr_visible">"A sua actividade &lt;em>pode ainda ser visível&lt;/em> para:
         &lt;ul>
           &lt;li>Websites que visitar
           &lt;li>Seu empregador ou escola
