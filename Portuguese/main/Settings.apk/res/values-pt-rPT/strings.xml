@@ -116,7 +116,7 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
   <string name="accessibility_settings">Acessibilidade</string>
   <string name="accessibility_settings_summary">Leitores de ecrã, controlos de interacção, ecrãs</string>
   <string name="accessibility_settings_title">Definições de acessibilidade</string>
-  <string name="accessibility_shortcut_description">Quando o atalho estiver ligado, pode premir os dois botões de volume por 3 segundos para iniciar uma funcão de acessibilidade</string>
+  <string name="accessibility_shortcut_description">Quando o atalho estiver ligado, pode premir os dois botões de volume por 3 segundos para iniciar uma função de acessibilidade</string>
   <string name="accessibility_shortcut_service_on_lock_screen_title">Permitir do ecrã de bloqueio</string>
   <string name="accessibility_shortcut_service_title">Atalho de serviços</string>
   <string name="accessibility_summary_source">Fornecido por %s</string>
@@ -254,7 +254,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="additional_permissions_more">%1$d mais</string>
   <string name="additional_system_update_settings_list_item_title">Actualizações adicionais do sistema</string>
   <string name="adjust_3d_depth_title">Ajuste a profundidade 3D dos jogos</string>
-  <string name="admin_device_owner_message">O administrador pode monitorizar e gerir as aplicações e os dados associados a este dispositivo, incluindo as definições, as autorizações, o acesso empresarial, a atividade da rede e as informações de localização do dispositivo</string>
+  <string name="admin_device_owner_message">O administrador pode monitorizar e gerir as aplicações e os dados associados a este dispositivo, incluindo as definições, as autorizações, o acesso empresarial, a actividade da rede e as informações de localização do dispositivo</string>
   <string name="admin_disabled_other_options">As outras opções estão desactivadas pelo administrador</string>
   <string name="admin_more_details">Mais detalhes</string>
   <string name="admin_profile_owner_message">O administrador pode monitorizar e gerir as aplicações e os dados associados ao seu perfil de trabalho, incluindo as definições, as autorizações, o acesso empresarial, a actividade da rede e as informações de localização do dispositivo</string>
@@ -768,7 +768,7 @@ Sensibilidades mais elevadas podem entrar em conflito com quaisquer gestos de ap
   <string name="battery_tip_dialog_message">"O seu telefone tem sido utilizado com mais frequência do que o habitual. A bateria pode esgotar-se mais cedo do que o previsto.
 
 Principais aplicações por utilização da bateria:"</string>
-  <string name="battery_tip_dialog_message_footer">Inclui atividade em segundo plano de potência elevada</string>
+  <string name="battery_tip_dialog_message_footer">Inclui actividade em segundo plano de potência elevada</string>
   <string name="battery_tip_dialog_summary_message">"As suas aplicações estão a utilizar uma quantidade de bateria normal. Se as aplicações utilizarem demasiada bateria, o telefone vai sugerir acções que pode realizar.
 
 Pode sempre ligar a poupança de bateria se estiver a ficar sem bateria"</string>
