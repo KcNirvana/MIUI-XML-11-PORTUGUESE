@@ -136,7 +136,6 @@
   <string name="context_menu_view_mms">Ver MMS</string>
   <string name="conversation">Mensagens</string>
   <string name="conversation_listitem_avatar">Avatar</string>
-  <string name="conversation_style">Bolha</string>
   <string name="converting_to_picture_message">A converter em mensagem multimédia…</string>
   <string name="converting_to_text_message">A converter em mensagem de texto…</string>
   <string name="converting_vcard_failed">Não foi possível converter contacto</string>
@@ -337,7 +336,7 @@
   <string name="mms_block_hint">"Este remetente não está nos seus contactos.
 Esta mensagem pode não ser solicitada"</string>
   <string name="mms_block_hint_highlight">Bloquear MMS</string>
-  <string name="mms_main_purpose">Para obter acesso a todas as funcionalidades de Mensagens, permita que a aplicação se ligue à Internet e ligue o Mi Message e as mensagens inteligentes</string>
+  <string name="mms_main_purpose">Para obter acesso a todas as funcionalidades de Mensagens, ligue o Mi Message e as mensagens inteligentes</string>
   <string name="mms_title">Mensagens</string>
   <string name="more">Mais</string>
   <string name="move_down">Mover para baixo</string>
@@ -399,6 +398,8 @@ Esta mensagem pode não ser solicitada"</string>
   <string name="mx_filter_message_from_stranger_summary">Ainda vai conseguir receber mensagens SMS de números desconhecidos</string>
   <string name="mx_main_purpose">O Mi Message permite enviar mensagens para outros utilizadores Mi Message através da Internet sem custos.
 Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode cobrar taxas por esta mensagem</string>
+  <string name="mx_main_purpose_short">O Mi Message permite enviar e receber mensagens SMS e MMS gratuitamente</string>
+  <string name="mx_message">Mi Message</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_msg_pageview_setting_title">Definições do Mi Message</string>
   <string name="mx_offline">Inactivo</string>
@@ -736,12 +737,12 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="switch_to_editor">Modo edição</string>
   <string name="switch_to_menu">Modo menu</string>
   <string name="system_permission_declare_agree">Concordar</string>
-  <string name="system_permission_declare_disagree">Não concordar</string>
+  <string name="system_permission_declare_disagree">Cancelar</string>
   <string name="system_permission_declare_double_link" formatted="false">Leia e concorde com os nossos %1s e %2s antes de utilizar esta funcionalidade</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo a %1s! %2s</string>
-  <string name="system_permission_declare_no_say_no">Se escolher não dar as permissões necessárias, esta aplicação não vai funcionar normalmente</string>
-  <string name="system_permission_declare_privacy_declare">"Nós respeitamos e protegemos a sua privacidade.
-Note que %1s necessita de obter os seus dados e as seguintes permissões para funcionar normalmente:"</string>
+  <string name="system_permission_declare_no_say_no">"Nós vamos proteger as suas informações pessoais de acordo com as leis relevantes, regulamentos e políticas de privacidade.
+Se não concordar em dar as permissões necessárias, esta aplicação não vai funcionar normalmente"</string>
+  <string name="system_permission_declare_privacy_declare">%1s necessita de obter os seus dados e as seguintes permissões para funcionar normalmente:</string>
   <string name="system_permission_declare_revoke_path">Pode revogar a sua autorização e desligar os serviços nas definições de Mensagens</string>
   <string name="system_permission_declare_single_link">Leia e concorde com o nosso %1s antes de utilizar esta funcionalidade</string>
   <string name="system_permission_declare_triple_link" formatted="false">Leia e concorde com os nossos %1s, %2s, e %3s antes de utilizar estas funcionalidades</string>
