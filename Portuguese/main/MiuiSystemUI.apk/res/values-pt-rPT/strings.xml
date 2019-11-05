@@ -1387,6 +1387,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_screenshot_label">Cap. de ecrã</string>
   <string name="quick_settings_secondary_label_until">Até %s</string>
   <string name="quick_settings_settings_label">Definições</string>
+  <string name="quick_settings_sim_disabled">(Desactivado)</string>
   <string name="quick_settings_sync_label">Sincronização</string>
   <string name="quick_settings_tethering_label">Partilha de ligação</string>
   <string name="quick_settings_time_label">Hora</string>
@@ -1812,7 +1813,7 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="wifi_fail_to_scan">Não é possível pesquisar redes</string>
   <string name="wifi_is_off">Wi-Fi está desligado</string>
   <string name="wifi_limited_connection">Ligação limitada</string>
-  <string name="wifi_no_internet">Sem acesso à Internet</string>
+  <string name="wifi_no_internet">Não é possível ligar à Internet</string>
   <string name="wifi_no_internet_no_reconnect">Não é possível ligar à Internet</string>
   <string name="wifi_not_in_range">Fora do alcance</string>
   <string name="wifi_remembered">Guardado</string>

@@ -1032,6 +1032,12 @@ Modo canal"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec de áudio LDAC Bluetooth: Qualidade de som</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleccionar codec de áudio LDAC Bluetooth:
 Qualidade de som"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency">Codec de áudio LHDC Bluetooth: latência</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Seleccionar codec de áudio LHDC Bluetooth:
+Latência"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec de áudio LHDC Bluetooth: Qualidade de som</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Seleccionar codec de áudio LHDC Bluetooth:
+Qualidade de som"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Taxa de amostragem de áudio Bluetooth</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleccionar codec de áudio Bluetooth:
 Taxa de amostragem"</string>
@@ -1154,16 +1160,24 @@ Se já fez alguma das coisas de cima, adicione a sua Conta Mi outra vez senão n
   <string name="bt_hci_snoop_log">Activar registo de monitorização Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI num ficheiro</string>
   <string name="bt_ldac_declaration">Quando um dispositivo Bluetooth suporta LDAC, vai ser ligado por defeito. O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria</string>
-  <string name="bt_ldac_dialog_summary">"O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria
-Esta funcionalidade pode ser desligada nas [Settings]"</string>
+  <string name="bt_ldac_dialog_summary">"O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria.
+Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="bt_ldac_dialog_title">O dispositivo actual suporta LDAC, que foi ligado:</string>
-  <string name="bt_ldac_open_dialog_summary">O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria. Podem ocorrer problemas devio a limitações do hardware Bluetooth</string>
+  <string name="bt_ldac_open_dialog_summary">O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria. Podem ocorrer problemas devido a limitações do hardware Bluetooth</string>
   <string name="bt_ldac_open_dialog_title">Ligar LDAC?</string>
   <string name="bt_ldac_pre_summary">Fornece uma experiência de áudio de alta qualidade</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Atributos</string>
   <string name="bt_ldac_remember_choice">Memorizar preferência</string>
   <string name="bt_ldac_settings">Definições</string>
+  <string name="bt_lhdc_declaration">Quando um dispositivo Bluetooth suporta LHDC, vai ser ligado por defeito. O LHDC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria</string>
+  <string name="bt_lhdc_dialog_summary">"O LHDC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria.
+Esta funcionalidade pode ser desligada nas Definições"</string>
+  <string name="bt_lhdc_dialog_title">The current device supports LHDC, which has been connected by default:</string>
+  <string name="bt_lhdc_open_dialog_summary">O LHDC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria. Podem ocorrer problemas devido a limitações do hardware Bluetooth</string>
+  <string name="bt_lhdc_open_dialog_title">Ligar LHDC?</string>
+  <string name="bt_lhdc_pre_title">LHDC</string>
+  <string name="bt_lhdc_property">Atributos</string>
   <string name="bt_pre_summary">Fornece uma experiência de áudio de alta qualidade</string>
   <string name="bt_rarely_used_device_title">Dispositivos raramente utilizados (%d)</string>
   <string name="bt_trace_log">Pesquisa do registo do Bluetooth</string>
@@ -6794,8 +6808,8 @@ Definir a rede como oculta não altera as definições do router"</string>
   <string name="wifi_network_optimization">Ligação de rede inteligente</string>
   <string name="wifi_network_prefix_length">Compr. do prefixo de rede</string>
   <string name="wifi_no_domain_warning">Tem de especificar um domínio</string>
-  <string name="wifi_no_internet">Sem acesso à Internet</string>
-  <string name="wifi_no_internet_no_reconnect">Sem acesso à Internet</string>
+  <string name="wifi_no_internet">Não é possível ligar à Internet</string>
+  <string name="wifi_no_internet_no_reconnect">Não é possível ligar à Internet</string>
   <string name="wifi_not_in_range">Fora do alcance</string>
   <string name="wifi_not_in_range_message">Rede fora do alcance</string>
   <string name="wifi_notify_cmcc_connected_summary">Mostrar notificação quando ligado à rede CMCC</string>
@@ -7057,6 +7071,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="write_system_settings">Modificar definições de sistema</string>
   <string name="wrong_pin_code_pukked">O código PIN do cartão SIM está incorrecto. Deve entrar em contacto com a sua operadora para desbloquear o dispositivo</string>
   <string name="xiaomi_account">Conta Mi</string>
+  <string name="xiaomi_cloud_find_device">Localizar Dispositivo</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_description">A Xiaomi Cloud sincroniza os seus contactos e fotos, faz cópias das suas aplicações e definições e ajuda-o a localizar o seu telefone</string>
   <string name="xiaomi_cloud_service_disabled">Desligado</string>

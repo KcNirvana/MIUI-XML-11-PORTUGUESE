@@ -23,6 +23,8 @@
   <string name="app_notification_info">As Notas estão a executar em segundo plano</string>
   <string name="app_widget">Notas</string>
   <string name="application_icon">Ícone da aplicação</string>
+  <string name="audio_create_normal_state">Soltar para criar. Deslizar para cima para cancelar</string>
+  <string name="audio_create_will_cancel_state">Soltar para cancelar</string>
   <string name="audio_toast_file_invalid">O ficheiro áudio é inválido</string>
   <string name="audio_toast_file_undownload">O ficheiro áudio está em falta</string>
   <string name="audio_toast_network_is_not_available">Não foi possível ligar à rede</string>
@@ -124,6 +126,10 @@
   <string name="menu_todo_show_finished_todo">Mostrar tarefas concluídas</string>
   <string name="menu_unhide">Mostrar</string>
   <string name="menu_unstick">Soltar</string>
+  <string name="new_audio_create_cancel_talkback_des">Cancelado</string>
+  <string name="new_audio_create_done_talkback_des">Criado</string>
+  <string name="new_audio_create_guide_tip">Premir e segurar para criar uma nota de voz</string>
+  <string name="new_audio_create_talkback_des">Toque para criar uma nota de texto. Prima e segure para criar uma nota de voz. Soltar o botão para parar a gravação e criar a nota ou deslizar para cima para cancelar</string>
   <string name="not_now">Agora não</string>
   <string name="note_alert_expired">Expirado</string>
   <string name="note_description_content">A aplicação Notas é uma óptima ferramenta para guardar as suas ideias. Tem lembretes embutidos e sincroniza os seus itens para a Xiaomi Cloud para que os possa aceder a qualquer altura em qualquer lado. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>

@@ -11,7 +11,7 @@
     </string-array>
     <string-array name="ai_item_action_array">
         <item>Nenhuma</item>
-        <item>Activar assistente Google</item>
+        <item>Ligar assistente Google</item>
     </string-array>
     <string-array name="ai_key_item_name">
         <item>Falar com assistente Google</item>
@@ -284,6 +284,28 @@
         <item>Optimizado para qualidade de ligação (330kbps/303kbps)</item>
         <item>Melhor efeito (Bit rate adaptável)</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Latência curta</item>
+        <item>Latência média</item>
+        <item>Latência longa</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Latência curta (50~100ms)</item>
+        <item>Latência média (150~200ms)</item>
+        <item>Latência longa (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimizado para a ligação</item>
+        <item>Balanceado</item>
+        <item>Optimizado para o áudio</item>
+        <item>Melhor esforço (taxa de bits automática)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimizado para a ligação (400kbps)</item>
+        <item>Balanceado (500/560kbps)</item>
+        <item>Optimizado o áudio (900kbps)</item>
+        <item>Melhor esforço (taxa de bits automática)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Predefinição de sistema</item>
         <item>44.1 kHz</item>
@@ -306,6 +328,7 @@
         <item>Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ adaptável</item>
+        <item>LHDC</item>
         <item>Activar codecs opcionais</item>
         <item>Desactivar codecs opcionais</item>
     </string-array>
@@ -317,6 +340,7 @@
         <item>Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ adaptável</item>
+        <item>LHDC</item>
         <item>Activar codecs opcionais</item>
         <item>Desactivar codecs opcionais</item>
     </string-array>

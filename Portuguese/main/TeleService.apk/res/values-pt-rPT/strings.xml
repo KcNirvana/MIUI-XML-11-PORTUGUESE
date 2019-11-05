@@ -1278,6 +1278,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="sip_save_register_error">Não foi possível guardar e registar um novo perfil SIP</string>
   <string name="sip_settings">Definições SIP</string>
   <string name="sip_system_decide">Automático</string>
+  <string name="sms_messages_title">SMS</string>
   <string name="smsc_dialog_message">Certifique-se que o número introduzido está correcto, senão não vai poder enviar ou receber SMS</string>
   <string name="sp_unlock_failed">O pedido de desbloqueio do serviço da operadora do cartão SIM falhou</string>
   <string name="sp_unlock_success">Serviço da operadora do cartão SIM desbloqueado</string>

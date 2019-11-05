@@ -45,7 +45,7 @@
   <string name="error_server">Erro do servidor</string>
   <string name="error_unknown">Não foi possível iniciar sessão</string>
   <string name="find_device">Localizar Dispositivo</string>
-  <string name="find_device_dspt_provision">Se perder o seu dispositivo, pode ir a &lt;font color=#ff0000&gt;%s&lt;/font&gt; para localizar, bloquear ou reinicializar. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições</string>
+  <string name="find_device_dspt_provision">Se perder o seu dispositivo, pode ir a &lt;font color=#0097FF&gt;%s&lt;/font&gt; para localizar, bloquear ou reinicializar. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições</string>
   <string name="find_device_error_network">Verifique a sua ligação de dados e tente novamente</string>
   <string name="find_device_error_server">Erro de servidor</string>
   <string name="find_device_gdpr_prompt">Ao ligar Localizar Dispositivo, está a concordar com <a href="app://com.miui.cloudservice.gdpr.license"><u>Política de Privacidade</u></a>. Se necessitar de revogar a autorização, desligue esta funcionalidade</string>
@@ -80,6 +80,8 @@
   <string name="member_menu_vipname_mega">Mega</string>
   <string name="member_menu_vipname_premium">Premium</string>
   <string name="member_menu_vipname_ultra">Ultra</string>
+  <string name="menu_add_feedback">Comentários</string>
+  <string name="menu_add_short_cut">Criar um atalho no ecrã inicial</string>
   <string name="micloud_alert_dialog_positive">OK</string>
   <string name="micloud_all_sub_1_intl_sms">Uma SMS internacional vai ser enviada para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
   <string name="micloud_all_sub_1_sms">Uma SMS nacional vai ser enviada para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
@@ -128,7 +130,7 @@ na sua Conta Mi para reactivar a Xiaomi Cloud"</string>
   <string name="micloud_detail_fail">Não é possível sincronizar</string>
   <string name="micloud_detail_query_error">Não é possível obter estado da sincronização</string>
   <string name="micloud_dspt">"Sincronize os seus contactos, mensagens, registos de chamadas e outros itens em todos os dispositivos.
-Localize e bloqueie o seu dispositivo no caso de estar perdido"</string>
+Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_dspt_provision">Utilizar a Xiaomi Cloud para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
   <string name="micloud_dspt_provision_xms">Utilizar a Xiaomi Cloud para sincronizar dados</string>
   <string name="micloud_find_device_close_alert_content">Se desligar Localizar Dispositivo, não vai poder localizar o seu dispositivo em caso de o perder</string>
@@ -157,7 +159,7 @@ Localize e bloqueie o seu dispositivo no caso de estar perdido"</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat recomenda que ligue Localizar Dispositivo</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recomenda que ligue Localizar Dispositivo</string>
   <string name="micloud_find_device_guide_progress">A ligar Localizar Dispositivo…</string>
-  <string name="micloud_find_device_guide_title">"Iniciar sessão em &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou formatar o seu dispositivo. isto pode-o ajudar a localizar o seu dispositivo em caso de o perder.&lt;br /&gt;Se perder o seu dispositivo, pode contactar o serviço de segurança das aplicações que utiliza frequentemente (p.e., Alipay, WeChat, QQ) para proteger as suas contas em &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;"</string>
+  <string name="micloud_find_device_guide_title">"Iniciar sessão em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou formatar o seu dispositivo. Isto pode ajudá-lo a encontrar o seu dispositivo se estiver perdido"</string>
   <string name="micloud_find_device_open_fail">Não foi possível ligar Localizar Dispositivo</string>
   <string name="micloud_find_device_opened">Localizar Dispositivo ligado</string>
   <string name="micloud_find_device_opened_content">Localize o seu dispositivo em %s</string>
@@ -482,6 +484,8 @@ Read and agree to our"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agre
   <string name="sync_sub_2_intl_sms">"A sua operadora pode cobrar por duas mensagens SMS internacionais utilizadas para activar este serviço. "</string>
   <string name="sync_sub_2_sms">A sua operadora pode cobrar por duas mensagens SMS utilizadas para activar este serviço</string>
   <string name="system_busy_or_network_error">Ocorreu um erro. Aguarde um momento e tente novamente</string>
+  <string name="tip_short_cut_added_success">Criado com sucesso</string>
+  <string name="tip_short_cut_already_added">Criado</string>
   <string name="title_back">Voltar</string>
   <string name="title_reg">Criar Conta Mi</string>
   <string name="trying_to_connect_to_network">A ligar à rede…</string>

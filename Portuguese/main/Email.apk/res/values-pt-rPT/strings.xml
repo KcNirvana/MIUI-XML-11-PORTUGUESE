@@ -130,8 +130,8 @@
   <string name="account_setup_incoming_username_label_default_hint">Pode incluir um domínio</string>
   <string name="account_setup_need_password_verification">A sua conta possui verificação em 2 passos. Autenticação necessária</string>
   <string name="account_setup_options_actionbar_title">Definições rápidas</string>
-  <string name="account_setup_options_mail_check_frequency_10min">A cada 10 minutos</string>
   <string name="account_setup_options_mail_check_frequency_12hour">A cada 12 horas</string>
+  <string name="account_setup_options_mail_check_frequency_15min">A cada 15 minutos</string>
   <string name="account_setup_options_mail_check_frequency_1hour">A cada hora</string>
   <string name="account_setup_options_mail_check_frequency_4hour">A cada 4 horas</string>
   <string name="account_setup_options_mail_check_frequency_imap_push">Automático (Push)</string>
@@ -1097,6 +1097,9 @@ Remover conta?"</string>
   <string name="uploading_logs">Aguarde…</string>
   <string name="user_privacy_settings">Definições de privacidade</string>
   <string name="user_privacy_settings_agreement_authorization">(Ao clicar em \"Autorizo\" estou a conceder todas as permissões necessárias a WPS Mail)</string>
+  <string name="user_privacy_settings_path">Dica: Pode retirar o seu consentimento nas definições de privacidade do utilizador</string>
+  <string name="user_privacy_settings_summary">Vamos obter o seu ID do Android (criptografado como o seu ID de Email único) ou o registo de operações. Tem o direito de retirar o seu consentimento nas definições de privacidade do utilizador</string>
+  <string name="user_privacy_settings_title">Lembrete de direitos de privacidade do Email</string>
   <string name="validation_failed_prompt">Não foi possível verificar a conta, verifique as definições do servidor %s</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>

@@ -79,6 +79,7 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ adaptável</item>
         <item>Qualcomm® aptX™ TWS+</item>
+        <item>LHDC</item>
         <item>Activar codecs opcionais</item>
         <item>Activar codecs opcionais</item>
     </string-array>
@@ -91,6 +92,7 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ adaptável</item>
         <item>Qualcomm® aptX™ TWS+</item>
+        <item>LHDC</item>
         <item>Activar codecs opcionais</item>
         <item>Desactivar codecs opcionais</item>
     </string-array>
