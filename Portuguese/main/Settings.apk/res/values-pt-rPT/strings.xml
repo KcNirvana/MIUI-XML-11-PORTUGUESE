@@ -2556,7 +2556,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gxzw_quick_open_enable_summary">Utilize gestos para abrir aplicações ou utilizar funcionalidades quando o seu dispositivo estiver desbloqueado</string>
   <string name="gxzw_quick_open_enable_title">Atalhos de impressão digital</string>
   <string name="gxzw_quick_open_fast_summary">Deslize para utilizar um atalho assim que o dispositivo estiver desbloqueado</string>
-  <string name="gxzw_quick_open_fast_title">Desliza rápido (avançado)</string>
+  <string name="gxzw_quick_open_fast_title">Deslizar rápido (avançado)</string>
   <string name="gxzw_quick_open_slow_summary">Prima e segure o ícone da impressão digital para abrir o menu de atalhos. Deslize para utilizar</string>
   <string name="gxzw_quick_open_slow_title">Premir e segurar</string>
   <string name="gxzw_quick_open_title">Atalhos</string>
@@ -6648,7 +6648,6 @@ Reveja a Política de Privacidade do fornecedor de serviços"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC ligado</string>
   <string name="wifi_connect_failed_message">Não foi possível ligar à rede Wi-Fi</string>
   <string name="wifi_connected_no_internet">Ligado, sem Internet</string>
-  <string name="wifi_connected_to_message">Ligado a %1$s</string>
   <string name="wifi_connecting">A ligar…</string>
   <string name="wifi_connection_management">Gerir ligações Wi-Fi</string>
   <string name="wifi_context_menu_change_password">Alterar palavra-passe</string>

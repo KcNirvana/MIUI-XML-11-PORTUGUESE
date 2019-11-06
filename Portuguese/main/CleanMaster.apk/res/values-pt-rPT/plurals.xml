@@ -30,6 +30,34 @@
         <item quantity="few">%1$d dias atrás</item>
         <item quantity="many">%1$d dias atrás</item>
     </plurals>
+    <plurals name="dc_group_title_normal">
+        <item quantity="other">Faltam %1$d passos para libertar %2$s</item>
+        <item quantity="one">Falta %1$d passo para libertar %2$s</item>
+    </plurals>
+    <plurals name="dc_item_summary_apk">
+        <item quantity="other">Pode eliminar <font color='#0097FF'>%d</font> pacotes de instalação</item>
+        <item quantity="one">Pode eliminar <font color='#0097FF'>%d</font> pacote de instalação</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_data">
+        <item quantity="other">Pode limpar os dados de <font color='#0097FF'>%d</font> aplicações</item>
+        <item quantity="one">Pode limpar os dados de <font color='#0097FF'>%d</font> aplicação</item>
+    </plurals>
+    <plurals name="dc_item_summary_image">
+        <item quantity="other">Pode eliminar <font color='#0097FF'>%d</font> fotos desnecessárias</item>
+        <item quantity="one">Pode eliminar <font color='#0097FF'>%d</font> foto desnecessária</item>
+    </plurals>
+    <plurals name="dc_item_summary_large_file">
+        <item quantity="other">Pode eliminar <font color='#0097FF'>%d</font> ficheiros grandes</item>
+        <item quantity="one">Pode eliminar <font color='#0097FF'>%d</font> ficheiro grande</item>
+    </plurals>
+    <plurals name="dc_item_summary_uninstall_app">
+        <item quantity="other">Pode desinstalar <font color='#0097FF'>%d</font> aplicações raramente utilizadas</item>
+        <item quantity="one">Pode desinstalar <font color='#0097FF'>%d</font> aplicação raramente utilizada</item>
+    </plurals>
+    <plurals name="dc_item_summary_video">
+        <item quantity="other">Pode eliminar <font color='#0097FF'>%d</font> vídeos</item>
+        <item quantity="one">Pode eliminar <font color='#0097FF'>%d</font> vídeo</item>
+    </plurals>
     <plurals name="deepclean_apk_summary">
         <item quantity="other">Encontrou %d APKs. Pode eliminar os APKs desnecessários</item>
         <item quantity="one">Encontrou %d APK. Pode eliminar este APK</item>

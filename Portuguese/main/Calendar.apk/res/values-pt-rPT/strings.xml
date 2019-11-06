@@ -161,6 +161,14 @@
   <string name="edit_event_tab_birthday">Aniversário</string>
   <string name="edit_event_tab_countdown">Contagem decrescente</string>
   <string name="edit_event_tab_event">Evento</string>
+  <string name="edit_event_title_create_agenda">Adicionar evento</string>
+  <string name="edit_event_title_create_anniversary">Adicionar aniversário</string>
+  <string name="edit_event_title_create_birthday">Adicionar data de nascimento</string>
+  <string name="edit_event_title_create_countdown">Adicionar contagem decrescente</string>
+  <string name="edit_event_title_edit_agenda">Editar evente</string>
+  <string name="edit_event_title_edit_anniversary">Editar aniversário</string>
+  <string name="edit_event_title_edit_birthday">Editar data de nascimento</string>
+  <string name="edit_event_title_edit_countdown">Editar contagem decrescente</string>
   <string name="edit_event_to_label">Data de fim</string>
   <string name="email_guests_label">Enviar email para convidados</string>
   <string name="email_install_hint">O Email foi desinstalado. Instale o Email novamente para restaurar calendários ou adicionar um novo</string>
