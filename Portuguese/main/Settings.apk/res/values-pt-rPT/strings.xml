@@ -2098,7 +2098,7 @@ Pode ver o registo gerado no Explorador"</string>
   <string name="enable_freeform_support_summary">Activar a compatibilidade experimental com janelas de forma livre</string>
   <string name="enable_gnss_raw_meas_full_tracking">Forçar medições de GNSS completas</string>
   <string name="enable_gnss_raw_meas_full_tracking_summary">Monitorizar todas as constelações e frequências de GNSS sem ciclos</string>
-  <string name="enable_gpu_debug_layers">Ativar depuração GPU</string>
+  <string name="enable_gpu_debug_layers">Activar depuração GPU</string>
   <string name="enable_gpu_debug_layers_summary">Permitir carregamento de depuração GPU para depuração de aplicações</string>
   <string name="enable_mms_notification_channel_title">Mensagem MMS</string>
   <string name="enable_mms_notification_summary">Toque para permitir mensagens MMS na operadora %1$s quando os dados móveis estão desligados</string>
@@ -4551,7 +4551,7 @@ Interface UT: %5$s"</string>
   <string name="remove_account_failed">Esta alteração não é permitida pelo seu administrador</string>
   <string name="remove_account_label">Remover conta</string>
   <string name="remove_continue">Desinstalar</string>
-  <string name="remove_device_admin">Desativar</string>
+  <string name="remove_device_admin">Desactivar</string>
   <string name="remove_from_frequently_fragment">Remover %s das definições comuns?</string>
   <string name="remove_managed_profile_label">Remover perfil de trabalho</string>
   <string name="repeat">Repetir</string>
@@ -5826,6 +5826,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="tethering_settings_not_available">Alterar as definições de partilha de ligação no Primeiro espaço</string>
   <string name="tether_share_qrcode_title">Partilhar código QR</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Ligar assistente Google no modo ecrã inteiro</string>
+  <string name="theme_customization_accent_color_title">Cor de destaque</string>
   <string name="theme_customization_category">Temas</string>
   <string name="theme_customization_device_default">Predefinição do dispositivo</string>
   <string name="theme_customization_font_title">Tipo de letra do título/corpo</string>
@@ -6878,7 +6879,7 @@ Permitir esta opção para todas as aplicações que pretenderem verificar?"</st
   <string name="wifi_scan_notify_remember_choice">Não mostrar novamente</string>
   <string name="wifi_scan_notify_text">Para melhorar a precisão da localização, os serviços e as aplicações do sistema podem continuar a procurar redes Wi-Fi. Pode alterar esta opção nas LINK_BEGINdefinições de pesquisaLINK_END</string>
   <string name="wifi_scan_notify_text_scanning_off">Para melhorar a precisão da localização, active a procura de redes Wi-Fi nas LINK_BEGINdefinições de análiseLINK_END</string>
-  <string name="wifi_scan_throttling">>Controlo da procura de Wi‑Fi</string>
+  <string name="wifi_scan_throttling">Controlo da procura de Wi-Fi</string>
   <string name="wifi_scan_throttling_summary">Reduzir o descarregamento da bateria e melhorar o desempenho da rede</string>
   <string name="wifi_security">Segurança</string>
   <string name="wifi_security_none">Nenhum</string>

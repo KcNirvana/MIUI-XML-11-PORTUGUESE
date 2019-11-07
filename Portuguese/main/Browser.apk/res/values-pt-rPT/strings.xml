@@ -165,9 +165,9 @@
     <string name="comment_description">Comentar</string>
     <string name="comment_hint">Comentar</string>
     <string name="comment_menu">Comentar</string>
-    <string name="common_google_play_services_enable_button">Ativar</string>
-    <string name="common_google_play_services_enable_text">O %1$s não funciona enquanto não ativar os serviços do Google Play.</string>
-    <string name="common_google_play_services_enable_title">Ativar serviços do Google Play</string>
+    <string name="common_google_play_services_enable_button">Activar</string>
+    <string name="common_google_play_services_enable_text">O %1$s não funciona enquanto não activar os serviços do Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activar serviços do Google Play</string>
     <string name="common_google_play_services_install_button">Instalar</string>
     <string name="common_google_play_services_install_text">O %1$s não é executado sem os Serviços do Google Play, os quais estão em falta no seu dispositivo.</string>
     <string name="common_google_play_services_install_title">Obter serviços do Google Play</string>
@@ -381,8 +381,8 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="is_last_tab">Esta é a última janela</string>
     <string name="is_page_bottom">Chegou ao fim da página</string>
     <string name="is_page_top">Está no início da página</string>
-    <string name="js_disable_confirm_message">Desativar o JavaScript pode fazer com que alguns sites sejam exibidos incorretamente.</string>
-    <string name="js_disable_confirm_title">Desativar JavaScript?</string>
+    <string name="js_disable_confirm_message">Desactivar o JavaScript pode fazer com que alguns sites sejam exibidos incorretamente.</string>
+    <string name="js_disable_confirm_title">Desactivar JavaScript?</string>
     <string name="keep_queued_download">Manter</string>
     <string name="loading_tips">Puxar para atualizar</string>
     <string name="local_bookmarks">Mi</string>
@@ -421,7 +421,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="miui_search_notification_title">Pesquisar</string>
     <string name="miui_startpage">Página inicial</string>
     <string name="miuishare_account_activate_confirmation">Ativação necessária</string>
-    <string name="miuishare_account_activate_ok">Ativar</string>
+    <string name="miuishare_account_activate_ok">Activar</string>
     <string name="miuishare_account_login_cancel">Cancelar</string>
     <string name="miuishare_account_login_confirmation">Inicie sessão primeiro</string>
     <string name="miuishare_account_login_ok">Iniciar sessão</string>
@@ -856,7 +856,7 @@ Sair desta página agora?"</string>
     <string name="pref_content_cloud_speedup">Carregar o conteúdo mais rápido utilizando os servidores proxy</string>
     <string name="pref_content_fontsize_setting">Definições da letra</string>
     <string name="pref_content_homepage">Definir página inicial</string>
-    <string name="pref_content_javascript">Ativar JavaScript</string>
+    <string name="pref_content_javascript">Activar JavaScript</string>
     <string name="pref_content_night_read_mode">Modo noturno</string>
     <string name="pref_content_search_engine">Motor de pesquisa na barra de endereços</string>
     <string name="pref_content_search_engine_summary">Escolha um motor de pesquisa</string>
