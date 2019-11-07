@@ -68,4 +68,11 @@
         <item quantity="other">" minutos"</item>
         <item quantity="one">" minuto"</item>
     </plurals>
+    <plurals name="usage_days">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d minutos é um grande passo em direcção à atenção e concentração</item>
+        <item quantity="one">%d minuto é um grande passo em direcção à atenção e concentração</item>
 </resources>
