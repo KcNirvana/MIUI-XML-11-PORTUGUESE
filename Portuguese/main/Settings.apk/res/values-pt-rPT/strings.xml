@@ -2526,7 +2526,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="google_title">Google</string>
   <string name="got_it">Percebi</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
-  <string name="gxzw_add_fingerprint_area">Digitalizador de impressão digital</string>
+  <string name="gxzw_add_fingerprint_area">Sensor de impressão digital</string>
   <string name="gxzw_add_fingerprint_continue">Continuar</string>
   <string name="gxzw_add_fingerprint_edge_message">Mova o seu dedo para gravar os cantos da sua impressão digital</string>
   <string name="gxzw_add_fingerprint_edge_title">Mova o dedo levemente</string>

@@ -1428,7 +1428,7 @@ Este tablet não tem fones de ouvido. Pode mudar para o modo mãos-livres ou uti
   <string name="voicemail_number_not_set">&lt;Não definido&gt;</string>
   <string name="voicemail_provider">Serviço de Voice Mail</string>
   <string name="voicemail_provider_summary">Escolher o serviço de Voice Mail</string>
-  <string name="voicemail_settings">Definições Voice Mail</string>
+  <string name="voicemail_settings">Configuração do Voice Mail</string>
   <string name="voicemail_settings_number_hint">Introduzir número da caixa de Voice Mail</string>
   <string name="voicemail_settings_number_label">Número do Voice Mail</string>
   <string name="voicemail_settings_number_title">Número do Voice Mail</string>

@@ -34,6 +34,7 @@
   <string name="double_seventh_day"/>
   <string name="easter">Páscoa</string>
   <string name="fools_day">Dia das mentiras</string>
+  <string name="guitar">Guitarra</string>
   <string name="glockenspiel">Glockenspiel</string>
   <string name="group_name_contacts">Contactos</string>
   <string name="group_name_coworkers">Colegas</string>
@@ -67,6 +68,7 @@
   <string name="vip_not_login">Sem sessão iniciada</string>
   <string name="vip_sign">Assinatura:</string>
   <string name="waterdrop_preview">Sons da natureza 1</string>
+  <string name="windchime">Espanta espíritos</string>
   <string name="yellow_page_module_sms_sent">SMS enviada</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Não é possível enviar mensagens no Modo Convidado</string>
   <string name="yellow_page_sms_send_failed">Não foi possível enviar SMS</string>
