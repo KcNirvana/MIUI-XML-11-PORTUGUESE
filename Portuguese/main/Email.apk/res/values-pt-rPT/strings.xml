@@ -720,7 +720,7 @@
   <string name="open_external_storage_and_calendar_permission">Permitir que o Email aceda ao armazenamento e calendário nas Definições</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Permitir que o Email aceda ao armazenamento, contactos e calendário nas Definições</string>
   <string name="open_external_storage_and_contacts_permission">Permitir que o Email aceda ao armazenamento e contactos nas Definições</string>
-  <string name="open_notification_kingagent">Ativar notificações de ponto</string>
+  <string name="open_notification_kingagent">Activar notificações de ponto</string>
   <string name="optimization_suggestion">Sugestões de optimização</string>
   <string name="others_mail">Outros</string>
   <string name="others_mail_des">(compatível com mais de 600000 serviços de email)</string>
