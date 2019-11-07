@@ -75,4 +75,5 @@
     <plurals name="usage_state_focus_usage_summary">
         <item quantity="other">%d minutos é um grande passo em direcção à atenção e concentração</item>
         <item quantity="one">%d minuto é um grande passo em direcção à atenção e concentração</item>
+    </plurals>
 </resources>
