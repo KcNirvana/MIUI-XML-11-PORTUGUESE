@@ -285,7 +285,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="airplane_mode">Modo Avião</string>
   <string name="alarm_ringtone_title">Som de alarme predefinido</string>
   <string name="alarm_sound_dialog_title">Escolher o som do alarme</string>
-  <string name="alarm_sound_title">Som do alarme</string>
+  <string name="alarm_sound_title">Alarme</string>
   <string name="alarm_stop">Desligar o modo silêncio quando o alarme desligar</string>
   <string name="alarm_stop_info">O modo silêncio vai ser desligado quando o alarme desligar</string>
   <string name="alarm_volume_option_title">Volume do alarme</string>
@@ -629,6 +629,8 @@ Sensibilidades mais elevadas podem entrar em conflito com quaisquer gestos de ap
   <string name="backup_summary_state_off">Desligada</string>
   <string name="backup_summary_state_on">Ligada</string>
   <string name="badge_title">Ícone</string>
+  <string name="band_24G">(2.4G)</string>
+  <string name="band_5G">(5G)</string>
   <string name="band_mode_failed">Sem sucesso</string>
   <string name="band_mode_loading">A carregar lista de bandas…</string>
   <string name="band_mode_set">Definir</string>
@@ -2058,6 +2060,20 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="dual_clock_open_message">O relógio duplo vai ser mostrado no ecrã de bloqueio e ecrã inicial</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="dual_wifi">Aceleração Wi-Fi dupla</string>
+  <string name="dual_wifi_acceleration">Aceleração Wi-Fi secundária</string>
+  <string name="dual_wifi_avaliable_slave_wifi">Aceleração Wi-Fi secundária disponível</string>
+  <string name="dual_wifi_avaliable_slave_wifi_24G">Aceleração Wi-Fi secundária disponível(2.4G)</string>
+  <string name="dual_wifi_avaliable_slave_wifi_5G">Aceleração Wi-Fi secundária disponível(5G)</string>
+  <string name="dual_wifi_enabler_summary">Utilizar duas redes Wi-Fi simultâneamente</string>
+  <string name="dual_wifi_off">Desligado</string>
+  <string name="dual_wifi_on">Ligado</string>
+  <string name="dual_wifi_primary_wifi_connected">Ligado ao Wi-Fi primário</string>
+  <string name="dual_wifi_slave_wifi_connected">Ligado ao Wi-Fi secundário</string>
+  <string name="dual_wifi_summary">Ligar ao Wi-Fi primário, ligar o Wi-Fi secundário e aumentar a velocidade de rede</string>
+  <string name="dual_wifi_switching_not_remind">Sem dicas da próxima vez</string>
+  <string name="dual_wifi_switching_prompt">Troca de Wi-Fi</string>
+  <string name="dual_wifi_switching_summary">O Wi-Fi duplo necessita de diferentes bandas e se quiser alterar a banda do Wi-Fi primário o Wi-Fi secundário vai ser desligado</string>
   <string name="dump_log">Obter registos de problemas</string>
   <string name="dump_log_summary">"Esta funcionalidade serve para gerar o registo 284 nas versões Alpha e Beta da MIUI. Utilize-a com cuidado.
 Pode ver o registo gerado no Explorador"</string>
@@ -3528,6 +3544,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="msd_pc_system_install_summary_xp">1. Executar setup.exe para instalar</string>
   <string name="msg_wlan_signal_found">Ligar a %s?</string>
   <string name="mtp_ptp_mode_summary">A função MTP ou PTP está activa</string>
+  <string name="multi_network_acceleration_app_settings">Gestão de aceleração de redes</string>
   <string name="multi_touch_points_category_title">Pontos multi-toque</string>
   <string name="multi_touch_points_preference">Esta definição apenas vai ter efeito assim que reiniciar o seu dispositivo</string>
   <string name="music_app_unavailable">Certifique-se que a aplicação Música está disponível</string>
@@ -4594,7 +4611,7 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="reset_network_final_button_text">Repor definições</string>
   <string name="reset_network_final_desc">Repor todas as definições de rede? Não é possível anular esta acção!</string>
   <string name="reset_network_final_desc_esim">Repor todas as definições de rede e eliminar os SIMs transferidos? Não pode reverter esta acção!</string>
-  <string name="reset_network_title">Reposição das definições rede</string>
+  <string name="reset_network_title">Reposição de Wi-Fi, redes móveis e Bluetooth</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">Repor a palavra-passe do Segundo espaço</string>
   <string name="reset_second_space_passwd_cancel">Cancelar</string>
@@ -4643,7 +4660,7 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="ring_volume_option_title">Volume do toque</string>
   <string name="ring_volume_title">Volume do toque</string>
   <string name="ringtone_slot_setting_title">Definições SIM individuais</string>
-  <string name="ringtone_title">Toque do telefone</string>
+  <string name="ringtone_title">Toque</string>
   <string name="ringtone_uniform_setting_title">Definições do segundo cartão</string>
   <string name="ringtones_category_preference_title">Toques</string>
   <string name="ringtones_install_custom_sound_content">Este ficheiro vai ser copiado para a pasta %s</string>
@@ -4705,7 +4722,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_cancel">Cancelar</string>
   <string name="screen_color_and_optimize">Cores e contraste</string>
   <string name="screen_color_and_optimize_disabled">Não é possível ajustar temperatura da cor no Modo de Leitura</string>
-  <string name="screen_color_temperature">Cores</string>
+  <string name="screen_color_temperature">Temperatura da cor</string>
   <string name="screen_color_temperature_and_saturation">Cores e saturação</string>
   <string name="screen_compatibility_label">Compatibilidade do ecrã</string>
   <string name="screen_compatibility_text">Esta aplicação pode não ter sido definida para este ecrã. Pode controlar como a aplicação se ajusta melhor aqui</string>
@@ -6804,6 +6821,7 @@ Definir a rede como oculta não altera as definições do router"</string>
   <string name="wifi_metered_title">Utilização de rede</string>
   <string name="wifi_modify">Modificar</string>
   <string name="wifi_more">Mais</string>
+  <string name="wifi_multi_network_acceleration">Aceleração de rede inteligente</string>
   <string name="wifi_multiple_cert_added">(vários certificados adicionados)</string>
   <string name="wifi_network_optimization">Ligação de rede inteligente</string>
   <string name="wifi_network_prefix_length">Compr. do prefixo de rede</string>

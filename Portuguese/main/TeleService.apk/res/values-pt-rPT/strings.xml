@@ -1163,6 +1163,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="remove">Eliminar</string>
   <string name="remove_sip_account">Remover conta</string>
   <string name="removing_account">A remover conta…</string>
+  <string name="replace_4g_template">4G</string>
   <string name="requesting_corporate_unlock">A solicitar o desbloqueio do cartão SIM da empresa…</string>
   <string name="requesting_nw_subset_unlock">A solicitar o desbloqueio do subconjunto do cartão SIM…</string>
   <string name="requesting_puk_unlock">A solicitar o código PUK para desbloquear…</string>

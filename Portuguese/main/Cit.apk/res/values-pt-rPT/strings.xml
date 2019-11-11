@@ -60,6 +60,7 @@ Vire o telefone ao contrário, fale para o microfone. Deve ouvir a sua voz no al
   <string name="cit_audio_loopback_summary_dualmic_earpiece">"Teste de redução de ruídos ambiente 
 
 Segure no telefone como se estivesse a atender uma chamada, fale para o microfone. Deve ouvir a sua voz no altifalante com o ruído de fundo reduzido"</string>
+  <string name="cit_back_light_sensor_check_title">Sensor de luz traseira</string>
   <string name="cit_battery_temp_fail">Temperatura da bateria não é normal (valor=%d)</string>
   <string name="cit_battery_temp_pass">Temperatura da bateria é normal</string>
   <string name="cit_batterylight_blue">Azul</string>
@@ -334,6 +335,11 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_vibrator_play_touch_pattern">Vibração</string>
   <string name="cit_vibrator_short">Vibração curta</string>
   <string name="cit_vibrator_show_advanced">Mostrar opções avançadas</string>
+  <string name="cit_voc_data_check_title">Sensor de dados VOC</string>
+  <string name="cit_voc_data_humidity">Humididade</string>
+  <string name="cit_voc_data_pressure">Pressão</string>
+  <string name="cit_voc_data_sensor_check_summary">Valores para VOC, temperatura, humidade e pressão devem aparecer abaixo</string>
+  <string name="cit_voc_data_temperature">Temperatura</string>
   <string name="cit_wifi_address_check_summary">Em baixo encontra-se o endereço da rede Wi-Fi a que o telefone está ligado. Confirme se a informação destacada em verde está correcta</string>
   <string name="cit_wifi_address_check_title">Endereço Wi-Fi</string>
   <string name="cit_wifi_address_error">Erro ao obter o endereço Wi-Fi. Certifique-se de que o Wi-Fi está activado</string>

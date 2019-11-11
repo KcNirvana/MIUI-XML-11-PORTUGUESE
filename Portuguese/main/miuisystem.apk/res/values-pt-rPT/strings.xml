@@ -28,11 +28,13 @@
   <string name="cta_permission_delimiter">, </string>
   <string name="cta_title">Termos de Utilização</string>
   <string name="day_following_good_friday"/>
+  <string name="daydream">Devaneios</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Telefone Mi</string>
   <string name="double_seventh_day"/>
   <string name="easter">Páscoa</string>
+  <string name="fireflies">Pirilampos</string>
   <string name="fools_day">Dia das mentiras</string>
   <string name="guitar">Guitarra</string>
   <string name="glockenspiel">Glockenspiel</string>

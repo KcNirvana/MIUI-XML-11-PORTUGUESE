@@ -298,6 +298,8 @@
   <string name="auto_disable_screenbuttons_enable_toast_text">Botões de navegação activados</string>
   <string name="available_via_passpoint">Disponível através de %1$s</string>
   <string name="back">Voltar</string>
+  <string name="band_24G">(2.4G)</string>
+  <string name="band_5G">(5G)</string>
   <string name="battery">Bateria</string>
   <string name="battery_can_use_time">Aproximadamente %s restante</string>
   <string name="battery_detail_charging_summary">A poupança de bateria não está disponível durante o carregamento</string>
@@ -705,14 +707,17 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="gxzw_quick_close">Fechar</string>
   <string name="gxzw_quick_open_add_event">Adicionar evento</string>
   <string name="gxzw_quick_open_add_event_sub">Calendário</string>
+  <string name="gxzw_quick_open_add_note">Adicionar nota</string>
+  <string name="gxzw_quick_open_add_note_sub">Notas</string>
   <string name="gxzw_quick_open_alipay_pay">Código de pagamento</string>
   <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
   <string name="gxzw_quick_open_alipay_scan">Digitalizador</string>
   <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
+  <string name="gxzw_quick_open_dialer">Marcar</string>
+  <string name="gxzw_quick_open_dialer_sub">Telefone</string>
   <string name="gxzw_quick_open_qr_code">Codigo QR</string>
   <string name="gxzw_quick_open_qr_code_sub">Digitalizador</string>
   <string name="gxzw_quick_open_search">Pesquisa</string>
-  <string name="gxzw_quick_open_search_sub">Navegador</string>
   <string name="gxzw_quick_open_skip_teach">Ignorar tutorial</string>
   <string name="gxzw_quick_open_title">Menu de atalhos aberto</string>
   <string name="gxzw_quick_open_wechat_pay">Código de pagamento</string>

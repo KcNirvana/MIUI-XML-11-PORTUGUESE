@@ -48,6 +48,7 @@
   <string name="content_description_web_url">Navegar</string>
   <string name="copy">Copiar</string>
   <string name="cut">Cortar</string>
+  <string name="data_usage_context">Se o Wi-Fi não estiver ligado, o seu dispositivo vai ligar às redes móveis o que pode resultar em taxas adicionais. Obrigado!</string>
   <string name="default_device_name">Dispositivo desconhecido</string>
   <string name="default_name">Predefinido</string>
   <string name="description_title">Modo silêncio</string>

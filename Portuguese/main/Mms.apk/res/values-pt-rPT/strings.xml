@@ -120,6 +120,7 @@
   <string name="confirm_restore_title">Restauro de mensagens</string>
   <string name="confirm_send_mms">Um dos seus destinatários inclui um endereço de email. Esta mensagem vai ser enviada como uma mensagem MMS, o que pode resultar em custos adicionais na sua operadora</string>
   <string name="confirm_upload_sms">Enviar mensagens para melhorar a funcionalidade de lista de bloqueio</string>
+  <string name="contact_card_unknown_contact">Contacto desconhecido</string>
   <string name="contact_not_exists">Esta pessoa não existe nos seus contactos"</string>
   <string name="context_menu_add_calendar">Adicionar ao calendário</string>
   <string name="context_menu_add_contact">Adicionar a contactos</string>
