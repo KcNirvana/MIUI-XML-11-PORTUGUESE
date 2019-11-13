@@ -195,4 +195,5 @@
   <string name="wait_prompt_str">"Enviar os seguintes tons?
 "</string>
   <string name="waiting_close_airplane_mode">Aguarde…</string>
+  <string name="wifi_call">Chamadas VoWifi</string>
 </resources>

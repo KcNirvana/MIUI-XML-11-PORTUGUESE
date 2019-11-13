@@ -121,8 +121,8 @@
   <string name="enable_usb">Ligar dispositivo USB</string>
   <string name="encrypt_error">Não foi possível ocultar ficheiros. Tente novamente</string>
   <string name="encrypt_prefix">Ocultos</string>
-  <string name="encrypt_success">Ocultados com sucesso</string>
-  <string name="encrypt_success_first_five">Ficheiro encriptado e ocultado. Para ver os ficheiros ocultados desça a página inicial do Ficheiros</string>
+  <string name="encrypt_success">Ocultos com sucesso</string>
+  <string name="encrypt_success_first_five">Ficheiro encriptado e oculto. Para ver os ficheiros ocultos desça a página inicial do Ficheiros</string>
   <string name="encrypting">A encriptar…</string>
   <string name="error_contains_sharer_path">Não é possível encriptar ficheiros na pasta /MIUI/Gallery/cloud/sharer. Mova o ficheiro para outra pasta e tente novamente</string>
   <string name="error_create_dir">Não foi possível criar pasta</string>

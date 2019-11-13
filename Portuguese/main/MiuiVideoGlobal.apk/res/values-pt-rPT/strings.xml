@@ -65,6 +65,7 @@
   <string name="failed_to_fetch_data">Não foi possível carregar informação</string>
   <string name="finish">Concluído</string>
   <string name="for_you">Para si</string>
+  <string name="friday">Sexta-feira</string>
   <string name="fw_loading">Aguarde…</string>
   <string name="fw_reload_sub_title">Toque no ecrã para tentar novamente</string>
   <string name="fw_reload_title">Não foi possível ligar à rede</string>
@@ -446,6 +447,7 @@ Tente ver outros vídeos!"</string>
   <string name="s5">Criar evento de calendário</string>
   <string name="s6">Permitir ao anúncio criar um evento de calendário?</string>
   <string name="s7">Anúncio de teste</string>
+  <string name="saturday">Sábado</string>
   <string name="save">Guardar</string>
   <string name="save_cancel_toast">Toque novamente para cancelar</string>
   <string name="screenrecord_cancel">Problemas de compatibilidade</string>
@@ -463,6 +465,7 @@ Tente ver outros vídeos!"</string>
   <string name="slid_fail_message">Não foi possível guardar</string>
   <string name="slide_save_message">A gerar vídeo…</string>
   <string name="source">"Origem: "</string>
+  <string name="sunday">Domingo</string>
   <string name="switch_ratio_pause">Playback speed is unstable. Switching back to the default speed…</string>
   <string name="t_downloading">A transferir:</string>
   <string name="t_exit_app">Toque novamente para sair</string>
@@ -479,7 +482,9 @@ Tente ver outros vídeos!"</string>
   <string name="t_network_error">Ocorreu um erro de rede</string>
   <string name="t_ovp_check_delete_favor">Seleccionar itens para remover</string>
   <string name="t_start_download">A iniciar transferência:</string>
+  <string name="thursday">Quinta-feira</string>
   <string name="today">Hoje</string>
+  <string name="tuesday">Terça-feira</string>
   <string name="ui_log_tip">Tap this area to hide, press and hold to clear old logs. Drag logs manually.</string>
   <string name="update">Actualizar</string>
   <string name="v_agree">Concordar</string>
@@ -508,6 +513,7 @@ Tente ver outros vídeos!"</string>
   <string name="v_set_password">Definir palavra-passe</string>
   <string name="v_txt_login">Iniciar sessão para sincronizar os seus favoritos</string>
   <string name="v_update">Actualizar</string>
+  <string name="wednesday">Quarta-feira</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
 Size: %2$s"</string>

@@ -13,7 +13,7 @@
   <string name="ac_enter_applock">Entrar no Bloqueio de aplicações</string>
   <string name="ac_firstUseApplock_subTitle">Utilize o Bloqueio de aplicações para proteger a sua privacidade</string>
   <string name="ac_firstUseApplock_title">Definir uma palavra-passe para proteger as suas aplicações</string>
-  <string name="ac_mask_all_apps">Ocultar para todas as aplicações</string>
+  <string name="ac_mask_all_apps">Ocultar para todas</string>
   <string name="ac_notification_contentText">Toque para ligar</string>
   <string name="ac_notification_contentTitle">Proteja as aplicações com o Bloqueio de aplicações</string>
   <string name="ac_post_notification_contentText">Obtenha protecção ao nível do sistema</string>
@@ -22,7 +22,7 @@
   <string name="ac_pre_notification_contentTitle">Experimente o Bloqueio de aplicações</string>
   <string name="ac_summaryOff">Desligado</string>
   <string name="ac_summaryOn">Ligado</string>
-  <string name="ac_unmask_all_apps">Mostrar para todas as aplicações</string>
+  <string name="ac_unmask_all_apps">Mostrar para todas</string>
   <string name="access_control_app_is_launching">A aplicação está a iniciar</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Introduza a palavra-passe antes de utilizar uma nova impressão digital</string>
   <string name="access_control_fingerprint_not_identified_msg">Não foi possível ler a impressão digital</string>
@@ -1533,8 +1533,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="notification_exit_power_save_mode_subtitle">Bateria carregada a %s</string>
   <string name="notification_mask_summary">Não mostrar o conteúdo das notificações para aplicações protegidas</string>
   <string name="notification_mask_title">Ocultar conteúdo das notificações</string>
-  <string name="notification_masked_item">Ocultar notificações</string>
-  <string name="notification_masked_subtitle">Ocultar notificações de aplicações protegidas com o Bloqueio de aplicações</string>
+  <string name="notification_masked_item">Como ocultar o conteúdo das notificações?</string>
+  <string name="notification_masked_subtitle">Utilizar o Bloqueio de aplicações para ocultar o conteúdo das notificações para as aplicações seleccionadas</string>
   <string name="notification_summary_cmcc_app_check">Toque para ver detalhes</string>
   <string name="notify_channel_mipush">Mensagens push de segurança</string>
   <string name="notify_channel_name_security">Segurança do sistema</string>
@@ -1760,6 +1760,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_center_power_save_summary_text">Aumente o tempo restante até %1$dh %2$dm</string>
   <string name="power_center_power_save_title_text">Poupança de bateria</string>
   <string name="power_center_repeat">Repetir</string>
+  <string name="power_center_scan_item_title_5g">Ligação 5G</string>
   <string name="power_center_scan_item_title_GPS">Ajustar precisão do GPS</string>
   <string name="power_center_scan_item_title_abnormal">Problemas de bateria</string>
   <string name="power_center_scan_item_title_abnormal_apps">Aplicações que descarregam bateria</string>
@@ -1790,8 +1791,9 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_customize_giveup_change">Rejeitar alterações?</string>
   <string name="power_dialog_cancel">Cancelar</string>
   <string name="power_dialog_ok">OK</string>
-  <string name="power_dialog_super_save_msg">A poupança de bateria extrema restringe a maioria dos recursos que consomem bateria e diminui o desempenho do dispositivo para deixar apenas funcionalidades básicas (p.e. chamadas, mensagens e ligação à rede) disponíveis o maior tempo possível. Ligar a ultra poupança de bateria?</string>
+  <string name="power_dialog_super_save_msg">A poupança de bateria extrema restringe a maioria dos recursos que consomem bateria e diminui o desempenho do dispositivo para deixar apenas funcionalidades básicas (p.e. chamadas, mensagens e ligação à rede) disponíveis o maior tempo possível. Ligar a poupança de bateria extrema?</string>
   <string name="power_dialog_super_save_title">Poupança de bateria extrema</string>
+  <string name="power_dialog_super_save_msg_5g">A poupança de restringe a maioria dos recursos que consomem bateria e diminui o desempenho do dispositivo para deixar apenas funcionalidades básicas (p.e. chamadas, mensagens e ligação à rede) disponíveis o maior tempo possível. Ligar a poupança de bateria extrema?</string>
   <string name="power_idle">Telefone inactivo</string>
   <string name="power_main_battery_last_day_hour">%1$sd %2$sh restante</string>
   <string name="power_main_battery_last_hour_minute">%1$sh %2$sm restante</string>
@@ -1801,6 +1803,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_optimize_brightness">Brilho do ecrã</string>
   <string name="power_optimize_btn_text_fixed">Optimizado</string>
   <string name="power_optimize_close_app">Fechar aplicações que estão a consumir demasiada bateria</string>
+  <string name="power_optimize_disable_5g">Restrngir ligação 5G</string>
   <string name="power_optimize_disable_app_autostart">Prevenir aplicações de abrirem automaticamente</string>
   <string name="power_optimize_disable_gps">Desligar GPS</string>
   <string name="power_optimize_disable_start_other_app">Prevenir aplicações de abrirem outras aplicações</string>
@@ -1824,6 +1827,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_save_on_time_start_time_summary_na">De</string>
   <string name="power_save_ps_clean">Limpar cache quando o dispositivo estiver bloqueado</string>
   <string name="power_save_ps_close_setting">Desligar os serviços em segundo plano para poupar bateria</string>
+  <string name="power_save_ps_close_setting_5g">Restringir funcionalidades que consomem bateria (sincronização, ligação 5G, GPS)</string>
   <string name="power_save_ps_freeze">Desactivar aplicações em segundo plano</string>
   <string name="power_save_ps_limit">Restringir a actividade das aplicações de sistema</string>
   <string name="power_save_settings">Definições de bateria</string>
@@ -1960,6 +1964,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="privacy_prompt_tc_sms_report_message">O seu número de telefone e detalhes da operadora vão ser encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>
   <string name="privacy_prompt_traffic_adjust_message">Esta funcionalidade necessita de encriptar e enviar o IMEI, número de telefone e dados da operadora para os servidores Mi para conseguir receber as estatísticas de utilização de dados da sua operadora</string>
   <string name="privacy_prompt_upload">Enviar</string>
+  <string name="privacyapp_number_masked_text">O conteúdo das notificações está oculto</string>
+  <string name="privacyapp_number_unmasked_text">O conteúdo das notificações pode ser oculto</string>
   <string name="process_mediaserver_label">Servidor de multimédia</string>
   <string name="process_vpnsdkmanager_label">Game Turbo</string>
   <string name="promotion">Anúncios</string>
@@ -2295,7 +2301,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="still_retain_btn">Manter</string>
   <string name="stop_milink_connect">Transmissão parada</string>
   <string name="suggest_app_tolock">Sugestões</string>
-  <string name="suggest_app_tolock_masked">Ocultas</string>
+  <string name="suggest_app_tolock_masked">Conteúdo oculto</string>
   <string name="suggest_app_tolock_unmasked">Notificações visíveis</string>
   <string name="suggest_scan_again">Conclua a verificação para evitar riscos de segurança</string>
   <string name="summary_app_lock_disable">Proteger os seus dados com o Bloqueio de aplicações</string>
