@@ -474,7 +474,7 @@ para transferir e instalar o Mi Mover"</string>
   <string name="trans_install_guide_step1_title">Passo 1</string>
   <string name="trans_install_guide_step2_content">Após a instalação estar concluída, toque em \"Iniciar\"</string>
   <string name="trans_install_guide_step2_title">Passo 2</string>
-  <string name="trans_intro_desc_1">Num telefone Mi, ligue-se ao Wi-Fi e toque \"Sou um destinatário\". Selecione o seu dispositivo iOS, inicie sessão na iCloud e importe os dados</string>
+  <string name="trans_intro_desc_1">Num telefone Mi, ligue-se ao Wi-Fi e toque \"Sou um destinatário\". Seleccione o seu dispositivo iOS, inicie sessão na iCloud e importe os dados</string>
   <string name="trans_intro_desc_3">Cancele a transferência, saia do Mi Mover e comece de novo. Os ficheiros duplicados vão ser substituídos durante a nova transferência</string>
   <string name="trans_intro_desc_4">O Mi Mover utiliza o Wi-Fi para transferir ficheiros. É por esse motivo que não consegue ligar à Internet utilizando o Wi-Fi em qualquer um dos dispositivos durante a transferência</string>
   <string name="trans_intro_desc_4_market">O Mi Mover utiliza o Wi-Fi para transferir ficheiros. É por esse motivo que não consegue ligar à Internet utilizando o Wi-Fi em qualquer um dos dispositivos durante a transferência</string>

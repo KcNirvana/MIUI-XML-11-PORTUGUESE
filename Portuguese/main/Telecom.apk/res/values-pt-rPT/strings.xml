@@ -138,7 +138,7 @@ Selecção: frequência de amostragem"</string>
   <string name="bluetooth_select_a2dp_codec_type">Codec de áudio Bluetooth</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Accionar o codec de áudio Bluetooth
 Selecção"</string>
-  <string name="bluetooth_select_avrcp_version_dialog_title">Selecionar versão de Bluetooth AVRCP</string>
+  <string name="bluetooth_select_avrcp_version_dialog_title">Seleccionar versão de Bluetooth AVRCP</string>
   <string name="bluetooth_select_avrcp_version_string">Versão de Bluetooth AVRCP</string>
   <string name="bluetooth_show_devices_without_names">Mostrar dispositivos Bluetooth sem nome</string>
   <string name="bluetooth_show_devices_without_names_summary">Os dispositivos Bluetooth vão ser mostrados sem nome (apenas endereços MAC)</string>
@@ -399,7 +399,7 @@ Selecção"</string>
   <string name="select_application">Seleccionar aplicação</string>
   <string name="select_logd_size_dialog_title">Selec. tam. reg. p/ mem. int. reg.</string>
   <string name="select_logd_size_title">Tamanho da memória intermédia do registo</string>
-  <string name="select_logpersist_dialog_title">Selecionar buffers de registo para armazenamento persistente no dispositivo</string>
+  <string name="select_logpersist_dialog_title">Seleccionar buffers de registo para armazenamento persistente no dispositivo</string>
   <string name="select_logpersist_title">Arm. dados de registo persist. no disp.</string>
   <string name="select_private_dns_configuration_dialog_title">Seleccionar modo DNS privado</string>
   <string name="select_private_dns_configuration_title">DNS privado</string>

@@ -6,7 +6,7 @@
     <string name="abc_action_bar_up_description">Ir para cima</string>
     <string name="abc_action_menu_overflow_description">Mais</string>
     <string name="abc_action_mode_done">Concluído</string>
-    <string name="abc_action_mode_select_all">Selecionar tudo</string>
+    <string name="abc_action_mode_select_all">Seleccionar tudo</string>
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
     <string name="abc_activitychooserview_choose_application">Escolher uma aplicação</string>
     <string name="abc_capital_off">DESATIVADO</string>
@@ -105,7 +105,7 @@
     <string name="block_ads_title">O conteúdo pode conter anúncios</string>
     <string name="bookmark">Marcadores</string>
     <string name="bookmark_add_to">Adicionar a</string>
-    <string name="bookmark_btn_select_all">Selecionar tudo</string>
+    <string name="bookmark_btn_select_all">Seleccionar tudo</string>
     <string name="bookmark_btn_select_none">Desmarcar tudo</string>
     <string name="bookmark_cannot_save_url">Não pode criar um marcador para este URL.</string>
     <string name="bookmark_folder_needs_title">Introduza um nome para o grupo</string>
@@ -223,7 +223,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="data_traffic_prompt_title">Aviso da utilização de dados</string>
     <string name="debug_menu_ad_information">Informações do anúncio</string>
     <string name="debug_menu_creative_preview">Pré-visualização do criativo</string>
-    <string name="debug_menu_title">Selecionar um modo de depuração</string>
+    <string name="debug_menu_title">Seleccionar um modo de depuração</string>
     <string name="debug_menu_troubleshooting">Resolução de problemas</string>
     <string name="decline">Recusar</string>
     <string name="delete">Eliminar</string>
@@ -257,7 +257,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="document_open_title">Abrir com</string>
     <string name="dont_remind_again">Lembrar esta escolha</string>
     <string name="download_btn">Transferir</string>
-    <string name="download_btn_select_all">Selecionar tudo</string>
+    <string name="download_btn_select_all">Seleccionar tudo</string>
     <string name="download_btn_select_none">Desmarcar tudo</string>
     <string name="download_complete">Transferido com êxito</string>
     <string name="download_completed">Transferido</string>
@@ -328,7 +328,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="fast_search_title">Pesquisa rápida</string>
     <string name="file_dir">Alterar pasta</string>
     <string name="file_name">"Nome: "</string>
-    <string name="file_picker">Selecionar caminho</string>
+    <string name="file_picker">Seleccionar caminho</string>
     <string name="filename_empty_alert_message">Introduzir nome do ficheiro</string>
     <string name="filename_illegal_alert_message">Um caractere inválido foi retirado do nome do ficheiro</string>
     <string name="find_new_version">NOVA ATUALIZAÇÃO DISPONÍVEL</string>
@@ -492,7 +492,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="mw_color_picker_button_set">Definir</string>
     <string name="mw_color_picker_button_white">Branco</string>
     <string name="mw_color_picker_button_yellow">Amarelo</string>
-    <string name="mw_color_picker_dialog_title">Selecionar cor</string>
+    <string name="mw_color_picker_dialog_title">Seleccionar cor</string>
     <string name="mw_color_picker_hue">Matiz</string>
     <string name="mw_color_picker_saturation">Saturação</string>
     <string name="mw_color_picker_value">Valor</string>
@@ -534,11 +534,11 @@ Sair desta página agora?"</string>
     <string name="mw_media_player_loading_video">A carregar vídeo</string>
     <string name="mw_miui_content_copy">Copiar</string>
     <string name="mw_miui_content_cut">Cortar</string>
-    <string name="mw_miui_content_extent_select">Selecionar mais</string>
+    <string name="mw_miui_content_extent_select">Seleccionar mais</string>
     <string name="mw_miui_content_open_url">Abrir URL</string>
     <string name="mw_miui_content_paste">Colar</string>
-    <string name="mw_miui_content_select">Selecionar</string>
-    <string name="mw_miui_content_select_all">Selecionar tudo</string>
+    <string name="mw_miui_content_select">Seleccionar</string>
+    <string name="mw_miui_content_select_all">Seleccionar tudo</string>
     <string name="mw_miui_content_share">Partilhar</string>
     <string name="mw_miui_content_translate">Traduzir</string>
     <string name="mw_miui_content_web_search">Pesquisar</string>
@@ -585,7 +585,7 @@ Sair desta página agora?"</string>
     <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Não foi possível ler o ficheiro. Permissões do ficheiro podem estar impedindo o acesso.</string>
     <string name="mw_miuichromium_error_page_problem_gateway_timed_out">Demorou muito tempo para %s0 responder.</string>
     <string name="mw_miuichromium_error_page_problem_network_access_denied">O acesso à rede é restrito.</string>
-    <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">Não foi possível ligar-se à internet. Algo está errado com o servidor de proxy, ou o endereço de proxy está incorreto.</string>
+    <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">Não foi possível ligar-se à Internet. Algo está errado com o servidor de proxy, ou o endereço de proxy está incorreto.</string>
     <string name="mw_miuichromium_error_page_problem_page_moved">Esta página em %s0 pode ter sido movida ou eliminada.</string>
     <string name="mw_miuichromium_error_page_problem_page_not_found">Não foi possível encontrar esta página em %s0.</string>
     <string name="mw_miuichromium_error_page_problem_page_not_working_reason_connection_closed">Esta página não está funcionando. %s0 interrompeu a ligação.</string>
@@ -601,7 +601,7 @@ Sair desta página agora?"</string>
     <string name="mw_miuichromium_error_page_safe_network">Modo seguro</string>
     <string name="mw_miuichromium_error_page_server_error">Demasiados dispositivos estão a tentar ligar</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Verifique as definições das aplicações de proxy instaladas no seu dispositivo.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_connetion">Verifique a sua ligação à internet.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_connetion">Verifique a sua ligação à Internet.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dados móveis) Redefina as suas %s1Definições de APN%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">Verifique o URL que introduziu.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Verifique as suas %s1definições de proxy%s2.</string>
@@ -609,10 +609,10 @@ Sair desta página agora?"</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Limpar cache e cookies (%s1Definições%s2 - Limpar dados, as informações da sua conta podem ser perdidas).</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Limpar cache e cookies (a informação da sua conta será perdida).</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Limpar a cache.</string>
-    <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Recarregue depois de se ligar à internet</string>
+    <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Recarregue depois de se ligar à Internet</string>
     <string name="mw_miuichromium_error_page_suggestion_contact_admin">Contacte o administrador do sistema.</string>
     <string name="mw_miuichromium_error_page_suggestion_correct_url">Verifique o endereço que você introduziu e tente novamente utilizando o URL correto.</string>
-    <string name="mw_miuichromium_error_page_suggestion_grant_permission">Recarregar a página depois de permitir que o Navegador acesse a internet.</string>
+    <string name="mw_miuichromium_error_page_suggestion_grant_permission">Recarregar a página depois de permitir que o Navegador acesse a Internet.</string>
     <string name="mw_miuichromium_error_page_suggestion_title">Tente o seguinte:</string>
     <string name="mw_miuichromium_error_page_title">Ocorreu um erro</string>
     <string name="mw_miuichromium_error_page_unknown_error">Ops, algo correu mal</string>
@@ -645,7 +645,7 @@ Sair desta página agora?"</string>
     <string name="mw_notification_hidden_text">Conteúdo oculto</string>
     <string name="mw_ntp_title_no_suggestions">Isto é tudo por agora</string>
     <string name="mw_older">Mais antigo</string>
-    <string name="mw_opening_file_error">Falha ao abrir o ficheiro selecionado</string>
+    <string name="mw_opening_file_error">Falha ao abrir o ficheiro seleccionado</string>
     <string name="mw_page_info_permission_ads_subtitle">O site tende a mostrar anúncios intrusivos</string>
     <string name="mw_password_generation_popup_content_description">A exibir o pop-up de geração de palavra-passe</string>
     <string name="mw_payments_accepted_cards_label">Cartões aceites</string>
@@ -715,24 +715,24 @@ Sair desta página agora?"</string>
     <string name="mw_payments_recipient_required">Nome obrigatório</string>
     <string name="mw_payments_required_field_message">* Campo obrigatório</string>
     <string name="mw_payments_save_card_to_device_checkbox">Guardar este cartão neste dispositivo</string>
-    <string name="mw_payments_select_delivery_address_for_delivery_methods">Para ver os meios de entrega e os requerimentos, selecione uma morada</string>
-    <string name="mw_payments_select_pickup_address_for_pickup_methods">Para ver os meios de coleta e os requerimentos, selecione uma morada</string>
-    <string name="mw_payments_select_shipping_address_for_shipping_methods">Para ver os meios de envio e os requerimentos, selecione uma morada</string>
+    <string name="mw_payments_select_delivery_address_for_delivery_methods">Para ver os meios de entrega e os requerimentos, seleccione uma morada</string>
+    <string name="mw_payments_select_pickup_address_for_pickup_methods">Para ver os meios de coleta e os requerimentos, seleccione uma morada</string>
+    <string name="mw_payments_select_shipping_address_for_shipping_methods">Para ver os meios de envio e os requerimentos, seleccione uma morada</string>
     <string name="mw_payments_shipping_address_label">Endereço de envio</string>
     <string name="mw_payments_shipping_option_label">Meio de envio</string>
     <string name="mw_payments_shipping_summary_label">Envio</string>
-    <string name="mw_payments_unsupported_delivery_address">Não é possível enviar para esta morada. Selecione uma morada diferente.</string>
+    <string name="mw_payments_unsupported_delivery_address">Não é possível enviar para esta morada. Seleccione uma morada diferente.</string>
     <string name="mw_payments_unsupported_delivery_option">Este método de envio não está disponível. Tente um método diferente</string>
-    <string name="mw_payments_unsupported_pickup_address">Não é possível coletar nesta morada. Selecione uma morada diferente.</string>
+    <string name="mw_payments_unsupported_pickup_address">Não é possível coletar nesta morada. Seleccione uma morada diferente.</string>
     <string name="mw_payments_unsupported_pickup_option">Este método de coleta não está disponível. Tente um método diferente.</string>
-    <string name="mw_payments_unsupported_shipping_address">Não é possível enviar para esta morada. Selecione uma morada diferente.</string>
+    <string name="mw_payments_unsupported_shipping_address">Não é possível enviar para esta morada. Seleccione uma morada diferente.</string>
     <string name="mw_payments_unsupported_shipping_option">Este método de envio não está disponível. Tente um método diferente.</string>
     <string name="mw_payments_updated_label">Atualizado</string>
     <string name="mw_permission_alert_window">Para utilizar esta fuincionalidade, ligue Exibir janelas pop-up.</string>
     <string name="mw_permission_unknown">Opção desconhecida</string>
     <string name="mw_photo_picker_browse">Procurar</string>
     <string name="mw_photo_picker_camera">Câmara</string>
-    <string name="mw_photo_picker_select_images">Selecionar imagens</string>
+    <string name="mw_photo_picker_select_images">Seleccionar imagens</string>
     <string name="mw_private_browsing_warning">Esta funcionalidade não é suportada por esta versão do Android.</string>
     <string name="mw_profiler_error_toast">Não foi possível iniciar o profiler</string>
     <string name="mw_profiler_no_storage_toast">Não é possível iniciar o profiler porque o armazenamento externo não está pronto</string>
@@ -812,7 +812,7 @@ Sair desta página agora?"</string>
     <string name="onews_category_reddit">Reddit</string>
     <string name="open_app_confirm_message">Permitir a esta página abrir %s?</string>
     <string name="open_file_explorer_failed">Não é possível abrir o Gestor de Ficheiros</string>
-    <string name="open_voice_permission">Permitir que o microfone se ligue à internet</string>
+    <string name="open_voice_permission">Permitir que o microfone se ligue à Internet</string>
     <string name="other_channel">Toque para adicionar mais canais.</string>
     <string name="page_info">Informação da página</string>
     <string name="page_info_address">Endereço:</string>
@@ -1049,9 +1049,9 @@ Sair desta página agora?"</string>
     <string name="security_url_confirm_message">Desligar este recurso pode criar riscos de segurança.</string>
     <string name="security_warning">Aviso de segurança</string>
     <string name="security_warnings_confirm_message">Desligar este recurso pode criar riscos de segurança.</string>
-    <string name="select_dot">Selecionar texto</string>
+    <string name="select_dot">Seleccionar texto</string>
     <string name="select_download_device">Escolher dispositivo</string>
-    <string name="select_language">Selecionar idioma</string>
+    <string name="select_language">Seleccionar idioma</string>
     <string name="send_comment_button">Enviar</string>
     <string name="send_comment_title">Comentar</string>
     <string name="senddesktop">Ecrã inicial</string>
@@ -1136,8 +1136,8 @@ Sair desta página agora?"</string>
     <string name="user_defined_webpage_title">Adicionar à página inicial</string>
     <string name="username">Nome</string>
     <string name="v5_deselect_all">Desmarcar tudo</string>
-    <string name="v5_edit_mode_title_empty">0 selecionados</string>
-    <string name="v5_select_all">Selecionar tudo</string>
+    <string name="v5_edit_mode_title_empty">0 seleccionados</string>
+    <string name="v5_select_all">Seleccionar tudo</string>
     <string name="version_check_button_checking">A verificar…</string>
     <string name="version_check_button_default">Verificar atualizações</string>
     <string name="version_check_button_download_failed">Retomar transferência</string>
@@ -1204,7 +1204,7 @@ Sair desta página agora?"</string>
     <string name="voice_check_network">Verifique as suas definições de rede e tente novamente.</string>
     <string name="voice_connect_network">Não foi possível ligar à rede.</string>
     <string name="voice_description">Pesquisa por voz</string>
-    <string name="voice_network_connection">A pesquisa por voz precisa de uma ligação à internet para funcionar normalmente.</string>
+    <string name="voice_network_connection">A pesquisa por voz precisa de uma ligação à Internet para funcionar normalmente.</string>
     <string name="voice_search_permission">A pesquisa por voz precisa de acesso ao seu microfone para funcionar normalmente.</string>
     <string name="voice_semantic_analysis">O Navegador será capaz de analisar semânticas após permitir a ligação.</string>
     <string name="voice_sub_title">Não sei o que dizer? Tente \"Abrir mi.com!\"</string>
