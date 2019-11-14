@@ -78,7 +78,7 @@ Ligue esta funcionalidade e toque no botão Acessibilidade na parte inferior do 
   <string name="accessibility_ring_vibration_title">Vibração do toque</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
   <string name="accessibility_screen_magnification_gestures_title">Ampliar com três toques</string>
-  <string name="accessibility_screen_magnification_navbar_configuration_warning">O botão de acessibilidade está definido para o serviço %1$s. Para utilizar a ampliação, toque sem soltar neste botão e, em seguida, selecione a ampliação</string>
+  <string name="accessibility_screen_magnification_navbar_configuration_warning">O botão de acessibilidade está definido para o serviço %1$s. Para utilizar a ampliação, toque sem soltar neste botão e, em seguida, seleccione a ampliação</string>
   <string name="accessibility_screen_magnification_navbar_short_summary">Tocar num botão para utilizar o zoom</string>
   <string name="accessibility_screen_magnification_navbar_summary">"Quando a ampliação estiver activada, utilize o botão de acessibilidade na parte inferior do ecrã para ampliar rapidamente.
 
@@ -1293,7 +1293,7 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="cdma_subscription_dialogtitle">Subscrição</string>
   <string name="cdma_subscription_summary">Alternar entre RUIM/SIM e NV</string>
   <string name="cdma_subscription_title">Subscrição CDMA</string>
-  <string name="cdma_system_select_dialogtitle">Selecionar sistema</string>
+  <string name="cdma_system_select_dialogtitle">Seleccionar sistema</string>
   <string name="cdma_system_select_summary">Alterar o modo de roaming CDMA</string>
   <string name="cdma_system_select_title">Selevcionar sistema</string>
   <string name="cell_broadcast_settings">Transmissões de emergência</string>
@@ -5085,7 +5085,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_wifi_settings_title">Wifi;Wi-Fi;Definições avançadas;WLAN;Redes sem fios;Sem fios</string>
   <string name="search_wifi_tether_checkbox">Ponto de Acesso Móvel;PA Móvel;Portátil</string>
   <string name="search_wifi_tether_configure_ap_text">Configurar Ponto de Acesso Móvel;Configurar PA;Adicionar PA;Configurar PA</string>
-  <string name="search_wifi_tether_settings_title">Partilha de ligação móvel;PA Móvel;partilhar internet;Hotspot WLAN;Hotspot Wifi;Hotspot Wi-Fi</string>
+  <string name="search_wifi_tether_settings_title">Partilha de ligação móvel;PA Móvel;partilhar Internet;Hotspot WLAN;Hotspot Wifi;Hotspot Wi-Fi</string>
   <string name="search_wifi_wapi_cert_install">Instalar certificados WAPI;Certificados WAPI;WAPI</string>
   <string name="search_wifi_wapi_cert_uninstall">Desinstalar certificados WAPI;Certificados WAPI;WAPI</string>
   <string name="search_wps_connect_title">Ligar WPS;Botão Push WPS;WPS</string>
@@ -5217,7 +5217,7 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="select_logd_level">Seleccionar nível de registo</string>
   <string name="select_logd_size_dialog_title">Selec. tam. reg. p/ mem. int. reg.</string>
   <string name="select_logd_size_title">Tamanho da memória intermédia do registo</string>
-  <string name="select_logpersist_dialog_title">Selecionar buffers de registo para armazenamento persistente no dispositivo</string>
+  <string name="select_logpersist_dialog_title">Seleccionar buffers de registo para armazenamento persistente no dispositivo</string>
   <string name="select_logpersist_title">Arm. dados de registo persist. no disp.</string>
   <string name="select_sim_for_calls">Ligar com</string>
   <string name="select_sim_for_data">Seleccionar um SIM para dados</string>

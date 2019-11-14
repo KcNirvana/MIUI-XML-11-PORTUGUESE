@@ -945,9 +945,9 @@ Tente novamente dentro de %2$d segundos"</string>
   <string name="lb_playback_controls_skip_next">Avançar para o seguinte</string>
   <string name="lb_playback_controls_skip_previous">Avançar para o anterior</string>
   <string name="lb_playback_controls_thumb_down">Desmarcar Não gosto</string>
-  <string name="lb_playback_controls_thumb_down_outline">Selecionar Não gosto</string>
+  <string name="lb_playback_controls_thumb_down_outline">Seleccionar Não gosto</string>
   <string name="lb_playback_controls_thumb_up">Desmarcar Gosto</string>
-  <string name="lb_playback_controls_thumb_up_outline">Selecionar Gosto</string>
+  <string name="lb_playback_controls_thumb_up_outline">Seleccionar Gosto</string>
   <string name="lb_search_bar_hint">Pesquisar</string>
   <string name="lb_search_bar_hint_speech">Fale para pesquisar</string>
   <string name="lb_search_bar_hint_with_title">Pesquisar %1$s</string>
