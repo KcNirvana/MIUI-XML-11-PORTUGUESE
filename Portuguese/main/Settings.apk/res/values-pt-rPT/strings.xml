@@ -932,7 +932,7 @@ Aqui está o que pode estar errado:
 1. Bluetooth desligado ou fora do alcance.
 2. Este dispositivo não está no modo visível.
 3. O dispositivo está ligado a outros dispositivos. Desligue e tente novamente"</string>
-  <string name="bluetooth_inform_messgae_title">"Couldn't connect"</string>
+  <string name="bluetooth_inform_messgae_title">Não foi possível ligar</string>
   <string name="bluetooth_is_disconnect_question">Desligar %1$s?</string>
   <string name="bluetooth_is_discoverable">Visível para todos os dispositivos Bluetooth (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Tornar visível para todos os dispositivos Bluetooth</string>
@@ -2513,7 +2513,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gentle_notifications_display_summary_shade">Mostrar apenas no painel pendente</string>
   <string name="gentle_notifications_display_summary_shade_lock">Mostrar no painel pendente e no ecrã de bloqueio</string>
   <string name="gentle_notifications_display_summary_shade_status">Mostrar no painel pendente e na barra de estado</string>
-  <string name="gentle_notifications_display_summary_shade_status_lock">Mostrar no painel pendente, na barra de estado e no ecrã de bloquei</string>
+  <string name="gentle_notifications_display_summary_shade_status_lock">Mostrar no painel pendente, na barra de estado e no ecrã de bloqueio</string>
   <string name="gentle_notifications_education">As notificações discretas são sempre silenciosas e aparecem sempre no painel pendente</string>
   <string name="gentle_notifications_title">Notificações discretas</string>
   <string name="gesture_not_supported_dialog_message">Não suportada pelo seu launcher predefinido, %s</string>
