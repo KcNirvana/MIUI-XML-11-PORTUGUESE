@@ -4376,7 +4376,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_password_fingerprint_confirm_failed">Não foi possível verificar impressão</string>
   <string name="privacy_password_fingerprint_confirm_succes">Impressão verificada</string>
   <string name="privacy_password_fingerprint_dialog_error_title">Não foi possível digitalizar impressão. Tente novamente</string>
-  <string name="privacy_password_fingerprint_dialog_message">Ponha o seu dedo no sensor</string>
+  <string name="privacy_password_fingerprint_dialog_message">Coloque o seu dedo no sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Digitalizar a sua impressão</string>
   <string name="privacy_password_login_and_add_account">Iniciar sessão e adicionar</string>
   <string name="privacy_password_never_remind">Não perguntar novamente</string>

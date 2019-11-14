@@ -331,7 +331,7 @@
   <string name="auto_data_back_booster">Optimização de velocidade desligada. As comunicações foram restauradas</string>
   <string name="auto_data_booster_suc">Optimização de velocidade ligada. Alterado para modo imersivo</string>
   <string name="auto_handle_title">Geral</string>
-  <string name="auto_import_games">Ponha todos os seus jogos num único sítio</string>
+  <string name="auto_import_games">Coloque todos os seus jogos num único sítio</string>
   <string name="auto_task_condition_choose_battery_level_down">Quando a bateria chegar a um certo nível</string>
   <string name="auto_task_condition_choose_end_time">Hora de fim</string>
   <string name="auto_task_condition_choose_ontime">Temporizador</string>
@@ -886,8 +886,8 @@ medical card"</string>
   <string name="face_unlock_guide_dialog_summary">Pode utilizar dados de rosto para desbloquear o dispositivo. Ligar o desbloqueio facial?</string>
   <string name="face_unlock_not_found">Não foi possível reconhecê-lo</string>
   <string name="face_unlock_open_eye">Abra os seus olhos um pouco</string>
-  <string name="face_unlock_reveal_eye">Ponha os seus olhos visíveis</string>
-  <string name="face_unlock_reveal_mouth">Ponha os seus lábios visíveis</string>
+  <string name="face_unlock_reveal_eye">Coloque os seus olhos visíveis</string>
+  <string name="face_unlock_reveal_mouth">Coloque os seus lábios visíveis</string>
   <string name="face_unlock_toast_verity_failed">Não foi possível verificar dados de rosto. Vá às definições do Bloqueio de aplicações e tente novamente</string>
   <string name="face_unlock_verity_dialog_summary">Verificar dados de rosto</string>
   <string name="face_unlock_verity_dialog_title_failed">Não foi possível reconhecê-lo</string>
@@ -974,7 +974,7 @@ medical card"</string>
   <string name="fod_authentication_shift_button">Cancelar</string>
   <string name="fod_button_finger">Utilizar impressão digital</string>
   <string name="fod_button_password">Introduzir palavra-passe</string>
-  <string name="fod_finger_notice_title">Meta o seu dedo no ecrã</string>
+  <string name="fod_finger_notice_title">Coloque o seu dedo no ecrã</string>
   <string name="fod_finger_windows_tips">Verifique a sua impressão digital</string>
   <string name="fod_tips_split_screen_more_than_half">Introduzir palavra-passe</string>
   <string name="forbid_autobright_summary">O brilho do ecrã vai-se manter enquanto estiver a jogar e restaurado quando acabar</string>
