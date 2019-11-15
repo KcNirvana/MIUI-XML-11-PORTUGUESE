@@ -885,9 +885,9 @@ medical card"</string>
   <string name="face_unlock_guide_confirm">Utilizar desbloqueio facial</string>
   <string name="face_unlock_guide_dialog_summary">Pode utilizar dados de rosto para desbloquear o dispositivo. Ligar o desbloqueio facial?</string>
   <string name="face_unlock_not_found">Não foi possível reconhecê-lo</string>
-  <string name="face_unlock_open_eye">Abra os seus olhos um pouco</string>
-  <string name="face_unlock_reveal_eye">Coloque os seus olhos visíveis</string>
-  <string name="face_unlock_reveal_mouth">Coloque os seus lábios visíveis</string>
+  <string name="face_unlock_open_eye">Abra mais os seus olhos</string>
+  <string name="face_unlock_reveal_eye">Deixe os seus olhos visíveis</string>
+  <string name="face_unlock_reveal_mouth">Deixe os seus lábios visíveis</string>
   <string name="face_unlock_toast_verity_failed">Não foi possível verificar dados de rosto. Vá às definições do Bloqueio de aplicações e tente novamente</string>
   <string name="face_unlock_verity_dialog_summary">Verificar dados de rosto</string>
   <string name="face_unlock_verity_dialog_title_failed">Não foi possível reconhecê-lo</string>
