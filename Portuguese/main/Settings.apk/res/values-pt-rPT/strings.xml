@@ -465,6 +465,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="applications_settings_header">Definições da aplicação</string>
   <string name="applications_settings_summary">Gerir aplicações, configurar atalhos de inicialização rápida</string>
   <string name="applications_settings_title">Aplicações</string>
+  <string name="apply">Aplicar</string>
+  <string name="apply_fingerprint_to">Utilizar impressões digitais para</string>
   <string name="apply_fingerprint_to_category_title">Utilização de impressões digitais</string>
   <string name="apply_now_button_text">Actualizar</string>
   <string name="apply_password_to_category_title">Desbloqueio necessário</string>
@@ -2184,6 +2186,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="enhanced_4g_lte_mode_title">VoLTE</string>
   <string name="enhanced_4g_lte_mode_title_4g_calling">Chamadas 4G</string>
   <string name="enhanced_4g_lte_mode_title_advanced_calling">Chamadas avançadas</string>
+  <string name="enrol_fingerprint_data">Adicionar impressão digital</string>
   <string name="enter_password">Introduza a palavra-passe actual para desencriptar o dispositivo após reiniciar</string>
   <string name="enter_pattern">Introduza o padrão actual para desencriptar o dispositivo após reiniciar</string>
   <string name="enter_pin">Introduza o PIN actual para desencriptar o dispositivo após reiniciar</string>
@@ -2906,6 +2909,13 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="lights_title">LED de notificações</string>
   <string name="line_breaking_summary">Optimizar quebra da linha de parágrafo</string>
   <string name="line_breaking_title">Optimizar texto</string>
+  <string name="link_turbo_prompt">As estatísticas nesta página apenas mostram os dados utilizados para a optimização da ligação Wi-Fi. Estas estatísticas não reflectem a utilização de dados actual</string>
+  <string name="link_turbo_settings_all_app_display_loading">Aguarde…</string>
+  <string name="link_turbo_settings_all_app_reach_max">Pode seleccionar até 15 aplicações</string>
+  <string name="link_turbo_usage_state_month">Este mês</string>
+  <string name="link_turbo_usage_state_month_total">Este mês</string>
+  <string name="link_turbo_usage_state_today">Hoje</string>
+  <string name="link_turbo_usage_state_today_total">Hoje</string>
   <string name="list_bg_header_text">Se restringir a ligação em segundo plano, as novas aplicações não vão conseguir ligar à Internet em segundo plano</string>
   <string name="list_empty_text">Vazio</string>
   <string name="live_caption_summary">Multimédia com legendas automáticas</string>
@@ -3246,6 +3256,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="max_cpu6_info">"Hexa-core, "</string>
   <string name="max_cpu8_info">"Octa-core, "</string>
   <string name="max_fingerprint_number_reached">Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma nova impressão digital, elimine primeiro uma impressão digital existente</string>
+  <string name="max_fingerprint_reached_toast">Pode adicionar até 5 impressões digitais</string>
   <string name="maximum_memory_use">Utilização máxima da memória</string>
   <string name="media_button">Botão multimédia</string>
   <string name="media_category">Multimédia</string>
@@ -6806,6 +6817,13 @@ Definir a rede como oculta não altera as definições do router"</string>
   <string name="wifi_ip_settings_menu_save">Guardar</string>
   <string name="wifi_limit_optimizations_summary">Limitar bateria utilizada por Wi-Fi</string>
   <string name="wifi_limited_connection">Ligação limitada</string>
+  <string name="wifi_link_turbo">Utilizar dados móveis para optimizar velocidade</string>
+  <string name="wifi_link_turbo_app_settings_summary">Seleccionar aplicações que vão utilizar esta funcionalidade</string>
+  <string name="wifi_link_turbo_app_settings_title">Seleccionar aplicações</string>
+  <string name="wifi_link_turbo_no_app">Sem aplicações</string>
+  <string name="wifi_link_turbo_off">Desligado</string>
+  <string name="wifi_link_turbo_on">Ligado</string>
+  <string name="wifi_link_turbo_summary">Optimizar a velocidade da ligação para as aplicações seleccionadas utilizandos dados móveis quando a ligação Wi-Fi for fraca</string>
   <string name="wifi_menu_advanced">Avançado</string>
   <string name="wifi_menu_connect">Ligar à rede</string>
   <string name="wifi_menu_forget">Esquecer rede</string>

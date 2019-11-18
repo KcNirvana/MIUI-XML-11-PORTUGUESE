@@ -108,6 +108,7 @@
   <string name="leftParenDesc">Parêntese esquerdo</string>
   <string name="lgDesc">Logaritmo</string>
   <string name="lnDesc">Logaritmo natural</string>
+  <string name="loan_basic_point">Pontos base</string>
   <string name="loan_edittext_hint_commercial">Introduzir valor</string>
   <string name="loan_edittext_hint_commercial_combined">Comerciais (×10K)</string>
   <string name="loan_edittext_hint_fund">Introduzir valor</string>
@@ -119,6 +120,14 @@
   <string name="loan_pay_years">Período do empréstimo</string>
   <string name="loan_payback_way">Amortizações</string>
   <string name="loan_repayment_detail_loading">A carregar amortizações…</string>
+  <string name="loan_type_summary_lpr">LPR</string>
+  <string name="loan_type_title">Taxa de juro</string>
+  <string name="lpr_ok">Percebi</string>
+  <string name="lpr_tips_msg">"A partir de 8 de Outubro de 2019, a taxa de juros do empréstimo à habitação comercial e pessoal vai ser calculada de acordo com a taxa básica de juros do empréstimo (LPR) em vez da taxa de juros de referência anteriormente implementada de 4.9%. Agora, a taxa final vai ser confirmada adicionando um ponto base LPR.
+
+Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorrer atrasos devido a feriados bancários) no site do Banco Popular da China"</string>
+  <string name="lpr_tips_title">LPR (Principal taxa de empréstimo)</string>
+  <string name="medical_treatment">Tratamentos médicos</string>
   <string name="menuDesc">Menu</string>
   <string name="minusDesc">Menos</string>
   <string name="mortgage_amount">Total (×10K)</string>

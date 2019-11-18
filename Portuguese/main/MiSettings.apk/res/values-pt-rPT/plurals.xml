@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="usage_days">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Desbloqueado %d vezes</item>
         <item quantity="one">Desbloqueado %d vez</item>
@@ -15,6 +19,10 @@
     <plurals name="usage_state_device_noti_explain_week">
         <item quantity="other">%d notificações recebidas</item>
         <item quantity="one">%d notificação recebida</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d minutos é um grande passo em direcção à atenção e concentração</item>
+        <item quantity="one">%d minuto é um grande passo em direcção à atenção e concentração</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d horas</item>
@@ -68,12 +76,25 @@
         <item quantity="other">" minutos"</item>
         <item quantity="one">" minuto"</item>
     </plurals>
-    <plurals name="usage_days">
+    <plurals name="last_several_days">
         <item quantity="other">%d dias</item>
         <item quantity="one">%d dia</item>
     </plurals>
-    <plurals name="usage_state_focus_usage_summary">
-        <item quantity="other">%d minutos é um grande passo em direcção à atenção e concentração</item>
-        <item quantity="one">%d minuto é um grande passo em direcção à atenção e concentração</item>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">O tempo de ecrã hoje é igual à sua média de %d dias</item>
+        <item quantity="one">O tempo de ecrã hoje é igual à sua média de %d dia</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">%2$s menos de tempo de ecrã hoje que a sua média de %1$d dias</item>
+        <item quantity="one">%2$s menos de tempo de ecrã hoje que a sua média de %1$d dia</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">%2$s mais de tempo de ecrã hoje que a sua média de %1$d dias</item>
+        <item quantity="one">%2$s mais de tempo de ecrã hoje que a sua média de %1$d dia</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f vezes</item>
+        <item quantity="zero">%.2f vezes</item>
+        <item quantity="one">%.2f vez</item>
     </plurals>
 </resources>
