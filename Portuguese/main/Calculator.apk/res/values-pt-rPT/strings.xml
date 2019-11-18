@@ -47,7 +47,7 @@
   <string name="degDesc">Ângulo</string>
   <string name="del">DEL</string>
   <string name="deleteDesc">Eliminar</string>
-  <string name="description_content">Além do básico, a Calculadora também funciona como conversor, calulador de hipotecas e taxas</string>
+  <string name="description_content">Além do básico, a Calculadora também funciona como conversor, calculador de hipotecas e taxas</string>
   <string name="description_title">Acerca de Calculadora</string>
   <string name="devided_by_zero_reminder_message">Não é possível a divisão por zero</string>
   <string name="dialog_privacy_content">Além das funcionalidades básicas também tem uma calculadora científica e um conversor. Algumas funcionalidade necessitam de ligar à Internet para funcionar normalmente. Tem de ler e concordar com os nossos %1$s e %2$s antes de utilizar a Calculadora</string>
@@ -73,7 +73,7 @@
   <string name="global_search_key_exchange_rate">Taxas de câmbio;Conversor de taxas de câmbio;Conversor de divisas;Divisas;Taxas de câmbio</string>
   <string name="global_search_key_length_convertion">Comprimento;Conversor de comprimento</string>
   <string name="global_search_key_mortgage">Cálculo de hipoteca;Hipoteca</string>
-  <string name="global_search_key_personal_tax">Descontos do salário;Sálario líquido;Calculador de impostos;Cálculo do salário;Impostos</string>
+  <string name="global_search_key_personal_tax">Descontos do salário;Salário líquido;Calculador de impostos;Cálculo do salário;Impostos</string>
   <string name="global_search_key_scientific_convertion">Calculadora científica;Matemática;Álgebra</string>
   <string name="global_search_key_speed_convertion">Conversor de velocidade;Velocidade</string>
   <string name="global_search_key_temperature_convertion">Conversor de temperatura;Fahrenheit;Celsius</string>
@@ -135,7 +135,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="mortgage_average_repayment_monthly">Pagamentos mensais</string>
   <string name="mortgage_calculate">Calcular</string>
   <string name="mortgage_descript_accumulation">Taxa de juro: %s (acumulada) </string>
-  <string name="mortgage_descript_commercial">Taxa de juro: %s (commercial)</string>
+  <string name="mortgage_descript_commercial">Taxa de juro: %s (comercial)</string>
   <string name="mortgage_detail_month">Mês</string>
   <string name="mortgage_detail_monthly_interest">Juros</string>
   <string name="mortgage_detail_monthly_principal">Principal</string>
@@ -162,7 +162,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="mortgage_show_details">Mostrar detalhes</string>
   <string name="mortgage_tab_accumulation_fund">Fundo acumulado</string>
   <string name="mortgage_tab_combining_loan">Híbrido</string>
-  <string name="mortgage_tab_commercial_loan">Commercial</string>
+  <string name="mortgage_tab_commercial_loan">Comercial</string>
   <string name="mortgage_years_amount">Período da hipoteca</string>
   <string name="mul">×</string>
   <string name="mulDesc">multiplicar</string>

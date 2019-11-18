@@ -727,8 +727,8 @@ Sair desta página agora?"</string>
     <string name="mw_payments_unsupported_pickup_option">Este método de coleta não está disponível. Tente um método diferente.</string>
     <string name="mw_payments_unsupported_shipping_address">Não é possível enviar para esta morada. Seleccione uma morada diferente.</string>
     <string name="mw_payments_unsupported_shipping_option">Este método de envio não está disponível. Tente um método diferente.</string>
-    <string name="mw_payments_updated_label">Atualizado</string>
-    <string name="mw_permission_alert_window">Para utilizar esta fuincionalidade, ligue Exibir janelas pop-up.</string>
+    <string name="mw_payments_updated_label">Actualizado</string>
+    <string name="mw_permission_alert_window">Para utilizar esta funcionalidade, ligue Exibir janelas pop-up.</string>
     <string name="mw_permission_unknown">Opção desconhecida</string>
     <string name="mw_photo_picker_browse">Procurar</string>
     <string name="mw_photo_picker_camera">Câmara</string>
@@ -1217,6 +1217,6 @@ Sair desta página agora?"</string>
     <string name="vote_fail">Não foi possível votar, tente novamente mais tarde</string>
     <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_location_confirm_message">Desligar este recurso pode afetar a utilização.</string>
-    <string name="weather_publish_time">Atualizado às %1$s</string>
+    <string name="weather_publish_time">Actualizado às %1$s</string>
     <string name="webpage_title">Marcadores e Histórico</string>
 </resources>
