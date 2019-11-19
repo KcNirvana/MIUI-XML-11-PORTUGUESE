@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Approval">Aplicar</string>
+  <string name="Xiaomi_account_pending_approval">A rever aplicação</string>
   <string name="about_title">Acerca</string>
   <string name="access_sd_fail">Não foi possível aceder ao cartão SD</string>
   <string name="accessibility_shutter_button">Disparador</string>
@@ -31,6 +33,7 @@
   <string name="camera_error_title">Erro da câmara</string>
   <string name="cancel">Cancelar</string>
   <string name="character_counter_content_description">Limite de caracteres excedido %1$d de %2$d</string>
+  <string name="check_for_updates">Verificar actualizações beta</string>
   <string name="choose_open_code_app">Seleccionar uma aplicação</string>
   <string name="choose_pay_title">Seleccionar método de pagamento</string>
   <string name="choose_picture">Seleccionar a imagem do código QR</string>
@@ -44,6 +47,7 @@
   <string name="contact_details">Código QR do contacto:</string>
   <string name="continue_access_web_url">Ir para website</string>
   <string name="continue_to_website">Ir para website</string>
+  <string name="continue_waiting">Continuar a aguardar</string>
   <string name="copy_text">Copiar texto</string>
   <string name="copy_text_success">Texto copiado</string>
   <string name="crop_cancel_description">Cancelar</string>
@@ -68,6 +72,8 @@
   <string name="document_title">Tirar uma foto do documento</string>
   <string name="document_top_panel_title">Foto do documento</string>
   <string name="done">Concluído</string>
+  <string name="download_stable_version">Utilizar versão estável</string>
+  <string name="download_use_stable_version">Transferir versão estável</string>
   <string name="drag_barcode_into_frame">Mova o quadrado para alinhar com o código</string>
   <string name="drag_crop_to_business_card">Mover para cortar</string>
   <string name="email">Email:</string>
@@ -79,11 +85,28 @@
   <string name="error_minute_limit">Demasiadas tentativas num minuto</string>
   <string name="error_permissions">O Digitalizador não tem as permissões necessárias para funcionar normalmente. Vá a Definições e verifique as permissões para continuar</string>
   <string name="error_server_error">Ocorreu um erro no servidor</string>
+  <string name="experience_new_feature_tips">Iniciar sessão na sua Conta Mi para utilizar a versão beta. Vai poder utilizar a versão beta após revermos a sua aplicação. A versão beta pode conter erros</string>
+  <string name="experience_new_features">Versão beta</string>
+  <string name="experiential_version_of_the_prompt_content">Iniciar sessão na sua Conta Mi para aceder ao Digitalizador. Iniciar sessão agora?</string>
+  <string name="failed_to_get_xiaomi_account">Não foi possível iniciar sessão</string>
   <string name="fax">Fax</string>
   <string name="feed_search_fail">Sem resultados</string>
+  <string name="feedback">Comentários</string>
   <string name="feedback_description_camera_access">O Digitalizador não consegue ligar à Câmara</string>
   <string name="feedback_description_save_photo">Não foi possível guardar foto ou vídeo</string>
+  <string name="feedback_title">Comentários</string>
   <string name="flight_mode_connecting_to_wifi">Ligue o Wi-Fi manualmente quando o Modo Avião estiver ligado</string>
+  <string name="food_identification_fail_tips">Digitalizar frutas, vegetais e outras comidas. Esta funcionalidade também funciona com imagens</string>
+  <string name="food_identification_tip_msg">A reconhecer a comida…</string>
+  <string name="food_make_complaints_hint">Introduza o seu comentário aqui</string>
+  <string name="food_module_feedback_str">Comentários</string>
+  <string name="food_module_get_more_info">Mais informações</string>
+  <string name="food_module_identification_failure">Não é possível reconhecer este item</string>
+  <string name="food_module_send_feedback">Enviar</string>
+  <string name="food_module_step_on">Não gostar</string>
+  <string name="food_module_thumbs_up">Gostar</string>
+  <string name="food_module_tip">Coloque a comida dentro do quadrado</string>
+  <string name="food_module_title_food">Calorias</string>
   <string name="got_it">Percebi</string>
   <string name="gps">Navegar</string>
   <string name="import_contact">Importar contacto</string>
@@ -124,6 +147,8 @@
   <string name="name">Nome:</string>
   <string name="new_schedule">Criar evento</string>
   <string name="nickname">Alcunha:</string>
+  <string name="no_has_experience_version_permission">Não tem permissões para utilizar o Digitalizador versão beta. Faça a inscrição para as permissões ou transfira a versão estável</string>
+  <string name="no_inner_version">Versão beta não disponível</string>
   <string name="no_network">Não é possível ligar à rede</string>
   <string name="no_storage">Sem armazenamento interno</string>
   <string name="no_support_to_translate_type">Este idioma não é suportado</string>
@@ -144,9 +169,11 @@
   <string name="plant_title">Digitalize a planta que quer identificar</string>
   <string name="preparing_sd">A preparar armazenamento interno…</string>
   <string name="previous">Voltar</string>
+  <string name="prompt">Atenção</string>
   <string name="qr_code_details">Detalhes do código QR:</string>
   <string name="recognize">Digitalizar</string>
   <string name="recognize_fail">Não foi possível ler o código</string>
+  <string name="request_server_failed">Não foi possível ligar ao servidor</string>
   <string name="refresh">Actualizar</string>
   <string name="scan_result">Resultados</string>
   <string name="sdk_not_ready">A preparar SDK. Tente novamente mais tarde</string>
@@ -166,6 +193,7 @@
   <string name="shopping_searching">A pesquisar…</string>
   <string name="shopping_title">Tirar uma foto do produto</string>
   <string name="shopping_vendor_info">Fornecido por Taobao</string>
+  <string name="suggested_submission_success">Comentários submetidos com sucesso</string>
   <string name="spaceIsLow_content">Sem espaço suficiente no armazenamento interno</string>
   <string name="study_rotate_picture">A processar…</string>
   <string name="study_scan_result">Resultado</string>
@@ -206,6 +234,7 @@
   <string name="translation_see_more">Ver definição</string>
   <string name="translation_type_sentence">Frase</string>
   <string name="translation_type_word">Palavra</string>
+  <string name="uninstall_prompt">Se ocorrerem problemas durante a instalação, vá a Definições &gt; Aplicações &gt; Gestão de aplicações &gt; Digitalizador, carregue em \"Desinstalar\" e tente instalar novamente</string>
   <string name="url_is_phish">Isto pode ser um website de phishing</string>
   <string name="url_is_safety">Este website é seguro</string>
   <string name="url_is_unknown">Não é possível verificar se este website é seguro</string>
@@ -214,6 +243,7 @@
   <string name="web">Website:</string>
   <string name="website_details">Website:</string>
   <string name="weixin_code_tip">Utilize o WeChat para digitalizar este código QR</string>
+  <string name="welcome_to_thesweepversion">Bem-vindo ao Digitalizador versão beta!</string>
   <string name="wifi_details">Wi-Fi:</string>
   <string name="wifi_exist_fail">O PA Móvel \"%1$s\" já existe. Elimine-o e tente novamente</string>
   <string name="wifi_open_fail">Não é possível ligar o Wi-Fi</string>
@@ -221,5 +251,9 @@
   <string name="wifi_pwd">Palavra-passe:</string>
   <string name="wifi_security">Segurança:</string>
   <string name="wifi_ssid">SSID:</string>
+  <string name="will_be_sent_tothe_background_review">" (a sua aplicação vai ser enviada para revisão brevemente)"</string>
   <string name="wx_not_installed_toast">Esta função necessita de abrir o WeChat. Instale o WeChat</string>
+  <string name="you_have_permission_to_download">Toque para transferir a versão beta</string>
+  <string name="you_id">"O seu ID: "</string>
+  <string name="your_application_is_under_review">" (a sua aplicação está a ser revista)"</string>
 </resources>
