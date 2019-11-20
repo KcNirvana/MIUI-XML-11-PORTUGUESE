@@ -25,8 +25,8 @@
         <item quantity="one">Pode adicionar até %s pessoa. Seleccione novamente</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
-        <item quantity="other">Atraso: %s segundos</item>
-        <item quantity="one">Atraso: %s segundo</item>
+        <item quantity="other">Atraso: %d segundos</item>
+        <item quantity="one">Atraso: %d segundo</item>
     </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
