@@ -5756,7 +5756,7 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="super_resolution_reboot_tips">Reinicie as aplicações para que esta funcionalidade trabalhe após a ligar</string>
   <string name="super_resolution_title">Super resolução</string>
   <string name="sunlight_mode">Modo Luz Solar</string>
-  <string name="sunlight_mode_summary">Ajustar brilho à luz ambiente forte quando o brilho automático estiver desligado</string>
+  <string name="sunlight_mode_summary">Ajustar brilho à luz solar intensa quando o brilho automático estiver desligado</string>
   <string name="supl_not_set">&lt;Não definido&gt;</string>
   <string name="supplicant_state_label">Estado suplicante:</string>
   <string name="sure_sync_now">Sincronizar itens agora?</string>
