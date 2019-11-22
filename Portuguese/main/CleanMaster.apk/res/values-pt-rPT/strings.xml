@@ -249,7 +249,7 @@
   <string name="global_wa_main_header_cleaning_hints">A Limpeza do WhatsApp está a libertar espaço no seu dispositivo…</string>
   <string name="global_wa_main_header_scanning_hints">A Limpeza do WhatsApp está a verificar o seu dispositivo…</string>
   <string name="global_wa_main_item_desc_cache">A limpeza da cache não vai influenciar a sua utilização normal</string>
-  <string name="global_wa_main_item_desc_chat">Pode ir para os anexos na próxima página</string>
+  <string name="global_wa_main_item_desc_chat">Ir para os anexos na próxima página</string>
   <string name="global_wa_main_item_title_cache">Cache da aplicação</string>
   <string name="global_wa_main_item_title_chat">Anexos</string>
   <string name="global_wa_main_stop_cancel">Cancelar</string>

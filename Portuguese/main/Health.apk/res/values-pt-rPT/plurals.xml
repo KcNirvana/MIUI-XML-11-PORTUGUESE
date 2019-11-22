@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day_index">
+        <item quantity="other">%1$d dias</item>
+        <item quantity="one">%1$d dia</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">Objectivo: %1$d passos</item>
+        <item quantity="one">Objectivo: %1$d passo</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" passos"</item>
+        <item quantity="one">" passo"</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">Período de %1$d dias</item>
+        <item quantity="one">Período de %1$d dia</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d passos</item>
+        <item quantity="one">%1$d passo</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">Não gravou por %1$d dias. Grave os seus períodos para ter previsões mais apuradas</item>
+        <item quantity="one">Não gravou por %1$d dia. Grave os seus períodos para ter previsões mais apuradas</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Este período dura por um total de %1$d dias</item>
+        <item quantity="one">Este período dura por um total de %1$d dia</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">Dia %1$d do ciclo menstrual</item>
+        <item quantity="one">Dia %1$d do ciclo menstrual</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">Ciclo de %1$d dias</item>
+        <item quantity="one">Ciclo de %1$d dia</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d vezes</item>
+        <item quantity="one">%1$d vez</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">Dia %1$d do período</item>
+        <item quantity="one">Dia %1$d do período</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d dias até ao próximo período</item>
+        <item quantity="one">%1$d dia até ao próximo período</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Dias estimado %1$d do período</item>
+        <item quantity="one">Dias estimado %1$d do período</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" dias"</item>
+        <item quantity="one">" dia"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d anos</item>
+        <item quantity="one">%1$d ano</item>
+    </plurals>
+</resources>
