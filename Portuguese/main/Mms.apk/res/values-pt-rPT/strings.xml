@@ -569,7 +569,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="recommend_bar_message_mx">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI</string>
   <string name="recommend_bar_message_mx_rcs">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI e utilizadores China Mobile</string>
   <string name="recommend_bar_message_rcs">As Mensagens China Mobile permite enviar mensagens gratuitas para outros utilizadores China Mobile</string>
-  <string name="recommend_bar_message_smart_message">Copie OTPs, rastreie pacotes, utilize menus inteligentes e mais</string>
+  <string name="recommend_bar_message_smart_message">Copie OTPs, procure pacotes, utilize menus inteligentes e mais</string>
   <string name="recommend_bar_ok">Ligar</string>
   <string name="recommend_bar_title_mx_rcs">Mi Message</string>
   <string name="recommend_bar_title_smart_message">Mensagens inteligentes</string>

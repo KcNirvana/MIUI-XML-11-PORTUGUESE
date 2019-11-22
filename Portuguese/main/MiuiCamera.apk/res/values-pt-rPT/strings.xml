@@ -70,9 +70,9 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="ai_scene_top_moon_off">Modo luz fraca</string>
   <string name="ai_scene_top_tip">Modo Lua</string>
   <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>
-  <string name="autozoom_click_hint">Toque num objecto para o manter em foco enquanto se mexe. Mantenha-se a pelo menos 3 metros para um efeito melhor</string>
-  <string name="autozoom_disabled_hint">O rastreio foi parado</string>
-  <string name="autozoom_hint">Rastreio de objectos</string>
+  <string name="autozoom_click_hint">Toque num objecto para o manter focado enquanto estiver em movimento. Mantenha-se a pelo menos 3 metros para obter melhores resultados</string>
+  <string name="autozoom_disabled_hint">A procura de objectos em movimento foi interrompida</string>
+  <string name="autozoom_hint">Procurar objectos em movimento</string>
   <string name="autozoom_landscape_hint">Utilize o modo retrato para um melhor efeito</string>
   <string name="back_bokeh_use_hint">Certifique-se que o objecto não está a mais de 1,5 metros</string>
   <string name="beauty_body">Figura</string>

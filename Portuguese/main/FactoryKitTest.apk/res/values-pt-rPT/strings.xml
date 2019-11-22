@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="additional_test">Testes adicionais</string>
-  <string name="after_cali_tips">Please double check whether the sensor data can change normally after calibration!</string>
+  <string name="after_cali_tips">Por favor, certifique-se que o sensor funciona normalmente após a calibração!</string>
   <string name="alsps_backlight">"Luz de fundo: "</string>
   <string name="alsps_name">ALS/PS</string>
-  <string name="amplitude">MIC volume Test PASS</string>
-  <string name="amplitude_not_pass">MIC volume Test NOT PASS</string>
+  <string name="amplitude">Teste de volume do Micro PASSOU</string>
+  <string name="amplitude_not_pass">Teste de volume do Micro NÂO PASSOU</string>
   <string name="app_name">Testes de hardware</string>
   <string name="audio_message_aux">Sopre para o microfone auxiliar e oiça com o auscultador</string>
   <string name="audio_message_Earphone">Sopre para o microfone e oiça com o auscultador</string>
@@ -35,7 +35,7 @@
   <string name="battery_insert">Insira o carregador em %s segundo(s)</string>
   <string name="battery_msg">Insira o carregador</string>
   <string name="battery_name">Bateria e LED</string>
-  <string name="battery_prompt">You must Unplug the charger for Compeleted battery test</string>
+  <string name="battery_prompt">Tem de desligar o carregador para completar o teste da bateria</string>
   <string name="battery_status">Estado da bateria:</string>
   <string name="battery_success">Teste da bateria passou</string>
   <string name="battery_temperature">Temperatura da bateria:</string>
