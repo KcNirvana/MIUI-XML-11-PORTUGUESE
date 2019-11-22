@@ -283,7 +283,7 @@ based on your personal information."</string>
   <string name="title_network_license">Network access</string>
   <string name="title_no_record_menstruation">"You haven't recorded your periods yet."</string>
   <string name="title_run_in_background">Run in the background</string>
-  <string name="title_start_use_menstruation_assistant">Record your menstrual cycle</string>
+  <string name="title_start_use_menstruation_assistant">Registe o seu ciclo menstrual</string>
   <string name="title_today_exercise_detail">Actividades de hoje</string>
   <string name="today">Hoje</string>
   <string name="today_label">Hoje</string>
@@ -292,8 +292,8 @@ based on your personal information."</string>
   <string name="total_consumption_label">Total de calorias</string>
   <string name="total_distance_label">Total de distância</string>
   <string name="total_time_label">Total de tempo</string>
-  <string name="turn_on_necessary_permissions">Permissions are required to track sleep.</string>
-  <string name="unable_record_future_menstruation">"Can't record future periods"</string>
+  <string name="turn_on_necessary_permissions">São necessárias permissões para monitorizar o sono.</string>
+  <string name="unable_record_future_menstruation">"Não é possível registar períodos futuros"</string>
   <string name="unit_day">Dia</string>
   <string name="unit_hour">" h"</string>
   <string name="unit_kilo_calorie">" kcal"</string>
