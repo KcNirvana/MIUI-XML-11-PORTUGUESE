@@ -4,8 +4,8 @@
   <string name="after_cali_tips">Por favor, certifique-se que o sensor funciona normalmente após a calibração!</string>
   <string name="alsps_backlight">"Luz de fundo: "</string>
   <string name="alsps_name">ALS/PS</string>
-  <string name="amplitude">Teste de volume do Micro FALHOU</string>
-  <string name="amplitude_not_pass">Teste de volume do Micro PASSOU</string>
+  <string name="amplitude">Teste de volume do Micro PASSOU</string>
+  <string name="amplitude_not_pass">Teste de volume do Micro FALHOU</string>
   <string name="app_name">Testes de hardware</string>
   <string name="audio_message_aux">Sopre para o microfone auxiliar e oiça com o auscultador</string>
   <string name="audio_message_Earphone">Sopre para o microfone e oiça com o auscultador</string>
