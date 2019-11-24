@@ -43,7 +43,7 @@
   <string name="battery_voltage">Voltagem da bateria:</string>
   <string name="blackcard_block">1.cartão preto bloqueado a uma distância de 2cm</string>
   <string name="bluetooth_name">Bluetooth</string>
-  <string name="bluetooth_scan_finish">Verificação concluida</string>
+  <string name="bluetooth_scan_finish">Verificação concluída</string>
   <string name="bluetooth_scan_null">Sem dispositivos encontrados</string>
   <string name="bluetooth_scan_start">A pesquisar dispositivos…</string>
   <string name="bluetooth_status_close">Bluetooth desligado</string>
