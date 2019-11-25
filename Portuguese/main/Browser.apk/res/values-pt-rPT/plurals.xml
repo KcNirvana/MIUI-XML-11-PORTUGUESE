@@ -61,8 +61,8 @@
         <item quantity="one">%1$d seleccionado</item>
     </plurals>
     <plurals name="video_download_clear_info">
-        <item quantity="other">%1$d vídeos removidos com êxito.</item>
-        <item quantity="one">%1$d vídeo removido com êxito.</item>
+        <item quantity="other">%1$d vídeos removidos com sucesso.</item>
+        <item quantity="one">%1$d vídeo removido com sucesso.</item>
     </plurals>
     <plurals name="video_download_clear_prompt">
         <item quantity="other">Limpar %1$d vídeos?</item>

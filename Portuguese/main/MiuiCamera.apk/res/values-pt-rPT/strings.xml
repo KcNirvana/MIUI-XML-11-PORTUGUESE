@@ -110,7 +110,7 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="cannot_connect_camera_once">Não é possível ligar-se à câmara</string>
   <string name="cannot_connect_camera_twice">Ainda não é possível ligar-se à câmara. Tente reiniciar o dispositivo</string>
   <string name="cannot_connect_camera_volte_call">Está em curso uma videochamada. Tente mais tarde</string>
-  <string name="cannot_move_warning_message">Ao tirar a foto mantenha o dispositivo quieto</string>
+  <string name="cannot_move_warning_message">Ao tirar a foto mantenha o dispositivo firme</string>
   <string name="capture_back_pressed_hint">Toque novamente para sair</string>
   <string name="ccc_temperature_warning_msg">O seu dispositivo está superaquecido. A câmara vai ser fechado em %d segundos. As suas fotos ou vídeos vão ser guardadas automaticamente</string>
   <string name="ccc_temperature_warning_title">O dispositivo está superaquecido</string>
@@ -714,7 +714,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="super_eis">Super estabilização</string>
   <string name="super_eis_disabled_hint">Super estabilização desligada</string>
   <string name="super_night_hint">A optimizar imagem… Mantenha o dispositivo estável</string>
-  <string name="super_night_toast">Mantenha o seu telefone quieto enquanto tira a foto</string>
+  <string name="super_night_toast">Mantenha o seu telefone firme enquanto tira a foto</string>
   <string name="tap_to_exposure">Toque para ajustar a exposição manualmente</string>
   <string name="tap_to_focus">Toque para focar</string>
   <string name="text_ai_scene_selector_text_on">Silhueta</string>
