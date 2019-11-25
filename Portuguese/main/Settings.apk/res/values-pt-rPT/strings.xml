@@ -4628,8 +4628,8 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="reset_second_space_passwd_cancel">Cancelar</string>
   <string name="reset_second_space_passwd_confirm">Continuar</string>
   <string name="reset_second_space_passwd_detail">Introduza a palavra-passe da Conta Mi utilizada no Primeiro espaço</string>
-  <string name="reset_shortcut_manager_throttling">Repor o limite de taxa do ShortcutManager</string>
-  <string name="reset_shortcut_manager_throttling_complete">>O limite de taxa do ShortcutManager foi reposto</string>
+  <string name="reset_shortcut_manager_throttling">Repor o limite de taxa do gestor de atalhos</string>
+  <string name="reset_shortcut_manager_throttling_complete">O limite de taxa do gestor de atalhos foi reposto</string>
   <string name="resetting_second_space_passwd">A repor a palavra-passe do Segundo espaço</string>
   <string name="resident_timezone_summary">Segundo relógio</string>
   <string name="resolver_settings_label">Ordenar</string>
