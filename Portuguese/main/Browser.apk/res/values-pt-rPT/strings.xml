@@ -259,7 +259,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="download_btn">Transferir</string>
     <string name="download_btn_select_all">Seleccionar tudo</string>
     <string name="download_btn_select_none">Desmarcar tudo</string>
-    <string name="download_complete">Transferido com êxito</string>
+    <string name="download_complete">Transferido com sucesso</string>
     <string name="download_completed">Transferido</string>
     <string name="download_default_path_txt">Lembrar esta escolha</string>
     <string name="download_dialog_default_path_invalid">O caminho da transferência escolhido é inválido. A gravar no caminho predefinido…</string>
@@ -1002,7 +1002,7 @@ Sair desta página agora?"</string>
     <string name="root_folder_lable">Nenhum</string>
     <string name="router_download_exist">Este ficheiro já existe</string>
     <string name="router_download_failed">Não foi possível transferir</string>
-    <string name="router_download_success">Transferido com êxito</string>
+    <string name="router_download_success">Transferido com sucesso</string>
     <string name="same_bookmarks_warning">Já marcou esta página</string>
     <string name="same_folder_name_warning">Já existe um grupo com este nome</string>
     <string name="save_button_text">Guardar</string>
@@ -1157,7 +1157,7 @@ Sair desta página agora?"</string>
     <string name="video_buffering_percent_string">"A armazenar "</string>
     <string name="video_collect_cancel">Remover dos favoritos</string>
     <string name="video_collect_success">Adicionado aos favoritos</string>
-    <string name="video_download_complete">Transferido com êxito</string>
+    <string name="video_download_complete">Transferido com sucesso</string>
     <string name="video_download_empty">Sem vídeos</string>
     <string name="video_download_error">Erro</string>
     <string name="video_download_error_http_gone">Não foi possível encontrar o ficheiro</string>
@@ -1167,7 +1167,7 @@ Sair desta página agora?"</string>
     <string name="video_download_finding_address">A obter URL da transferência</string>
     <string name="video_download_pause">Em pausa</string>
     <string name="video_download_start">A transferir…</string>
-    <string name="video_download_success">Transferido com êxito</string>
+    <string name="video_download_success">Transferido com sucesso</string>
     <string name="video_download_unknown_name">Nome desconhecido</string>
     <string name="video_download_unknown_size">Tamanho desconhecido</string>
     <string name="video_download_unsupport">Não suportado</string>
