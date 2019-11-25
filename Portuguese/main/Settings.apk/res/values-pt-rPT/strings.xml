@@ -3554,7 +3554,13 @@ Seleccione o seu sistema operativo:"</string>
 %1$s vai aparecer como dispositivo de armazenamento USB quando ligado a um computador"</string>
   <string name="msd_pc_system_install_summary_xp">1. Executar setup.exe para instalar</string>
   <string name="msg_wlan_signal_found">Ligar a %s?</string>
+  <string name="msim_sim_radio_off">Desligado</string>
+  <string name="mtp_connection_failed">Não é possível transferir ficheiro para o computador</string>
+  <string name="mtp_connection_failed_title">Ligação USB</string>
+  <string name="mtp_connection_not_remind">Não mostrar novamente</string>
   <string name="mtp_ptp_mode_summary">A função MTP ou PTP está activa</string>
+  <string name="mtp_solution_button_cancel">Percebi</string>
+  <string name="mtp_solution_button_ok">Solução de problemas</string>
   <string name="multi_network_acceleration_app_settings">Gestão de aceleração de redes</string>
   <string name="multi_touch_points_category_title">Pontos multi-toque</string>
   <string name="multi_touch_points_preference">Esta definição apenas vai ter efeito assim que reiniciar o seu dispositivo</string>

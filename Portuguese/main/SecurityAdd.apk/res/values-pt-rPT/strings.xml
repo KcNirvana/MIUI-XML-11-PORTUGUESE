@@ -70,13 +70,13 @@
   <string name="superpower_date">"EEEE, d 'de' MMMM"</string>
   <string name="superpower_dialog_app_select_content">As aplicações de terceiros normalmente consomem mais bateria que as aplicações de sistema. Adicionar mesmo assim?</string>
   <string name="superpower_dialog_app_select_title">Atenção</string>
-  <string name="superpower_exit_hint">A desligar a poupança de bateria extrema…</string>
+  <string name="superpower_exit_hint">A desligar a poupança extrema de bateria…</string>
   <string name="superpower_incharging">A carregar</string>
   <string name="superpower_progress_battery_last">%s restante</string>
   <string name="superpower_search_hint">Pesquisar aplicações</string>
   <string name="superpower_select_app_title">Aplicações utilizadas frequentemente</string>
-  <string name="superpower_settings">Poupança de bateria extrema</string>
-  <string name="superpower_settings_launcher">Poupança de bateria extrema</string>
+  <string name="superpower_settings">Poupança extrema de bateria</string>
+  <string name="superpower_settings_launcher">Poupança extrema de bateria</string>
   <string name="superpower_system">Recomendado</string>
   <string name="superpower_third">Aplicações de terceiros</string>
   <string name="superpower_toast_app_select_full">Pode adicionar até 6 itens às aplicações utilizadas frequentemente</string>

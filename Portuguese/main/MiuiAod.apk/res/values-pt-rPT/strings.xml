@@ -36,6 +36,8 @@
   <string name="deep_space_planet">Outer space</string>
   <string name="deep_space_planet_des">Este tema reflete as mudanças de luz que acontecem ao seu redor durante o dia. O amanhecer e pôr-do-sol neste tema estão sincronizados com a sua localização</string>
   <string name="digital_clock">Digital</string>
+  <string name="disable_aod_in_power_save_mode">Desligar quando a poupança de bateria estiver ligada</string>
+  <string name="disable_aod_in_power_save_mode_summary">Não mostrar itens para poupar bateria</string>
   <string name="font_thickness">Texto em negrito</string>
   <string name="large_time">Relógio grande</string>
   <string name="letter_space">Espaço entre letras</string>
@@ -52,6 +54,7 @@
   <string name="panel_clock">Analógico</string>
   <string name="paper_mode_end_time_title">Desligar</string>
   <string name="paper_mode_start_time_title">Ligar</string>
+  <string name="photo_editor_saving">A guardar…</string>
   <string name="please_input_signature">Introduzir assinatura</string>
   <string name="scheduled_style">Programado</string>
   <string name="scope_des">Cada caleidoscópio contem 5 padrões diferentes que vão ser mostrados alternadamente sempre que o ecrã acender</string>
@@ -70,9 +73,7 @@
 maravilhoso está para acontecer"</string>
   <string name="standard_clock_panel">Standard</string>
   <string name="standard_style">Standard</string>
-  <string name="summary">"Para reduzir o consumo de bateria, os itens não vão ser mostrados nas seguintes situações:
-1. Quando o dispositivo estiver no escuro por muito tempo
-2. Quando Não incomodar estiver ligado"</string>
+  <string name="summary">Para reduzir o consumo de bateria, os itens não vão ser mostrados quando o dispositivo estiver no escuro por muito tempo</string>
   <string name="temporary_style">Por 10 segundos após tocar</string>
   <string name="text_color">Cor do texto</string>
   <string name="text_length_exceed_limit_alert">*O texto inserido é demasiado longo</string>

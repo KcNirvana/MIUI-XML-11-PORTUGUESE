@@ -83,6 +83,10 @@
         <item quantity="other">Pode introduzir até %1$d dias</item>
         <item quantity="one">Pode introduzir até %1$d dia</item>
     </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">mais %d eventos</item>
+        <item quantity="one">mais %d evento</item>
+    </plurals>
     <plurals name="reminder_custom_unit_day">
         <item quantity="other">" dias"</item>
         <item quantity="one">" dia"</item>

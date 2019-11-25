@@ -375,9 +375,9 @@
     <string-array name="bt_hci_snoop_log_entries">
         <item>Desactivado</item>
         <item>Filtrados</item>
+        <item>Activado</item>
         <item>Cabeçalhos filtrados</item>
         <item>Multimédia filtrado</item>
-        <item>Activado</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>

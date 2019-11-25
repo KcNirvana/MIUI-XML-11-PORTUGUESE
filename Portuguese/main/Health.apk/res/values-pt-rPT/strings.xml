@@ -10,11 +10,11 @@
   <string name="app_name">wcdb-room</string>
   <string name="auto_start_fail">Não foi possível dar permissão</string>
   <string name="auto_start_success">Permissão dada com sucesso</string>
-  <string name="auto_start_tips">Toque em \"Definições\" para abrir as definições de Saúde Mi e dar as seguintes permissões</string>
+  <string name="auto_start_tips">Toque em \"Definições\" para abrir as definições de Saúde e dar as seguintes permissões</string>
   <string name="average_cycle_days">Ciclo média</string>
   <string name="average_menstruation_days">Duração média do período</string>
   <string name="avg_steps">Passos diários</string>
-  <string name="background_run_tips">Toque em \"Definições\"e dê permissão ao Saúde Mi para executar sempre em segundo plano</string>
+  <string name="background_run_tips">Toque em \"Definições\"e dê permissão a Saúde para executar sempre em segundo plano</string>
   <string name="basic_info_label_age">Idade</string>
   <string name="basic_info_label_birthday">Aniversário</string>
   <string name="basic_info_label_gender">Género</string>
@@ -22,7 +22,7 @@
   <string name="basic_info_label_weight">Peso</string>
   <string name="basic_info_save">Guardar</string>
   <string name="bg_control_dialog_go_set">Definições</string>
-  <string name="bg_control_dialog_msg">A poupança de bateria vai restringir a actividade em segundo plano do Saúde Mi. Permita que Saúde Mi execute sempre em segundo plano para obter estatísticas precisas</string>
+  <string name="bg_control_dialog_msg">A poupança de bateria vai restringir a actividade em segundo plano de Saúde. Permita que Saúde execute sempre em segundo plano para obter estatísticas precisas</string>
   <string name="bg_control_dialog_title">Restrições de segundo plano</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_mark_end">O período ainda não acabou</string>
@@ -49,45 +49,45 @@
   <string name="dialog_abandon">Rejeitar</string>
   <string name="dialog_abandon_sleep_edit">Rejeitar alterações?</string>
   <string name="dialog_agree_and_continue">Concordar</string>
-  <string name="dialog_auto_start_detail">"Allow Mi Health to autostart to be able to receive notifications.
-Mi Health will only notify you about important items."</string>
-  <string name="dialog_auto_start_title">Permitir que Saúde Mi inicie automaticamente</string>
-  <string name="dialog_auto_start_title2">Permitir que Saúde Mi inicie automaticamente</string>
+  <string name="dialog_auto_start_detail">"Dê permissão a Saúde para iniciar automaticamente para receber notificações.
+Saúde vai apenas notificá-lo acerca de itens importantes"</string>
+  <string name="dialog_auto_start_title">Permitir que Saúde inicie automaticamente</string>
+  <string name="dialog_auto_start_title2">Permitir que Saúde inicie automaticamente</string>
   <string name="dialog_cancel">Cancelar</string>
   <string name="dialog_confirm">OK</string>
   <string name="dialog_date_select">Seleccionar data</string>
   <string name="dialog_delete">Eliminar</string>
-  <string name="dialog_exercise_purpose">Welcome to Mi Health! \"Step counter\" allows you to see how many steps you make during the day, as well as set and manage your activity goals. All the related data will be stored locally on your device, which allows you to manage it easily.</string>
+  <string name="dialog_exercise_purpose">Bem-vindo a Saúde! O \"Contador de passos\" permite ver quantos passos faz durante o dia, assim como definir e gerir os seus objectivos de actividades</string>
   <string name="dialog_exit">Sair</string>
-  <string name="dialog_juveniles_details">According to our Privacy Policy, the minimum age for using this product is 18 years old.</string>
-  <string name="dialog_juveniles_link">According to our &lt;font color=\"#FE6D67\"&gt;&lt;a href=\"%1$s\"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt;, the minimum age for using this product is 18 years old.</string>
+  <string name="dialog_juveniles_details">De acordo com nossa Política de Privacidade, a idade miníma para utilizar este produto é de 18 anos</string>
+  <string name="dialog_juveniles_link">De acordo com nossa &lt;font color=\"#FE6D67\"&gt;&lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt;, a idade miníma para utilizar este produto é de 18 anos</string>
   <string name="dialog_known">Percebi</string>
-  <string name="dialog_menstruation_purpose">Welcome to Mi Health! \"Menstruation\" allows you to record periods, determine estimated dates of upcoming periods, and receive reminders. All the related data will be stored locally on your device, which allows you to manage it easily.</string>
+  <string name="dialog_menstruation_purpose">Bem-vindo a Saúde! A \"Menstruação\" permitie registar período, determinar datas estimadas dos próximos períodos e receber lembretes</string>
   <string name="dialog_no_more_prompt">Não mostrar novamente</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_open">Permitir</string>
   <string name="dialog_permission_loading_msg">A verificar…</string>
-  <string name="dialog_privacy_link">"Welcome to Mi Health! You can use this app to record your activity, track your sleep, and more.
+  <string name="dialog_privacy_link">"Bem-vindo a Saúde! Pode utilizar esta aplicação para registar as suas actividades e o seu sono.
     Mi Health needs to connect to the network, as well as collect, process, and use your personal information to work normally.&lt;/br&gt;
-    Your personal information will be collected, processed, and used in accordance with the relevant laws and regulations.
-    Refer to our &lt;font color=\"#0000FF\"&gt;&lt;a href=\"%1$s\"&gt;User Agreement&lt;/a &gt;&lt;/font&gt; and
-    &lt;font color=\"#0000FF\"&gt;&lt;a href=\"%2$s\"&gt;Privacy Policy&lt;/a &gt;&lt;/font&gt; for more details."</string>
-  <string name="dialog_privacy_policy_statement">Privacy Policy statement</string>
+    As suas informações pessoais vão ser obtidas, processadas e utilizadas de acordo com as leis e regulamentos relevantes.
+    Consulte o nosso &lt;font color=\"#0000FF\"&gt;&lt;a href=\"%1$s\"&gt;Termos de Utilização&lt;/a &gt;&lt;/font&gt; e
+    &lt;font color=\"#0000FF\"&gt;&lt;a href=\"%2$s\"&gt;Política de Privacidade&lt;/a &gt;&lt;/font&gt; para mais detalhes"</string>
+  <string name="dialog_privacy_policy_statement">Declaração de Política de Privacidade</string>
   <string name="dialog_privacy_title">Termos e condições</string>
-  <string name="dialog_read_phone_perm_desc">For accessing IMEI to identify your device and provide services.</string>
-  <string name="dialog_sleep_purpose">Welcome to Mi Health sleep tracking service! You can use this service to record your sleep and manage your sleep data. Mi Health will automatically record your sleep based on your phone usage, activity stats, as well as fall asleep and wake up time you set. To ensure the accuracy of the sleep data, Mi Health needs permission to autostart. All the data related to this feature will be stored locally on your device.</string>
+  <string name="dialog_read_phone_perm_desc">Para aceder ao IMEI para identificar o seu dispositivo e fornecer serviços</string>
+  <string name="dialog_sleep_purpose">Bem-vindo ao serviço de registo de sono de Saúde! Pode utilizar este serviço para registar e gerir os seus dados de sono. O Saúde vai registar automaticamente o seu sono baseado na sua utilização do telefone, estatísticas de actividades assim como as horas de adormecer e acordar que definir. Saúde necessita de permissão para iniciar automaticamente</string>
   <string name="dialog_sure">OK</string>
   <string name="drink_water">Beba um pouco de água e dê um passeio</string>
   <string name="edit_basic_info_desc">Informações básicas</string>
-  <string name="exercise">Activity</string>
+  <string name="exercise">Actividades</string>
   <string name="exercise_goal_accomplished">Objectivo alcançado</string>
   <string name="exercise_goal_lack_exercise">Sem actividades suficientes</string>
   <string name="exercise_goal_not_accomplished">Não atingiu o objectivo</string>
   <string name="exercise_info_tool_bar_title">Actividades</string>
-  <string name="exercise_reminder_accomplished">You reached your activity goal!</string>
-  <string name="exercise_reminder_title">Activity reminder</string>
-  <string name="exercise_reminder_unaccomplished">"You haven't reached your goal yet. Keep going!"</string>
-  <string name="expand_button_title">Advanced</string>
+  <string name="exercise_reminder_accomplished">Atingiu o seu objectivo!</string>
+  <string name="exercise_reminder_title">Lembrete de actividade</string>
+  <string name="exercise_reminder_unaccomplished">Ainda não alcançou o seu objectivo</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
   <string name="feedback_need_permission_msg">Allow Mi Health to write on external storage to be able to generate logs used for feedback.</string>
   <string name="feedback_permission_denied_msg">"Mi Health can't save logs to external storage. Give Mi Health the required permissions in the settings."</string>
@@ -268,21 +268,20 @@ based on your personal information."</string>
   <string name="suggestion_drink_content">Pay attention to the strain in your body and try to relax.</string>
   <string name="suggestion_drink_title">Drink some water and relax</string>
   <string name="suggestion_move_content">Walk a hundred steps or climb a couple flights of stairs.</string>
-  <string name="suggestion_move_title">Time to move!</string>
-  <string name="suggestion_title">Suggestions</string>
-  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="sustain_title">"You haven't moved for "</string>
-  <string name="text_edit_exercise_goal">Change goal</string>
-  <string name="text_save_exercise_goal">Done</string>
-  <string name="tips_default">No data</string>
-  <string name="title_auto_run">Autostart</string>
-  <string name="title_click_record_menstruation">Record a period</string>
-  <string name="title_data_collect">Personal data usage</string>
-  <string name="title_menstruation_predict_start">Period will likely start on %1$s</string>
-  <string name="title_month_exercise_sum">Monthly stats</string>
-  <string name="title_network_license">Network access</string>
-  <string name="title_no_record_menstruation">"You haven't recorded your periods yet."</string>
-  <string name="title_run_in_background">Run in the background</string>
+  <string name="suggestion_move_title">Hora de se mover!</string>
+  <string name="suggestion_title">Sugestões</string>
+  <string name="sustain_title">"Já não se move há "</string>
+  <string name="text_edit_exercise_goal">Alterar objectivo</string>
+  <string name="text_save_exercise_goal">Concluído</string>
+  <string name="tips_default">Sem dados</string>
+  <string name="title_auto_run">Início automático</string>
+  <string name="title_click_record_menstruation">Registar um período</string>
+  <string name="title_data_collect">Utilização de dados pessoais</string>
+  <string name="title_menstruation_predict_start">O período vai começar em %1$s</string>
+  <string name="title_month_exercise_sum">Estatísticas mensais</string>
+  <string name="title_network_license">Acesso à rede</string>
+  <string name="title_no_record_menstruation">Ainda não regitou os seus períodos</string>
+  <string name="title_run_in_background">Executar em segundo plano</string>
   <string name="title_start_use_menstruation_assistant">Registe o seu ciclo menstrual</string>
   <string name="title_today_exercise_detail">Actividades de hoje</string>
   <string name="today">Hoje</string>
