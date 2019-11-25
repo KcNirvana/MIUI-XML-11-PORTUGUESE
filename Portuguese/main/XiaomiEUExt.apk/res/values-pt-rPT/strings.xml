@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="found_apps">
-        <item quantity="other">%d aplicações encontradas</item>
-        <item quantity="one">%d aplicação encontrada</item>
-    </plurals>
-    <plurals name="search_apps">
-        <item quantity="other">Pesquisar em %d aplicações</item>
-        <item quantity="one">Pesquisar em %d aplicação</item>
-    </plurals>
-    <plurals name="selected_apps">
-        <item quantity="other">%d aplicações seleccionadas</item>
-        <item quantity="one">%d aplicação seleccionada</item>
-    </plurals>
+  <string name="add">Adicionar</string>
+  <string name="app_name">Extensão Xiaomi.EU</string>
+  <string name="confirm_reset">Confirmar reposição</string>
+  <string name="confirm_reset_message">Repor para as aplicações predefinidas?</string>
+  <string name="delete">Eliminar</string>
+  <string name="lockscreen_side_apps">Atalhos do painel lateral</string>
+  <string name="no_apps">Sem aplicações</string>
+  <string name="reset">Repor</string>
+  <string name="select_app">Seleccionar uma aplicação</string>
+  <string name="select_apps">Seleccionar aplicações</string>
 </resources>
