@@ -68,7 +68,7 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="dialog_open">Permitir</string>
   <string name="dialog_permission_loading_msg">A verificar…</string>
   <string name="dialog_privacy_link">"Bem-vindo a Saúde! Pode utilizar esta aplicação para registar as suas actividades e o seu sono.
-    Mi Health needs to connect to the network, as well as collect, process, and use your personal information to work normally.&lt;/br&gt;
+    Saúde necessita de utilizar a ligação à Internet, para recolher, processar e utilizar as suas informações pessoais para funcionar normalmente.&lt;/br&gt;
     As suas informações pessoais vão ser obtidas, processadas e utilizadas de acordo com as leis e regulamentos relevantes.
     Consulte o nosso &lt;font color=\"#0000FF\"&gt;&lt;a href=\"%1$s\"&gt;Termos de Utilização&lt;/a &gt;&lt;/font&gt; e
     &lt;font color=\"#0000FF\"&gt;&lt;a href=\"%2$s\"&gt;Política de Privacidade&lt;/a &gt;&lt;/font&gt; para mais detalhes"</string>

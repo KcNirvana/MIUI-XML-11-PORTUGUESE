@@ -77,8 +77,8 @@
         <item quantity="one">Eliminar %1$d item do histórico?</item>
     </plurals>
     <plurals name="video_push_multi_message">
-        <item quantity="other">%1$d atualizações disponíveis.</item>
-        <item quantity="one">%1$d atualização disponível.</item>
+        <item quantity="other">%1$d actualizações disponíveis.</item>
+        <item quantity="one">%1$d actualização disponível.</item>
     </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d minutos restantes</item>
