@@ -530,7 +530,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="dlg_summary_close_theme">Restringir temas animados</string>
   <string name="dlg_summary_close_wifi">Desligar Wi-Fi, Bluetooth e PA Móvel</string>
   <string name="dlg_summary_nfc">Desligar NFC</string>
-  <string name="dlg_summary_title">A poupança extrema de bateria pára toda a actividade em segundo plano. Se quiser que uma aplicação seja executada em segundo plano, adicione-a às excepções</string>
+  <string name="dlg_summary_title">A poupança de bateria extrema pára toda a actividade em segundo plano. Se quiser que uma aplicação seja executada em segundo plano, adicione-a às excepções</string>
   <string name="dnd_is_off">Não incomodar está desligado</string>
   <string name="dnd_notification_warnings_title">Não incomodar ligado. As chamadas e notificações vão ser silenciadas</string>
   <string name="do_disclosure_generic">Este dispositivo é gerido pela sua organização</string>
@@ -553,7 +553,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="enable_bluetooth_message">Para ligar um teclado ao seu tablet, ligue o Bluetooth primeiro</string>
   <string name="enable_bluetooth_title">Ligar Bluetooth?</string>
   <string name="enable_demo_mode">Activar modo demonstração</string>
-  <string name="enable_extreme_power_save_mode">Poupança extrema de bateria</string>
+  <string name="enable_extreme_power_save_mode">Poupança de bateria extrema</string>
   <string name="enable_power_save_mode">Ligar a poupança de bateria</string>
   <string name="enter_special_mode_message">Após reiniciar a aplicação, o conteúdo vai ser extendido para o topo. Se houver excepções como conteúdo oculto, carregue no botão novamente para restaurar o modo predefinido</string>
   <string name="enter_special_mode_title">Reiniciar a aplicação e expandir o espaço de visualização</string>
@@ -1195,7 +1195,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="oldman_airplane_mode_text">Modo Avião</string>
   <string name="oldman_incall_text">Voltar à chamada</string>
   <string name="open_camera_hint_text">Arrastar o ícone para abrir a Câmara</string>
-  <string name="open_extreme_power_save_mode_title">Ligar a poupança extrema de bateria</string>
+  <string name="open_extreme_power_save_mode_title">Ligar a poupança de bateria extrema</string>
   <string name="open_lock_screen_magazine_hint_text">Arrastar o ícone para mais opções</string>
   <string name="open_remote_center_hint_text">Arrastar o ícone para ver os controlos</string>
   <string name="osu_completing_sign_up">A concluir o registo…</string>
@@ -1281,6 +1281,11 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="power_save_ps_close_setting">Desligar os serviços em segundo plano para poupar bateria</string>
   <string name="power_save_ps_freeze">Desactivar aplicações em segundo plano</string>
   <string name="power_save_ps_limit">Restringir a actividade das aplicações de sistema</string>
+  <string name="private_dns_mode_off">Desligado</string>
+  <string name="private_dns_mode_opportunistic">Automático</string>
+  <string name="private_dns_mode_provider">Anfitrião de DNS privado</string>
+  <string name="private_dns_mode_provider_failure">Não foi possível ligar</string>
+  <string name="private_dns_mode_provider_hostname_hint">Introduzir anfitrião ou fornecedor de DNS</string>
   <string name="power_suggestion_extend_battery">Prolongar a vida útil da bateria %1$s</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="profile_owned_footer">O perfil pode ser monitorizado</string>

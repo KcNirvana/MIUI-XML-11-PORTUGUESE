@@ -28,6 +28,6 @@
     <string-array name="thermal_summaries">
         <item>Dar prioridade à temperatura</item>
         <item>Dar prioridade ao desempenho</item>
-        <item>Não suportada pela poupança extrema de bateria</item>
+        <item>Não suportada pela poupança de bateria extrema</item>
     </string-array>
 </resources>
