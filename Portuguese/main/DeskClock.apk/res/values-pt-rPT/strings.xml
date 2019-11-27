@@ -40,7 +40,7 @@
   <string name="bedtime_manage">Hora de dormir</string>
   <string name="bedtime_manage_desc">Programar lembretes para dormir e acompanhar o seu sono</string>
   <string name="bedtime_manage_open">Programe a sua hora de dormir</string>
-  <string name="bedtime_manage_tip">Gira a sua hora de dormir aqui</string>
+  <string name="bedtime_manage_tip">Gerir a sua hora de dormir aqui</string>
   <string name="bedtime_not_open_text">As suas estatísticas vão aparecer aqui após começar a utilizar os lembretes para dormir</string>
   <string name="bedtime_repeat_desc">Dias em que vai receber lembretes</string>
   <string name="bedtime_repeat_type">Programar</string>
@@ -55,7 +55,7 @@
   <string name="bedtime_sleep_time_setting">A que horas vai dormir?</string>
   <string name="bedtime_wake_up_time_remind">Um alarme desliga-se às</string>
   <string name="bedtime_wake_up_time_setting">A que horas acorda?</string>
-  <string name="bedtime_welcome">Gira a sua hora de dormir</string>
+  <string name="bedtime_welcome">Gerir a sua hora de dormir</string>
   <string name="bedtime_welcome_desc">Manter um horário de sono regular e consistente beneficia a sua saúde. Defina lembretes que o vão ajudar a ir para a cama e acordar todos os dias a horas</string>
   <string name="birthday_alarm">Alarme de aniversário</string>
   <string name="birthday_alarm_summary">Tocar \"Parabéns a você\" em vez do som de alarme predefinido no dia do seu aniversário</string>
@@ -207,6 +207,7 @@
   <string name="monday_to_friday">Segunda a sexta</string>
   <string name="more_setting">Mais definições</string>
   <string name="more_settings">Definições</string>
+  <string name="network_privacy_global">Para fornecer serviços personalizados, o Relógio necessita de ligar à Internet. Antes de utilizar o Relógio, tem de ler e concordar com os nossos &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;. Concordar?</string>
   <string name="never">Uma vez</string>
   <string name="no_alarm_setting">Sem alarmes</string>
   <string name="no_worldclock">Sem relógios</string>

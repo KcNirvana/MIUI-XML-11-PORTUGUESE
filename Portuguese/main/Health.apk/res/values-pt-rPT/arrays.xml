@@ -39,6 +39,15 @@
         <item>Sem dados de sono</item>
         <item>A abrir Saúde Mi</item>
     </string-array>
+    <string-array name="week">
+        <item>Domingo</item>
+        <item>Segunda</item>
+        <item>Terça</item>
+        <item>Quarta</item>
+        <item>Quinta</item>
+        <item>Sexta</item>
+        <item>Sábado</item>
+    </string-array>
     <string-array name="week_label">
         <item>Dom</item>
         <item>Seg</item>
