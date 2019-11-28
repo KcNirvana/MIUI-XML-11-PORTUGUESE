@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="Hardware_version">Versão de hardware:</string>
+  <string name="IR_NotFund">Infravermelhos não encontrado</string>
+  <string name="IR_tested">Infravermelhos testado</string>
+  <string name="IR_testing">A testar infravermelhos</string>
+  <string name="ITO_name">ITO</string>
+  <string name="ITO_text">A testar. Por favor, não toque no ecrã...</string>
+  <string name="Internal_fm_name">Rádio FM</string>
+  <string name="LED_OFF">led_desligado</string>
+  <string name="Product_version">Versão do produto:</string>
+  <string name="QrCode_name">Leitor código de barras</string>
+  <string name="Wflash_led_light">Flash tom branco:</string>
+  <string name="Yflash_led_light">Flash tom amarelo:</string>
+  <string name="action_settings">Definições</string>
   <string name="additional_test">Testes adicionais</string>
   <string name="after_cali_tips">Por favor, certifique-se que o sensor funciona normalmente após a calibração!</string>
+  <string name="all_led_name">Testar todos os LED</string>
   <string name="alsps_backlight">"Luz de fundo: "</string>
   <string name="alsps_name">ALS/PS</string>
   <string name="amplitude">Teste de volume do Micro PASSOU</string>
@@ -17,8 +31,10 @@
   <string name="audio_title_sub_mic">Microfone secundário</string>
   <string name="auto_ctp">ITO</string>
   <string name="auto_outtime_test">O teste da traseira não está concluído. Execute manualmente</string>
-  <string name="auto_test">O teste automático passou todo?</string>
-  <string name="backlight_led_name">Luz de fundo do LCD</string>
+  <string name="auto_test">O teste automático terminou com sucesso?</string>
+  <string name="back_led_light1">Luz de fundo (luz 255):</string>
+  <string name="back_led_light2">Luz de fundo (luz 10):</string>
+  <string name="backlight_led_name">Luz de fundo do ecrã</string>
   <string name="backlight_text">A testar…</string>
   <string name="battery_change">Está totalmente carregada ou a voltagem do carregamento da bateria é maior que 4.1V. A bateria necessita de ser substituída</string>
   <string name="battery_current">Corrente da bateria:</string>
@@ -55,10 +71,12 @@
   <string name="cali_fail">Calibração falhou</string>
   <string name="cali_pass">Calibração com sucesso</string>
   <string name="calibrate">Calibrar</string>
+  <string name="camera_calibration_test">Calibração da câmera</string>
   <string name="cameraback_fail_open">Erro ao abrir a Câmara. Confirme que a Câmara foi instalada correctamente</string>
   <string name="cameraback_name">Câmara traseira + Lanterna</string>
   <string name="cameraback_name_mido">Câmara traseira</string>
   <string name="cameraback_takepicture">Tire uma foto</string>
+  <string name="cameradual_switch">Trocar</string>
   <string name="camerafront_name">Câmara frontal</string>
   <string name="camerafront_takepicture">Tire uma foto</string>
   <string name="camerasubback_name">Câmara traseira</string>
@@ -72,8 +90,8 @@
   <string name="chinese">Chinês</string>
   <string name="cit_dialog">Aviso</string>
   <string name="cit_fail">Erro na escrita de sinalização CIT</string>
-  <string name="cit_miss">Erro</string>
-  <string name="cit_pass">PASSOU</string>
+  <string name="cit_miss">Erro!</string>
+  <string name="cit_pass">Passou!</string>
   <string name="cit_success">Escrita de sinalização CIT com sucesso</string>
   <string name="cit_warn">"A escrever código de barras CIT. Por favor, aguarde 5 segundos"</string>
   <string name="clean_state">Estado do teste sem erros</string>
@@ -84,7 +102,7 @@
   <string name="ctp_result_fail">Falhou</string>
   <string name="ctp_result_pass">Passou</string>
   <string name="ctp_result_testing">A testar…</string>
-  <string name="ctp_tip2">Em testes. Aguarde…</string>
+  <string name="ctp_tip2">A testar. Por favor, aguarde…</string>
   <string name="ctp_tips">Aviso: o dispositivo está em testes. Por favor, não toque no ecrã e aguarde o resultado!</string>
   <string name="customer">Xiaomi</string>
   <string name="device_open_fail">Falha ao abrir dispositivo!</string>
@@ -104,12 +122,18 @@
   <string name="english">Inglês</string>
   <string name="error_pass">Por favor, corriga o teste!</string>
   <string name="fail">Falhou</string>
+  <string name="fast_test">Teste rápido</string>
+  <string name="fastmmi">FMT(Teste rápido)</string>
   <string name="fingerprint_compare">Por favor, registe novamente a impressão digital para comparar</string>
   <string name="fingerprint_enrol_success">Registado com sucesso!</string>
   <string name="fingerprint_enroll">Impressão digital</string>
   <string name="fingerprint_name">Impressão digital</string>
   <string name="fingerprint_remain_count">Contagem restante:</string>
   <string name="fingerprint_tips">Por favor, coloque o dedo no sensor</string>
+  <string name="flag_info_test">´Histórico dos resultados</string>
+  <string name="flag_info_tips">"0:erro(s)
+1:Passou
+N:sem teste"</string>
   <string name="flag_type">manter</string>
   <string name="flag_write_fail">Marcar falha na esrita</string>
   <string name="flash_cali_name">Calibração flash duplo tom</string>
