@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="Hardware_version">Versão de hardware:</string>
-  <string name="IR_NotFund">Infravermelhos não encontrado</string>
-  <string name="IR_tested">Infravermelhos testado</string>
-  <string name="IR_testing">A testar infravermelhos</string>
-  <string name="ITO_name">ITO</string>
-  <string name="ITO_text">A testar. Por favor, não toque no ecrã...</string>
   <string name="Internal_fm_name">Rádio FM</string>
-  <string name="LED_OFF">led_desligado</string>
-  <string name="Product_version">Versão do produto:</string>
-  <string name="QrCode_name">Leitor código de barras</string>
   <string name="Wflash_led_light">Flash tom branco:</string>
   <string name="Yflash_led_light">Flash tom amarelo:</string>
   <string name="action_settings">Definições</string>
@@ -238,9 +229,9 @@ N:sem teste"</string>
   <string name="hw_test">Testes de hardware</string>
   <string name="insert_headset">Please insert headset</string>
   <string name="insert_headset_second">Please insert headset in %s second</string>
-  <string name="IR_NotFund">IRBlaster is not fund</string>
-  <string name="IR_tested">IRBlaster tested</string>
-  <string name="IR_testing">IRBlaster testing</string>
+  <string name="IR_NotFund">Infravermelhos não encontrado</string>
+  <string name="IR_tested">Infravermelhos testado</string>
+  <string name="IR_testing">A testar infravermelhos</string>
   <string name="irblaster_fail">IRBlaster test fail</string>
   <string name="irblaster_info">IRBlaster</string>
   <string name="irblaster_success">IRBlaster test success</string>
@@ -248,7 +239,7 @@ N:sem teste"</string>
   <string name="item_name">Item Test</string>
   <string name="item_test">Item Test</string>
   <string name="ITO_name">ITO</string>
-  <string name="ITO_text">Testing, please do not touch screen…</string>
+  <string name="ITO_text">A testar. Por favor, não toque no ecrã…</string>
   <string name="kb_test">KB Test</string>
   <string name="keyLight_confirm">keyboard light is correct (YES OR NO)</string>
   <string name="keylight_led_lightsensor_name">Virtual KeyLight</string>
@@ -285,7 +276,7 @@ N:sem teste"</string>
   <string name="led_green_name">TriColor Led (green)</string>
   <string name="led_name">LED</string>
   <string name="led_notBright">Not bright</string>
-  <string name="LED_OFF">led_off</string>
+  <string name="LED_OFF">LED desligado</string>
   <string name="led_one_text">LED test sequence: white</string>
   <string name="led_red">red</string>
   <string name="led_red_name">TriColor Led (red)</string>
