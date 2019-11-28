@@ -873,7 +873,7 @@ Tente novamente dentro de %3$d segundos"</string>
   <string name="kg_failed_attempts_now_wiping">Tentou desbloquear incorrectamente o telefone %d vezes. Este telefone vai ser reposto e vai eliminar todos os dados do mesmo</string>
   <string name="kg_forgot_pattern_button_text">Esqueceu-se do padrão</string>
   <string name="kg_invalid_confirm_pin_hint">Os códigos PIN não coincidem</string>
-  <string name="kg_invalid_puk">Introduza o código PUK correto novamente. Demasiadas tentativas consecutivas vão desactivar permanentemente o cartão SIM</string>
+  <string name="kg_invalid_puk">Introduza o código PUK correcto novamente. Demasiadas tentativas consecutivas vão desactivar permanentemente o cartão SIM</string>
   <string name="kg_invalid_sim_pin_hint">Introduza um PIN com 4 a 8 números</string>
   <string name="kg_invalid_sim_puk_hint">O código PUK deve ter 8 números</string>
   <string name="kg_login_too_many_attempts">Demasiadas tentativas para desenhar o padrão</string>
@@ -930,7 +930,7 @@ Tente novamente dentro de %2$d segundos"</string>
   <string name="lb_playback_controls_hidden">Controlos de multimédia ocultos, prima o teclado direccional para mostrar</string>
   <string name="lb_playback_controls_high_quality_disable">Desactivar alta qualidade</string>
   <string name="lb_playback_controls_high_quality_enable">Activar alta qualidade</string>
-  <string name="lb_playback_controls_more_actions">Mais ações</string>
+  <string name="lb_playback_controls_more_actions">Mais acções</string>
   <string name="lb_playback_controls_pause">Pausar</string>
   <string name="lb_playback_controls_picture_in_picture">Entrar no modo de ecrã no ecrã</string>
   <string name="lb_playback_controls_play">Reproduzir</string>

@@ -2508,7 +2508,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="tc_sms_report_receive_num">Número do destinatário</string>
   <string name="tc_sms_report_send_num">Número de telefone da operadora #</string>
   <string name="tc_sms_report_summary">Ajude-nos a melhorar esta função através do envio de um relatório quando a sua informação de utilização de dados estiver incorrecta ou não actualizar</string>
-  <string name="tc_sms_report_tips_dialog_message">A utilização de dados usa uma SMS especialmente formatada para obter a sua mais recente utilização de dados da sua operadora. Se esta funcionalidade não está a funcionar normalmente, tente actualizar o formato SMS utilização de dados. O novo formato actualizado vai ser enviado para os nossos servidores</string>
+  <string name="tc_sms_report_tips_dialog_message">A utilização de dados usa uma SMS especialmente formatada para obter a sua mais recente utilização de dados da sua operadora. Se esta funcionalidade não estiver a funcionar normalmente, tente actualizar o formato SMS utilização de dados. O novo formato actualizado vai ser enviado para os nossos servidores</string>
   <string name="tc_sms_report_tips_dialog_title">Utilização de dados de SMS</string>
   <string name="tc_sms_report_title">Reportar erro da utilização de dados</string>
   <string name="tc_sms_report_toast_text">A obter informação…</string>
