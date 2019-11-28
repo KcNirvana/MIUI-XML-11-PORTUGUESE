@@ -2096,8 +2096,8 @@ Pode ver o registo gerado no Explorador"</string>
   <string name="edit_rule">Editar regras</string>
   <string name="edit_rules">Editar</string>
   <string name="eighthours">8 horas</string>
-  <string name="emergency_address_summary">Endereço utilizado pelos serviços de emergência como a sua localização se efetuar uma chamada de emergência através de Wi-Fi</string>
-  <string name="emergency_address_title">Atualizar o endereço de emergência</string>
+  <string name="emergency_address_summary">Endereço utilizado pelos serviços de emergência como a sua localização se efectuar uma chamada de emergência através de Wi-Fi</string>
+  <string name="emergency_address_title">Actualizar o endereço de emergência</string>
   <string name="emergency_info_contextual_card_summary">Informações médicas, contactos de emergência</string>
   <string name="emergency_info_summary">Informações e contactos de %1$s</string>
   <string name="emergency_info_title">Informações de emergência</string>
