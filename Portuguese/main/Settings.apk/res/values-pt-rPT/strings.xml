@@ -234,6 +234,7 @@ Para alternar entre serviços, deslize com dois dedos para cima sem soltar"</str
   <string name="add_fingerprint_finished_button_text">Concluído</string>
   <string name="add_fingerprint_instruction_msg">Utilize a sua impressão digital para desbloquear o seu dispositivo e concluir pagamentos</string>
   <string name="add_fingerprint_instruction_title">Adicionar a sua impressão digital</string>
+  <string name="add_fingerprint_move_fast">Mantenha o seu dedo no ecrã mais um bocado</string>
   <string name="add_fingerprint_name_suggest_text">Nome da impressão digital</string>
   <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo lentamente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
   <string name="add_fingerprint_put_finger_msg">Coloque o seu dedo no sensor e retire após sentir uma vibração</string>
