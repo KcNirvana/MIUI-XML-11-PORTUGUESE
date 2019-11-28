@@ -30,7 +30,7 @@ para adicionar cartões"</string>
   <string name="bg_control_dialog_title">Restrições de segundo plano</string>
   <string name="bmi_label">IMC</string>
   <string name="body_weight">Peso</string>
-  <string name="body_weight_descripe_content">O indíce de massa corporal (IMC) é a massa corporal dividida pelo quadrado da altura do corpo (kg/m²)</string>
+  <string name="body_weight_descripe_content">O índice de massa corporal (IMC) é a massa corporal dividida pelo quadrado da altura do corpo (kg/m²)</string>
   <string name="body_weight_extremely_obesity">Obesidade mórbida</string>
   <string name="body_weight_fkg">%1$.1f kg</string>
   <string name="body_weight_kg">%1$d kg</string>
@@ -91,7 +91,7 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="dialog_delete_record_confirm">Eliminar este registo?</string>
   <string name="dialog_exercise_purpose">Bem-vindo a Saúde! O \"Contador de passos\" permite ver quantos passos faz durante o dia, assim como definir e gerir os seus objectivos de actividades</string>
   <string name="dialog_exit">Sair</string>
-  <string name="dialog_feedback_content">Se não concordar em dar essas permissão, não vai poder utilizar algumas funcionalidades da aplicação. Pode restringir ou revogar autorizações em Definições</string>
+  <string name="dialog_feedback_content">Se não concordar em dar esta permissão, não vai poder utilizar algumas funcionalidades da aplicação. Pode restringir ou revogar autorizações em Definições</string>
   <string name="dialog_feedback_purpose">Saúde necessita de aceder ao armazenamento para submeter comentários</string>
   <string name="dialog_feedback_purpose2">Para submeter comentários</string>
   <string name="dialog_feedback_title">Comentários</string>
@@ -99,7 +99,7 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="dialog_juveniles_details">De acordo com nossa Política de Privacidade, a idade miníma para utilizar este produto é de 18 anos</string>
   <string name="dialog_juveniles_link">De acordo com nossa &lt;font color=\"#FE6D67\"&gt;&lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt;, a idade miníma para utilizar este produto é de 18 anos</string>
   <string name="dialog_known">Percebi</string>
-  <string name="dialog_menstruation_purpose">Bem-vindo a Saúde! A \"Menstruação\" permitie registar período, determinar datas estimadas dos próximos períodos e receber lembretes</string>
+  <string name="dialog_menstruation_purpose">Bem-vindo a Saúde! A \"Menstruação\" permite registar o período, determinar datas estimadas dos próximos períodos e receber lembretes</string>
   <string name="dialog_no_more_prompt">Não mostrar novamente</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_open">Permitir</string>
@@ -149,7 +149,7 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="health_app_name">Saúde</string>
   <string name="health_app_name_dev">Saúde Desenvolvimento</string>
   <string name="health_score">Resultado de saúde</string>
-  <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (indíce de massa corporal), assim como o seu sono e actividade física. Quanto mais perto estiver dos seus objectivos, maior vai ser a sua pontuação de saúde</string>
+  <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (índice de massa corporal), assim como o seu sono e actividade física. Quanto mais perto estiver dos seus objectivos, maior vai ser a sua pontuação de saúde</string>
   <string name="history_statistics">Estatísticas</string>
   <string name="home_page_card_setting">Cartões da página inicial</string>
   <string name="icon_content_description">Ícone de diálogo</string>
