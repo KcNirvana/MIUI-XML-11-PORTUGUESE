@@ -501,7 +501,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e na área de notificações</string>
   <string name="pref_summary_off_system_mms_priority">Utilizar aplicações de terceiros para enviar e receber MMS</string>
   <string name="pref_summary_on_system_mms_priority">Utilizar a aplicação Mensagens MIUI como predefinida para enviar e receber MMS</string>
-  <string name="pref_summary_privacy_authority">Clique nesta opção para autorizar ou revogar a sua autorização</string>
+  <string name="pref_summary_privacy_authority">Toque nesta opção para autorizar ou revogar a sua autorização</string>
   <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega ao remetente quando recebe uma mensagem multimédia</string>
   <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
   <string name="pref_switch_sdk_setting">Trocar fornecedor de SMS inteligentes</string>

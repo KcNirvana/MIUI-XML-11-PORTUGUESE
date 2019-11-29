@@ -110,7 +110,7 @@ Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão 
     <string name="san_wait_msg_3">Dispositivos externos são mais simples de localizar quando estão ligados à mesma rede que o telefone</string>
     <string name="san_wait_msg_4">Ver \"Ajuda\" se não conseguir localizar dispositivos</string>
     <string name="status_bar_in_casting">A transmitir</string>
-    <string name="status_bar_in_casting_long">Clique para mais funcionalidades</string>
+    <string name="status_bar_in_casting_long">Toque para mais funcionalidades</string>
     <string name="toast_msg_for_multi_window">Não é possível transmitir no modo ecrã dividido</string>
     <string name="toast_msg">Utilize a janela para transmitir o ecrã na aplicação</string>
     <string name="casting_tips">A transmitir…</string>

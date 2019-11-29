@@ -226,7 +226,7 @@
   <string name="auto_login_fail_to_retry">Não foi possível iniciar sessão automaticamente. Tente novamente</string>
   <string name="auto_mail_enable_txt">Iniciar definições</string>
   <string name="auto_mail_name">Email automático</string>
-  <string name="auto_mail_title_note">Clique na opção \"Configuração automática de email\" para iniciar</string>
+  <string name="auto_mail_title_note">Toque na opção \"Configuração automática de email\" para iniciar</string>
   <string name="auto_mail_window_description">Serviço de configuração automática de email</string>
   <string name="auto_mail_window_label">Configuração automática de email</string>
   <string name="auto_remind_bind">Adicionar</string>
