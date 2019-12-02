@@ -25,8 +25,8 @@
         <item quantity="one">" passo"</item>
     </plurals>
     <plurals name="goal_unit_with_number">
-        <item quantity="other">%1$d steps</item>
-        <item quantity="one">%1$d step</item>
+        <item quantity="other">%1$d passos</item>
+        <item quantity="one">%1$d passo</item>
     </plurals>
     <plurals name="hours">
         <item quantity="other">%1$d horas</item>
@@ -70,15 +70,15 @@
     </plurals>
     <plurals name="sleep_management_exp_hours">
         <item quantity="other">As definições não garantem %1$d horas de sono diárias. Precisa de mais</item>
-        <item quantity="one">As definições não garante %1$d hora de sono diárias. Precisa de mais</item>
+        <item quantity="one">As definições não garantem %1$d hora de sono diária. Precisa de mais</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d passos</item>
         <item quantity="one">%1$d passo</item>
     </plurals>
     <plurals name="subtitle_add_record">
-        <item quantity="other">Não gravou por %1$d dias. Grave os seus períodos para ter previsões mais apuradas</item>
-        <item quantity="one">Não gravou por %1$d dia. Grave os seus períodos para ter previsões mais apuradas</item>
+        <item quantity="other">Não gravou por %1$d dias. Grave os seus períodos para ter previsões mais precisas</item>
+        <item quantity="one">Não gravou por %1$d dia. Grave os seus períodos para ter previsões mais precisas</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
         <item quantity="other">Este período dura por um total de %1$d dias</item>
@@ -105,8 +105,8 @@
         <item quantity="one">%1$d dia até ao próximo período</item>
     </plurals>
     <plurals name="title_menstruation_predict_period">
-        <item quantity="other">Dias estimado %1$d do período</item>
-        <item quantity="one">Dias estimado %1$d do período</item>
+        <item quantity="other">Dias estimados %1$d do período</item>
+        <item quantity="one">Dias estimados %1$d do período</item>
     </plurals>
     <plurals name="title_today_exercise_steps">
         <item quantity="other">%1$d passos hoje</item>
