@@ -582,7 +582,7 @@ Não desligue o Wi-Fi.
 Mantenha ambos os dispositivos perto um do outro"</string>
   <string name="trans_sending_completed">Enviado com sucesso</string>
   <string name="trans_show_qr_code_label">Ligar dispositivo antigo</string>
-  <string name="trans_show_qr_code_tips">Digitalizar código QR utilizando dispositivo antigo</string>
+  <string name="trans_show_qr_code_tips">Digitalizar código QR utilizando o dispositivo antigo</string>
   <string name="trans_start_failed_message">Não foi possível iniciar a transferência. Tente novamente ou reinicie o dispositivo</string>
   <string name="trans_start_failed_title">Não foi possível iniciar a transferência</string>
   <string name="trans_success_dialog_button_market_comment">Comentar</string>
