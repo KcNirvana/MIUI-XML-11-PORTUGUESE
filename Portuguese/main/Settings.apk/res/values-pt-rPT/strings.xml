@@ -234,9 +234,9 @@ Para alternar entre serviços, deslize com dois dedos para cima sem soltar"</str
   <string name="add_fingerprint_finished_button_text">Concluído</string>
   <string name="add_fingerprint_instruction_msg">Utilize a sua impressão digital para desbloquear o seu dispositivo e concluir pagamentos</string>
   <string name="add_fingerprint_instruction_title">Adicionar a sua impressão digital</string>
-  <string name="add_fingerprint_move_fast">Mantenha o seu dedo no ecrã mais um bocado</string>
+  <string name="add_fingerprint_move_fast">Mantenha o seu dedo no ecrã por mais alguns segundos</string>
   <string name="add_fingerprint_name_suggest_text">Nome da impressão digital</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo lentamente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo lentamente e coloque-o no sensor novamente para adicionar as diferentes partes da sua impressão digital</string>
   <string name="add_fingerprint_put_finger_msg">Coloque o seu dedo no sensor e retire após sentir uma vibração</string>
   <string name="add_fingerprint_put_finger_title">Adicionar impressão digital</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mova o seu dedo lentamente</string>
@@ -1232,7 +1232,7 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="calls_preference">Preferências das chamadas</string>
   <string name="calls_title">Permitir chamadas</string>
   <string name="camera_double_tap_power_gesture_desc">Abra a câmara rapidamente sem desbloquear o ecrã</string>
-  <string name="camera_double_tap_power_gesture_title">Duplo clique no botão Ligar/Desligar para a câmara</string>
+  <string name="camera_double_tap_power_gesture_title">Duplo toque no botão Ligar/Desligar para a câmara</string>
   <string name="camera_front">%s frontal</string>
   <string name="camera_gesture_desc">Abra a câmara rodando o seu pulso duas vezes</string>
   <string name="camera_gesture_title">Roda dupla para a câmara</string>
@@ -2043,7 +2043,7 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="domain_urls_title">Links das aplicações</string>
   <string name="done">Concluído</string>
   <string name="done_button">Concluído</string>
-  <string name="double_click_power_key">Duplo clique botão no Ligar/Desligar</string>
+  <string name="double_click_power_key">Duplo toque botão no Ligar/Desligar</string>
   <string name="double_tap_power_for_camera_summary">Para abrir rapidamente a câmara, prima duas vezes o botão Ligar/Desligar. Funciona a partir de qualquer ecrã</string>
   <string name="double_tap_power_for_camera_title">Aceder à câmara</string>
   <string name="double_twist_for_camera_mode_title">Virar a câmara</string>

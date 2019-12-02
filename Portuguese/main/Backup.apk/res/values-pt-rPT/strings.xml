@@ -81,8 +81,8 @@ Após criar uma nova pergunta de segurança e confirmar a sua data de nascimento
   <string name="close_twice_auth_operation">"Acesso via computador:
 https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="close_twice_auth_step_1">1. Inicie sessão na página da conta ID Apple</string>
-  <string name="close_twice_auth_step_2">2. Na secção "Segurança", clique em "Editar"</string>
-  <string name="close_twice_auth_step_3">3. Clique em "Desactivar autenticação em 2 passos". Clique outra vez para confirmar</string>
+  <string name="close_twice_auth_step_2">2. Na secção "Segurança", toque em "Editar"</string>
+  <string name="close_twice_auth_step_3">3. Toque em "Desactivar autenticação em 2 passos". Toque outra vez para confirmar</string>
   <string name="close_twice_auth_steps">Para desactivar a autenticação em 2 passos:</string>
   <string name="close_twice_auth_tutor">Desactivar autenticação em 2 passos do ID Apple</string>
   <string name="cloud_app_name">Cópias da Xiaomi Cloud</string>

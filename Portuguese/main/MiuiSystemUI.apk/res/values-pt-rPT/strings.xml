@@ -531,7 +531,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="dock_forced_resizable">Esta aplicação pode não funcionar com o ecrã dividido</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">O ecrã dividido não é suportado no ecrã de bloqueio</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Esta aplicação não suporta o ecrã dividido</string>
-  <string name="download_lock_wallpaper">Duplo clique para transferir papéis de parede aleatórios</string>
+  <string name="download_lock_wallpaper">Duplo toque para transferir papéis de parede aleatórios</string>
   <string name="drag_to_add_tiles">Arraste para adicionar atalhos</string>
   <string name="drag_to_remove_tiles">Arraste para aqui para remover</string>
   <string name="drive_mode_tip">Está no Modo Condução</string>

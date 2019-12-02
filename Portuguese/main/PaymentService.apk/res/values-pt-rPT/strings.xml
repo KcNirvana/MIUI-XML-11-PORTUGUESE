@@ -38,7 +38,7 @@
   <string name="mibi_button_retry">Repetir</string>
   <string name="mibi_cancel">Cancelar</string>
   <string name="mibi_change_security_lock">Mais ecrãs de bloqueio</string>
-  <string name="mibi_click_retry">%1$s. Clique para repetir</string>
+  <string name="mibi_click_retry">%1$s. Toque para repetir</string>
   <string name="mibi_deduct_goods_name">Produtos</string>
   <string name="mibi_deduct_open_prompt">%1$s vai poder carregá-lo automaticamente utilizando %2$s sem verificação. Pode desligar esta funcionalidade em %1$s</string>
   <string name="mibi_deduct_order_price">Preço</string>
