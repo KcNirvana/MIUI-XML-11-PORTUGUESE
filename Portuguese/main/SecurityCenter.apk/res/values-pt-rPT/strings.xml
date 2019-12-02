@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Perm_CallLog_Desc">escrever e eliminar o registo de chamadas</string>
+  <string name="HIPS_Perm_Call_Desc">marcar números de telefone directamente</string>
+  <string name="HIPS_Perm_Contact_Desc">modificar e eliminar os seus contactos</string>
+  <string name="HIPS_Perm_PhoneID_Desc">aceder ao número de telefone, IMEI e IMSI</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">aceder ao número de telefone e estado do dispositivo</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">ler o registo de chamadas</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">ler os seus contactos</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">ler as suas mensagens SMS</string>
+  <string name="HIPS_Perm_SendSMS_Desc">enviar mensagens SMS directamente</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">adicionar mensagens de voz de sistema</string>
+  <string name="HIPS_Perm_get_accounts_Desc">aceder a todas as contas no dispositivo</string>
+  <string name="HIPS_Perm_use_sip_Desc">utilizar SIP para transmitir vídeo</string>
   <string name="Phonepass">Permitir chamadas</string>
   <string name="SMS_and_MMS">SMS e MMS</string>
   <string name="SMSpass">Permitir mensagens</string>
@@ -1710,6 +1722,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
   <string name="perfermance_optimization_summary">Evite o sobreaquecimento e problemas de hardware</string>
   <string name="perfermance_optimization_title">Optimização de desempenho</string>
+  <string name="permdesc_in_calls">Monitorizar chamadas recebidas</string>
+  <string name="permdesc_out_calls">Monitorizar chamadas efectuadas</string>
   <string name="permission_action_accept">Aceitar</string>
   <string name="permission_action_always">Permitir sempre</string>
   <string name="permission_action_foreground">Enquanto estiver em utilização</string>
@@ -2428,6 +2442,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="system_permission_declare_use_network_no_permission">Ligue-se à rede</string>
   <string name="system_permission_declare_user_agreement">Leia e concorde com os nossos &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; antes de utilizar esta funcionalidade</string>
   <string name="system_permission_perm_answer_call">Fazer chamadas</string>
+  <string name="system_permission_perm_optional">" (opcional)"</string>
   <string name="system_permission_perm_read_mms">Ler MMS</string>
   <string name="system_permission_perm_read_numbers">Ler números de telefone</string>
   <string name="system_permission_perm_send_mms">Enviar MMS</string>

@@ -71,7 +71,7 @@ para adicionar cartões"</string>
   <string name="date_format_y_m_d_h_m_2">dd/MM/yyyy | HH:mm</string>
   <string name="date_format_y_m_d_h_m_s">dd/MM/yyyy | HH:mm:ss</string>
   <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
-  <string name="date_week_index">"yyyy 'WWWW' ww"</string>
+  <string name="date_week_index">"yyyy 'Semana' ww"</string>
   <string name="day">Dia</string>
   <string name="deep_sleep">Sono profundo</string>
   <string name="delete_menstruation_record_confirm">Eliminar este registo?</string>
@@ -124,7 +124,7 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="exercise_goal_not_accomplished">Não atingiu o objectivo</string>
   <string name="exercise_info_tool_bar_title">Actividade</string>
   <string name="exercise_reminder_accomplished">Atingiu o seu objectivo!</string>
-  <string name="exercise_reminder_title">Lembrete de actividade</string>
+  <string name="exercise_reminder_title">Alerta de actividade</string>
   <string name="exercise_reminder_unaccomplished">Ainda não alcançou o seu objectivo</string>
   <string name="exercise_setting_label_reach_standard_remind">Alerta de actividade</string>
   <string name="exercise_setting_page_title">Definições de actividade</string>

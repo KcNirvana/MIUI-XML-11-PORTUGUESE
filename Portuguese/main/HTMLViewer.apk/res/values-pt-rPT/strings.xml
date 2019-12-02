@@ -6,6 +6,7 @@
   <string name="app_version_which_call">Versão da aplicação:%s</string>
   <string name="autoconnect">Ligar automaticamente</string>
   <string name="ime_privacy_policy">Escolher teclado</string>
+  <string name="legal_written_offer">Oferta escrita</string>
   <string name="license_host_unreachable">"Não foi possível ligar à rede. Para ver esta informação agora, 
 vá a %s noutro dispositivo ligado"</string>
   <string name="loading">Aguarde…</string>

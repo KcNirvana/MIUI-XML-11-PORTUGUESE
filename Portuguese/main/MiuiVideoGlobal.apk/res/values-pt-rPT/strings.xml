@@ -55,6 +55,7 @@
   <string name="com_mixpanel_android_notification_image">Image not displayed</string>
   <string name="com_permission_desc">O Vídeos não consegue aceder a vídeos no seu dispositivo. Permita o acesso nas Definições</string>
   <string name="com_permission_title">Permissões necessárias</string>
+  <string name="common_cancel">Cancelar</string>
   <string name="data_empty">Sem itens</string>
   <string name="dialog_privacy_info_new2">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a></string>
   <string name="dialog_privacy_title">Autorizações</string>
@@ -120,6 +121,7 @@
   <string name="lv_media_type_unsported">Não é possível reproduzir este formato</string>
   <string name="lv_menu_delete">Eliminar</string>
   <string name="lv_menu_hide">Ocultar</string>
+  <string name="lv_menu_selectAll">Seleccionar tudo</string>
   <string name="lv_menu_send">Enviar</string>
   <string name="lv_menu_unhide">Mostrar</string>
   <string name="lv_mplayer_error_io">"Couldn't read media file"</string>

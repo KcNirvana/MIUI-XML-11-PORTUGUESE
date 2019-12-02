@@ -1371,6 +1371,13 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="color_cyan">Ciano</string>
   <string name="color_gray">Cinzento</string>
   <string name="color_green">Verde</string>
+  <string name="color_lamp_applications_title">Gerir notificações</string>
+  <string name="color_lamp_applications_title_summary">Permitir ou restringir a utilização do LED em \"Categorias das notificações\"</string>
+  <string name="color_lamp_battery_title">Manter ao carregar</string>
+  <string name="color_lamp_charging_summary">O LED vai ser desligado quando o dispositivo estiver totalmente carregado</string>
+  <string name="color_lamp_incall_pulse_title">Acender flash quando tocar</string>
+  <string name="color_lamp_notification_pulse_title">Acender luz de flash ao receber chamadas</string>
+  <string name="color_lamp_title">LED</string>
   <string name="color_led_applications_title">Seleccionar aplicações</string>
   <string name="color_led_applications_title_summary">Pode restringir a utilização do LED para aplicações individuais</string>
   <string name="color_led_battery_title">Manter ligada ao carregar</string>
@@ -2065,6 +2072,8 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="dual_wifi">Aceleração Wi-Fi dupla</string>
   <string name="dual_wifi_acceleration">Aceleração Wi-Fi secundária</string>
+  <string name="dual_wifi_auto_disable">Parar a aceleração automaticamente</string>
+  <string name="dual_wifi_auto_disable_summary">Desligar da rede Wi-Fi auxiliar quando o ecrã estiver desligado</string>
   <string name="dual_wifi_avaliable_slave_wifi">Aceleração Wi-Fi secundária disponível</string>
   <string name="dual_wifi_avaliable_slave_wifi_24G">Aceleração Wi-Fi secundária disponível(2.4G)</string>
   <string name="dual_wifi_avaliable_slave_wifi_5G">Aceleração Wi-Fi secundária disponível(5G)</string>
@@ -2905,6 +2914,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="legal_workday_invalidate">Segunda a Sexta (info. de feriados expirada) </string>
   <string name="legal_workday_invalidate_message">Toque para actualizar informações de feriados</string>
   <string name="legal_workday_message">(Ignorar feriados)</string>
+  <string name="legal_written_offer">Oferta escrita</string>
   <string name="license_title">Licença</string>
   <string name="lift_to_wake_title">Activar ao levantar</string>
   <string name="lights_title">LED de notificações</string>
@@ -4160,6 +4170,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="popup_gesture_title">Levantar para abrir a câmara frontal</string>
   <string name="popup_led_summary">Mostrar animação quando a câmara frontal aparece e retrai</string>
   <string name="popup_led_title">Efeitos visuais</string>
+  <string name="popup_led_try_later">Aguarde um momento e tente novamente</string>
   <string name="popup_title">Efeitos da câmara frontal</string>
   <string name="popup_title_cangmen">Porta da cabine</string>
   <string name="popup_title_chilun">Gearwheel</string>
