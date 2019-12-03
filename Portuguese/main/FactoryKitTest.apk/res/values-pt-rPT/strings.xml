@@ -258,7 +258,6 @@ N:sem teste"</string>
   <string name="keyLight_text">Please Press MENU KEY</string>
   <string name="keylight_led_lightsensor_name">Virtual KeyLight</string>
   <string name="keylight_led_name">keyLight</string>
-  <string name="keyLight_name">Panel Key Light</string>
   <string name="keylight_prompt">Please notice if the brightness of the three keyboard lights at the bottom of screen are changed alternately</string>
   <string name="keylight_tested">Teste concluído</string>
   <string name="keylight_text">A testar…</string>
