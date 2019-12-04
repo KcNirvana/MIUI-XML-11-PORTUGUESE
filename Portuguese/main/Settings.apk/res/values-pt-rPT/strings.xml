@@ -1809,6 +1809,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="default_vol_stream_title">Controlo de volume predefinido</string>
   <string name="delete">Eliminar</string>
   <string name="delete_fingerprint_confirm_msg">Remover impressão digital?</string>
+  <string name="delete_fingerprint_confirm_title">Atenção</string>
   <string name="delete_fingerprint_text">Remover impressão digital</string>
   <string name="delete_legacy_fingerprint">Eliminar</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminar esta impressão digital?</string>
@@ -3160,6 +3161,7 @@ para o Segundo espaço"</string>
   <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
   <string name="lockscreen_magazine">Papéis de parede aleatórios</string>
+  <string name="lockscreen_magazine_india">Olhar para Mi</string>
   <string name="lockscreen_magazine_summary">Papéis de parede aleatórios de alta qualidade</string>
   <string name="lockscreen_magazine_title">Papéis de parede aleatórios</string>
   <string name="lockscreen_remote_input">Se o dispositivo estiver bloqueado, impedir a introdução de respostas ou de outro texto nas notificações</string>

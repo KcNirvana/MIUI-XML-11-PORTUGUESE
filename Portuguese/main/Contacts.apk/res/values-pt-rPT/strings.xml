@@ -185,6 +185,7 @@
   <string name="cloud_state_loading">Aguarde…</string>
   <string name="cloud_state_sync_finished">Sincronizado com a Xiaomi Cloud</string>
   <string name="cloud_state_syncing">A sincronizar com a Xiaomi Cloud</string>
+  <string name="cloud_upgrade_recommend">Não é possível sincronizar contactos devido a falta de espaço na Xiaomi Cloud. Actualize o seu plano</string>
   <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
   %2$s"</string>

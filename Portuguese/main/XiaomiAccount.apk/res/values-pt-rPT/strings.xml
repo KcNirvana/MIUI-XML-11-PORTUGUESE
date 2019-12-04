@@ -201,6 +201,7 @@ Envie este código ao supervisor"</string>
   <string name="passport_bad_authentication">Utilizador ou palavra-passe inválido</string>
   <string name="passport_barcode_add_account_prompt">Para associar uma conta digitalize novamente o código QR depois de iniciar sessão</string>
   <string name="passport_btn_change_account">Alterar conta</string>
+  <string name="passport_can_not_receive_verification_code">Não consegue receber o código de verificação?</string>
   <string name="passport_change_account"><u>Alterar conta</u></string>
   <string name="passport_change_phone_number">Trocar números</string>
   <string name="passport_checking_account">A verificar palavra-passe…</string>

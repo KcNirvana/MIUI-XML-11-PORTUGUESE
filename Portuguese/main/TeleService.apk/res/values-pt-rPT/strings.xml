@@ -13,6 +13,7 @@
   <string name="additional_gsm_call_settings_with_label">Definições adicionais (%s)</string>
   <string name="administrative_disable">Administrador desactivado</string>
   <string name="administrative_enable">Administrador activado</string>
+  <string name="advanced_mobile_settings">Definições avançadas</string>
   <string name="advanced_settings">Definições opcionais</string>
   <string name="advanced_settings_hide">▽ Toque para ocultar tudo</string>
   <string name="advanced_settings_show">▷ Toque para mostrar tudo</string>
@@ -711,7 +712,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="lafs_disable">Horários de voo local do aeroporto estão desligados</string>
   <string name="lafs_enable">Horários de voo local do aeroporto estão ligados</string>
   <string name="last_sim_callback_summary">Ao efectuar chamadas do registo de chamadas, utilizar o cartão SIM que efectuou a chamada com este contacto</string>
-  <string name="last_sim_callback_title">Memorizar preferências de cartão SIM</string>
+  <string name="last_sim_callback_title">Memorizar preferências do SIM</string>
   <string name="launch_defaults_none">Sem predefinições</string>
   <string name="launch_defaults_some">Com algumas predefinições</string>
   <string name="list_language_dtitle">Idiomas</string>
@@ -727,6 +728,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="location">Área</string>
   <string name="lodgings_disable">Alojamentos estão desligados</string>
   <string name="lodgings_enable">Alojamentos estão ligados</string>
+  <string name="main_netcheck_summary">Testar ligação de rede</string>
   <string name="maintenance_disable">Manutenção está desligada</string>
   <string name="maintenance_enable">Manutenção está ligada</string>
   <string name="make_and_receive_calls">Efectuar e receber chamadas</string>
@@ -766,6 +768,9 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="miui_notification_network_selection_title_by_sim">SIM %s: Sem serviço</string>
   <string name="mmiCancelled">Código MMI cancelado</string>
   <string name="mmiStarted">Código MMI iniciado</string>
+  <string name="mobile_advanced_dns_server_title">Servidor DNS</string>
+  <string name="mobile_advanced_ip_address_title">Endereço IP</string>
+  <string name="mobile_connection_management">Gerir a ligação de rede móvel</string>
   <string name="mobile_data">Dados móveis</string>
   <string name="mobile_data_activate_button">Adicionar dados</string>
   <string name="mobile_data_activate_cancel_button">Cancelar</string>
@@ -788,6 +793,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Actualmente em roaming. Necessário plano de dados</string>
   <string name="mobile_network_settings_not_available">As definições de rede móvel não estão disponíveis para este utilizador</string>
   <string name="mobile_networks">Definições de redes móveis</string>
+  <string name="mobile_property">Propriedades de redes móveis</string>
   <string name="modem_dialog_body">A rede móvel está instável e a causar interrupções ou problemas de rede. Enviar o relatório do erro para a Mi para análise?</string>
   <string name="modem_dialog_title">Rede móvel instável</string>
   <string name="msim_apn_not_set">Não definido</string>
@@ -821,12 +827,13 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="msim_sim_radio_off">Desligado</string>
   <string name="msim_switch_data_conn_toast">Cartões SIM trocados. O tipo de rede foi alterado. Veja informações adicionais dos cartões SIM e redes móveis nas Definições</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">O cartão SIM 2 apenas suporta redes GSM. O tipo de rede preferida para este cartão foi alterado para 2G</string>
-  <string name="multi_category_disable">Multi-categoria está desligado</string>
-  <string name="multi_category_enable">Multi-categoria está ligado</string>
+  <string name="multi_category_disable">Multi-categoria desligado</string>
+  <string name="multi_category_enable">Multi-categoria ligado</string>
   <string name="name">Nome</string>
   <string name="name_hint_text">Nome</string>
-  <string name="national_disable">Notícias nacionais está desligado</string>
-  <string name="national_enable">Notícias nacionais está ligado</string>
+  <string name="national_disable">Notícias nacionais desligado</string>
+  <string name="national_enable">Notícias nacionais ligado</string>
+  <string name="netcheck_title">Diagnóstico da rede móvel</string>
   <string name="network_4G">4G (recomendado)</string>
   <string name="network_error_message">Mensagem de erro</string>
   <string name="network_global">Global</string>
@@ -1290,6 +1297,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="sports_news_settings">Notícias de desporto</string>
   <string name="status_hint_label_incoming_wifi_call">Chamada Wi-Fi recebida</string>
   <string name="status_hint_label_wifi_call">Chamada Wi-Fi</string>
+  <string name="status_unavailable">Não disponível</string>
   <string name="stk_cc_ss_to_dial_error">Pedido SS modificado para pedido de marcação</string>
   <string name="stk_cc_ss_to_ss_error">Pedido SS modificado para um novo pedido SS</string>
   <string name="stk_cc_ss_to_ussd_error">Pedido SS modificado para pedido USSD</string>

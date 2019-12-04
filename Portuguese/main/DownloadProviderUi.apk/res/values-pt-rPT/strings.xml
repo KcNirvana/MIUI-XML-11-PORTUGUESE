@@ -118,7 +118,7 @@
   <string name="download_speed">Velocidade de transferência:</string>
   <string name="download_spend_time">Tempo</string>
   <string name="download_status_continue">Retomar</string>
-  <string name="download_status_fail">Tentar novamente</string>
+  <string name="download_status_fail">Repetir</string>
   <string name="download_status_paused">Pausar</string>
   <string name="download_success">Concluído</string>
   <string name="download_title">Transferências</string>

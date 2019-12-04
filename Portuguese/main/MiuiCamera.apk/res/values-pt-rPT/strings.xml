@@ -172,6 +172,9 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="dialog_ok_time">OK (%ds)</string>
   <string name="dirty_tip_toast">A lente está suja. Limpe-a</string>
   <string name="do_not_remind_me">Não mostrar novamente</string>
+  <string name="document_blackwhite">Preto e branco</string>
+  <string name="document_origin">Original</string>
+  <string name="document_strengthen">Melhorada</string>
   <string name="dual_camera_lens_covered_toast">A lente está tapada</string>
   <string name="dual_camera_lowlight_toast">A iluminação é muito baixa</string>
   <string name="dual_camera_too_close_toast">A câmara está demasiado perto do objecto</string>
@@ -238,6 +241,11 @@ e criar uma espectacular"</string>
   <string name="hint_subtitle">Ditar legendas na gravação de vídeos</string>
   <string name="hint_subtitle_prompt">Pode ditar legendas agora</string>
   <string name="hunt_dual_water_mark">A data e hora vão ser adicionadas automaticamente</string>
+  <string name="id_card_mode_hint_back">Digitalize a parte de trás do seu CC</string>
+  <string name="id_card_mode_hint_front">Digitalize a parte da frente do seu CC</string>
+  <string name="id_card_mode_use_hint_text_body">"Combine ambos os lados do seu cartão de cidadão numa imagem.
+Imprima a cópia em papel A4"</string>
+  <string name="id_card_mode_use_hint_text_title">Digitalizar CC</string>
   <string name="install_confirmed">Instalar</string>
   <string name="lens_dirty_detected_content">"Parece que a lente da câmara está suja.
 Limpe a lente da câmara para um efeito melhor"</string>
@@ -611,6 +619,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_zsl_entry_off">Desligado</string>
   <string name="pref_camera_zsl_entry_on">Ligado</string>
   <string name="pref_capture_settings">Câmara</string>
+  <string name="pref_document_mode">Documentos</string>
   <string name="pref_dualcamera_watermark_title">"Marca d'água câmara dupla"</string>
   <string name="pref_face_beauty_title">Embelezar</string>
   <string name="pref_fingerprint_capture_title">Disparo por impressão digital</string>
