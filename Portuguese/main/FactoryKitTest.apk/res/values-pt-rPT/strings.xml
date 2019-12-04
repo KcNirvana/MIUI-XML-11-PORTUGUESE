@@ -155,7 +155,7 @@ N:sem teste"</string>
   <string name="fp_vendor_name">"Modelo do Sensor: "</string>
   <string name="fqc_test">FQC Teste</string>
   <string name="frontflash_confirm">Por favor, verifique se o flash de tom branco funciona correctamente!</string>
-  <string name="frontflash_tips">A luz do flash frontal será ligado. Por favor, observe!</string>
+  <string name="frontflash_tips">A luz do flash frontal será ligada. Por favor, observe!</string>
   <string name="frontflashlight_name">Flash frontal</string>
   <string name="fuelgauge_hint">O medidor de Calibração será cncluído em 30s. Por favor, aguarde…</string>
   <string name="fuelgauge_name">Medidor de Calibração</string>
