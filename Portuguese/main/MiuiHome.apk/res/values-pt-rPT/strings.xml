@@ -109,7 +109,7 @@
   <string name="cate_order_reset">Repor</string>
   <string name="category_already_exists">Esta categoria já existe</string>
   <string name="category_cannot_empty">Introduza a categoria primeiro</string>
-  <string name="category_choose_no_app_select_tip">Todas as categoria têm de ter pelo menos 1 aplicação</string>
+  <string name="category_choose_no_app_select_tip">Todas as categorias têm de ter pelo menos 1 aplicação</string>
   <string name="category_drawer_name_hint">Introduza o nome da categoria</string>
   <string name="category_group">Categorizar aplicações</string>
   <string name="category_group_summary">Categorizar aplicações na gaveta de aplicações</string>
