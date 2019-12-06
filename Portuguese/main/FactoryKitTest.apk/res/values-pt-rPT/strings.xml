@@ -157,7 +157,7 @@ N:sem teste"</string>
   <string name="frontflash_confirm">Por favor, verifique se o flash de tom branco funciona correctamente!</string>
   <string name="frontflash_tips">A luz do flash frontal será ligada. Por favor, observe!</string>
   <string name="frontflashlight_name">Flash frontal</string>
-  <string name="fuelgauge_hint">O medidor de Calibração será cncluído em 30s. Por favor, aguarde…</string>
+  <string name="fuelgauge_hint">O medidor de Calibração será concluído em 30s. Por favor, aguarde…</string>
   <string name="fuelgauge_name">Medidor de Calibração</string>
   <string name="fuelgauge_processing">A processar…</string>
   <string name="full_test">Teste completo</string>
