@@ -1860,11 +1860,11 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_save_mode">Poupança de bateria</string>
   <string name="power_save_mode_auto_exit_summary">Desligar quando a bateria estiver a 60% ou totalmente carregada​</string>
   <string name="power_save_mode_auto_exit_title">Desligar quando carregada</string>
-  <string name="power_save_mode_close_notification_screenon_summary">Funciona com a poupança de bateria ligada</string>
+  <string name="power_save_mode_close_notification_screenon_summary">Ligado quando a poupança de bateria estiver ligada</string>
   <string name="power_save_mode_close_notification_screenon_title">Não ligar o ecrã para notificações</string>
   <string name="power_save_mode_close_warn_text">A poupança de bateria restringe as actividades e sincronização em segundo plano. Se ligar quando o dispositivo estiver carregado, algumas funcionalidades podem não funcionar correctamente. Manter a poupança de bateria ligada enquanto o dispositivo estiver carregado?</string>
   <string name="power_save_mode_close_warn_title">Poupança de bateria</string>
-  <string name="power_save_mode_close_xiaoai_wakeup_summary">Funciona com a poupança de bateria ligada</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_summary">Ligado quando a poupança de bateria estiver ligada</string>
   <string name="power_save_mode_close_xiaoai_wakeup_title">Não ligar a Mi IA com a voz</string>
   <string name="power_save_mode_enable">Poupança de bateria</string>
   <string name="power_save_mode_end_time">Fim</string>

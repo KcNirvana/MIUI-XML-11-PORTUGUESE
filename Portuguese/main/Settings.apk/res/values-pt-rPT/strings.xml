@@ -2972,7 +2972,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="location_agps_supl_server_addr">Endereço do servidor</string>
   <string name="location_agps_supl_server_port">Porta do servidor</string>
   <string name="location_agps_supl_settings">Definições SUPL</string>
-  <string name="location_app_level_permissions">Permissões da aplicação</string>
+  <string name="location_app_level_permissions">Permissões das aplicações</string>
   <string name="location_app_permission_summary_location_off">Localização desligada</string>
   <string name="location_category_location_services">Serviços de localização</string>
   <string name="location_category_recent_location_access">Acessos à localização recentes</string>
