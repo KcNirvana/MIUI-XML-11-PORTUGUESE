@@ -138,7 +138,7 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="miui_app_virus">Esta aplicação é um vírus, não a instale</string>
   <string name="miui_clean">Limpar</string>
   <string name="miui_clear_apk_desc">Pacote de instalação e dados residuais eliminados (%s)</string>
-  <string name="miui_clear_apks">Eliminar Delete pacote de instalação e dados residuais (%s)</string>
+  <string name="miui_clear_apks">Eliminar pacote de instalação e dados residuais (%s)</string>
   <string name="miui_compatibility_desc">Esta aplicação não está optimizada para o seu dispositivo. Se a instalar, pode não funcionar correctamente</string>
   <string name="miui_delete">Eliminar</string>
   <string name="miui_failed_already_exists">Esta aplicação já está instalada</string>
@@ -272,9 +272,9 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="screen_overlay_title">Detectado sobreposição de ecrã</string>
   <string name="security_settings_desc">Permitir que esta aplicação:</string>
   <string name="settings">Definições</string>
-  <string name="settings_warning_dialog_detail">"Vai ser perguntado nos seguintes casos:
- "&lt;li&gt;Quando uma aplicação contém vírus&lt;/li&gt;"
- "&lt;li&gt;O pacote de instalação vem duma origem desconhecida&lt;/li&gt;</string>
+  <string name="settings_warning_dialog_detail">Vai ser perguntado nos seguintes casos:
+ <li>Quando uma aplicação contém vírus</li>
+ <li>O pacote de instalação vem duma origem desconhecida</li></string>
   <string name="settings_warning_dialog_msg">O seu telefone está sujeito a riscos de segurança. Não ser perguntado para instalar versões seguras das aplicações se desligar esta funcionalidade. Desligar mesmo assim?</string>
   <string name="settings_warning_dialog_title">Atenção</string>
   <string name="system_warning">Se negar esta permissão, as funcionalidades básicas podem não funcionar correctamente</string>
