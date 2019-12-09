@@ -1266,7 +1266,6 @@ para personalizar a galeria"</string>
   <string name="secret_reason_type_not_support">Este tipo de ficheiro não é suportado</string>
   <string name="secret_reason_unknow_reasons">Erro desconhecido</string>
   <string name="secret_reason_video_not_support">Não é possível adicionar vídeos a álbuns ocultos</string>
-  <string name="send_files_to">Enviar itens para</string>
   <string name="see_ignore_faces">Ver as pessoas que ignorou</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_image_operation">A adicionar fotos</string>
