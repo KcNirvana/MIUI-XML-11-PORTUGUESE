@@ -111,8 +111,8 @@
   <string name="permdesc_read_storage">Aceder a fotos e ficheiros armazenados no dispositivo</string>
   <string name="permdesc_recognition">Aceder a dados de saúde e actividades</string>
   <string name="permdesc_sensors">Aceder a dados dos sensores de corpo</string>
-  <string name="permdesc_write_calendar">Access and add calendar events</string>
-  <string name="permdesc_write_storage">Access and save photos and files on device</string>
+  <string name="permdesc_write_calendar">Aceder e adicionar eventos do calendário</string>
+  <string name="permdesc_write_storage">Aceder e guardar fotos e ficheiros no dispositivo</string>
   <string name="permgroupdesc_calendar">Aceder aos eventos do calendário</string>
   <string name="permgroupdesc_calllog">Aceder e guardar itens no registo de chamadas</string>
   <string name="permgroupdesc_camera">Tirar fotos e gravar vídeos</string>

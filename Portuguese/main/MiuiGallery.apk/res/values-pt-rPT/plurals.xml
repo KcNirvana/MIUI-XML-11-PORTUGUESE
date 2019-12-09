@@ -266,6 +266,10 @@
         <item quantity="other">%d dias</item>
         <item quantity="one">%d dia</item>
     </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">As fotos seleccionadas não estão no dispositivo. Transferir utilizando os dados móveis?</item>
         <item quantity="one">A foto seleccionada não está no dispositivo. Transferir utilizando os dados móveis?</item>

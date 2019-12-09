@@ -513,6 +513,7 @@ Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.u
   <string name="wipe_data_dialog_msg_and_on">" e outros itens"</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Itens não sincronizados</string>
+  <string name="wipe_data_query_progress_title">A verificar…</string>
   <string name="wipe_secret_photo_dialog_title">As fotos ocultas não estão sincronizadas</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">Todos os dados importantes num só sítio</string>

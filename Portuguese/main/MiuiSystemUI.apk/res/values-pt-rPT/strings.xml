@@ -739,6 +739,10 @@ Assim que o telefone tiver arrefecido, vai funcionar normalmente"</string>
   <string name="how_to_use_drawer_summary">Deslize desde a direita na parte superior do ecrã</string>
   <string name="how_to_use_fsg">Pode fazer todas estas acções utilizando gestos:</string>
   <string name="ime_security_warning">%1$s pode gravar tudo aquilo que escreve, incluindo palavras-passe, números de cartão de crédito e outros dados pessoais</string>
+  <string name="ime_security_warning_global">Os métodos de introdução podem obter todo o texto que digita, incluindo dados pessoais como palavras-passe. Utilizar %1$s?</string>
+  <string name="ime_security_warning_title_global">A ligar teclado</string>
+  <string name="immediately_destroy_activities">Não manter actividades</string>
+  <string name="immediately_destroy_activities_summary">Terminar todas as actividades assim que o utilizador sair</string>
   <string name="important_desc">Todas as notificações importantes vão aparecer directamente na área de notificações</string>
   <string name="incorrect_pincode">Código PIN incorrecto</string>
   <string name="incorrect_pukcode">Código PUK incorrecto</string>

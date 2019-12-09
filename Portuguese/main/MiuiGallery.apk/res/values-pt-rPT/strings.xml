@@ -226,6 +226,7 @@
   <string name="byteShort">B</string>
   <string name="camera_needs_auto_backup_tip">O álbum da câmara tem de ser sincronizado</string>
   <string name="can_authorize_owner_albums_share_to_tv">Autorizar a visão de álbuns na sua TV</string>
+  <string name="can_not_transfer_when_screening">Não é possível transmitir durante as transferências</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_authorize_to_device_failed">Não foi possível cancelar a autorização</string>
   <string name="cancel_authorize_watch_on_tv_failed">Não foi possível cancelar a autorização para ver na TV</string>
@@ -447,6 +448,7 @@
   <string name="download_with_metered_network_title">Está ligado a uma rede paga</string>
   <string name="downloading_dialog_message">Pode seleccionar a qualidade das imagens transferidas ou desligar as transferências automáticas nas Definições</string>
   <string name="downloading_title">Transferir fotos da Xiaomi Cloud</string>
+  <string name="dump_db_info">Transferir informações da base de dados</string>
   <string name="double_tap_for_hr_preview_108m">Faça duplo toque novamente para trocar para pré-visualização de 108MB</string>
   <string name="edit_baby_info">Ver informação do bebé</string>
   <string name="editor_cancel">Cancelar</string>
@@ -640,6 +642,7 @@ efeitos de fotos"</string>
   <string name="filter_people_sepia">Sépia</string>
   <string name="filter_people_story">História</string>
   <string name="filter_people_tea">Chá</string>
+  <string name="filter_portrait_hint">Cor pop</string>
   <string name="filter_scene_city">Cidade</string>
   <string name="filter_scene_df">Nevoeiro</string>
   <string name="filter_scene_koizora">Amor</string>
@@ -1047,6 +1050,11 @@ para personalizar a galeria"</string>
   <string name="photo_movie_select_image_range">Os clips podem conter entre 3 a 20 fotos</string>
   <string name="photo_page_save_uri_image_fail">Não foi possível guardar na Galeria</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada na Galeria</string>
+  <string name="photo_portrait_color_download_fail">Não foi possível transferir plugin. Ligue-se à rede e tente novamente</string>
+  <string name="photo_portrait_color_download_success">Filtros transferidos com sucesso</string>
+  <string name="photo_portrait_color_no_face">A cor pop apenas funciona em fotos com pessoas</string>
+  <string name="photo_portrait_download_sdk_without_wifi_msg">Não está ligado ao Wi-Fi. Pode transferir os filtros (%1$dMB) utilizando dados móveis</string>
+  <string name="photo_portrait_download_sdk_without_wifi_title">Transferir filtros</string>
   <string name="photo_print_menu_loading">A carregar plugin…</string>
   <string name="photo_print_package_finish">Carregado com sucesso</string>
   <string name="photo_print_package_installing">A carregar plugin…</string>
@@ -1265,6 +1273,9 @@ para personalizar a galeria"</string>
   <string name="select_item_face">"Isto é '%s'?"</string>
   <string name="select_origin_tip">Ficheiro original (%s)</string>
   <string name="send_file_beautify_failed">Não foi possível partilhar</string>
+  <string name="send_files_to">Enviar itens para</string>
+  <string name="send_heif_summary">Converter imagens antes de enviar para garantir a compatibilidade</string>
+  <string name="send_heif_title">Converter HEIF para JPG antes de enviar</string>
   <string name="send_multiple_files_hint_format">Enviar (%s)</string>
   <string name="send_public_url">Enviar URL do álbum</string>
   <string name="send_secret_file_failed">Não foi possível partilhar</string>
@@ -1451,6 +1462,10 @@ para personalizar a galeria"</string>
   <string name="unsupport_raw">%s não funciona com imagens RAW</string>
   <string name="unsupport_raw_and_video">%s não funciona com vídeos e imagens RAW</string>
   <string name="unsupport_video">%s não funciona com vídeos</string>
+  <string name="unsupported_media_downloading_tip_common">Não é possível ver imagens originais neste formato nesta versão de Android. Transferir mesmo assim?</string>
+  <string name="unsupported_media_downloading_tip_format">Não é possível ver as %s imagens originais neste formato nesta versão de Android. Transferir mesmo assim?</string>
+  <string name="unsupported_media_scanned_tip">Foram detectadas %1$s imagens. Não é possível ver as %2$s imagens originais neste formato nesta versão de Android</string>
+  <string name="unsupported_media_view_tip">Não é possível ver as %s imagens originais neste formato nesta versão de Android</string>
   <string name="user_agree">Concordar</string>
   <string name="user_agreement2">Termos de Serviço</string>
   <string name="user_agreement4">Política de Privacidade</string>

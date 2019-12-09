@@ -416,10 +416,11 @@
   <string name="select_today_tip">Hoje</string>
   <string name="setting">Definições</string>
   <string name="set_as_wallpaper">Definir como papel de parede</string>
-  <string name="setting_about_calendar_version">"Versão do Calendário "</string>
-  <string name="setting_about_imei">"IMEI "</string>
-  <string name="setting_about_miui_version">"Versão MIUI "</string>
-  <string name="setting_about_summary">"Versão "</string>
+  <string name="setting_about_calendar_version">Versão do Calendário: %1$s-%2$s</string>
+  <string name="setting_about_imei">IMEI: %1$s</string>
+  <string name="setting_about_miui_version">Versão MIUI: %1$s-%2$s</string>
+  <string name="setting_about_summary">"Versão: "</string>
+  <string name="setting_about_oaid">OAID: %1$s</string>
   <string name="setting_accounts">Contas do calendário</string>
   <string name="setting_daysoff_no_update">Os feriados estão actualizados</string>
   <string name="setting_daysoff_update">Actualizar informação sobre feriados</string>

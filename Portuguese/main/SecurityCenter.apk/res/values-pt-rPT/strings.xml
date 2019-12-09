@@ -1630,7 +1630,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="operator_name_unicom">China Unicom</string>
   <string name="optimize_manage_title">Optimização de velocidade</string>
   <string name="optimize_result_available_memory_info">Memória disponível</string>
-  <string name="optimize_result_button_cloudspace">Adicionar espaço na Xiaomi Cloud</string>
+  <string name="optimize_result_button_cloudspace">Obter mais espaço na Xiaomi Cloud</string>
   <string name="optimize_result_button_consume_power_analysis">Analisar bateria</string>
   <string name="optimize_result_button_cooldown_now">Optimizar</string>
   <string name="optimize_result_button_correct_now">Ajustar</string>
@@ -1877,6 +1877,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_save_ps_clean">Limpar cache quando o dispositivo estiver bloqueado</string>
   <string name="power_save_ps_close_setting">Desligar serviços e funcionalidades que consomem bateria (sincronização, \"Levantar para ligar\", GPS, etc.) para poupar bateria</string>
   <string name="power_save_ps_close_setting_5g">Desligar serviços e funcionalidades que consomem bateria (sincronização, ligação 5G, GPS, etc.) para poupar bateria</string>
+  <string name="power_save_ps_close_setting_5g_q">Desligar serviços e funcionalidades que consomem bateria (sincronização, ligação 5G, GPS, etc.) para poupar bateria</string>
+  <string name="power_save_ps_close_setting_q">Desligar serviços e funcionalidades que consomem bateria (sincronização, \"Levantar para ligar\", GPS, etc.) para poupar bateria</string>
   <string name="power_save_ps_freeze">Desactivar aplicações em segundo plano</string>
   <string name="power_save_ps_limit">Restringir a actividade das aplicações de sistema</string>
   <string name="power_save_settings">Definições de bateria</string>

@@ -1947,6 +1947,8 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="disallow_lock_screen_summary">Permitir notificações em \"Notificações das aplicações\" primeiro</string>
   <string name="disconnect">Desligar</string>
   <string name="disconnected">Não ligado</string>
+  <string name="display_advanced_mode_summary">Opções de gama de cores</string>
+  <string name="display_advanced_mode_title">Definições avançadas</string>
   <string name="display_auto_rotate_rotate">Ligada</string>
   <string name="display_auto_rotate_stay_in_current">Desligada</string>
   <string name="display_auto_rotate_stay_in_landscape">Bloquear paisagem</string>
@@ -2597,6 +2599,9 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="handy_mode_tips_full_screen">Quando estiver a utilizar os gestos de ecrã inteiro, pode ligar o Modo Uma Mão utilizando o menu flutuante. Pode também trocar para botões em vez de gestos</string>
   <string name="haptic_feedback_enable_title">Vibração ao tocar</string>
   <string name="haptic_feedback_level">Vibração</string>
+  <string name="haptic_feedback_progress">Nível de vibração</string>
+  <string name="haptic_feedback_summary">Receber respostas tácteis a gestos e controlos de sistema</string>
+  <string name="haptic_feedback_title">Feedback táctil</string>
   <string name="hardkeyboard_category">Definições de teclado físico</string>
   <string name="hardware_info">Modelo e hardware</string>
   <string name="hardware_revision">Versão de hardware</string>
@@ -2662,6 +2667,8 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="ignore_optimizations_on_desc">Pode descarregar a bateria mais rapidamente</string>
   <string name="ignore_optimizations_title">Permitir que %s ignore as optimizações da bateria?</string>
   <string name="ime_security_warning">%1$s pode gravar todo o texto que introduzir, incluindo palavras-passe, números de cartões de crédito e outros dados pessoais. Utilizar este método de introdução?</string>
+  <string name="ime_security_warning_global">Os métodos de introdução podem obter todo o texto que digita, incluindo dados pessoais como palavras-passe. Utilizar %1$s?</string>
+  <string name="ime_security_warning_title_global">A ligar teclado</string>
   <string name="imei_information_summary">Informações relativas ao IMEI</string>
   <string name="imei_information_title">Informações do IMEI</string>
   <string name="imei_multi_sim">IMEI (ranhura %1$d)</string>
@@ -3997,6 +4004,8 @@ A aplicação também pode ligar ou desligar o modo Não incomodar e alterar def
   <string name="open_demo_mode">Ligar</string>
   <string name="open_demo_mode_warning_message">Quando o modo Demo estiver ligado, o relógio na barra de estado vai parar e a bateria e indicador de rede vão ser mostrados no máximo. Pode desligar o modo Demo ou reiniciar o dispositivo para alterar isto</string>
   <string name="open_miui_optimization_title">Ligar optimização MIUI</string>
+  <string name="open_game_accelerate">Ligar Game Turbo</string>
+  <string name="open_haptic_feedback">Feedback táctil</string>
   <string name="open_optimization_message">Ligar optimização para disfrutar duma rápida e suave UI</string>
   <string name="open_optimization_option">Ligar</string>
   <string name="open_privacy_thumbnail_blur_title">As pré-visualizações estão desfocadas</string>

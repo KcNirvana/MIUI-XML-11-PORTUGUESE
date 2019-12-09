@@ -389,6 +389,10 @@ utilizando %s"</string>
   <string name="granularity_label_link">link</string>
   <string name="granularity_label_word">palavra</string>
   <string name="hardware">Hardware</string>
+  <string name="handset_text_unsupported_handset_insert">Toque para ver detalhes</string>
+  <string name="handset_text_usb_handset_insert">Toque para abrir definições adicionais</string>
+  <string name="handset_title_unsupported_handset_insert">Não é possível reproduzir áudio pelo adaptador</string>
+  <string name="handset_title_usb_handset_insert">Reprodução de áudio via USB</string>
   <string name="heavy_weight_notification">%1$s em execução</string>
   <string name="heavy_weight_notification_detail">Toque para mudar para a aplicação</string>
   <string name="heavy_weight_switcher_text">Já está em execução outra aplicação, esta vai ter de ser encerrada para poder iniciar uma nova</string>
