@@ -73,7 +73,7 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="game_center_install">Instalar de Mi Games</string>
   <string name="game_center_install_tips">Transferir e instalar Mi Games para obter mais funcionalidades</string>
   <string name="game_center_intercept_trust_app">Eu confio nesta aplicação e responsabilizo-me por possíveis riscos</string>
-  <string name="game_center_intercept_warning_msg">Esta aplicação não foi verificada por vírus pela Xiaomi. Instale esta aplicação desde a Mi Games para evitar riscos de segurança</string>
+  <string name="game_center_intercept_warning_msg">Esta aplicação não foi verificada por vírus pela Xiaomi. Instale esta aplicação da Mi Games para evitar riscos de segurança</string>
   <string name="game_center_lunch_error">Instalar Mi Games primeiro</string>
   <string name="grant_confirm_question">Conceder as seguintes permissões? Vai ter acesso a:</string>
   <string name="grant_dialog_button_allow">Permitir</string>
@@ -125,7 +125,7 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="message_appstore_verify_inconsistent">A assinatura desta aplicação é diferente da que existe na Mi App Store. Nós recomendamos que instale a aplicação a partir daí</string>
   <string name="message_appstore_verify_ok">A versão desta aplicação na Mi App Store passou nos nossos testes de segurança. Nós recomendamos que instale a aplicação a partir daí</string>
   <string name="message_full_scanning">Verificação completa…</string>
-  <string name="message_install_in_market">Nós recomendamos que instale a aplicação desde a Mi App Store</string>
+  <string name="message_install_in_market">Nós recomendamos que instale a aplicação da Mi App Store</string>
   <string name="message_quick_scanning">Verificação rápida…</string>
   <string name="message_staging">Aplicação de testes…</string>
   <string name="mimarket_install">Instalar da Mi App Store</string>
