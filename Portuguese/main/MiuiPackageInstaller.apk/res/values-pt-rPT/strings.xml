@@ -106,7 +106,7 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="install_failed_system_incompatible">Esta aplicação não é compatível com a MIUI</string>
   <string name="install_finished_notification_summary">Toque para limpar agora</string>
   <string name="install_finished_notification_title">%1$s instalado com sucesso. Limpar %2$s agora</string>
-  <string name="install_from_appstore_hint">"Nós recomendamos que instale a aplicação da <u><font color='#91c727'> Mi App Store</font></u>"</string>
+  <string name="install_from_appstore_hint">"Nós recomendamos que instale a aplicação da <u><font color='#91c727'>Mi App Store</font></u>"</string>
   <string name="installing">A instalar…</string>
   <string name="intercept_install">Instalar</string>
   <string name="launch">Abrir</string>
@@ -144,7 +144,7 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="miui_failed_already_exists">Esta aplicação já está instalada</string>
   <string name="miui_failed_conflicting_provider">Fornecedores de serviços em conflito</string>
   <string name="miui_failed_duplicate_permission">Permissões em conflito</string>
-  <string name="miui_failed_insufficient_storage">Espaço em disco insuficiente</string>
+  <string name="miui_failed_insufficient_storage">Espaço de armazenamento insuficiente</string>
   <string name="miui_failed_invalid_apk">Erro no pacote de instalação</string>
   <string name="miui_failed_invalid_uri">Caminho de instalação inválido</string>
   <string name="miui_failed_miui_system_incompatible">O pacote de instalação não é compatível com a MIUI</string>
@@ -253,7 +253,7 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="pref_key_about_privacy_title">Política de Privacidade</string>
   <string name="pref_key_antivirus">Verificação de segurança</string>
   <string name="pref_key_antivirus_summary">Verificar vírus nas aplicações antes da instalação</string>
-  <string name="pref_key_app_store_summary">Perguntar para transferir aplicações de origens seguras antes da instalação</string>
+  <string name="pref_key_app_store_summary">Perguntar para transferir aplicações de origem segura antes da instalação</string>
   <string name="pref_key_app_store_title">Recomendar versões seguras</string>
   <string name="privacyPerms">Privacidade</string>
   <string name="privacy_relative">Privacidade</string>
@@ -268,14 +268,14 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="safe_guard_support">Suporte técnico fornecido por %1$s</string>
   <string name="safe_relative">Segurança</string>
   <string name="screen_overlay_button">Abrir definições</string>
-  <string name="screen_overlay_message">To change this permission setting, you first have to turn off the screen overlay from Settings &gt; Apps</string>
+  <string name="screen_overlay_message">Para alterar esta definição de permissão, é necessário desativar a sobreposição de ecrã nas definições &gt; Aplicações</string>
   <string name="screen_overlay_title">Detectado sobreposição de ecrã</string>
   <string name="security_settings_desc">Permitir que esta aplicação:</string>
   <string name="settings">Definições</string>
   <string name="settings_warning_dialog_detail">Vai ser perguntado nos seguintes casos:
  <li>Quando uma aplicação contém vírus</li>
  <li>O pacote de instalação vem duma origem desconhecida</li></string>
-  <string name="settings_warning_dialog_msg">O seu telefone está sujeito a riscos de segurança. Não ser perguntado para instalar versões seguras das aplicações se desligar esta funcionalidade. Desligar mesmo assim?</string>
+  <string name="settings_warning_dialog_msg">O seu telefone está sujeito a riscos de segurança. Não será solicitado a instalar versões seguras de aplicações se desligar esta funcionalidade. Desligar mesmo assim?</string>
   <string name="settings_warning_dialog_title">Atenção</string>
   <string name="system_warning">Se negar esta permissão, as funcionalidades básicas podem não funcionar correctamente</string>
   <string name="toast_network_eror">Não é possível ligar à rede</string>
