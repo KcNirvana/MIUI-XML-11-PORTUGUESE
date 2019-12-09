@@ -321,7 +321,7 @@
   <string name="applock_not_login_account">Não tem sessão iniciada</string>
   <string name="applock_settings_unlock_all_toast">Foram desbloqueadas todas as aplicações</string>
   <string name="applock_toast_tip">Bloqueio de aplicações verificado com sucesso</string>
-  <string name="apps_item_sign_dialog_content">A assinatura de %s é diferente da versão da App Store. Eliminar esta aplicação e instalar a versão oficial? Nota: instalar uma aplicação com conflitos de assinatura pode causar a perda dos dados da aplicação</string>
+  <string name="apps_item_sign_dialog_content">A assinatura de %s é diferente da versão da Mi App Store. Eliminar esta aplicação e instalar a versão oficial? Nota: instalar uma aplicação com conflitos de assinatura pode causar a perda dos dados da aplicação</string>
   <string name="apps_item_sign_dialog_title">Instalar aplicação oficial</string>
   <string name="apps_item_sign_install_button_text">Substituir</string>
   <string name="apps_item_sms_default_set_success">Definido com sucesso</string>

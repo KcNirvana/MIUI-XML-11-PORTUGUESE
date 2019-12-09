@@ -53,7 +53,7 @@
 Todos os dados vão ser guardados"</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) vai substituir a versão actual (%3$s). Todos os dados existentes vão ser guardados</string>
   <string name="dlg_app_replacement_title">Substituir a aplicação?</string>
-  <string name="dlg_appstore_notice">"Não conseguimos verificar a autenticidade ou segurança das aplicações de origens de fora de <u><font color='#91c727'>AppStore</font></u>"</string>
+  <string name="dlg_appstore_notice">"Não conseguimos verificar a autenticidade ou segurança das aplicações de terceiros fora da <u><font color='#91c727'>Mi App Store</font></u>"</string>
   <string name="dlg_game_center_intercept_game_center_install">Instalar de Mi Games</string>
   <string name="dlg_game_center_intercept_install">Instalar mesmo assim</string>
   <string name="dlg_game_center_intercept_msg">A instalação de jogos de terceiros pode trazer riscos de segurança. Transfira e instale a Mi Games para ter acesso a versões seguras de aplicações</string>
@@ -73,7 +73,7 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="game_center_install">Instalar de Mi Games</string>
   <string name="game_center_install_tips">Transferir e instalar Mi Games para obter mais funcionalidades</string>
   <string name="game_center_intercept_trust_app">Eu confio nesta aplicação e responsabilizo-me por possíveis riscos</string>
-  <string name="game_center_intercept_warning_msg">Esta aplicação não foi verificada por vírus pela Xiaomi. Instale esta aplicação de Games para evitar riscos de segurança</string>
+  <string name="game_center_intercept_warning_msg">Esta aplicação não foi verificada por vírus pela Xiaomi. Instale esta aplicação da Mi Games para evitar riscos de segurança</string>
   <string name="game_center_lunch_error">Instalar Mi Games primeiro</string>
   <string name="grant_confirm_question">Conceder as seguintes permissões? Vai ter acesso a:</string>
   <string name="grant_dialog_button_allow">Permitir</string>
@@ -106,7 +106,7 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="install_failed_system_incompatible">Esta aplicação não é compatível com a MIUI</string>
   <string name="install_finished_notification_summary">Toque para limpar agora</string>
   <string name="install_finished_notification_title">%1$s instalado com sucesso. Limpar %2$s agora</string>
-  <string name="install_from_appstore_hint">"Nós recomendamos que instale a aplicação de <u><font color='#91c727'>AppStore</font></u>"</string>
+  <string name="install_from_appstore_hint">"Nós recomendamos que instale a aplicação da <u><font color='#91c727'> Mi App Store</font></u>"</string>
   <string name="installing">A instalar…</string>
   <string name="intercept_install">Instalar</string>
   <string name="launch">Abrir</string>
@@ -121,11 +121,11 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="manage_users">Gestão de utilizadores</string>
   <string name="menu_hide_system">Ocultar aplicações de sistema</string>
   <string name="menu_show_system">Mostrar aplicações de sistema</string>
-  <string name="message_appstore_verify_has_new_version">Está disponível uma nova versão desta aplicação na App Store. Deseja instalá-la?</string>
-  <string name="message_appstore_verify_inconsistent">A assinatura desta aplicação é diferente da que existe na App Store. Nós recomendamos que instale a aplicação a partir daí</string>
-  <string name="message_appstore_verify_ok">A versão desta aplicação na App Store passou nos nossos testes de segurança. Nós recomendamos que instale a aplicação a partir daí</string>
+  <string name="message_appstore_verify_has_new_version">Está disponível uma nova versão desta aplicação na Mi App Store. Deseja instalá-la?</string>
+  <string name="message_appstore_verify_inconsistent">A assinatura desta aplicação é diferente da que existe na Mi App Store. Nós recomendamos que instale a aplicação a partir daí</string>
+  <string name="message_appstore_verify_ok">A versão desta aplicação na Mi App Store passou nos nossos testes de segurança. Nós recomendamos que instale a aplicação a partir daí</string>
   <string name="message_full_scanning">Verificação completa…</string>
-  <string name="message_install_in_market">Nós recomendamos que instale a aplicação de App Store</string>
+  <string name="message_install_in_market">Nós recomendamos que instale a aplicação da Mi App Store</string>
   <string name="message_quick_scanning">Verificação rápida…</string>
   <string name="message_staging">Aplicação de testes…</string>
   <string name="mimarket_install">Instalar da Mi App Store</string>

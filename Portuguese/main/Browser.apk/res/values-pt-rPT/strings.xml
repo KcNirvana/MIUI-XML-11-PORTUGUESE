@@ -355,7 +355,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="geolocation_settings_page_summary_not_allowed">Esta página não pode aceder à sua localização</string>
     <string name="geolocation_settings_page_title">Limpar acesso à sua localização</string>
     <string name="go_supermarket_button">Ir</string>
-    <string name="go_supermarket_title">Mais aplicações, velocidade mais rápida e menos utilização de dados na App Store</string>
+    <string name="go_supermarket_title">Mais aplicações, velocidade mais rápida e menos utilização de dados na Mi App Store</string>
     <string name="gold_medals">Medalhas douradas</string>
     <string name="google_bookmarks">Google</string>
     <string name="hash_tag">\# %1$s</string>
@@ -1043,7 +1043,7 @@ Sair desta página agora?"</string>
     <string name="search_tupian">Imagem</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
-    <string name="secure_download_in_xiaomi_market">Transferir da App Store</string>
+    <string name="secure_download_in_xiaomi_market">Transferir da Mi App Store</string>
     <string name="secureaccess">Alterar para o Modo seguro</string>
     <string name="secureaccess_cancel">Ignorar</string>
     <string name="security_url_confirm_message">Desligar este recurso pode criar riscos de segurança</string>
