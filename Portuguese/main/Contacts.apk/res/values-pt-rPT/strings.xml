@@ -50,7 +50,7 @@
   <string name="batch_delete">Eliminar contactos</string>
   <string name="bind_simcard_default">SIM predefinido para chamadas</string>
   <string name="bind_simcard_menu">Definir SIM para chamadas</string>
-  <string name="bind_simcard_no_dual">Não foi possível encontral dois SIMs</string>
+  <string name="bind_simcard_no_dual">Não foi possível encontrar dois SIM</string>
   <string name="bind_simcard_not_set">Não definido</string>
   <string name="bind_simcard_title">SIM predefinido para chamadas</string>
   <string name="blacklist">Bloquear</string>

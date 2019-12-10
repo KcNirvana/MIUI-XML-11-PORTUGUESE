@@ -2064,7 +2064,7 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="dsds_dialog_title">Reiniciar dispositivo?</string>
   <string name="dsds_switch_string">Activar DSDS</string>
   <string name="dtmf_tone_enable_title">Tons de marcação</string>
-  <string name="dual_cdma_sim_warning_notification_channel_title">Combinação de SIMs</string>
+  <string name="dual_cdma_sim_warning_notification_channel_title">Combinação de SIM</string>
   <string name="dual_cdma_sim_warning_notification_summary">A utilização dos operadores %1$s pode limitar a funcionalidade. Toque para saber mais</string>
   <string name="dual_clock">Relógio duplo</string>
   <string name="dual_clock_aod_open_message">O relógio duplo vai ser mostrado no ecrã de bloqueio, ecrã inicial e com o ecrã desligado</string>
@@ -3259,7 +3259,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o <b>armazenamento
   <string name="master_clear_failed">Nenhum restauro foi executado porque o serviço System Clear não está disponível</string>
   <string name="master_clear_final_button_text">Eliminar tudo</string>
   <string name="master_clear_final_desc">Todas as suas informações pessoais e quaisquer aplicações instaladas vão ser eliminadas. will be deleted. Não pode reverter esta acção</string>
-  <string name="master_clear_final_desc_esim">Todas as suas informações pessoais, quaisquer aplicações instaladas e SIMs vão ser eliminadas. will be deleted. Não pode reverter esta acção</string>
+  <string name="master_clear_final_desc_esim">Todas as suas informações pessoais, quaisquer aplicações instaladas e SIM vão ser eliminadas. will be deleted. Não pode reverter esta acção</string>
   <string name="master_clear_not_available">A reposição de fábrica não está disponível para este utilizador</string>
   <string name="master_clear_other_users_present">"
 
@@ -4638,12 +4638,12 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="reset_app_preferences_title">Repor preferências das aplicações?</string>
   <string name="reset_dashboard_title">Reposição</string>
   <string name="reset_default_apn_failed">Erro ao repor ponto de acesso (APN)</string>
-  <string name="reset_esim_desc">Para transferir SIMs de substituição, contacte a sua operadora. Esta acção não cancela qualquer plano de serviços móveis</string>
-  <string name="reset_esim_error_msg">"Não é possível eliminar os SIMs transferidos devido a um erro.
+  <string name="reset_esim_desc">Para transferir SIM de substituição, contacte a sua operadora. Esta acção não cancela qualquer plano de serviços móveis</string>
+  <string name="reset_esim_error_msg">"Não é possível eliminar os SIM transferidos devido a um erro.
 
 Reinicie o seu dispositivo e tente novamente"</string>
-  <string name="reset_esim_error_title">Não é possível eliminar SIMs</string>
-  <string name="reset_esim_title">Eliminação de SIMs transferidos</string>
+  <string name="reset_esim_error_title">Não é possível eliminar SIM</string>
+  <string name="reset_esim_title">Eliminação de SIM transferidos</string>
   <string name="reset_legacy_password_settings_preface_text">Tem de repor a sua palavra-passe no ecrã de bloqueio</string>
   <string name="reset_network_bluetooth">Bluetooth</string>
   <string name="reset_network_button_text">Repor definições</string>
@@ -4658,7 +4658,7 @@ Reinicie o seu dispositivo e tente novamente"</string>
 <li>Bluetooth</li>"</string>
   <string name="reset_network_final_button_text">Repor definições</string>
   <string name="reset_network_final_desc">Repor todas as definições de rede? Não é possível anular esta acção!</string>
-  <string name="reset_network_final_desc_esim">Repor todas as definições de rede e eliminar os SIMs transferidos? Não pode reverter esta acção!</string>
+  <string name="reset_network_final_desc_esim">Repor todas as definições de rede e eliminar os SIM transferidos? Não pode reverter esta acção!</string>
   <string name="reset_network_title">Reposição de Wi-Fi, redes móveis e Bluetooth</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">Repor a palavra-passe do Segundo espaço</string>
@@ -5428,7 +5428,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="sim_management_title">Cartões SIM e redes móveis</string>
   <string name="sim_management_title_singlesim">Cartões SIM e redes móveis</string>
   <string name="sim_multi_sims_summary">Escolha o SIM que prefere para dados móveis</string>
-  <string name="sim_multi_sims_title">Vários SIMs encontrados</string>
+  <string name="sim_multi_sims_title">Vários SIM encontrados</string>
   <string name="sim_name_hint">Introduzir nome do SIM</string>
   <string name="sim_no_inserted_msg">Nenhum cartão SIM inserido</string>
   <string name="sim_notification_summary">Toque para configurar</string>

@@ -110,7 +110,7 @@
 Todos os dados existentes da aplicação vão ser guardados"</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) vai substituir a versão instalada actualmente (%3$s). Todos os dados existentes da aplicação vão ser guardados</string>
   <string name="dlg_app_replacement_title">Substituir aplicação?</string>
-  <string name="dlg_appstore_notice">Não conseguimos verificar a autenticidade ou a segurança das aplicações de fontes externas à <u><font color="#91c727">Mi App Store</font></u></string>
+  <string name="dlg_appstore_notice">Não conseguimos verificar a autenticidade ou a segurança das aplicações de fontes fora da <u><font color="#91c727">Mi App Store</font></u></string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"É uma aplicação de sistema. Ainda a quer substituir?
 
@@ -285,7 +285,7 @@ Todos os dados existentes da aplicação vão ser guardados"</string>
   <string name="safe_relative">Segurança</string>
   <string name="saved_network">Guardado por %1$s</string>
   <string name="screen_overlay_button">Abrir definições</string>
-  <string name="screen_overlay_message">Para alterar esta definição de permissão, primeiro tem de desactivar a sobreposição do ecrã em Definições &gt; Aplicações</string>
+  <string name="screen_overlay_message">Para alterar esta definição de permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições &gt; Aplicações</string>
   <string name="screen_overlay_title">Sobreposição de ecrã detectada</string>
   <string name="security_settings_desc">Permitir que esta aplicação:</string>
   <string name="settings">Definições</string>
