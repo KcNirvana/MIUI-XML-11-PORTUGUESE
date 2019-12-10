@@ -48,6 +48,11 @@
   <string name="back_description">Voltar</string>
   <string name="back_view_description">Voltar</string>
   <string name="batch_delete">Eliminar contactos</string>
+  <string name="bind_simcard_default">SIM predefinido para chamadas</string>
+  <string name="bind_simcard_menu">Definir SIM para chamadas</string>
+  <string name="bind_simcard_no_dual">Não foi possível encontral dois SIMs</string>
+  <string name="bind_simcard_not_set">Não definido</string>
+  <string name="bind_simcard_title">SIM predefinido para chamadas</string>
   <string name="blacklist">Bloquear</string>
   <string name="bluetooth_connection_failed_toast">Ligação Bluetooth interrompida</string>
   <string name="blurbJoinContactDataWith">Escolha o contacto que pretende associar com %s:</string>

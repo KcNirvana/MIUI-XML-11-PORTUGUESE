@@ -55,11 +55,6 @@
         <item>Dias úteis</item>
         <item>Personalizado</item>
     </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>Branco</item>
-        <item>Preto</item>
-        <item>Automático</item>
-    </string-array>
     <string-array name="cities_names_miui">
        <item>Abidjan</item>
        <item>Acra</item>
@@ -347,6 +342,11 @@
        <item>Tegucigalpa</item>
        <item>Paramaribo</item>
        <item>Quito</item>
+    </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Branco</item>
+        <item>Preto</item>
+        <item>Automático</item>
     </string-array>
     <string-array name="days">
        <item>Ontem</item>

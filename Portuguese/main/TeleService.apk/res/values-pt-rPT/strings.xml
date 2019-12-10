@@ -432,6 +432,8 @@ Prima \"Limpar e converter…\" para continuar"</string>
   <string name="copy">Copiar</string>
   <string name="crescendo_ringer_summary">Aumentar o volume do toque gradualmente até ao nível de som definido</string>
   <string name="crescendo_ringer_title">Aumentar volume do toque</string>
+  <string name="ct_ut_not_support_close_4glte">O UT não está disponível. Desligue o modo 4G LTE Avançado na Definições</string>
+  <string name="ct_volte_no_voice_service_notification_channel">Sem serviço VoLTE</string>
   <string name="cursorError">Erro no cursor</string>
   <string name="data_enable_summary">Permitir a utilização de dados</string>
   <string name="data_enabled">Dados móveis</string>
@@ -1126,6 +1128,9 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="private_dns_mode_provider_hostname_hint">Introduzir anfitrião ou fornecedor de DNS</string>
   <string name="private_num">Número privado</string>
   <string name="progress_dialog_exiting_ecm">A sair do Modo de Emergência</string>
+  <string name="prompt_to_suggest_no_call_service_notification_content">Não é possível efectuar e receber chamadas. O serviço VoLTE está desligado para o seu cartão SIM (China Telecom)</string>
+  <string name="prompt_to_suggest_no_call_service_notification_content2">Não é possível efectuar e receber chamadas. O serviço VoLTE está desligado para o seu cartão SIM %d (China Telecom)</string>
+  <string name="prompt_to_suggest_no_call_service_notification_title">Não é possível efectuar e receber chamadas</string>
   <string name="prompt_to_turnoff_volte_when_failed">Os serviços VoLTE não estão disponíveis. Desligue o VoLTE para fazer uma chamada</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">O serviço não está disponível. Desligue o VoLTE nas definições</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Seleccione 4G como rede preferida antes de ligar o VoLTE</string>
