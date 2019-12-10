@@ -110,7 +110,7 @@
 Todos os dados existentes da aplicação vão ser guardados"</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) vai substituir a versão instalada actualmente (%3$s). Todos os dados existentes da aplicação vão ser guardados</string>
   <string name="dlg_app_replacement_title">Substituir aplicação?</string>
-  <string name="dlg_appstore_notice">Não conseguimos verificar a autenticidade da segurança das aplicações de terceiros fora da <u><font color="#91c727">Mi App Store</font></u></string>
+  <string name="dlg_appstore_notice">Não conseguimos verificar a autenticidade ou a segurança das aplicações de fontes externas à <u><font color="#91c727">Mi App Store</font></u></string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"É uma aplicação de sistema. Ainda a quer substituir?
 
