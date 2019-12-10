@@ -197,7 +197,7 @@
         <item quantity="one">%d adicionado</item>
     </plurals>
     <plurals name="mobile_network_summary_count">
-        <item quantity="other">%1$d SIMs</item>
+        <item quantity="other">%1$d SIM</item>
         <item quantity="one">%1$d SIM</item>
     </plurals>
     <plurals name="network_restrictions_summary">

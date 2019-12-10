@@ -53,7 +53,7 @@
 Todos os dados vão ser guardados"</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) vai substituir a versão actual (%3$s). Todos os dados existentes vão ser guardados</string>
   <string name="dlg_app_replacement_title">Substituir a aplicação?</string>
-  <string name="dlg_appstore_notice">"Não conseguimos verificar a autenticidade ou a segurança das aplicações de fontes externas à <u><font color='#91c727'>Mi App Store</font></u>"</string>
+  <string name="dlg_appstore_notice">"Não conseguimos verificar a autenticidade ou a segurança das aplicações de fontes fora da <u><font color='#91c727'>Mi App Store</font></u>"</string>
   <string name="dlg_game_center_intercept_game_center_install">Instalar de Mi Games</string>
   <string name="dlg_game_center_intercept_install">Instalar mesmo assim</string>
   <string name="dlg_game_center_intercept_msg">A instalação de jogos de terceiros pode trazer riscos de segurança. Transfira e instale a Mi Games para ter acesso a versões seguras de aplicações</string>

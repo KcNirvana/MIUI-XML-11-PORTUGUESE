@@ -648,7 +648,7 @@
   <string name="daily_limit_network_available_body">Toque para ver as estatísticas de utilização de dados</string>
   <string name="daily_limit_over_message">Excedeu o limite diário de dados</string>
   <string name="daily_pkg_traffic">Limite de dados mensal</string>
-  <string name="data_booster_desc">Desactivar outros SIMs para manter a ligação estável</string>
+  <string name="data_booster_desc">Desactivar outros SIM para manter a ligação estável</string>
   <string name="data_booster_title">Estabilizar ligação de dados</string>
   <string name="data_network_blocked_notification_title">Sem ligação à Internet</string>
   <string name="data_usage_correction_timeout_title">Sincronização da utilização de dados expirou</string>
