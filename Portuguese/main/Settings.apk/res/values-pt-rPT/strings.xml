@@ -1755,10 +1755,10 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="date_time_set_timezone_title">Fuso horário</string>
   <string name="date_time_settings">Data e hora</string>
   <string name="day_of_week">Dia da semana</string>
-  <string name="dc_light_dialog_summary">A qualidade de imagem pode ser afectada quando o modo Anti-flicker estiver ligado.Ligar mesmo assim?</string>
+  <string name="dc_light_dialog_summary">A qualidade de imagem pode ser afectada quando o modo Anti-oscilação estiver ligado. Ligar mesmo assim?</string>
   <string name="dc_light_summary">Aplicar DC dimming para reduzir a fadiga ocular</string>
-  <string name="dc_light_summary_new">O DC dimming reduz a fadiga ocular em condições de pouca luz. No entanto, a qualidade de imagem pode ser afectada quando o modo Anti-flicker estiver ligado</string>
-  <string name="dc_light_title">Modo Anti-flicker</string>
+  <string name="dc_light_summary_new">O DC dimming reduz a fadiga ocular em condições de pouca luz. No entanto, a qualidade de imagem pode ser afectada quando o modo Anti-oscilação estiver ligado</string>
+  <string name="dc_light_title">Modo Anti-oscilação</string>
   <string name="debug_app">Seleccionar aplicação de depuração</string>
   <string name="debug_app_not_set">Nenhuma aplicação de depuração definida</string>
   <string name="debug_app_set">Depuração da aplicação: %1$s</string>
