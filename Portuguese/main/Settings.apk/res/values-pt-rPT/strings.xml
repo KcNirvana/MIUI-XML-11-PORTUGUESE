@@ -1623,8 +1623,8 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="dangerous_option_hint_title">Funcionalidade de alto risco activada</string>
   <string name="dangerous_option_switch_title">Notificar acerca de funcionalidades de alto risco</string>
   <string name="dark_color_mode">Modo Escuro</string>
-  <string name="dark_color_summary_lcd">Utilizar cores mais escuras para as imagens de fundo e aplicações compatíveis. O Modo Escuro pode ajudar a aliviar a fadiga ocular</string>
-  <string name="dark_color_summary_oled">Utilizar cores mais escuras para as imagens de fundo e aplicações compatíveis. O Modo Escuro reduz o consumo de bateria e ajuda a aliviar a fadiga ocular</string>
+  <string name="dark_color_summary_lcd">Utilizar cores escuras para as imagens de fundo e aplicações compatíveis. O Modo Escuro ajuda a aliviar a fadiga ocular</string>
+  <string name="dark_color_summary_oled">Utilizar cores escuras para as imagens de fundo e aplicações compatíveis. O Modo Escuro reduz o consumo de bateria e ajuda a aliviar a fadiga ocular</string>
   <string name="dark_ui_mode">Tema escuro</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_off">Temporariamente ligado devido à poupança de bateria</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_on">Ligado / Temporariamente desligado devido à poupança de bateria</string>
