@@ -1134,11 +1134,11 @@ Taxa de amostragem"</string>
   <string name="bootloader_locked_check_status">Adicionar conta e dispositivo</string>
   <string name="bootloader_locked_question_1">Porque é que os dispositivos devem estar bloqueados?</string>
   <string name="bootloader_locked_question_2">Eu compreendo os riscos mas ainda quero desbloquear o meu dispositivo</string>
-  <string name="bootloader_status">Estado de Mi Unlock</string>
+  <string name="bootloader_status">Estado do Mi Unlock</string>
   <string name="bootloader_status_locked">Bloqueado</string>
   <string name="bootloader_status_locked_info">Este dispositivo está bloqueado</string>
   <string name="bootloader_status_locked_summary">O telefone está seguro</string>
-  <string name="bootloader_status_privacy_dialog_message">O Mi Unlock necessita de aceder à sua Conta Mi, ID do CPU, IMEI e IMSI para funcionar. Nós utilizamos os seus dados de acordo com a nossa %s. Concorda?</string>
+  <string name="bootloader_status_privacy_dialog_message">Mi Unlock necessita de aceder à sua Conta Mi, ID do CPU, IMEI e IMSI para funcionar. Nós utilizamos os seus dados de acordo com a nossa %s. Concorda?</string>
   <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
   <string name="bootloader_status_privacy_dialog_title">Necessário permissões</string>
   <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidade</string>
@@ -1149,7 +1149,7 @@ Taxa de amostragem"</string>
   <string name="bootloader_summary">Restaurar ou actualizar o dispositivo via USB</string>
   <string name="bootloader_tips">"%s
 
-Se já fez alguma das coisas de cima, adicione a sua Conta Mi outra vez senão não vai conseguir desbloquear o seu dispositivo"</string>
+Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão não vai conseguir desbloquear o seu dispositivo"</string>
   <string name="bootloader_tips_ok">Percebi</string>
   <string name="bootloader_tips_warning">Não desligue da rede, termine sessão da sua Conta Mi, faça uma reposição de fábrica ou formate os dados de sistema</string>
   <string name="breathing_light_color_menu_title">Cor do LED</string>

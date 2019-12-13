@@ -317,9 +317,9 @@ Selecção"</string>
   <string name="notification_missedCall_message">Mensagem</string>
   <string name="notification_missedCallsMsg">%s chamadas não atendidas</string>
   <string name="notification_missedCallsTitle">Chamadas não atendidas</string>
-  <string name="notification_missedWorkCallTitle">Missed work call</string>
-  <string name="oem_unlock_enable">OEM unlocking</string>
-  <string name="oem_unlock_enable_summary">Allow the bootloader to be unlocked</string>
+  <string name="notification_missedWorkCallTitle">Chamada de trabalho perdida</string>
+  <string name="oem_unlock_enable">Desbloqueio de OEM</string>
+  <string name="oem_unlock_enable_summary">Permitir que o bootloader seja desbloqueado</string>
   <string name="okay">OK</string>
   <string name="osu_completing_sign_up">A concluir o registo…</string>
   <string name="osu_connect_failed">Não foi possível ligar</string>
