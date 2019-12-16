@@ -1360,10 +1360,12 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="cloud_backup_settings_section_title">Definições das cópias</string>
   <string name="cloud_restore_section_summary">Restaurar aplicações, disposição do ecrã inicial e as definições de sistema</string>
   <string name="cloud_restore_section_title">Restaurar da Xiaomi Cloud</string>
+  <string name="close_hotspot_hint">Desligar o PA Móvel antes de transmitir</string>
   <string name="close_miui_optimization_title">Desligar optimização MIUI</string>
   <string name="close_optimization_message">O tamanho do tipo de letra, contas e outras partes da MIUI vão ser afectadas se desligar esta funcionalidade</string>
   <string name="close_optimization_option">Desligar</string>
   <string name="close_privacy_thumbnail_blur_title">As pré-visualizações não estão desfocadas</string>
+  <string name="close_slave_wifi_hint">Desligar das redes Wi-Fi auxiliares antes de transmitir</string>
   <string name="cmcc_hardware_version">Versão de hardware</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
@@ -1846,7 +1848,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_battery">Bateria</string>
   <string name="device_build_id">Número de versão</string>
   <string name="device_camera">Câmara</string>
-  <string name="device_complete_parameters">Todas as especificações</string>
+  <string name="device_complete_parameters">Especificações</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Dual-Core</string>
   <string name="device_cpu4_info">Quad-Core</string>

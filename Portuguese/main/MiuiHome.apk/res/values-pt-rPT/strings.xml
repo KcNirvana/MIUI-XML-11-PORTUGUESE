@@ -19,6 +19,8 @@
   <string name="all_app_category_photography">Fotografia</string>
   <string name="all_app_category_shopping">Compras</string>
   <string name="all_app_category_tools">Ferramentas</string>
+  <string name="all_apps">Todas as aplicações</string>
+  <string name="all_apps_no_search_results">Sem resultados</string>
   <string name="all_apps_search_app">Pesquisar aplicações</string>
   <string name="all_apps_search_market_message">Pesquisar online</string>
   <string name="all_apps_setting_desktop_desc">Mostrar todas as aplicações instaladas no ecrã inicial. Prima e segure o ícone da aplicação para ver os atalhos disponíveis, gerir ou desinstalar a aplicação</string>
@@ -33,6 +35,7 @@
   <string name="all_apps_setting_scroll_bar">Barra de deslocamento</string>
   <string name="all_apps_setting_title">Ecrã inicial</string>
   <string name="all_apps_slide_up_tips">Deslizar para cima está reservado para abrir a gaveta de aplicações. Troque para o modo de ecrã inicial normal e tente novamente</string>
+  <string name="all_apps_suggestions">Sugestões de aplicações</string>
   <string name="announce_for_app_move_in_folder">Movida para a posição %1$d na pasta</string>
   <string name="announce_for_checked">%1$s, verificado</string>
   <string name="announce_for_choose_default_screen">Definir ecrã %1$d como predefinido</string>
@@ -342,6 +345,7 @@
   <string name="privacy_thumbnail_blur_summary">Desfocar pré-visualização de aplicações em Recentes</string>
   <string name="privacy_thumbnail_blur_title">Desfocar pré-visualização de aplicações</string>
   <string name="quick_app">Aplicações rápidas</string>
+  <string name="recent_apps">Recentes</string>
   <string name="recents_config_title">Recentes</string>
   <string name="recommend_app">Sugestões da aplicação</string>
   <string name="recommend_apps_default_title">Vazio</string>

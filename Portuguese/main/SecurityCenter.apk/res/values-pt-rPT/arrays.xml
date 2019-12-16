@@ -13,6 +13,11 @@
     <item>Dias úteis</item>
     <item>Personalizar</item>
   </string-array>
+  <string-array name="applock_password_types">
+    <item>Padrão</item>
+    <item>PIN</item>
+    <item>Palavra-passe</item>
+  </string-array>
   <string-array name="date_of_app_all">
     <item>"Ontem (Dados móveis) "</item>
     <item>"Hoje (Dados móveis) "</item>

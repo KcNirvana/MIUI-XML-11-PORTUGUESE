@@ -110,6 +110,7 @@
   <string name="app_category_video">Filmes e vídeos</string>
   <string name="app_not_found">Não foi encontrada nenhuma aplicação para realizar esta acção</string>
   <string name="app_running_notification_text">Toque para mais informações ou para parar a aplicação</string>
+  <string name="app_running_notification_tip_text">Isto pode diminuir o desempenho do seu dispositivo e descarregar bateria. Toque para sair da aplicação</string>
   <string name="app_running_notification_title">%1$s está em execução</string>
   <string name="autofill">Preenchimento automático</string>
   <string name="autofill_address_type_same_as_re">mesmo que</string>

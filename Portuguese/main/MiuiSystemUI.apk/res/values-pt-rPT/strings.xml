@@ -246,6 +246,11 @@
   <string name="accessibility_status_bar_headphones">Auscultadores ligados</string>
   <string name="accessibility_status_bar_headset">Auriculares ligados</string>
   <string name="accessibility_status_bar_hotspot">PA Móvel</string>
+  <string name="accessibility_status_bar_no_slave_wifi">Wi-Fi secundária desligada</string>
+  <string name="accessibility_status_bar_slave_wifi_four_bars">Wi-Fi secundária quatro barras</string>
+  <string name="accessibility_status_bar_slave_wifi_one_bar">Wi-Fi secundária uma barra</string>
+  <string name="accessibility_status_bar_slave_wifi_three_bars">Wi-Fi secundária três barra</string>
+  <string name="accessibility_status_bar_slave_wifi_two_bars">Wi-Fi secundária duas barras</string>
   <string name="accessibility_three_bars">Três barras</string>
   <string name="accessibility_two_bars">Duas barras</string>
   <string name="accessibility_tty_enabled">Teletypewriter activado</string>
@@ -1407,6 +1412,12 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_user_new_user">Novo utilizador</string>
   <string name="quick_settings_user_title">Utilizador</string>
   <string name="quick_settings_vibrate_label">Vibração</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_accelerated">A optimizar velocidade</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Cancelar</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirmar</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Não mostrar novamente</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">A trocar de rede</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">A optimização de rede Wi-Fi dupla necessita de utilizar duas bandas diferentes. Se ligar a uma rede primária diferente, a ligação auxiliar vai ser perdida</string>
   <string name="quick_settings_wifi_detail_empty_text">Sem redes Wi-Fi disponíveis</string>
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_nearby">Seleccionar uma rede próxima</string>

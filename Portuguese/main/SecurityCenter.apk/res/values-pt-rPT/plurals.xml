@@ -28,6 +28,10 @@
     <item quantity="other">Utilizada há %d anos</item>
     <item quantity="one">Utilizada há %d ano</item>
   </plurals>
+  <plurals name="applock_guide_app_count_tips">
+    <item quantity="other">Pode proteger pelo menos %s aplicações</item>
+    <item quantity="one">Pode proteger pelo menos %s aplicação</item>
+  </plurals>
   <plurals name="bg_network_allow_count">
     <item quantity="other">%d aplicações podem ligar à rede em segundo plano</item>
     <item quantity="one">%d aplicação pode ligar à rede em segundo plano</item>
@@ -95,6 +99,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
   <plurals name="gb_ad_ten_thousand_people_play">
     <item quantity="other">%1$d pessoas estão a jogar</item>
     <item quantity="one">%1$d pessoa está a jogar</item>
+  </plurals>
+  <plurals name="gb_record_time_title">
+    <item quantity="other">%d segundos</item>
+    <item quantity="one">%d segundo</item>
   </plurals>
   <plurals name="hide_txt_hint_with_blank_2">
     <item quantity="other">    +%1$d mais caracteres</item>
@@ -447,6 +455,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
   <plurals name="uninstall_game_count_title">
     <item quantity="other">Ainda não adicionou %d jogos</item>
     <item quantity="one">Ainda não adicionou %d jogo</item>
+  </plurals>
+  <plurals name="videobox_settings_manager_apps_count">
+    <item quantity="other">%d aplicações</item>
+    <item quantity="one">%d aplicação</item>
   </plurals>
   <plurals name="view_num">
     <item quantity="other">%1$d visualizações</item>
