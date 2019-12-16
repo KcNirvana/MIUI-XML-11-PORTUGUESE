@@ -1846,7 +1846,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_battery">Bateria</string>
   <string name="device_build_id">Número de versão</string>
   <string name="device_camera">Câmara</string>
-  <string name="device_complete_parameters">Especificações</string>
+  <string name="device_complete_parameters">Todas as especificações</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Dual-Core</string>
   <string name="device_cpu4_info">Quad-Core</string>
@@ -4820,7 +4820,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_paper_mode_off_apps_title">Não utilizar Modo de Leitura</string>
   <string name="screen_paper_mode_range_title">Definições</string>
   <string name="screen_paper_mode_set_apps_title">Aplicações em Modo de Leitura</string>
-  <string name="screen_paper_mode_summary">O Modo de Leitura torna as cores do seu ecrã mais quentes, permitindo que os seus olhos relaxem</string>
+  <string name="screen_paper_mode_summary">O Modo de Leitura torna as cores do ecrã mais quentes, permitindo que os seus olhos relaxem</string>
   <string name="screen_paper_mode_time_summary">Programar hora de ligar/desligar</string>
   <string name="screen_paper_mode_time_title">Programar</string>
   <string name="screen_paper_mode_title">Modo de Leitura</string>
