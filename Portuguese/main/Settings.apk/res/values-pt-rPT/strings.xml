@@ -6060,20 +6060,20 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="unlock_disable_frp_warning_content_password">As funcionalidades de protecção do dispositivo não funcionam sem a palavra-passe</string>
   <string name="unlock_disable_frp_warning_content_password_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem a palavra-passe.
 
-As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações"</string>
+As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não vai poder desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações"</string>
   <string name="unlock_disable_frp_warning_content_pattern">As funcionalidades de protecção do dispositivo não funcionam sem o padrão</string>
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o padrão.
 
-As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações"</string>
+As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não vai poder desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações"</string>
   <string name="unlock_disable_frp_warning_content_pin">As funcionalidades de protecção do dispositivo não funcionam sem o PIN</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o PIN.
 
-As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações"</string>
+As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não vai poder desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações"</string>
   <string name="unlock_disable_frp_warning_content_profile">A protecção de perfil não vai funcionar sem a sua palavra-passe</string>
   <string name="unlock_disable_frp_warning_content_unknown">As funcionalidades de protecção do dispositivo não funcionam sem o bloqueio de ecrã</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o bloqueio de ecrã.
 
-As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não pode desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações"</string>
+As suas impressões digitais guardadas também vão ser removidas deste dispositivo e não vai poder desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações"</string>
   <string name="unlock_disable_frp_warning_ok">Sim, remover</string>
   <string name="unlock_disable_frp_warning_title">Remover a protecção do dispositivo?</string>
   <string name="unlock_disable_lock_pin_summary">Desligar PIN</string>
