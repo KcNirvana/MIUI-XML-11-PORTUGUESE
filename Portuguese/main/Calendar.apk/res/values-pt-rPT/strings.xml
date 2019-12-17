@@ -313,7 +313,10 @@
   <string name="no_visiable_calendar_message_only_for_xiaomi_account">É necessário adicionar uma conta do calendário. Toque em \"Adicionar conta\" para continuar</string>
   <string name="no_visiable_calendar_select_account">Adicionar conta</string>
   <string name="no_visiable_calendar_title">Adicionar conta</string>
-  <string name="notification_channel_name">Lembretes do calendário</string>
+  <string name="notification_channel_name">Lembretes normais</string>
+  <string name="notification_channel_name_no_sound">Lembretes silenciados</string>
+  <string name="notification_channel_name_no_vibration">Lembretes sem vibração</string>
+  <string name="notification_channel_name_silent">Lembretes em modo Não incomodar</string>
   <string name="notification_open_setting_button_exit">Não, obrigado</string>
   <string name="notification_open_setting_button_ok">Permitir</string>
   <string name="notification_open_setting_message">Não vai receber notificações acerca de eventos até dar permissão ao Calendário para lhe enviar notificações</string>

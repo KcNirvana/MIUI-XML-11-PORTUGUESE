@@ -6410,6 +6410,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="vibrate_title">Vibração</string>
   <string name="vibrate_when_ringing_title">Vibrar ao receber chamadas</string>
   <string name="video_calling_settings_title">Chamada de vídeo da operadora</string>
+  <string name="video_tool_box_title">Ferramentas de vídeo</string>
   <string name="vip_list">Permitir chamadas recebidas</string>
   <string name="virtual_keyboard_category">Teclado virtual</string>
   <string name="virtual_keyboards_for_work_title">Teclado virtual para perfil de trabalho</string>

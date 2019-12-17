@@ -1133,7 +1133,7 @@ medical card"</string>
   <string name="gb_advance_settings_vibration_4d_summary">Demonstrar acções no jogo utilizando a vibração</string>
   <string name="gb_ad_game_size">MB</string>
   <string name="gb_add_game_hint">Adicionar itens da lista de aplicações</string>
-  <string name="gb_audition_instruction">Prima e segure para gravar (0-10s)</string>
+  <string name="gb_audition_instruction">Prima e segure para gravar (%1$s-%2$ss)</string>
   <string name="gb_audition_play_instruction">Utilize auriculares para um melhor efeito</string>
   <string name="gb_create_icon_summary">Criar atalho no ecrã inicial</string>
   <string name="gb_description_image_button_answer">Atender</string>
