@@ -1123,7 +1123,7 @@ Taxa de amostragem"</string>
   <string name="bootloader_device_bind_server_token_expired_1">Não foi possível verificar. Tente adicionar a sua conta e dispositivo novamente</string>
   <string name="bootloader_device_bind_server_token_expired_2">Não foi possível verificar. Inicie sessão na sua conta novamente e comece do início</string>
   <string name="bootloader_device_bind_sim_invalid">O cartão SIM é inválido. Substitua-o e tente novamente</string>
-  <string name="bootloader_locked_answer_1">Nós bloqueamos os dispositivos para garantir que são seguros. Se precisar de entrar no modo Fastboot e flashar o seu dispositivo, pode desbloqueá-lo</string>
+  <string name="bootloader_locked_answer_1">Nós bloqueamos os dispositivos para garantir que são seguros. Se precisar de entrar no modo Fastboot e flashar o seu dispositivo, tem de desbloqueá-lo primeiro</string>
   <string name="bootloader_locked_answer_1_warning">Lembre-se: Não vai poder utilizar \"Localizar Dispositivo\" depois do dispositivo estar desbloqueado</string>
   <string name="bootloader_locked_answer_2">"1. Certifique-se que já inseriu um cartão SIM no seu dispositivo
 2. Desligue o Wi-Fi e ligue os dados móveis. Certifique-se que o seu dispositivo consegue ligar à Internet

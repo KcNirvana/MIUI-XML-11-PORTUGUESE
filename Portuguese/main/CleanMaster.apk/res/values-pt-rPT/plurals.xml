@@ -156,4 +156,24 @@
         <item quantity="other">Eliminar %1$d itens?</item>
         <item quantity="one">Eliminar %1$d item?</item>
     </plurals>
+    <plurals name="global_wa_clean_finish_audio">
+        <item quantity="other">Libertados &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficiente para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> músicas)</item>
+        <item quantity="one">Libertados &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficiente para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> música)</item>
+    </plurals>
+    <plurals name="global_wa_clean_finish_picture">
+        <item quantity="other">Libertados &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficiente para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> fotos)</item>
+        <item quantity="one">Libertados &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficiente para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> foto)</item>
+    </plurals>
+    <plurals name="global_wa_image">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="global_wa_video">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="global_wa_voice">
+        <item quantity="other">Encontrados &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mensagens de voz</item>
+        <item quantity="one">Encontrado &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> mensagem de voz</item>
+    </plurals>
 </resources>

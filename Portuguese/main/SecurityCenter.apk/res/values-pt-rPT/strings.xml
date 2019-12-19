@@ -302,6 +302,8 @@
   <string name="app_usage_recently">Utilizada recentemente</string>
   <string name="app_version">Versão</string>
   <string name="app_wifi">Wi-Fi</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Limpar %s da cache do WeChat para libertar espaço</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_title">Não esquecer de limpar a cache</string>
   <string name="application_item_already_permission">Permitida</string>
   <string name="application_item_disable">Restringida</string>
   <string name="applock_add_account">Adicionar</string>
@@ -1164,6 +1166,7 @@ medical card"</string>
   <string name="gb_msg_transparent_dispaly_summary">Transparência</string>
   <string name="gb_network_status_bad">Não foi possível ligar à rede</string>
   <string name="gb_new_feature">Nova funcionalidade</string>
+  <string name="gb_operat_frequently">Não tão rápido!</string>
   <string name="gb_shortcut_pref_title">Atalho de ecrã inicial</string>
   <string name="gb_sign_notification_title">"Aumentar a velocidade de rede para jogos "</string>
   <string name="gb_sound_audition">Tentar</string>
@@ -1177,7 +1180,8 @@ medical card"</string>
   <string name="gb_voice_changer_robot">Robot</string>
   <string name="gdpr_msg">"Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa <a href='https://privacy.mi.com/all/%1$s_%2$s'>Política de Privacidade</a>"</string>
   <string name="get_sys_info">A obter informações…</string>
-  <string name="gigabyteShort">GB</string>
+  <string name="global_wa_setting_alert_dialog_content">Pode libertar %s</string>
+  <string name="global_wa_setting_alert_dialog_title">Limpeza WhatsApp</string>
   <string name="gmscore_support_remind">Ligue esta funcionalidade se estiver com problemas a utilizar Gmail, Google Maps e outras aplicações Google</string>
   <string name="gmscore_support_service">Serviços Google básicos</string>
   <string name="go_to">Continuar</string>
@@ -1522,6 +1526,7 @@ da operadora"</string>
   <string name="net_booster_overdue_notification_tip">A sessão do acelerador de rede vai terminar. Renovar a sessão?</string>
   <string name="net_booster_tip">Ligue o acelerador de rede para tornar a ligação Wi-Fi mais estável e reduzir o atraso da rede</string>
   <string name="net_booster_title">Acelerador de rede</string>
+  <string name="net_boostering">Acelerador de rede</string>
   <string name="net_boosting">A aumentar velocidade…</string>
   <string name="net_delay_title">Atraso</string>
   <string name="net_overdue">Sessão terminada</string>
@@ -1594,6 +1599,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="notification_channel_battery">Bateria</string>
   <string name="notification_exit_power_save_mode">Poupança de bateria desligada</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria carregada a %s</string>
+  <string name="notification_garbage_cleanup_summary">Limpar lixo (%s) para acelerar o seu dispositivo</string>
+  <string name="notification_garbage_cleanup_title">Limpar lixo</string>
   <string name="notification_low_battery_action_btn">Ligar</string>
   <string name="notification_low_battery_need_charge">Carregue o seu dispositivo</string>
   <string name="notification_low_battery_open_save_mode">Ligar poupança de bateria</string>
