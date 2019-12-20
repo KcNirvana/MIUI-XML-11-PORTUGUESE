@@ -625,7 +625,7 @@ Sair desta página agora?"</string>
           &lt;li>Informações introduzidas em formulários
         &lt;/ul>"</string>
     <string name="mw_new_tab_otr_subtitle">Agora pode navegar com privacidade, e outras pessoas que utilizam este dispositivo não verão a sua actividade. Entretanto, transferências e favoritos ainda serão guardados</string>
-    <string name="mw_new_tab_otr_title">Você está anónimo</string>
+    <string name="mw_new_tab_otr_title">Está anónimo</string>
     <string name="mw_new_tab_otr_visible">"A sua actividade &lt;em>pode ainda ser visível&lt;/em> para:
         &lt;ul>
           &lt;li>Websites que visitar
@@ -775,8 +775,8 @@ Sair desta página agora?"</string>
     <string name="nav_bottom_bar_new_tab">Novo separador</string>
     <string name="nav_screen_container_tab_incognito">Separador anónimo</string>
     <string name="nav_screen_container_tab_normal">Separador normal</string>
-    <string name="nav_screen_incognito_message">Seu histórico de navegação e busca não serão guardados no modo anónimo. Lembre-se que os ficheiros que você transferir e os favoritos adicionados ainda serão guardados</string>
-    <string name="nav_screen_incognito_title"> Modo anónimo</string>
+    <string name="nav_screen_incognito_message">O seu histórico de navegação e pesquisa não serão guardados no modo anónimo. Lembre-se que os ficheiros que transferir e os favoritos adicionados ainda serão guardados</string>
+    <string name="nav_screen_incognito_title">Modo anónimo</string>
     <string name="navigation_delete_all">Deslize para a esquerda ou direita para fechar todos os separadores</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Cancelar</string>
     <string name="navigationbar_rightbutton_actiontext_go">Ir</string>

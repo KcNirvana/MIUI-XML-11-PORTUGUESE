@@ -2597,7 +2597,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="handy_mode">Modo Uma Mão</string>
   <string name="handy_mode_enable">Modo Uma Mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
-  <string name="handy_mode_tips">"Deslize para a esquerda ou para a direita desde o botão Início para puxar a imagem para um dos lados. "</string>
+  <string name="handy_mode_tips">"Deslize para a esquerda ou para a direita desde o botão Início para puxar a imagem para um dos lados "</string>
   <string name="handy_mode_tips_full_screen">Quando estiver a utilizar os gestos de ecrã inteiro, pode ligar o Modo Uma Mão utilizando o menu flutuante. Pode também trocar para botões em vez de gestos</string>
   <string name="haptic_feedback_enable_title">Vibração ao tocar</string>
   <string name="haptic_feedback_level">Vibração</string>
@@ -6671,7 +6671,7 @@ Reveja a Política de Privacidade do fornecedor de serviços"</string>
   <string name="wifi_assistant_data_prompt_summary">Mostrar aviso de utilização de dados quando o assistente Wi-Fi mudar para dados móveis</string>
   <string name="wifi_assistant_description">"O assistente Wi-Fi funciona assim:
 1. Quando uma ligação Wi-Fi for fraca, o assistente Wi-Fi vai tentar ligar o seu dispositivo a outras redes Wi-Fi disponíveis
-2. Se todas as redes Wi-Fi disponíveis forem fracas e os dados móveis estiverem ligado, o assistente Wi-Fi trocar para dados móveis"</string>
+2. Se todas as redes Wi-Fi disponíveis forem fracas e os dados móveis estiverem ligados, o assistente Wi-Fi vai trocar para dados móveis"</string>
   <string name="wifi_assistant_disconnect">Desligar</string>
   <string name="wifi_assistant_explicitly_confirm_data_message">Esta rede Wi-Fi não tem acesso à Internet. Utilizar dados móveis?</string>
   <string name="wifi_assistant_explicitly_confirm_disconnect">Esta rede Wi-Fi não tem acesso à Internet. Desligar agora?</string>
