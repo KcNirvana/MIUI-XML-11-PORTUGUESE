@@ -418,7 +418,7 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d eliminadas, %2$d guardadas</string>
   <string name="delete_third_party_photo">Eliminar esta foto?</string>
   <string name="delete_third_party_video">Eliminar este vídeo?</string>
-  <string name="delete_to_trash_tips">Pode ver as fotos eliminadas recentemente em Definições > Lixeira</string>
+  <string name="delete_to_trash_tips">Pode ver as fotos eliminadas recentemente em Definições > Lixo</string>
   <string name="deny">Rejeitar</string>
   <string name="detail_title">Detalhes</string>
   <string name="device_offline">O outro dispositivo está offline. Comece de novo</string>
