@@ -4810,6 +4810,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_on_proximity_sensor_summary">Bloquear toques quando colocado no bolso</string>
   <string name="screen_on_proximity_sensor_title">Modo Bolso</string>
   <string name="screen_optimize">Contraste</string>
+  <string name="screen_optimize_disabled">Não é possível ajustar temperatura da cor no Modo de Leitura</string>
   <string name="screen_paper_mode_adjust_level">Intensidade</string>
   <string name="screen_paper_mode_apps_loading">Aguarde…</string>
   <string name="screen_paper_mode_apps_title">Utilizar Modo de Leitura</string>
