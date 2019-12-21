@@ -1054,7 +1054,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="system_folders_trash_summary">Seleccione a pasta de lixo do servidor</string>
   <string name="system_folders_trash_title">Pasta lixo</string>
   <string name="system_root_path">Armazenamento interno</string>
-  <string name="system_security_open_error">Para ajustar definições de segurança, conceda ao Email as permissões necessárias nas Definições</string>
+  <string name="system_security_open_error">Para ajustar as definições de segurança, conceda ao Email as permissões necessárias nas Definições</string>
   <string name="system_setup_open_error">Desligar a sincronização de Email nas Definições</string>
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Toque para configurar</string>
@@ -1075,7 +1075,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="toastbar_calendar_permission_switch_close">Para receber alertas do calendário, conceda ao Email as permissões necessárias nas Definições</string>
   <string name="toastbar_contacts_permission_switch_close">Para adicionar contactos, conceda ao Email as permissões necessárias nas Definições</string>
   <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Ligue a sincronização de contactos e calendário para sincronizar</string>
-  <string name="toastbar_local_calendar_sync_switch_close">Ligue a sincronização do calendário  para receber alertas</string>
+  <string name="toastbar_local_calendar_sync_switch_close">Ligue a sincronização do calendário para receber alertas</string>
   <string name="toastbar_local_contacts_sync_swtich_close">Ligue a sincronização de contactos para adicionar contactos</string>
   <string name="today_text">Hoje</string>
   <string name="too_large_to_attach_additional">O tamanho do ficheiro não pode exceder %1$s</string>
