@@ -214,6 +214,10 @@ Selecção"</string>
   <string name="callFailed_fdn_only">As chamadas efectuadas estão restritas por FDN</string>
   <string name="callFailed_incoming_cb_enabled">As chamadas recebidas estão a ser barradas</string>
   <string name="callFailed_invalid_credentials">Utilizador ou palavra-passe incorrecto</string>
+  <string name="callFailed_invalid_mandatory_information">Informação obrigatória inválida</string>
+  <string name="callFailed_invalid_number_format">Formato de número inválido (número incompleto)</string>
+  <string name="callFailed_invalid_transaction_identifier">Valor inválido do identificador de transacção</string>
+  <string name="callFailed_invalid_transit_NW_selection">Selecção de rede de trânsito inválida</string>
   <string name="callFailed_limitExceeded">Limite ACM excedido</string>
   <string name="callFailed_low_battery">Bateria fraca</string>
   <string name="callFailed_number_unreachable">Número inacessível</string>
