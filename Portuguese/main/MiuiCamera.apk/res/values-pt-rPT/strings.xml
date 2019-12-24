@@ -94,9 +94,9 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="beauty_level_3">3</string>
   <string name="beauty_level_4">4</string>
   <string name="beauty_level_5">5</string>
-  <string name="beauty_mode_reset_toast">Efeitos de Embelezar repostos</string>
+  <string name="beauty_mode_reset_toast">Efeitos de figura repostos</string>
   <string name="beauty_reset">Repor</string>
-  <string name="beauty_reset_toast">Efeitos de figura repostos</string>
+  <string name="beauty_reset_toast">Efeitos de Embelezar repostos</string>
   <string name="beauty_tab_name_live_beauty">Embelezar</string>
   <string name="beauty_tab_name_live_filter">Filtros</string>
   <string name="bokeh_use_hint">Efeito de profundidade</string>
