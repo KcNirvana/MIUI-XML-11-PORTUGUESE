@@ -50,8 +50,9 @@
   <string name="description_content">Além do básico, a Calculadora também funciona como conversor, calculador de hipotecas e taxas</string>
   <string name="description_title">Acerca de Calculadora</string>
   <string name="devided_by_zero_reminder_message">Não é possível a divisão por zero</string>
-  <string name="dialog_privacy_content">Além das funcionalidades básicas inclui uma calculadora científica e um conversor. Algumas funcionalidades necessitam de ligar à Internet para funcionar normalmente. Tem de ler e concordar com os nossos %1$s e %2$s antes de utilizar a Calculadora</string>
+  <string name="dialog_privacy_content">Além das funcionalidades básicas inclui uma calculadora científica e um conversor. Algumas funcionalidades necessitam de ligar à Internet para funcionar normalmente. Antes de utilizar esta aplicação, tem de ler e concordar com os nossos &amp;lt;a href=%1$s&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;</string>
   <string name="dialog_privacy_title">Termos e condições</string>
+  <string name="disallow">Não concordar</string>
   <string name="divDesc">Dividir</string>
   <string name="dotDesc">Ponto</string>
   <string name="eDesc">Número de Euler</string>
@@ -169,9 +170,18 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="negDesc">Trocar entre temperaturas acima e abaixo de zero</string>
   <string name="network_confirm_content">O conversor de moeda e o calculador taxas e hipoteca necessitam de utilizar a ligação à Internet para funcionar normalmente</string>
   <string name="network_confirm_title">Ligação à rede necessária</string>
+  <string name="network_privacy">Note que esta aplicação necessita de ligar à Internet e obter dados pessoais. Nós vamos proteger as suas informações pessoais de acordo com as leis relevantes, regulamentos e políticas de privacidade</string>
   <string name="network_purpose">Bem-vindo à Calculadora! A Calculadora permite converter divisas, calcular empréstimos, etc.</string>
   <string name="not_supported_due_to_language">Funcionalidade apenas disponível para o idioma chinês</string>
   <string name="percentDesc">Percentagem</string>
+  <string name="permission_location">Aceder à localização</string>
+  <string name="permission_location_desc">Para fornecer serviços baseados em localização</string>
+  <string name="permission_phone">Aceder ao estado e ID do dispositivo</string>
+  <string name="permission_phone_desc">Para identificar diferentes dispositivos</string>
+  <string name="permission_privacy_link">Antes de utilizar esta aplicação, tem de ler e concordar com os nossos &amp;lt;a href=%1$s&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;</string>
+  <string name="permission_purpose">"Bem-vindo à Calculadora! Além das funcionalidades básicas inclui uma calculadora científica e um conversor. Nós vamos proteger as suas informações pessoais de acordo com as leis relevantes, regulamentos e políticas de privacidade..
+Note que esta aplicação necessita de ligar à Internet e necessita das seguintes permissões para obter dados pessoais:"</string>
+  <string name="permission_remove_desc">Pode escolher desinstalar esta aplicação ou restringir permissões e revogar a sua autorização em Definições</string>
   <string name="piDesc">Pi</string>
   <string name="plusDesc">Mais</string>
   <string name="powerDesc">Potência</string>

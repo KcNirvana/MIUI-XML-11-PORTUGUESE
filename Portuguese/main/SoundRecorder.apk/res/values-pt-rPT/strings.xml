@@ -25,6 +25,7 @@
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Aviso de utilização de dados</string>
   <string name="delete">Eliminar</string>
+  <string name="delete_cloud_data_at_same_time">Eliminar da Xiaomi Cloud também</string>
   <string name="delete_dialog_message">Eliminar a gravação?</string>
   <string name="deleting_message">A eliminar…</string>
   <string name="details">Detalhes</string>
@@ -77,6 +78,11 @@
   <string name="preference_enable_earpiece_title">Utilizar auriculares para reprodução</string>
   <string name="preference_led_indicator">Notificações no ecrã de bloqueio</string>
   <string name="preference_led_indicator_prompt">Durante a gravação mostrar informação na barra de estado e activar o LED de notificações</string>
+  <string name="preference_online_orders">Encomendas online</string>
+  <string name="preference_recog_faqs">FAQ transcrição online</string>
+  <string name="preference_recog_terms">Termos de Serviço</string>
+  <string name="preference_record_desktop_indicator_summary">Mostrar um indicador azul quando o Gravador estiver a executar em segundo plano</string>
+  <string name="preference_record_desktop_indicator_title">Indicador no ecrã inicial</string>
   <string name="preference_record_scenes_dialog_title">Escolher tipo de gravação</string>
   <string name="preference_scenes">Tipo de gravação</string>
   <string name="preference_silent_mode">Silenciar toque ao gravar</string>

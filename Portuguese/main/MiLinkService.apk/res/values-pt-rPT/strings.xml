@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Serviço UniPlay</string>
-    <string name="service_name">Serviço UniPlay</string>
+    <string name="actionbar_button_up_description">Voltar</string>
     <string name="tile_label">Transmitir</string>
     <string name="dialog_can_not_find_device">Não foi possível localizar dispositivos</string>
-    <string name="dialog_please_make_sure_tv_ok_or_help">Verifique se o dispositivo de destino tem a função de transmissão sem fios activada.
+    <string name="dialog_please_make_sure_tv_ok_or_help">"Certifique-se que a transmissão sem fios está ligada no destinatário.
 Para mais questões, veja a ajuda"</string>
-    <string name="dialog_please_make_sure_tv_ok">O dispositivo de destino tem de ligar a transmissão sem fios</string>
-    <string name="dialog_select_tv">Seleccionar dispositivo para ligar</string>
+    <string name="dialog_select_tv">Seleccionar dispositivo (%d)</string>
     <string name="dialog_scanning_device">A pesquisar dispositivos…</string>
     <string name="dialog_scanning_precondition">Ligue o Wi-Fi e o Bluetooth para utilizar a transmissão sem fios</string>
     <string name="dialog_show_help">Ajuda</string>
     <string name="dialog_cancle">Cancelar</string>
     <string name="dialog_retry">Tentar novamente</string>
     <string name="dialog_ok">OK</string>
+    <string name="dialog_only_suport_content">Apenas pode transmitir fotos, vídeos ou música</string>
     <string name="dialog_open_wifi_bt">Ligar</string>
     <string name="dialog_recent_connected">Recentes</string>
-    <string name="dialog_only_suport_content">Apenas pode transmitir fotos, vídeos ou música</string>
     <string name="dialog_connecting">A ligar…</string>
     <string name="dialog_connected">Ligado</string>
     <string name="dialog_connect_fail">Não foi possível ligar</string>
@@ -105,7 +103,7 @@ Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão 
     <string name="hang_up_alert_dialog_content">A transmissão não vai ser interrompida quando o ecrã desligar. Prima o botão Ligar/Desligar para voltar a ligar o ecrã</string>
     <string name="hang_up_alert_dialog_pos">OK</string>
     <string name="hang_up_alert_dialog_neg">Cancelar</string>
-    <string name="san_wait_msg_1">O destinatário necessita de ligar a transmissão sem fios</string>
+    <string name="san_wait_msg_1">Ligar a transmissão sem fios no destinatário</string>
     <string name="san_wait_msg_2">Procurar por dispositivos pode levar algum tempo…</string>
     <string name="san_wait_msg_3">Dispositivos externos são mais simples de localizar quando estão ligados à mesma rede que o telefone</string>
     <string name="san_wait_msg_4">Ver \"Ajuda\" se não conseguir localizar dispositivos</string>

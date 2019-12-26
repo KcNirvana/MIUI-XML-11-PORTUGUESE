@@ -2559,6 +2559,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="google_service_title">Serviços Google</string>
   <string name="google_title">Google</string>
   <string name="got_it">Percebi</string>
+  <string name="gps_description">Vários sistema de navegação por satélite (GPS, BeiDou, GLONASS, Galileo) suportados</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
   <string name="gxzw_add_fingerprint_area">Sensor de impressão digital</string>
   <string name="gxzw_add_fingerprint_continue">Continuar</string>
@@ -5542,6 +5543,8 @@ Esta funcionalidade necessita de permissões para aceder à sua localização, u
   <string name="sound_title">Som</string>
   <string name="sound_vibrate_settings">Sons e vibração</string>
   <string name="sound_work_settings">Sons do perfil de trabalho</string>
+  <string name="speaker">Altifalante</string>
+  <string name="speaker_clean">Limpar altifalante</string>
   <string name="special_access">Acesso especial de aplicações</string>
   <string name="special_access_more">Ver mais</string>
   <string name="speed_label_fast">Rápida</string>

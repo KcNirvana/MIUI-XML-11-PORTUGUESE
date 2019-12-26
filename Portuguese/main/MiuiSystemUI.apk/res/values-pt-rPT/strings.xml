@@ -246,11 +246,11 @@
   <string name="accessibility_status_bar_headphones">Auscultadores ligados</string>
   <string name="accessibility_status_bar_headset">Auriculares ligados</string>
   <string name="accessibility_status_bar_hotspot">PA Móvel</string>
-  <string name="accessibility_status_bar_no_slave_wifi">Wi-Fi secundária desligada</string>
-  <string name="accessibility_status_bar_slave_wifi_four_bars">Wi-Fi secundária quatro barras</string>
-  <string name="accessibility_status_bar_slave_wifi_one_bar">Wi-Fi secundária uma barra</string>
-  <string name="accessibility_status_bar_slave_wifi_three_bars">Wi-Fi secundária três barra</string>
-  <string name="accessibility_status_bar_slave_wifi_two_bars">Wi-Fi secundária duas barras</string>
+  <string name="accessibility_status_bar_no_slave_wifi">Wi-Fi auxiliar desligada</string>
+  <string name="accessibility_status_bar_slave_wifi_four_bars">Wi-Fi auxiliar quatro barras</string>
+  <string name="accessibility_status_bar_slave_wifi_one_bar">Wi-Fi auxiliar uma barra</string>
+  <string name="accessibility_status_bar_slave_wifi_three_bars">Wi-Fi auxiliar três barra</string>
+  <string name="accessibility_status_bar_slave_wifi_two_bars">Wi-Fi auxiliar duas barras</string>
   <string name="accessibility_three_bars">Três barras</string>
   <string name="accessibility_two_bars">Duas barras</string>
   <string name="accessibility_tty_enabled">Teletypewriter activado</string>

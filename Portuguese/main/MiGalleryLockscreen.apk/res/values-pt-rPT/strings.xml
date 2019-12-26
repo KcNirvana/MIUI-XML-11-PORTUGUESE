@@ -118,6 +118,7 @@
   <string name="declaration">Obtenha novos papéis de parede entregues directamente no seu ecrã de bloqueio todos os dias gratuitamente</string>
   <string name="declaration_lockscreen_title">Obtenha novos papéis de parede diariamente</string>
   <string name="declaration_title">Termos e condições</string>
+  <string name="delete_pic">Eliminar imagem</string>
   <string name="deny_des">Os papéis de parede aleatórios necessitam de aceder à Galeria para funcionar normalmente</string>
   <string name="detail_ad_type_ad">Anúncios</string>
   <string name="detail_ad_type_video">Vídeos populares</string>
@@ -230,6 +231,7 @@
   <string name="lockscreen_wallpaper_changed">O papel de parede do ecrã de bloqueio foi actualizado</string>
   <string name="manage">Gerir</string>
   <string name="minutes_15">A cada 15 minutos</string>
+  <string name="minutes_5">A cada 5 minutos</string>
   <string name="mode_auto_desc">Ligar papéis de parede aleatórios para receber novas imagens automaticamente</string>
   <string name="mode_auto_desc_open">Receber novas imagens automaticamente</string>
   <string name="mode_auto_desc_selected">A receber novas imagens automaticamente</string>
@@ -303,6 +305,7 @@
   <string name="see_more">Ver mais</string>
   <string name="see_more_content">Ver mais</string>
   <string name="select_package">Seleccionar versão</string>
+  <string name="select_photo_album">Seleccionar álbum</string>
   <string name="select_picture">Seleccionar imagens</string>
   <string name="select_picture_des">Adicione as suas fotos e imagens online para as fazer aparecer na apresentação de diapositivos automaticamente</string>
   <string name="setting_about_item_des">Versão</string>
@@ -328,7 +331,7 @@
   <string name="shortcut_created">Atalho criado</string>
   <string name="shortcut_exist">O atalho já existe</string>
   <string name="shortcut_failed">Não foi possível criar o atalho</string>
-  <string name="show_wallpaper_loop_entry_title">Apresentação no ecrã inicial</string>
+  <string name="show_wallpaper_loop_entry_title">Definições de apresentação</string>
   <string name="sign_in_title">Iniciar sessão com Conta Mi</string>
   <string name="sliding_on_unlock">Deslize para cima para desbloquear</string>
   <string name="sns_sign_in">Outros métodos de iniciar sessão</string>
@@ -405,6 +408,7 @@
   <string name="subscribe_free">Subscrever</string>
   <string name="subscribe_item_checked">Subscrito</string>
   <string name="subscribe_item_unchecked">Não subscrito</string>
+  <string name="subscribe_success_content_per_5_minutes">Alterar papel de parede a cada 5 minutos</string>
   <string name="subscribe_success_content_per_day">Alterar papel de parede a cada dia</string>
   <string name="subscribe_success_content_per_hour">Alterar papel de parede a cada hora</string>
   <string name="subscribe_success_content_per_quarter">Alterar papel de parede a cada 15 minutos</string>
@@ -437,6 +441,8 @@
   <string name="time_current">Agora mesmo</string>
   <string name="toast_ad_down_tip2">A transferir %s…</string>
   <string name="toast_connect_failed_tip">Não foi possível ligar. Aguarde um momento e tente novamente</string>
+  <string name="toast_has_close_gallery">Papéis de parede aleatórios desligados com sucesso</string>
+  <string name="toast_has_open_gallery">Papéis de parede aleatórios ligados com sucessoy</string>
   <string name="toast_load_failed_tip">Não foi possível carregar itens</string>
   <string name="toast_load_hd_fail">Não foi possível carregar a imagem original</string>
   <string name="toast_neterror_tip">Não foi possível ligar à rede</string>

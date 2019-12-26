@@ -18,6 +18,7 @@
   <string name="accessibility_camera_picker">Trocar câmara frontal e traseira</string>
   <string name="accessibility_camera_picker_finish">Trocadas com sucesso</string>
   <string name="accessibility_camera_shutter_finish">Tirou uma foto com sucesso</string>
+  <string name="accessibility_camera_switch_capture_recording">Trocar entre modo foto e vídeo</string>
   <string name="accessibility_camera_ultra_wide_bokeh_off">Modo ecrã inteiro desligado</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Modo ecrã inteiro ligado</string>
   <string name="accessibility_closed">Desligou</string>
@@ -74,6 +75,9 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="autozoom_disabled_hint">A procura de objectos em movimento foi interrompida</string>
   <string name="autozoom_hint">Procurar objectos em movimento</string>
   <string name="autozoom_landscape_hint">Utilize o modo retrato para um melhor efeito</string>
+  <string name="auxiliary_close_status">Efeitos adicionais desligados</string>
+  <string name="auxiliary_exposure_feedback_status">Verificação de exposição ligada</string>
+  <string name="auxiliary_focus_peak_status">Foco máximo ligado</string>
   <string name="back_bokeh_use_hint">Certifique-se que o objecto não está a mais de 1,5 metros</string>
   <string name="beauty_body">Figura</string>
   <string name="beauty_body_body">Fino</string>
@@ -109,7 +113,6 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="camera_snap_mode_title_detail">Toque para ver detalhes</string>
   <string name="cannot_connect_camera_once">Não é possível ligar-se à câmara</string>
   <string name="cannot_connect_camera_twice">Ainda não é possível ligar-se à câmara. Tente reiniciar o dispositivo</string>
-  <string name="cannot_connect_camera_volte_call">Está em curso uma videochamada. Tente mais tarde</string>
   <string name="cannot_move_warning_message">Ao tirar a foto mantenha o telefone firme</string>
   <string name="capture_back_pressed_hint">Toque novamente para sair</string>
   <string name="ccc_temperature_warning_msg">O seu dispositivo está superaquecido. A câmara vai ser fechado em %d segundos. As suas fotos ou vídeos vão ser guardadas automaticamente</string>
@@ -248,6 +251,7 @@ e criar uma espectacular"</string>
 Imprima a cópia em papel A4"</string>
   <string name="id_card_mode_use_hint_text_title">Digitalizar CC</string>
   <string name="install_confirmed">Instalar</string>
+  <string name="kaleidoscope_fragment_tab_name">Caleidoscópio</string>
   <string name="lens_dirty_detected_content">"Parece que a lente da câmara está suja.
 Limpe a lente da câmara para um efeito melhor"</string>
   <string name="lens_dirty_detected_title_back">A lente da câmara traseira está suja</string>
@@ -311,6 +315,7 @@ no modo Retrato"</string>
   <string name="module_name_professional">Pro</string>
   <string name="module_name_square">Quadrado</string>
   <string name="module_name_video">Vídeo</string>
+  <string name="moive_frame">Quadro do filme</string>
   <string name="network_access_user_notice_agree">Concordar</string>
   <string name="network_access_user_notice_message_live_video">"A Câmara necessita de ligar à Internet para fornecer efeitos, música e outras funcionalidades para vídeos curtos.
 Ao clicar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt; e a permitir que a Câmara se ligue à Internet</string>
@@ -328,6 +333,44 @@ Ao clicar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://
   <string name="pano_how_to_use_prompt_slow_down">Abrande…</string>
   <string name="pano_how_to_use_prompt_to_move">Comece a mover devagar</string>
   <string name="pano_how_to_use_prompt_start">Toque na seta para mudar direcção e comece a mover-se lentamente</string>
+  <string name="parameter_description_pro_capture_title">Funcionalidades Pro para tirar fotos</string>
+  <string name="parameter_description_pro_video_title">Funcionalidades Pro para gravar vídeos</string>
+  <string name="parameter_description_sub_title">Assuma um controle mais criativo sobre as suas fotos e vídeos</string>
+  <string name="parameter_ef_split_description">Pode arrastar o anel de exposição para longe do anel de foco e ajustar os dois parâmetros separadamente</string>
+  <string name="parameter_ef_split_title">Medição do foco e exposição separada</string>
+  <string name="parameter_et_description">A velocidade automática do disparo é determinada pela luz da câmara. Quando selecciona a velocidade de disparo manual, lembre-se que quanto o disparo estiver aberto mais luz obtem no sensor tornando a sua imagem mais clara</string>
+  <string name="parameter_et_title">Velocidade do disparo</string>
+  <string name="parameter_exposure_description">Esta funcionalidade permite compensar a exposição quando quer que a sua imagem fique mais clara ou escura</string>
+  <string name="parameter_exposure_feecback_description">Destacar áreas subexpostas em azul e áreas superexpostas em vermelho para poder ajustar a exposição correctamente</string>
+  <string name="parameter_exposure_feecback_title">Verificação de exposição</string>
+  <string name="parameter_exposure_title">Compensação de exposição</string>
+  <string name="parameter_focus_description">Pode focar manualmente e automaticamente. Quanto maior o valor de foco seleccionado, mais distante da lente a área de foco vai ser</string>
+  <string name="parameter_focus_title">Focagem</string>
+  <string name="parameter_histogram_description">O histograma é uma representação em tempo real da exposição indicando quais as partes mais escuras à esquerda e as partes mais claras à direita. A parte vertical da escala mostra quanto da cena é clara ou escura</string>
+  <string name="parameter_histogram_title">Histograma</string>
+  <string name="parameter_iso_description">Os valores ISO podem ser determinados automaticamente pelo sensor de luz. Pode também alterar o valor manualmente. Lembre-se que quanto maior o ISO mais a câmara fica sensível à luz</string>
+  <string name="parameter_iso_title">Sensibilidade ISO</string>
+  <string name="parameter_lens_description">"Pode trocar entre as várias lentes disponíveis: "</string>
+  <string name="parameter_lens_marco">, MACRO (lentes macro)</string>
+  <string name="parameter_lens_st">, S-TELE (lentes zoom)</string>
+  <string name="parameter_lens_t">, TELE (lentes telefoto)</string>
+  <string name="parameter_lens_tele_2x">, TELE-2X (lentes telefoto)</string>
+  <string name="parameter_lens_tele_5x">, TELE-5X (lentes telefoto)</string>
+  <string name="parameter_lens_title">Lentes</string>
+  <string name="parameter_lens_uw">, UW (lentes ultra-angular)</string>
+  <string name="parameter_lens_w">WIDE (lentes amplas)</string>
+  <string name="parameter_log_format_description">Este formato grava vídeo com funções logarítmicas aplicadas à curva de exposição para capturar mais detalhes em realces e sombras</string>
+  <string name="parameter_log_format_title">Formato LOG</string>
+  <string name="parameter_metering_description">A medição média leva em consideração todas as áreas da sua imagem, funcionando melhor em cenas com iluminação uniforme. A medição ponderada ao centro concentra-se principalmente na área central do quadro e leva em consideração o brilho da área circundante, adequada para fotografar assuntos no centro do quadro. A medição pontual cobre apenas a área num ponto, oferecendo um controle preciso sobre a exposição</string>
+  <string name="parameter_metering_title">Modos de medição</string>
+  <string name="parameter_peak_focus_description">Quando está a focar manualmente, utilize o foco máximo para colocar um destaque vermelho na área em foco</string>
+  <string name="parameter_peak_focus_title">Foco máximo</string>
+  <string name="parameter_peak_raw_description">Este formato de imagem captura todos os dados gravados pelo sensor quanto tira uma foto</string>
+  <string name="parameter_peak_raw_title">Formato RAW</string>
+  <string name="parameter_wb_description">Além das predefinições do balanço de brancos (incandescente, luz do dia, fluorescente, nublado), também pode definir o balanço de brancos para um valor personalizado dentro da faixa de 2000 a 8000 Kelvin</string>
+  <string name="parameter_wb_title">Balanço dos brancos</string>
+  <string name="parameter_zoom_slider_description">Arraste o controle deslizante de zoom para cima e para baixo para alterar sua foto para uma close-up</string>
+  <string name="parameter_zoom_slider_title">Zoom</string>
   <string name="path_settings">Aplicações de sistema/Câmara/Definições</string>
   <string name="photo_assistance_tips_title">Dicas live</string>
   <string name="pic_flaw_blink_more">Alguém na foto fechou os olhos</string>
@@ -396,6 +439,9 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Média de frames</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Medição pontual</string>
   <string name="pref_camera_autoexposure_title">Definições de exposição automática</string>
+  <string name="pref_camera_auxiliary_close">Desligado</string>
+  <string name="pref_camera_auxiliary_exposure_feedback">Verificação de exposição</string>
+  <string name="pref_camera_auxiliary_focus_peak">Foco máximo</string>
   <string name="pref_camera_beautify_entry_auto">Desligado</string>
   <string name="pref_camera_beautify_entry_high">Alto</string>
   <string name="pref_camera_beautify_entry_low">Baixo</string>
@@ -488,6 +534,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_lying_summary">Notificar acerca da orientação actual</string>
   <string name="pref_camera_lying_title">Notificações acerca da orientação</string>
   <string name="pref_camera_magic_mirror_title">Espelho Mágico</string>
+  <string name="pref_camera_manual_description_title">Acerca das funcionalides Pro</string>
   <string name="pref_camera_manual_mode_title">Manual</string>
   <string name="pref_camera_manually_exposure_value_abbr">VE</string>
   <string name="pref_camera_mfnr_sat_enable_title">Ligar MFNR</string>

@@ -47,6 +47,10 @@
         <item quantity="other">(%d itens)</item>
         <item quantity="one">(%d item)</item>
     </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d álbuns</item>
+        <item quantity="one">%d álbum</item>
+    </plurals>
     <plurals name="album_photo_count_text">
         <item quantity="other">%1$d itens</item>
         <item quantity="one">%1$d item</item>

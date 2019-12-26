@@ -30,7 +30,7 @@
   <string name="app_store_installing_message">A instalar…</string>
   <string name="app_store_missing_message">Ainda não instalou a nossa loja de aplicações oficial. Instalar agora?</string>
   <string name="app_store_missing_title">A loja de aplicações não está instalada</string>
-  <string name="application_detail_tips">Informações da aplicação e definições de permissões</string>
+  <string name="application_detail_tips">Detalhes da aplicação e permissões necessárias</string>
   <string name="auto_startup_dialog_msg">Esta aplicação pode iniciar sem a sua permissão</string>
   <string name="btn_text_full_scan">Verificação completa</string>
   <string name="btn_text_install_new_version">Última versão</string>
@@ -104,8 +104,8 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="install_failed_invalid_apk">O pacote parece estar corrompido</string>
   <string name="install_failed_msg">Não foi possível instalar %1$s</string>
   <string name="install_failed_system_incompatible">Esta aplicação não é compatível com a MIUI</string>
-  <string name="install_finished_notification_summary">Toque para limpar agora</string>
-  <string name="install_finished_notification_title">%1$s instalado com sucesso. Limpar %2$s agora</string>
+  <string name="install_finished_notification_summary">Toque para libertar espaço</string>
+  <string name="install_finished_notification_title">%1$s instalado com sucesso. Pode libertar %2$s</string>
   <string name="install_from_appstore_hint">"Nós recomendamos que instale a aplicação da <u><font color='#91c727'>Mi App Store</font></u>"</string>
   <string name="installing">A instalar…</string>
   <string name="intercept_install">Instalar</string>
@@ -258,7 +258,7 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="privacyPerms">Privacidade</string>
   <string name="privacy_relative">Privacidade</string>
   <string name="reboot_time">A preparar-se para reiniciar… (%1$s)</string>
-  <string name="replace_app_des_text">Actualizar esta aplicação?</string>
+  <string name="replace_app_des_text">Substituir a aplicação com esta versão?</string>
   <string name="review_button_cancel">Cancelar</string>
   <string name="review_button_continue">Continuar</string>
   <string name="risk_warning_bottom_button">Instalar de GetApps</string>

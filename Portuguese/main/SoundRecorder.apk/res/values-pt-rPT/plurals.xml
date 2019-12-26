@@ -28,4 +28,12 @@
         <item quantity="other">%d não sincronizados</item>
         <item quantity="one">%d não sincronizado</item>
     </plurals>
+    <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">Eliminar %d gravações da Xiaomi Cloud?</item>
+        <item quantity="one">Eliminar %d gravação da Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">Eliminar %d gravações?</item>
+        <item quantity="one">Eliminar %d gravação?</item>
+    </plurals>
  </resources>

@@ -9,6 +9,11 @@
   <string name="category_other">Outros</string>
   <string name="color_gamut">Gama de cores</string>
   <string name="contrast_ratio">Contraste</string>
+  <string name="create">Criar</string>
+  <string name="create_failed">Não foi possível criar</string>
+  <string name="create_shortcut">Atalho de ecrã inicial</string>
+  <string name="created">Criado</string>
+  <string name="created_successfully">Criado com sucesso</string>
   <string name="first_unlock_time">"Primeiro desbloqueado: "</string>
   <string name="follow_sim1">Aplicar definições do SIM 1</string>
   <string name="gamma">Gama</string>
@@ -20,10 +25,13 @@
   <string name="focus_time_exception_tip">A hora do sistema foi alterada. O Modo Foco foi desligado</string>
   <string name="intelligent_recognition_item_summary">Utilizar um toque para chamadas de entregas e serviços de táxi. Esta funcionalidade vai funcionar quando %s está definido como toque predefinido</string>
   <string name="intelligent_recognition_item_title">Identificar serviços</string>
+  <string name="lock_summary">Protejer as suas informações pessoais</string>
   <string name="mms">Mensagens</string>
   <string name="more_ringtone">Todos os toques</string>
+  <string name="more_settings">Definições</string>
   <string name="most_unlock_week_day">"Mais desbloqueios: "</string>
   <string name="network_error">Ocorreu um erro de rede. Tente novamente</string>
+  <string name="no_matching">Não foi possível encontrar uma aplicação para abrir este link</string>
   <string name="notification_sound">Sons de notificações</string>
   <string name="other_parameter">Outros</string>
   <string name="p3_color_region">P3</string>
@@ -31,6 +39,7 @@
   <string name="preview">Pré-visualizar</string>
   <string name="primary_color_region">Original</string>
   <string name="primary_color_region_summary">Identificar a gama de cores automaticamente através da calibração de cores</string>
+  <string name="privacy_policy">Política de Privacidade</string>
   <string name="reset_edit">Rejeitar alterações</string>
   <string name="restore_default">Restaurar predefinições</string>
   <string name="retry">Tentar novamente</string>
@@ -46,10 +55,12 @@
   <string name="screen_original_gamut">Melhorado</string>
   <string name="screen_original_gamut_summary">Mostrar todo o conteúdo do ecrã na maior gama de cores possível</string>
   <string name="screen_paper_mode_apps_loading">Aguarde…</string>
+  <string name="screen_time_lock">Tempo de bloqueio de ecrã</string>
   <string name="search_app_name">Pesquisar aplicações</string>
   <string name="search_empty">Sem aplicações</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="several_days_use_time">Tempo de ecrã: %2$s</string>
+  <string name="shortcut_created">Este atalho já existe</string>
   <string name="sms_delivered_sound_title">Mensagem entregue</string>
   <string name="sms_received_sound_title">Mensagem recebida</string>
   <string name="srgb_color_region">RGB</string>
@@ -58,6 +69,8 @@
   <string name="stop_app_timer_fail">Não foi possível desligar o tempo de ecrã</string>
   <string name="stop_app_timer_success">O tempo de ecrã foi desligado com sucesso</string>
   <string name="stop_app_timer_tip">Todos os dados do tempo de ecrã e as suas permissões vão ser limpas após ser desligado</string>
+  <string name="stop_summary">Todas os dados e estatísticas do tempo de ecrã vão ser eliminados quando desligar esta funcionalidade</string>
+  <string name="suggestion">Comentários</string>
   <string name="thememanager_not_found">Não foi possível abrir Temas. Certifique-se que a aplicação está instalada no seu dispositivo</string>
   <string name="today_usage_title">Hoje</string>
   <string name="today_use_time">Tempo de ecrã: %1$s</string>
@@ -68,6 +81,7 @@
   <string name="trend_from_yesterday_more_simple">%1$s mais que ontem</string>
   <string name="unlock_times_per_day">"Média diária: "</string>
   <string name="unlock_times_per_hour">"Desbloqueios por hora: "</string>
+  <string name="usage_agree">Concordar</string>
   <string name="usage_app_get_it">Percebi</string>
   <string name="usage_app_limit_alter_summary">Parece que o tempo limite é menor do que o tempo que já utilizou esta aplicação hoje. Definir o limite mesmo assim?</string>
   <string name="usage_app_limit_alter_title">Verificar limite de tempo de ecrã</string>
@@ -85,6 +99,7 @@
   <string name="usage_app_weekend_limit">Fins de semana</string>
   <string name="usage_beat_fans">Melhor %s fãs Mi</string>
   <string name="usage_continuous_days">Dias consecutivos</string>
+  <string name="usage_exit">Sair</string>
   <string name="usage_focus_focus_premission_main_summary">Esta aplicação necessita de aceder às suas informações de conta para gravar as estatísticas de utilização do Modo Foco</string>
   <string name="usage_focus_focus_premission_second_summary">Se não concordar em conceder essas permissões, não vai poder utilizar algumas funcionalidades desta aplicação. Pode sempre restringir as permissões ou revogar autorizações nas Definições</string>
   <string name="usage_focus_save_success">Guardado na Galeria com sucesso</string>
@@ -98,8 +113,19 @@
   <string name="usage_focus_title_level3">Elevar-se acima do mundano</string>
   <string name="usage_focus_title_level4">Encontrar alegria na consistência</string>
   <string name="usage_focus_title_level5">Manter-se focado</string>
+  <string name="usage_home_permission_account_summary">Para iniciar sessão na Conta Mi e sincronizar as estatísticas do tempo de ecrã</string>
+  <string name="usage_home_permission_account_title">Aceder às informações de conta</string>
+  <string name="usage_home_permission_phone_summary">Para identificar o seu dispositivo utilizando VAID</string>
+  <string name="usage_home_permission_phone_title">Aceder à informação do dispositivo</string>
   <string name="usage_home_premission_main_summary">Bem-vindo ao tempo de ecrã. Pode utilizar esta aplicação para definir limites de tempo de ecrã, ver estatísticas e trocar para o Modo Foco. Esta aplicação necessita de obter informações do tempo de ecrã para funcionar normalmente</string>
+  <string name="usage_home_premission_main_summary_new">"Bem-vindo ao tempo de ecrã!
+Para poder funcionar normalmente, esta aplicação necessita de obter informações de tempo de ecrã: número de vezes que desbloqueia o seu telefone, nomes das aplicações e a duração da utilização de cada aplicação.
+Esta aplicação necessita também de ligar à Internet e necessita das seguintes permissões para obter informações pessoais:"</string>
+  <string name="usage_home_premission_main_summary_new_o">"Bem-vindo ao tempo de ecrã!
+Para poder funcionar normalmente, esta aplicação necessita de obter informações de tempo de ecrã: número de vezes que desbloqueia o seu telefone, nomes das aplicações e a duração da utilização de cada aplicação.
+Esta aplicação necessita também de ligar à Internet e necessita das seguintes permissões para obter informações pessoais:"</string>
   <string name="usage_home_premission_second_summary">Para poder trabalhar normalmente, esta aplicação necessita de obter informações pessoais. Nós vamos proteger as suas informações pessoais de acordo com as leis relevantes, regulações e políticas de privacidade</string>
+  <string name="usage_home_premission_second_summary_new">Nós vamos proteger as suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Se não concordar com estas permissões ou o envio das suas informações pessoais, não vai poder utilizar esta aplicação. Pode revogar a sua autorização em Tempo de ecrã &gt; Definições &gt; Desligar tempo de ecrã. Se tiver mais questões acerca de privacidade, contacte-nos através do email privacy@xiaomi.com</string>
   <string name="usage_state_accurate_date">dd MMMM yyyy</string>
   <string name="usage_state_add_up_count">Sessões</string>
   <string name="usage_state_add_up_days">Dias</string>

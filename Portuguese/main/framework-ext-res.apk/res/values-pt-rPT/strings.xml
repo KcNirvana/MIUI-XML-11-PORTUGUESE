@@ -182,6 +182,7 @@
   <string name="sim_added_reboot_title">O cartão SIM vai ser activado depois de reiniciar o dispositivo</string>
   <string name="sim_lock_non_ais_msg">O seu cartão SIM não é totalmente compatível com este telefone</string>
   <string name="sim_lock_now_ais_title">SIM %1$d</string>
+  <string name="slatoast">Utilizar dados móveis para acelerar a velocidade pode consumir dados</string>
   <string name="slavewifi">Dupla banda Wi-Fi</string>
   <string name="slavewifi_disconnect">Desligar</string>
   <string name="slavewifi_notification_title">A utilizar dupla banda Wi-Fi</string>
