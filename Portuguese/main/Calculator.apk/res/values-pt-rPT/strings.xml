@@ -170,7 +170,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="negDesc">Trocar entre temperaturas acima e abaixo de zero</string>
   <string name="network_confirm_content">O conversor de moeda e o calculador taxas e hipoteca necessitam de utilizar a ligação à Internet para funcionar normalmente</string>
   <string name="network_confirm_title">Ligação à rede necessária</string>
-  <string name="network_privacy">Note que esta aplicação necessita de ligar à Internet e obter dados pessoais. Nós vamos proteger as suas informações pessoais de acordo com as leis relevantes, regulamentos e políticas de privacidade</string>
+  <string name="network_privacy">Nota: esta aplicação necessita de ligar à Internet e obter dados pessoais. As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade</string>
   <string name="network_purpose">Bem-vindo à Calculadora! A Calculadora permite converter divisas, calcular empréstimos, etc.</string>
   <string name="not_supported_due_to_language">Funcionalidade apenas disponível para o idioma chinês</string>
   <string name="percentDesc">Percentagem</string>
@@ -179,9 +179,9 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="permission_phone">Aceder ao estado e ID do dispositivo</string>
   <string name="permission_phone_desc">Para identificar diferentes dispositivos</string>
   <string name="permission_privacy_link">Antes de utilizar esta aplicação, tem de ler e concordar com os nossos &amp;lt;a href=%1$s&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;</string>
-  <string name="permission_purpose">"Bem-vindo à Calculadora! Além das funcionalidades básicas inclui uma calculadora científica e um conversor. Nós vamos proteger as suas informações pessoais de acordo com as leis relevantes, regulamentos e políticas de privacidade..
-Note que esta aplicação necessita de ligar à Internet e necessita das seguintes permissões para obter dados pessoais:"</string>
-  <string name="permission_remove_desc">Pode escolher desinstalar esta aplicação ou restringir permissões e revogar a sua autorização em Definições</string>
+  <string name="permission_purpose">"Bem-vindo à Calculadora! Além das funcionalidades básicas inclui uma calculadora científica e um conversor. As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade.
+Nota: esta aplicação necessita de ligar à Internet e das seguintes permissões para obter dados pessoais:"</string>
+  <string name="permission_remove_desc">Pode escolher desinstalar esta aplicação, restringir permissões ou revogar a sua autorização em Definições</string>
   <string name="piDesc">Pi</string>
   <string name="plusDesc">Mais</string>
   <string name="powerDesc">Potência</string>

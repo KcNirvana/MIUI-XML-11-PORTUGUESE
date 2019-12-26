@@ -741,8 +741,8 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="system_permission_declare_disagree">Cancelar</string>
   <string name="system_permission_declare_double_link" formatted="false">Leia e concorde com os nossos %1s e %2s antes de utilizar esta funcionalidade</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo a %1s! %2s</string>
-  <string name="system_permission_declare_no_say_no">"Nós vamos proteger as suas informações pessoais de acordo com as leis relevantes, regulamentos e políticas de privacidade.
-Se não concordar em dar as permissões necessárias, esta aplicação não vai funcionar normalmente"</string>
+  <string name="system_permission_declare_no_say_no">"As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade.
+Se não concordar com as permissões necessárias, esta aplicação não vai funcionar normalmente"</string>
   <string name="system_permission_declare_privacy_declare">%1s necessita de obter os seus dados e as seguintes permissões para funcionar normalmente:</string>
   <string name="system_permission_declare_revoke_path">Pode revogar a sua autorização e desligar os serviços nas definições de Mensagens</string>
   <string name="system_permission_declare_single_link">Leia e concorde com o nosso %1s antes de utilizar esta funcionalidade</string>

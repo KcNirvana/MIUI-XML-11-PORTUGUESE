@@ -441,8 +441,8 @@
   <string name="time_current">Agora mesmo</string>
   <string name="toast_ad_down_tip2">A transferir %s…</string>
   <string name="toast_connect_failed_tip">Não foi possível ligar. Aguarde um momento e tente novamente</string>
-  <string name="toast_has_close_gallery">Papéis de parede aleatórios desligados com sucesso</string>
-  <string name="toast_has_open_gallery">Papéis de parede aleatórios ligados com sucessoy</string>
+  <string name="toast_has_close_gallery">Papéis de parede aleatórios foram desligados</string>
+  <string name="toast_has_open_gallery">Papéis de parede aleatórios foram ligados</string>
   <string name="toast_load_failed_tip">Não foi possível carregar itens</string>
   <string name="toast_load_hd_fail">Não foi possível carregar a imagem original</string>
   <string name="toast_neterror_tip">Não foi possível ligar à rede</string>
