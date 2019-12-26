@@ -1166,8 +1166,8 @@ medical card"</string>
   <string name="gb_game_end_toast">Revisitar os momentos chave dos seus jogos</string>
   <string name="gb_game_video_bottom_tips">Ver as gravações dos seus jogos na gamebox. Os vídeos são armazenados por 7 dias</string>
   <string name="gb_game_video_item_tag">Momento chave</string>
-  <string name="gb_game_video_page_delete_success">Deleted successfully</string>
-  <string name="gb_game_video_page_null">Gravar os momentos chaves dos seus jogos</string>
+  <string name="gb_game_video_page_delete_success">Eliminado com sucesso</string>
+  <string name="gb_game_video_page_null">Gravar os momentos chave dos seus jogos</string>
   <string name="gb_game_video_record_finish_tips">Vídeo guardado com sucesso</string>
   <string name="gb_game_video_save">Guardar</string>
   <string name="gb_game_video_type_ai">AI</string>

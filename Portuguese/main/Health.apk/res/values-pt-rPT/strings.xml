@@ -13,7 +13,7 @@
   <string name="add_data_source_description">"Adicionar dados gerados por outros dispositivos no Saúde para aumentar a precisão das estatísticas e obter conselhos de saúde mais relevantes.
 Saúde suporta dispositivos adicionados na aplicação Mi Home. Se não conseguir localizar o dispositivo que quer adicionar, verifique se já o adicionou ao Mi Home primeiro"</string>
   <string name="add_data_source_login_and_open_sync">Iniciar sessão na sua Conta Mi e ligar a sincronização com a Xiaomi Cloud para adicionar origens de dados</string>
-  <string name="add_data_source_open_sync">Ligar a sincronização com a Xiaomi Cloud para adicionar origens de dad</string>
+  <string name="add_data_source_open_sync">Ligar a sincronização com a Xiaomi Cloud para adicionar origens de dados</string>
   <string name="add_data_source_support_step">Este dispositivo não gera dados de contagem de passos. Pode trocar para outras origens de dados</string>
   <string name="add_model_card">"Toque no botão no canto superior esquerdo
 para adicionar cartões"</string>
@@ -79,9 +79,9 @@ Se decidir eliminar os seus dados pode fazê-lo em Saúde &gt; Origens de dados"
   <string name="data_safety_tip_title">A eliminar dados</string>
   <string name="data_source">Origens de dados</string>
   <string name="data_source_data_updating">A actualizar dados…</string>
-  <string name="data_source_list_description">"Mi Health gets health data (%1$s) from these sources. If the data is duplicated in multiple sources, you'll see the data from the sources that appear first on the list in Mi Health."</string>
+  <string name="data_source_list_description">Saúde obtem os dados destas origens (%1$s). Se os dados estiverem duplicados em várias origens, vai visualizar os dados que aparecem primeiro na lista Saúde</string>
   <string name="data_source_manage">Gestão de origens de dados</string>
-  <string name="data_source_not_support_hm_description">"%1$s doesn't provide detailed step count. You can try switching to other data sources in More &gt; Data sources."</string>
+  <string name="data_source_not_support_hm_description">%1$s não fornece uma contagem de passos detalhada. Altere para outras origens de dados em Mais &gt; Origens de dados</string>
   <string name="date_format_m_d">dd/MM</string>
   <string name="date_format_m_d_2">dd/MM</string>
   <string name="date_format_m_d_3">dd/MM</string>
@@ -180,13 +180,13 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="guide_local_data_sync_subtitle">Passos, sono, peso e períodos</string>
   <string name="guide_local_data_sync_title">Enviar dados deste dispositivo</string>
   <string name="guide_other_data_sync_subtitle">Telefones, pulseiras, balanças e outros dispositivos</string>
-  <string name="guide_other_data_sync_title">Sincronizar dados doutros dispositivos</string>
+  <string name="guide_other_data_sync_title">Sincronizar dados de outros dispositivos</string>
   <string name="guide_setting">Fornecer as informações seguintes para obter estatísticas menstruais mais precisas</string>
   <string name="harm_learn_more">Saber mais</string>
   <string name="health_app_name">Saúde</string>
   <string name="health_app_name_dev">Saúde Desenvolvimento</string>
   <string name="health_cloud_service">Serviços Xiaomi Cloud</string>
-  <string name="health_data_cloud_sync_subtitle">Sincronizar os seus dados com a Xiaomi Cloud e acedê-los de qualquer dispositivo</string>
+  <string name="health_data_cloud_sync_subtitle">Sincronizar os seus dados com a Xiaomi Cloud e aceder de qualquer dispositivo</string>
   <string name="health_data_cloud_sync_title">Sincronização com a Xiaomi Cloud</string>
   <string name="health_score">Resultado de saúde</string>
   <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (índice de massa corporal), assim como o seu sono e actividade física. Quanto mais perto estiver dos seus objectivos, maior vai ser a sua pontuação de saúde</string>
@@ -466,7 +466,7 @@ Actualizar agora?"</string>
   <string name="user_age_unit">Anos</string>
   <string name="user_agreement">Termos de Utilização</string>
   <string name="user_birthday_display_format">dd/MM/yyyy</string>
-  <string name="weight_keep_up">Perfeito! Continue mantendo um peso saudável</string>
+  <string name="weight_keep_up">Perfeito! Continue a manter um peso saudável</string>
   <string name="weight_trend_offset_date">"De %1$s até %2$s: "</string>
   <string name="weight_unit_kg">kg</string>
   <string name="year">Ano</string>
