@@ -1487,7 +1487,6 @@ para personalizar a galeria"</string>
   <string name="user_agreement2">Termos de Serviço</string>
   <string name="user_agreement4">Política de Privacidade</string>
   <string name="user_alias_self">Eu</string>
-  <string name="user_notice_identify_summary_format">Ao utilizar este serviço está a concordar com os %1$s e a %2$s da Xiaomi</string>
   <string name="user_notice_identify_summary_format">Ao utilizar este serviço está a concordar com os &amp;lt;a href=\"%1$s\"&amp;gt;\"Termos de Serviço\"&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;\"Política de Privacidade\"&amp;lt;/a&amp;gt;</string>
   <string name="user_notice_title">Termos e condições</string>
   <string name="video_edit_file_not_exits_tip">Transferir o vídeo primeiro</string>
