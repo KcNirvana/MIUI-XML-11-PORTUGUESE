@@ -1098,6 +1098,7 @@ medical card"</string>
   <string name="gamebox_immersion_tips_content">O modo imersivo restringe todas as funcionalidades do cartão SIM excepto dados móveis. Não vai ser interrompido por chamadas ou notificações acerca de chamadas. Todas as funcionalidades vão ser restauradas quando o modo imersivo for desligado. Ligar modo imersivo?</string>
   <string name="gamebox_immersion_tips_title">Atenção</string>
   <string name="gamebox_immerson_open">A ligar o modo imersivo. Não troque de redes…</string>
+  <string name="gamebox_manual_record">Gravar</string>
   <string name="gamebox_milink">Transmitir</string>
   <string name="gamebox_positive_button_text">OK (%1$ds)</string>
   <string name="gamebox_qq_not_find">Instale o QQ e tente novamente</string>
