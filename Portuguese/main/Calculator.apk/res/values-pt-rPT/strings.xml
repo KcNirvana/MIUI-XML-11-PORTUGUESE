@@ -50,7 +50,7 @@
   <string name="description_content">Além do básico, a Calculadora também funciona como conversor, calculador de hipotecas e taxas</string>
   <string name="description_title">Acerca de Calculadora</string>
   <string name="devided_by_zero_reminder_message">Não é possível a divisão por zero</string>
-  <string name="dialog_privacy_content">Além das funcionalidades básicas inclui uma calculadora científica e um conversor. Algumas funcionalidades necessitam de ligar à Internet para funcionar normalmente. Antes de utilizar esta aplicação, tem de ler e concordar com os nossos <a href=\'%1$s\'>Termos de Utilização</a> e <a href=\'%2$s\'>Política de Privacidade</a></string>
+  <string name="dialog_privacy_content">Além das funcionalidades básicas inclui uma calculadora científica e um conversor. Algumas funcionalidades necessitam de ligar à Internet para funcionar normalmente. Antes de utilizar esta aplicação, tem de ler e concordar com os nossos &lt;a href=\"%1$s\"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Política de Privacidade&lt;/a&gt;</string>
   <string name="dialog_privacy_title">Termos e condições</string>
   <string name="disallow">Não concordar</string>
   <string name="divDesc">Dividir</string>
