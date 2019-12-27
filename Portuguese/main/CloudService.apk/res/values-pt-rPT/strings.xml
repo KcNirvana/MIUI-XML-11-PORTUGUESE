@@ -33,7 +33,7 @@
   <string name="connect_network">Ligar ao Wi-Fi ou inserir cartão SIM</string>
   <string name="connect_wlan">Ligar ao Wi-Fi</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Esta conta é utilizada também noutro dispositivo. Unir os itens de várias aplicações (incluindo %1$s e %2$s) com os itens neste dispositivo?</string>
-  <string name="data_merge_dialog_alert_active_on_phone_msg_one">Esta conta é utilizada também noutro dispositivo. Unir os itens de %1$s e %2$s com os itens neste dispositivo?</string>
+  <string name="data_merge_dialog_alert_active_on_phone_msg_one">Esta conta é utilizada também noutro dispositivo. Unir os itens de %s com os itens neste dispositivo?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_two">Esta conta é utilizada também noutro dispositivo. Unir os itens de %1$s e %2$s com os itens neste dispositivo?</string>
   <string name="data_merge_dialog_alert_msg_more_than_two">Os itens de várias aplicações (incluindo %1$s e %2$s) neste dispositivo vão ser unidos com os itens na Xiaomi Cloud. Unir itens agora?</string>
   <string name="data_merge_dialog_alert_msg_more_than_two_pad">Os itens de várias aplicações (incluindo %1$s e %2$s) neste dispositivo vão ser unidos com os itens na Xiaomi Cloud. Unir itens agora?</string>
@@ -488,7 +488,7 @@ Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.u
   <string name="sync_item_sms_title">Sincronizar mensagens</string>
   <string name="sync_item_title">Dados a sincronizar</string>
   <string name="sync_normal_summary">Alguns itens da lista abaixo não foram sincronizados</string>
-  <string name="sync_normal_title">Não foi possível concluir a sincronização</string>
+  <string name="sync_normal_title">Erro na sincronização</string>
   <string name="sync_off">Desligado</string>
   <string name="sync_on">Ligado</string>
   <string name="sync_setting_title">Definições de sincronização</string>

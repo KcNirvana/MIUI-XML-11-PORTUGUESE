@@ -1094,6 +1094,9 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_mode_gsm_only">Apenas GSM</string>
   <string name="preferred_network_mode_gsm_only_choice">Apenas GSM</string>
   <string name="preferred_network_mode_gsm_only_summary">Tipo de rede preferida: Apenas GSM</string>
+  <string name="preferred_network_mode_gsm_wcdma_auto">GSM/WCDMA (auto)</string>
+  <string name="preferred_network_mode_gsm_wcdma_lte">GSM/WCDMA/LTE</string>
+  <string name="preferred_network_mode_gsm_wcdma_preferred">GSM/WCDMA preferido</string>
   <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA (auto)</string>
   <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA preferido</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Tipo de rede preferida: GSM/WCDMA</string>

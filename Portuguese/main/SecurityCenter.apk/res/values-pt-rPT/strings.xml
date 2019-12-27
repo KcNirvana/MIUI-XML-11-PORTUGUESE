@@ -593,7 +593,7 @@
   <string name="card_main_gamebooster_summary">Acelerar a estabilidade da ligação para jogos</string>
   <string name="card_main_gamebooster_title">Game Turbo</string>
   <string name="card_main_hbassistant_summary">Aumentar velocidade e melhorar a experiência de jogo</string>
-  <string name="card_main_hbassistant_title">Acelerador de jogos</string>
+  <string name="card_main_hbassistant_title">Game Turbo</string>
   <string name="card_main_hwtest_title">Teste de hardware</string>
   <string name="card_main_monthreport_action">Ver</string>
   <string name="card_main_netcheck_action">Testar</string>
@@ -1060,8 +1060,8 @@ medical card"</string>
   <string name="game_booster_intro">Acerca de Game Turbo</string>
   <string name="game_booster_jump_webview">Aguarde…</string>
   <string name="game_booster_tab_top">Topo</string>
-  <string name="game_booster_title">Acelerador de jogos</string>
-  <string name="game_bootser_tab_settings">Definições do acelerador</string>
+  <string name="game_booster_title">Game Turbo</string>
+  <string name="game_bootser_tab_settings">Definições do Game Turbo</string>
   <string name="game_else_function">Outros</string>
   <string name="game_manual_record_setting_setting">Acerca desta funcionalidade</string>
   <string name="game_manual_record_setting_title">Momentos chave</string>

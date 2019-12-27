@@ -1282,7 +1282,7 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="carrier_enabled">Activar/desactivar APN</string>
   <string name="carrier_enabled_summaryOff">APN desactivado</string>
   <string name="carrier_enabled_summaryOn">APN activado</string>
-  <string name="carrier_provisioning">>Informações de fornecimento da operadora</string>
+  <string name="carrier_provisioning">Informações de fornecimento da operadora</string>
   <string name="carrier_show_in_lock_screen">Apenas no ecrã de bloqueio</string>
   <string name="carrier_show_none">Nunca mostrar nome da operadora</string>
   <string name="carrier_settings_euicc">Operadora</string>
@@ -1635,7 +1635,7 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="dark_ui_settings_dialog_acknowledge">Percebi</string>
   <string name="dark_ui_settings_light_summary">Estas definições também se aplicam às aplicações</string>
   <string name="dashboard_title">Definições</string>
-  <string name="data_during_calls_summary">>Permitir a utilização deste SIM para dados móveis apenas durante as chamadas</string>
+  <string name="data_during_calls_summary">Permitir a utilização deste SIM para dados móveis apenas durante as chamadas</string>
   <string name="data_during_calls_title">Dados durante chamadas</string>
   <string name="data_limit">Limite de dados</string>
   <string name="data_overusage">^1 acima do limite</string>
@@ -1974,7 +1974,7 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="dlg_confirm_unmount_title">Desmontar armazenamento USB?</string>
   <string name="dlg_error_unmount_text">Não é possível desmontar o armazenamento USB. Tente novamente mais tarde</string>
   <string name="dlg_ok">OK</string>
-  <string name="dlg_remove_locales_error_message">>Manter pelo menos um idioma preferido</string>
+  <string name="dlg_remove_locales_error_message">Manter pelo menos um idioma preferido</string>
   <string name="dlg_remove_locales_error_title">Não é possível remover todos os idiomas</string>
   <string name="dlg_remove_locales_message">O texto vai ser apresentado noutro idioma</string>
   <string name="dndm_alarm_content">Sons</string>
@@ -2276,7 +2276,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="erase_sd_data_description">Formatar vai eliminar todos os ficheiros e dados no cartão SD</string>
   <string name="erase_sure">Obrigatório</string>
   <string name="error_apn_empty">O APN não pode estar vazio</string>
-  <string name="error_capturing_system_heap_dump_message">>Não foi possível fazer a captura da área dinâmica para dados do sistema</string>
+  <string name="error_capturing_system_heap_dump_message">Não foi possível fazer a captura da área dinâmica para dados do sistema</string>
   <string name="error_mcc_not3">Campo MCC deve ter 3 dígitos</string>
   <string name="error_mnc_not23">Campo MNC deve ter 2 ou 3 dígitos</string>
   <string name="error_name_empty">Campo Nome não pode ficar vazio</string>
@@ -2535,7 +2535,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gentle_notifications_education">As notificações discretas são sempre silenciosas e aparecem sempre no painel pendente</string>
   <string name="gentle_notifications_title">Notificações discretas</string>
   <string name="gesture_not_supported_dialog_message">Não suportada pelo seu launcher predefinido, %s</string>
-  <string name="gesture_not_supported_positive_button">>Mudar de launcher predefinido</string>
+  <string name="gesture_not_supported_positive_button">Mudar de launcher predefinido</string>
   <string name="gesture_preference_summary">Gestos rápidos para controlar o seu telefone</string>
   <string name="gesture_preference_title">Gestos</string>
   <string name="gesture_prevent_ringing_screen_title">Impedir o toque</string>
@@ -4600,7 +4600,7 @@ Interface UT: %5$s"</string>
   <string name="receiver_clean">Libertar espaço</string>
   <string name="recent_location_requests_summary">Ver aplicações que estão a pedir acesso à sua informação de localização</string>
   <string name="recent_location_requests_title">Acesso à localização</string>
-  <string name="recent_notifications">>Enviadas recentemente</string>
+  <string name="recent_notifications">Enviadas recentemente</string>
   <string name="recent_notifications_see_all_title">Ver todas dos últimos 7 dias</string>
   <string name="recently_installed_app">Instalou esta aplicação recentemente</string>
   <string name="recommend_item_1">Capa protectora</string>
@@ -5294,7 +5294,7 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="service_stop_description">Este serviço foi iniciado pela respectiva aplicação. Interrompê-lo pode levar à falha da aplicação</string>
   <string name="services_subtitle">Serviços</string>
   <string name="set_data_limit">Definir limite de dados</string>
-  <string name="set_data_warning">>Definir aviso de dados</string>
+  <string name="set_data_warning">Definir aviso de dados</string>
   <string name="setting_privacy_password">Definir padrão de Protecção de Privacidade</string>
   <string name="settings_ad_loading">A carregar…</string>
   <string name="settings_ad_loading_unavailable">Não foi possível carregar as informações</string>
@@ -6096,7 +6096,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="unlock_set_unlock_launch_picker_change_title">Alterar ecrã de bloqueio</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Escolher um método para bloquear o ecrã</string>
   <string name="unlock_set_unlock_launch_picker_summary_lock_after_timeout">%1$s / %2$s após a suspensão</string>
-  <string name="unlock_set_unlock_launch_picker_summary_lock_immediately">>%1$s / imediatamente após a suspensão</string>
+  <string name="unlock_set_unlock_launch_picker_summary_lock_immediately">%1$s / imediatamente após a suspensão</string>
   <string name="unlock_set_unlock_launch_picker_title">Ecrã de bloqueio</string>
   <string name="unlock_set_unlock_mode_none">Deslizar</string>
   <string name="unlock_set_unlock_mode_off">Nenhum</string>
@@ -6329,7 +6329,7 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="user_credentials">Credenciais do utilizador</string>
   <string name="user_credentials_summary">Ver e modificar as credenciais armazenadas</string>
   <string name="user_credential_none_installed">Sem credenciais instaladas</string>
-  <string name="user_credential_removed">>Credencial removida: %s</string>
+  <string name="user_credential_removed">Credencial removida: %s</string>
   <string name="user_credential_title">Detalhes da credencial</string>
   <string name="user_delete_button">Eliminar</string>
   <string name="user_delete_user_description">Eliminar utilizador</string>
@@ -7240,7 +7240,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="zen_mode_calls_title">Chamadas</string>
   <string name="zen_mode_choose_rule_type">Escolher o tipo de programação</string>
   <string name="zen_mode_configure_rule">Configurar regra</string>
-  <string name="zen_mode_custom_behavior_category_title">>Para \"%1$s\"</string>
+  <string name="zen_mode_custom_behavior_category_title">Para \"%1$s\"</string>
   <string name="zen_mode_custom_behavior_summary">Criar definições personalizadas para esta programação</string>
   <string name="zen_mode_custom_behavior_summary_default">Utilizar definições predefinidas</string>
   <string name="zen_mode_custom_behavior_title">Comportamento de Não incomodar</string>
