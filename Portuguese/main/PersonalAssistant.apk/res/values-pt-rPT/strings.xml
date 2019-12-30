@@ -52,9 +52,9 @@
   <string name="app_setting_search">Mostrar barra de pesquisa</string>
   <string name="app_suggest_detail_setting_summary">As sugestões da aplicação vão ser baseadas na sua utilização</string>
   <string name="app_suggest_detail_setting_title">Permitir acesso ao estado da aplicação</string>
-  <string name="app_suggest_setting_brief">Mostrar aplicações recentes</string>
-  <string name="app_suggest_setting_brief_detail">As sugestões da aplicação vão ser baseadas na sua utilização</string>
-  <string name="app_suggest_setting_title">Sugestões da aplicação</string>
+  <string name="app_suggest_setting_brief">Receber sugestões de aplicações e funcionalidades que pode utilizar</string>
+  <string name="app_suggest_setting_brief_detail">Receber sugestões de aplicações e funcionalidades que pode utilizar</string>
+  <string name="app_suggest_setting_title">Sugestões</string>
   <string name="apps">Sugestões da aplicação</string>
   <string name="apps_label">Aplicações</string>
   <string name="assistant_format_MMdd">dd/MM</string>
@@ -95,6 +95,7 @@
   <string name="card_expand_note_toast_clear_null">Limpo com sucesso</string>
   <string name="card_expand_note_toast_save_done">Guardado nas Notas</string>
   <string name="card_expand_note_toast_save_dup">Guardado com sucesso</string>
+  <string name="card_expand_note_toast_share_null">Esta nota está vazia</string>
   <string name="card_plan_fly">Partida programada</string>
   <string name="card_hint_noteboard">Toque aqui para tirar uma nota</string>
   <string name="card_menu_edit">Editar</string>

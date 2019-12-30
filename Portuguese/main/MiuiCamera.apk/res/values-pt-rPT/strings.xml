@@ -103,6 +103,7 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="button_fisheye_camera_title">Olho-de-Peixe</string>
   <string name="button_front_camera_title">Tirar uma selfie</string>
   <string name="button_normal_video_title">Gravar vídeo</string>
+  <string name="camcorder_tip_8k_max_video_duration">Pode gravar até 6 minutos em 8K</string>
   <string name="camera_disabled">A câmara foi desactivada</string>
   <string name="camera_error_title">Erro da câmara</string>
   <string name="camera_facedetection_sub_option_hint">Funcionalidade experimental</string>
@@ -853,6 +854,8 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
   <string name="user_notice_identify_summary_format">Antes de utilizar Câmara, tem de concordar com os nossos &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt;. Concorda?</string>
   <string name="user_notice_title">Termos e condições</string>
   <string name="video_beauty_tip">Embelezar para vídeos</string>
+  <string name="video_beauty_tip_filter">Filtros</string>
+  <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
   <string name="video_camera_label">Máquina de filmar</string>
   <string name="video_effect_entry_blackwhite">Preto e branco</string>
   <string name="video_effect_entry_bygone">Passado</string>

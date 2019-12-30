@@ -310,6 +310,8 @@
   <string name="delete_call_log_message">Eliminar registo de chamadas?</string>
   <string name="delete_call_log_selected_title">Eliminar registos de chamadas seleccionados?</string>
   <string name="delete_call_log_title">Registos de chamadas</string>
+  <string name="delete_conference_call_log_message">Eliminar todos os registos de chamadas de conferência associadas a este contacto agora?</string>
+  <string name="delete_conference_call_log_title">Eliminar registos de chamadas de conferência</string>
   <string name="delete_contact_calllog_title">Eliminar registo de chamadas?</string>
   <string name="delete_dial_input">Eliminar</string>
   <string name="delete_duplicate">Unir</string>

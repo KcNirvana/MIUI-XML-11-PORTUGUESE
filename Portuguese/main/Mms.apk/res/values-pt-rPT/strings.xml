@@ -221,6 +221,10 @@
   <string name="fake_cell_timeout_hint">Não foi possível verificar segurança</string>
   <string name="favorite_at_time">Adicionado aos favs. em: %1s</string>
   <string name="fdn_check_failure">Só pode enviar mensagens para os números de marcação fixa</string>
+  <string name="feature_mx">Mi Message</string>
+  <string name="feature_mx_summary">&lt;b&gt;O Mi Message permite enviar mensagens para outros utilizadores Mi Message gratuitamente através da Internet&lt;/b&gt;. É necessária uma mensagem SMS para activar este serviço. Leia e concorde com os nossos &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Termos de Utilização&lt;/a&gt;&lt;/font&gt; e &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt; antes de utilizar esta funcionalidade</string>
+  <string name="feature_smart_sms">Mensagens Inteligentes</string>
+  <string name="feature_smart_sms_summary">&lt;b&gt;As Mensagens Inteligentes fornecem o reconhecimento do ID do remetente e serviços inteligentes&lt;/b&gt;". As Mensagens Inteligentes são fornecidas em parte por Yulore. Leia e concorde com a "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt; antes de utilizar esta funcionalidade</string>
   <string name="festival_sms_loading">A carregar…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Criado em:</string>
@@ -269,6 +273,7 @@
   <string name="hybrid_service_unavailiable">Serviço indisponível</string>
   <string name="hybrid_try_again">Tente novamente</string>
   <string name="i_know">Percebi</string>
+  <string name="ignore">Agora não</string>
   <string name="importing_progress_private_message">Importar mensagens…</string>
   <string name="in_sms">Mensagem</string>
   <string name="insufficient_drm_rights">Detectados direitos DRM insuficientes</string>
@@ -337,7 +342,7 @@
   <string name="mms_block_hint">"Este remetente não está nos seus contactos.
 Esta mensagem pode não ser solicitada"</string>
   <string name="mms_block_hint_highlight">Bloquear MMS</string>
-  <string name="mms_main_purpose">Para obter acesso a todas as funcionalidades de Mensagens, ligue o Mi Message e as mensagens inteligentes</string>
+  <string name="mms_main_purpose">Para obter acesso a todas as funcionalidades de Mensagens, ligue o Mi Message e as Mensagens Inteligentes</string>
   <string name="mms_title">Mensagens</string>
   <string name="more">Mais</string>
   <string name="move_down">Mover para baixo</string>
@@ -486,7 +491,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_show_sms_template_entry_summary">Detectar OTPs e mostrar menu</string>
   <string name="pref_show_sms_template_summary">Ligar para utilizar funcionalidades inteligentes do Mi Message tais como copiar códigos, verificar o saldo, etc.</string>
   <string name="pref_show_sms_template_in_summary">Detectar automaticamente OTP nas mensagens SMS</string>
-  <string name="pref_smart_messages_settings">Mensagens inteligentes</string>
+  <string name="pref_smart_messages_settings">Mensagens Inteligentes</string>
   <string name="pref_sms_storage_title">Armazenamento</string>
   <string name="pref_sms_theme_title">Visualização</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
@@ -551,6 +556,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="privacy_password_title3">Actualizar o seu padrão</string>
   <string name="privacy_password_title4">Padrão actualizado</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="privacy_term">Política de Privacidade</string>
   <string name="private_message">Mensagens privadas</string>
   <string name="private_new_notification">Notificações de mensagens</string>
   <string name="private_protect">Protecção de Privacidade</string>
@@ -569,10 +575,16 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="recommend_bar_message_mx">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI</string>
   <string name="recommend_bar_message_mx_rcs">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI e utilizadores China Mobile</string>
   <string name="recommend_bar_message_rcs">As Mensagens China Mobile permite enviar mensagens gratuitas para outros utilizadores China Mobile</string>
-  <string name="recommend_bar_message_smart_message">Copie OTPs, procure pacotes, utilize menus inteligentes e mais</string>
+  <string name="recommend_bar_message_smart_message">Copie OTPs, procure pacotes, utilize serviços inteligentes e mais</string>
   <string name="recommend_bar_ok">Ligar</string>
   <string name="recommend_bar_title_mx_rcs">Mi Message</string>
-  <string name="recommend_bar_title_smart_message">Mensagens inteligentes</string>
+  <string name="recommend_bar_title_smart_message">Mensagens Inteligentes</string>
+  <string name="recommend_both_dialog_title">Bem-vindo a Mensagens!</string>
+  <string name="recommend_dialog_message">Pode ligar o Mi Message e as Mensagens Inteligentes para aceder a funcionalidades adicionais</string>
+  <string name="recommend_mx_dialog_title">Bem-vindo ao Mi Message!</string>
+  <string name="recommend_mx_setting_summary">O Mi Message permite enviar mensagens para outros utilizadores Mi Message gratuitamente através da Internet</string>
+  <string name="recommend_smart_sms_dialog_title">Bem-vindo às Mensagens Inteligentes!</string>
+  <string name="recommend_smart_sms_setting_summary">As Mensagens Inteligentes fornecem o reconhecimento do ID do remetente e serviços inteligentes</string>
   <string name="recording_failed">Não foi possível gravar</string>
   <string name="refill_now">Recarregar agora</string>
   <string name="refreshing">Actualizar…</string>
@@ -683,9 +695,9 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="slide_show_part">Parte %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Deslizar para cima para cancelar</string>
   <string name="slideshow_activity">Apresentação</string>
-  <string name="smart_message_title">Mensagens inteligentes</string>
-  <string name="smart_msg_main_purpose">As mensagens inteligentes fornecem identificação do remetente e serviços inteligentes</string>
-  <string name="smart_msg_privacy_policy">Política de Privacidade das mensagens inteligentes</string>
+  <string name="smart_message_title">Mensagens Inteligentes</string>
+  <string name="smart_msg_main_purpose">As Mensagens Inteligentes fornecem identificação do remetente e serviços inteligentes</string>
+  <string name="smart_msg_privacy_policy">Política de Privacidade das Mensagens Inteligentes</string>
   <string name="sms_card_partner_label">"Cartão SMS de parceiro: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Conteúdo:</string>
@@ -762,7 +774,7 @@ Se não concordar com as permissões necessárias, esta aplicação não vai fun
   <string name="title_show_blocked_messages">Mostrar SMS bloqueadas</string>
   <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
   <string name="title_show_photo_word">Atribuir fotos aos contactos</string>
-  <string name="title_show_sms_template">Mensagens inteligentes</string>
+  <string name="title_show_sms_template">Mensagens Inteligentes</string>
   <string name="title_show_sms_template_in">Verificar SMS por OTP</string>
   <string name="title_timed_message_dialog">Definir hora de envio</string>
   <string name="title_use_gsm_alphabet">Utilizar alfabeto GSM</string>
@@ -776,6 +788,7 @@ Se não concordar com as permissões necessárias, esta aplicação não vai fun
   <string name="too_many_recipients">Esta mensagem tem demasiados destinatários (%1$s). Existe um limite de %2$s destinatários</string>
   <string name="too_many_unsent_mms">Não é possível enviar a mensagem agora. Demasiadas mensagens multimédia por enviar</string>
   <string name="try_to_send">Tentar o envio</string>
+  <string name="turn_on">Ligar</string>
   <string name="type_attachment">anexo</string>
   <string name="type_audio">áudio</string>
   <string name="type_picture">imagem</string>
@@ -803,6 +816,7 @@ Tentativas efectuadas: %s"</string>
   <string name="url_result_safe">Este URL é seguro</string>
   <string name="url_scanning">A verificar URL…</string>
   <string name="user_agreement">Termos de Utilização</string>
+  <string name="user_term">Termos de Utilização</string>
   <string name="url_scan_again">Verificar novamente</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Códigos de verificação</string>
@@ -816,7 +830,8 @@ Tentativas efectuadas: %s"</string>
   <string name="yellowpage_recommend_msg">Experimente as funcionalidades das mensagens MIUI</string>
   <string name="yes">OK</string>
   <string name="yesterday">Ontem</string>
-  <string name="you_have_new_message">Tem novas mensagens</string>
+  <string name="you_have_new_message">Tem mensagens novas</string>
+  <string name="yulore_term">Política de Privacidade</string>
   <string name="zero_sms_feedback_message">As mensagens reportadas são enviadas para os nossos servidores assim como os números de telefone associados. Estas mensagens apenas são utilizadas para melhorar a funcionalidade de lista de bloqueio</string>
   <string name="zero_sms_feedback_success">Reportado com sucesso</string>
   <string name="zero_sms_feedback_title">Reportar</string>

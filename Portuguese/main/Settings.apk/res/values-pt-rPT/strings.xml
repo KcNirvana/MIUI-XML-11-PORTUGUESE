@@ -1806,6 +1806,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="default_rule_name">Temporizador 1</string>
   <string name="default_sound">Som predefinido</string>
   <string name="default_spell_checker">Verificador ortográfico predefinido</string>
+  <string name="default_suppression_title">Predefinido (recomendado)</string>
   <string name="default_theme">Predefinido</string>
   <string name="default_usb_mode">Ligação USB</string>
   <string name="default_vol_stream_title">Controlo de volume predefinido</string>
@@ -1968,6 +1969,8 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="display_vr_pref_off">Reduzir a cintilação</string>
   <string name="display_vr_pref_title">Modo Realidade Virtual</string>
   <string name="display_white_balance_title">Mostrar balanço de brancos</string>
+  <string name="diy_suppression_summary">Ajustar o tamanho da área próxima às laterais onde os toques acidentais vão ser ignorados</string>
+  <string name="diy_suppression_title">Personalizado</string>
   <string name="dlg_cancel">Cancelar</string>
   <string name="dlg_close">Fechar</string>
   <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB, algumas aplicações que estão em utilização vão ser interrompidas e podem não estar disponíveis até ligar novamente o armazenamento USB</string>
@@ -2106,6 +2109,8 @@ Pode ver o registo gerado no Explorador"</string>
   <string name="edge_mode_photo_summary">Enquanto estiver na aplicação Câmara, toque na lateral do seu telefone para activar o disparo e toque novamente para tirar uma foto</string>
   <string name="edge_mode_screenshot">Captura de ecrã</string>
   <string name="edge_mode_screenshot_summary">Duplo toque em ambas as laterais para tirar uma captura de ecrã</string>
+  <string name="edge_mode_state_summary">A área em torno das laterais curvas não vai responder a toques</string>
+  <string name="edge_mode_state_title">Ignorar toques acidentais nas laterais</string>
   <string name="edge_to_edge_navigation_summary">Para aceder à página inicial, deslize rapidamente para cima a partir da parte inferior do ecrã. Para mudar de aplicação, deslize rapidamente para cima a partir da parte inferior do ecrã sem soltar e solte. Para retroceder, deslize rapidamente a partir da extremidade esquerda ou direita do ecrã</string>
   <string name="edge_to_edge_navigation_title">Navegação por gestos</string>
   <string name="edit_rule">Editar regras</string>
@@ -2629,7 +2634,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="header_category_system">Sistema</string>
   <string name="header_category_wireless_networks">Redes</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
-  <string name="headset_settings_title">Auriculares</string>
+  <string name="headset_settings_title">Efeitos sonoros</string>
   <string name="heavy_weight_stop_description">Esta aplicação não pode ser interrompida em segurança. Se o fizer, pode perder alguns dos trabalhos actuais</string>
   <string name="help_label">Ajuda</string>
   <string name="hidden_ssid_label">SSID oculto:</string>
@@ -4399,6 +4404,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_factory_reset_dlg_button_text">Repor</string>
   <string name="privacy_factory_reset_dlg_message">Se esquecer da sua palavra-passe, vai ter de fazer uma reposição de fábrica para definir uma nova</string>
   <string name="privacy_factory_reset_dlg_title">Fazer cópia dos seus dados</string>
+  <string name="privacy_failed_need_to_unlock_nofingerprint">Introduzir palavra-passe antes de utilizar uma nova impressão digital</string>
   <string name="privacy_file">Ficheiros</string>
   <string name="privacy_gallery">Fotos</string>
   <string name="privacy_header_text_less_than_half">Sem espaço para esta aplicação. Arraste o separador ainda mais</string>
@@ -5262,6 +5268,7 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="see_all_apps_title">Ver as %1$d aplicações</string>
   <string name="see_less">Ver menos</string>
   <string name="see_more">Ver mais</string>
+  <string name="seek_bar_info">Ajustar tamanho</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_application">Seleccionar aplicação</string>
   <string name="select_automatically">Seleccionar rede automaticamente</string>
@@ -5777,6 +5784,8 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="storageuse_settings_title">Armazenamento utilizado</string>
   <string name="strict_mode">Modo restrito ligado</string>
   <string name="strict_mode_summary">Intermitência do ecrã quando aplicações executam operações longas na tarefa principal</string>
+  <string name="strong_suppression_summary">O seu dispositivo não vai responder a toques acidentais e alguns gestos perto das laterais podem não funcionar</string>
+  <string name="strong_suppression_title">Área grande</string>
   <string name="structure_add_facerecoginition_text">Adicionar dados de rosto 3D</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">Não é possível utilizar devido a bateria fraca</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">A bateria tem de ter pelo menos 5% para iniciar a gravação</string>
@@ -6571,6 +6580,8 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="vt_provisioned_switch_string">Videochamadas fornecidas</string>
   <string name="wait_for_debugger">Aguarde pelo depurador</string>
   <string name="wait_for_debugger_summary">Aplicação em modo de depuração aguarda pelo depurador que anexe antes de executar</string>
+  <string name="wake_suppression_summary">O seu dispositivo pode não responder a toques acidentais mas vai responder a gestos pertos das laterais</string>
+  <string name="wake_suppression_title">Área pequena</string>
   <string name="wakeup_and_sleep_settings_category_name">Definições do ecrã de bloqueio</string>
   <string name="wakeup_for_keyguard_notification_title">Ligar ecrã para notificações</string>
   <string name="wallpaper_attributions">Papéis de parede</string>
@@ -6738,6 +6749,8 @@ Reveja a Política de Privacidade do fornecedor de serviços"</string>
   <string name="wifi_details_ipv6_address_header">Endereços IPv6</string>
   <string name="wifi_details_subnet_mask">Máscara de sub-rede</string>
   <string name="wifi_dialog_remind_type_title">Rede de dados móveis</string>
+  <string name="wifi_direct_close_hotspot_hint">Desligar o PA Móvel antes de utilizar o Wi-Fi directo</string>
+  <string name="wifi_direct_close_slave_wifi_hint">Desligar do Wi-Fi secundário antes de utilizar Wi-Fi directo</string>
   <string name="wifi_disabled_by_recommendation_provider">Não ligado devido à baixa qualidade da rede</string>
   <string name="wifi_disabled_generic">Desactivado</string>
   <string name="wifi_disabled_help">A ligação foi desligada devido ao sinal fraco</string>

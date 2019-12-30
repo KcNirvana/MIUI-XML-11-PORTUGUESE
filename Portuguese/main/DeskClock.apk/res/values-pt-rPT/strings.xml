@@ -27,9 +27,13 @@
   <string name="alarmclock_empty_text">Sem alarmes</string>
   <string name="alarmclock_silent_hint">O alarme está no modo silêncio</string>
   <string name="alert">Toque</string>
+  <string name="alert_ringtone">Toque do alarme</string>
+  <string name="alert_volume">Volume do toque</string>
+  <string name="alert_volume_summary">Definir volume do toque para alarmes e temporizadores</string>
   <string name="analog_gadget">Relógio analógico</string>
   <string name="app_label">Relógio</string>
   <string name="auto_silence_never">Nunca</string>
+  <string name="auto_silence_summary">Definir tempo após o qual os alarmes e temporizadores vão ser silenciados</string>
   <string name="auto_silence_title">Desligar automaticamente</string>
   <string name="back">Sair</string>
   <string name="bedtime">Hora de dormir</string>
@@ -108,6 +112,7 @@
   <string name="done">Concluído</string>
   <string name="dynamic_alarm_speech">Alarme inteligente</string>
   <string name="edit_alarm">Editar alarme</string>
+  <string name="edit_label">Editar nome do alarme</string>
   <string name="edit_systemtime">Editar hora do sistema</string>
   <string name="edit_systemtime_setting_summary">Data, hora e relógio duplo</string>
   <string name="every_day">Todos os dias</string>
@@ -121,13 +126,16 @@
   <string name="holiday_update_fail">Não foi possível actualizar</string>
   <string name="holiday_update_loading">A actualizar…</string>
   <string name="holiday_update_success">Todos os itens estão actualizados</string>
-  <string name="hour_unit">H +</string>
+  <string name="holiday_update_title">Actualizar informações sobre feriados</string>
+  <string name="hour_unit">Hora +</string>
   <string name="install_weather_app_error">Não foi possível carregar a aplicação</string>
   <string name="install_weather_app_loading">Aguarde…</string>
   <string name="invalid_time">Hora inválida: %3$s %1$d: %2$d</string>
   <string name="invalid_timer_length">A duração do temporizador é inválida</string>
   <string name="keep_screen_on">Manter ecrã ligado</string>
   <string name="label">Definir nome</string>
+  <string name="label_input_desc">Este nome vai ser mostrado no ecrã após o alarme desligar</string>
+  <string name="label_input_hint">Introduzir nome</string>
   <string name="label_pref_summary">Nome</string>
   <string name="lap">Volta</string>
   <string name="lap_num">Volta</string>
@@ -205,17 +213,23 @@
   <string name="module_white_noise_download_wifi">O Relógio necessita de transferir ficheiros de áudio para o temporizador. Transferir agora?</string>
   <string name="module_white_noise_download_wifi_privacy">O Relógio necessita de ligar à Internet para transferir ficheiros de áudio para o temporizador (≈30MB). Antes de utilizar o Relógio, tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade. Concordar?</string>
   <string name="monday_to_friday">Segunda a sexta</string>
+  <string name="more_alert_setting">Definições de alarme adicionais</string>
   <string name="more_setting">Mais definições</string>
   <string name="more_settings">Definições</string>
+  <string name="net_permission_cancel">Não concordar</string>
+  <string name="net_permission_ok">Concordar</string>
   <string name="network_privacy_global">Para fornecer serviços personalizados, o Relógio necessita de ligar à Internet. Antes de utilizar o Relógio, tem de ler e concordar com os nossos &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;. Concordar?</string>
   <string name="never">Uma vez</string>
+  <string name="new_label">Adicionar nome ao alarme</string>
   <string name="no_alarm_setting">Sem alarmes</string>
   <string name="no_worldclock">Sem relógios</string>
+  <string name="normal_settings">Definições gerais</string>
   <string name="not_update">Agora não</string>
   <string name="oneshot_alarm">Eliminar após desligado</string>
   <string name="open_keep_screen">O ecrã vai permanecer ligado</string>
   <string name="open_sleep_record">Ligar</string>
   <string name="other_category_title">Outros</string>
+  <string name="other_settings">Definições adicionais</string>
   <string name="pause">Pausar</string>
   <string name="personal_recommend">Recomendações personalizadas</string>
   <string name="privacy_policy">Política de Privacidade</string>
@@ -226,6 +240,7 @@
   <string name="revert">Reverter</string>
   <string name="ringtone_all">Todos os toques</string>
   <string name="ringtone_dew">Orvalho matinal</string>
+  <string name="ringtone_digital_timer">Temporizador</string>
   <string name="ringtone_dream">Devaneios</string>
   <string name="ringtone_firefly">Pirilampos</string>
   <string name="ringtone_other">Mais toques</string>
@@ -300,6 +315,7 @@
   <string name="system_time_setting">Definições</string>
   <string name="system_time_settings_category_title">Definições de hora</string>
   <string name="time">Hora</string>
+  <string name="time_settings">Definições do relógio</string>
   <string name="timer_alarm_cancel_pad">Toque no ecrã para parar de tocar</string>
   <string name="timer_alarm_dot_matrix_label">Temporizador</string>
   <string name="timer_alert_alert_silenced">O temporizador desliga após %1$s</string>
@@ -333,6 +349,7 @@
   <string name="timer_new_item">Adicionar temporizador</string>
   <string name="timer_notify_text">Suspender ou desactivar temporizador</string>
   <string name="timer_pause_timer">Pausar temporizador</string>
+  <string name="timer_ringtone">Toque do temporizador</string>
   <string name="timer_running">O temporizador está a andar</string>
   <string name="timer_start_alarm">Acabou o tempo!</string>
   <string name="timer_start_timer">Iniciar temporizador</string>

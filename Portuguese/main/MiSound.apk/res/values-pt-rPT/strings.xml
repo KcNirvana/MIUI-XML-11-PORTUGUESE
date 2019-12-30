@@ -103,7 +103,7 @@
   <string name="music_headset_mode_settings">Botões remotos do auricular</string>
   <string name="music_headset_mode_volume">Controlo do volume</string>
   <string name="music_headset_no_contected">Não foram detectados auriculares</string>
-  <string name="music_headset_settings">Auriculares</string>
+  <string name="music_headset_settings">Efeitos sonoros</string>
   <string name="music_hifi_summary">Reduzir o ruído e distorção e aumentar a qualidade de áudio</string>
   <string name="music_hifi_title">Áudio Hi-Fi</string>
   <string name="music_mi_effect_summary">Utilizar o melhoramento de som Mi quando utilizar altifalantes</string>
