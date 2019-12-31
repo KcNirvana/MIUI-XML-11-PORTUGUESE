@@ -2241,7 +2241,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="shutdown_cancel_reminder">Não desligou</string>
   <string name="shutdown_cancel_reminder_detail">O dispositivo não vai desligar porque está no decorrer de uma chamada</string>
   <string name="shutdown_cancel_reminder_detail2">Parece que está a jogar. O desligamento programado foi cancelado</string>
-  <string name="signal_exception_4g_bad_rsrq">O sinal da rede é fraco.is poor. A velocidade da ligação pode ser baix</string>
+  <string name="signal_exception_4g_bad_rsrq">O sinal da rede é fraco. A velocidade da ligação pode ser baixa</string>
   <string name="signal_exception_none_4g_5g_network">Está a utilizar redes 2G/3G. A velocidade da ligação pode ser baixa</string>
   <string name="signal_exception_summary">Não é possível ligar à rede nesta área</string>
   <string name="signal_exception_title">Testar potência do sinal</string>
@@ -2905,7 +2905,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="wifi_item_title_fake">Detectar Wi-Fi falsos</string>
   <string name="wifi_network_blocked_notification_title">Sem ligação à Internet</string>
   <string name="wifi_optizition_loading">A ligar acelerador de rede Xunyou…</string>
-  <string name="wifi_optizition_tip">Ligar o acelerador de rede Wi-Fi para tornar a ligação mais estável. Vai ser utilizado um bocado de dados móveis</string>
+  <string name="wifi_optizition_tip">Ligar o acelerador de rede Wi-Fi para tornar a ligação mais estável. Vai ser utilizado uma pequena quantidade de dados móveis</string>
   <string name="wifi_optizition_title">Acelerador de rede</string>
   <string name="wl_no_whitelist">Sem excepções</string>
   <string name="wlan_booster">Optimização Wi-Fi</string>
