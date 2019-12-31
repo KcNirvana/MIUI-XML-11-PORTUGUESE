@@ -2588,7 +2588,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gxzw_anim_title">Animações da impressão digital</string>
   <string name="gxzw_aod_show_summary">Levante o dispositivo ou toque no ecrã para fazer aparecer o ícone de impressão digital. Esta funcionalidade aumenta o consumo de bateria</string>
   <string name="gxzw_aod_show_tittle">Ícone de impressão digital com o ecrã desligado</string>
-  <string name="gxzw_dialog_message">Para ser possível utilizar o sensor de impressão digital no ecrã, não utilize protectores de ecrã</string>
+  <string name="gxzw_dialog_message">Para poder utilizar o sensor de impressão digital no ecrã normalmente, utilize apenas protectores de ecrã compatíveis ou autorizados</string>
   <string name="gxzw_dialog_not_show_again">Não mostrar novamente</string>
   <string name="gxzw_dialog_ok">Percebi</string>
   <string name="gxzw_dialog_title">Acerca do sensor de impressão digital</string>

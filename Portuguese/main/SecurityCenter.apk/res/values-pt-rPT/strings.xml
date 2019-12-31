@@ -2905,7 +2905,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="wifi_item_title_fake">Detectar Wi-Fi falsos</string>
   <string name="wifi_network_blocked_notification_title">Sem ligação à Internet</string>
   <string name="wifi_optizition_loading">A ligar acelerador de rede Xunyou…</string>
-  <string name="wifi_optizition_tip">Ligar o acelerador de rede Wi-Fi para tornar a ligação mais estável. Vai ser utilizado uma pequena quantidade de dados móveis</string>
+  <string name="wifi_optizition_tip">Ligar o acelerador de rede Wi-Fi para tornar a ligação mais estável. Vai ser utilizada uma pequena quantidade de dados móveis</string>
   <string name="wifi_optizition_title">Acelerador de rede</string>
   <string name="wl_no_whitelist">Sem excepções</string>
   <string name="wlan_booster">Optimização Wi-Fi</string>
