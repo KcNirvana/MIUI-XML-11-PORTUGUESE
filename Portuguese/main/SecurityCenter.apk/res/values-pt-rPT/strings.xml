@@ -2104,7 +2104,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, seleccione a aplicação reportar erros para enviar um registo a partir o seu dispositivo</string>
   <string name="qucick_replay_instrument">Utilizar respostas rápidas nas notificações das aplicações seleccionadas</string>
   <string name="quick_optimize_checking">A verificar</string>
-  <string name="quick_optimize_no_fix_issue_subtitle">Não foi possível estender a vida da bateria</string>
+  <string name="quick_optimize_no_fix_issue_subtitle">Não foi possível aumentar a vida da bateria</string>
   <string name="quick_optimize_no_fix_issue_title">Não foi possível corrigir os problemas de bateria</string>
   <string name="quick_optimize_no_issue">Sem problemas de bateria</string>
   <string name="quick_optimize_no_issue_subtitle">Verificação concluída</string>

@@ -744,7 +744,7 @@ Sensibilidades mais elevadas podem entrar em conflito com quaisquer gestos de ap
   <string name="battery_saver_turn_on_automatically_never">Nunca</string>
   <string name="battery_saver_turn_on_automatically_pct">com %1$s de bateria</string>
   <string name="battery_saver_turn_on_automatically_title">Ligar automaticamente</string>
-  <string name="battery_saver_turn_on_summary">Estender a vida da bateria</string>
+  <string name="battery_saver_turn_on_summary">Aumentar a vida da bateria</string>
   <string name="battery_screen_usage">Utilização do ecrã: ^1</string>
   <string name="battery_settings">Bateria</string>
   <string name="battery_settings_title">Bateria</string>
@@ -2588,7 +2588,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gxzw_anim_title">Animações da impressão digital</string>
   <string name="gxzw_aod_show_summary">Levante o dispositivo ou toque no ecrã para fazer aparecer o ícone de impressão digital. Esta funcionalidade aumenta o consumo de bateria</string>
   <string name="gxzw_aod_show_tittle">Ícone de impressão digital com o ecrã desligado</string>
-  <string name="gxzw_dialog_message">Para poder utilizar o sensor de impressão digital no ecrã normalmente, utilize apenas protectores de ecrã compatíveis ou autorizados</string>
+  <string name="gxzw_dialog_message">Para utilizar o sensor de impressão digital no ecrã, utilize apenas protectores de ecrã compatíveis ou autorizados</string>
   <string name="gxzw_dialog_not_show_again">Não mostrar novamente</string>
   <string name="gxzw_dialog_ok">Percebi</string>
   <string name="gxzw_dialog_title">Acerca do sensor de impressão digital</string>
@@ -4251,7 +4251,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="power_screen">Ecrã</string>
   <string name="power_service">Serviços</string>
   <string name="power_settings_title">Desempenho do sistema</string>
-  <string name="power_suggestion_extend_battery">Estender a autonomia da bateria após %1$s</string>
+  <string name="power_suggestion_extend_battery">Aumentar a autonomia da bateria após %1$s</string>
   <string name="power_unaccounted">Diversos</string>
   <string name="power_usage_history">Utilização de bateria</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
@@ -6148,7 +6148,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="usage_app_get_it">Percebi</string>
   <string name="usage_app_limit_alter_summary">Este limite de tempo é menor que o tempo que já utilizou esta aplicação hoje. Definir lmite mesmo assim?</string>
   <string name="usage_app_limit_alter_title">Verificação limite de tempo de ecrã</string>
-  <string name="usage_app_limit_prelong">Estender tempo</string>
+  <string name="usage_app_limit_prelong">Aumentar tempo</string>
   <string name="usage_app_limit_reach_summay">%s restantes</string>
   <string name="usage_app_limit_reach_title">%s está a chegar ao limite de tempo de ecrã</string>
   <string name="usage_app_limit_summary">As aplicações seleccionadas não vão estar disponíveis quando o limite for atingido</string>
