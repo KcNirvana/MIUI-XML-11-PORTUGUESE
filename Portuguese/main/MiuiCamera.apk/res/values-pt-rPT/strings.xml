@@ -66,8 +66,8 @@
   <string name="accessibility_ultra_wide_on">Modo Ultra grande-angular ligado</string>
   <string name="accessibility_video_btn_play">Reproduzir vídeo</string>
   <string name="accessibility_zoom_button">Modo Zoom</string>
-  <string name="ai_scene_mode_use_hint_text">"A câmara IA detecta os cenários automaticamente
-e optimiza as suas fotos baseado nesta informação"</string>
+  <string name="ai_scene_mode_use_hint_text">Reconhecer cenários utilizando a IA
+e ajustar as preferências automaticamente"</string>
   <string name="ai_scene_top_moon_off">Modo luz fraca</string>
   <string name="ai_scene_top_tip">Modo Lua</string>
   <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>

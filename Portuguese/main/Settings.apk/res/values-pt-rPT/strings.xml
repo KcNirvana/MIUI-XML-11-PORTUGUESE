@@ -1367,6 +1367,8 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="close_privacy_thumbnail_blur_title">As pré-visualizações não estão desfocadas</string>
   <string name="close_slave_wifi_hint">Desligar das redes Wi-Fi auxiliares antes de transmitir</string>
   <string name="cmcc_hardware_version">Versão de hardware</string>
+  <string name="codec_low_latency_summary">Fornece uma experiência de baixa latência para a sincronização áudio/vídeo</string>
+  <string name="codec_low_latency_title">Baixa latência</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
   <string name="color_calibration_none">Nativo</string>

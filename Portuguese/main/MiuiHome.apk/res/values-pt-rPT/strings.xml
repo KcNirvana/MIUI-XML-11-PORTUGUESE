@@ -117,6 +117,9 @@
   <string name="category_cannot_empty">Introduza a categoria primeiro</string>
   <string name="category_choose_no_app_select_tip">Todas as categorias têm de ter pelo menos 1 aplicação</string>
   <string name="category_drawer_name_hint">Introduza o nome da categoria</string>
+  <string name="category_edit_back_confirm_dialog_content">Guardar alterações agora?</string>
+  <string name="category_edit_back_confirm_dialog_negative_button">Não guardar</string>
+  <string name="category_edit_back_confirm_dialog_positive_button">Guardar</string>
   <string name="category_group">Categorizar aplicações</string>
   <string name="category_group_summary">Categorizar aplicações na gaveta de aplicações</string>
   <string name="category_not_selected">Aplicações disponíveis</string>

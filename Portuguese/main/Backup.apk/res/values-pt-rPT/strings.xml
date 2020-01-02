@@ -68,6 +68,7 @@
   <string name="button_send">Enviar</string>
   <string name="call_title">Registos de chamadas</string>
   <string name="camera_summary">Definições da câmara (fotos não incluídas)</string>
+  <string name="camera_summary_for_cta">Definições da câmara</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_backup">Parar</string>
   <string name="cancel_moving_dialog_message">Parar a importação?</string>
