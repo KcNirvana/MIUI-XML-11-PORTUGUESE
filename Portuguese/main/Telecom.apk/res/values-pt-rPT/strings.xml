@@ -364,7 +364,7 @@ Selecção"</string>
   <string name="power_remaining_less_than_duration_only">Menos de %1$s restantes</string>
   <string name="power_remaining_more_than_subtext">Mais de %1$s restantes (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Mais de %1$s restantes</string>
-  <string name="power_suggestion_extend_battery">Estender a autonomia da bateria após %1$s</string>
+  <string name="power_suggestion_extend_battery">Aumentar a autonomia da bateria após %1$s</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="private_dns_mode_off">Desligado</string>
   <string name="private_dns_mode_opportunistic">Automático</string>

@@ -2133,7 +2133,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, seleccione a aplicação reportar erros para enviar um registo a partir o seu dispositivo</string>
   <string name="qucick_replay_instrument">Utilizar respostas rápidas nas notificações das aplicações seleccionadas</string>
   <string name="quick_optimize_checking">A verificar</string>
-  <string name="quick_optimize_no_fix_issue_subtitle">Não foi possível estender a vida da bateria</string>
+  <string name="quick_optimize_no_fix_issue_subtitle">Não foi possível aumentar a vida da bateria</string>
   <string name="quick_optimize_no_fix_issue_title">Não foi possível corrigir os problemas de bateria</string>
   <string name="quick_optimize_no_issue">Sem problemas de bateria</string>
   <string name="quick_optimize_no_issue_subtitle">Verificação concluída</string>
@@ -2934,7 +2934,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="wifi_item_title_fake">Detectar Wi-Fi falsos</string>
   <string name="wifi_network_blocked_notification_title">Sem ligação à Internet</string>
   <string name="wifi_optizition_loading">A ligar acelerador de rede Xunyou…</string>
-  <string name="wifi_optizition_tip">Ligar o acelerador de rede Wi-Fi para tornar a ligação mais estável. Vai ser utilizado uma pequena quantidade de dados móveis</string>
+  <string name="wifi_optizition_tip">Ligar o acelerador de rede Wi-Fi para tornar a ligação mais estável. Vai ser utilizada uma pequena quantidade de dados móveis</string>
   <string name="wifi_optizition_title">Acelerador de rede</string>
   <string name="wl_no_whitelist">Sem excepções</string>
   <string name="wlan_booster">Optimização Wi-Fi</string>

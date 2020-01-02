@@ -1063,7 +1063,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="power_discharge_by_only_short">Até %1$s</string>
   <string name="power_discharging_duration">Cerca de %1$s restantes (%2$s)</string>
   <string name="power_discharging_duration_enhanced">Cerca de %1$s restantes baseado na sua utilização (%2$s)</string>
-  <string name="power_suggestion_extend_battery">Estender a autonomia da bateria após %1$s</string>
+  <string name="power_suggestion_extend_battery">Aumentar a autonomia da bateria após %1$s</string>
   <string name="prefered_network_type_3g_promp">Deve desligar o VoLTE antes de seleccionar a rede 3G como preferida. Desligar agora?</string>
   <string name="preference_auto_ip_summary_disable">Desactivado</string>
   <string name="preference_category_ringtone">Toque e vibração</string>
