@@ -854,6 +854,7 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
   <string name="user_notice_identify_summary_format">Antes de utilizar Câmara, tem de concordar com os nossos &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt;. Concorda?</string>
   <string name="user_notice_title">Termos e condições</string>
   <string name="video_beauty_tip">Embelezar para vídeos</string>
+  <string name="video_beauty_tip_beautification">Embelezar</string>
   <string name="video_beauty_tip_filter">Filtros</string>
   <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
   <string name="video_camera_label">Máquina de filmar</string>
