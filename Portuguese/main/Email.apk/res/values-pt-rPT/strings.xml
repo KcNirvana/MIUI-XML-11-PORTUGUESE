@@ -1072,7 +1072,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="toast_bar_no_connection_network">Sem ligação à Internet</string>
   <string name="toast_bar_open_gmail_synchronization">Não foi possível ligar ao Gmail. Verifique as suas definições de rede e tente novamente</string>
   <string name="toast_bar_send_fail_remind">Não foi possível enviar o email. Foi guardado na pasta \"Caixa de saída\"</string>
-  <string name="toast_bar_sync_failed_client_cert">Não foi possível sincronizar devido à falta de um certificado. Toque novamente para adicionar o certificado</string>
+  <string name="toast_bar_sync_failed_client_cert">Não foi possível sincronizar devido à falta de um certificado. Toque para adicionar o certificado novamente</string>
   <string name="toast_bar_sync_failed_mi_authority">Iniciar sessão para autorizar o seu dispositivo</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Para sincronizar o calendário e contactos, conceda ao Email as permissões necessárias nas Definições</string>
   <string name="toastbar_calendar_permission_switch_close">Para receber alertas do calendário, conceda ao Email as permissões necessárias nas Definições</string>
@@ -1101,7 +1101,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="turn_auto_sync_on_dialog_title">Activar sincronização automática?</string>
   <string name="unbind_dialog_text">"O Email não vai mais analizar os seus emails.
 Remover conta?"</string>
-  <string name="under_16_content">Confirme ter mais de 16 anos?</string>
+  <string name="under_16_content">Confirma ter mais de 16 anos?</string>
   <string name="under_sixteen">Eu tenho menos de 16 anos</string>
   <string name="undo">Anular</string>
   <string name="unknow">Desconhecido</string>
@@ -1123,7 +1123,7 @@ Remover conta?"</string>
   <string name="uploading_logs">Aguarde…</string>
   <string name="user_new_auth_code">Iniciar sessão com um novo código</string>
   <string name="user_privacy_settings">Definições de privacidade</string>
-  <string name="user_privacy_settings_agreement_authorization">(Ao tocar em \"Concordar\" estou a conceder todas as permissões necessárias a WPS Email)</string>
+  <string name="user_privacy_settings_agreement_authorization">(Ao tocar em \"Concordar\" estou a conceder todas as permissões necessárias a WPS Mail)</string>
   <string name="user_privacy_settings_path">Pode revogar a sua autorização em Definições &gt; Privacidade</string>
   <string name="user_privacy_settings_summary">Vamos obter o seu ID do Android criptografado e utilizá-lo como o seu identificador único no Email. Pode revogar a sua autorização a qualquer momento nas definições de privacidade</string>
   <string name="user_privacy_settings_title">Declaração de privacidade do Email</string>
