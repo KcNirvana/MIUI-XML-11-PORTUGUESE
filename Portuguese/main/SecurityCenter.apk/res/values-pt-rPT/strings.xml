@@ -32,7 +32,7 @@
   <string name="ac_post_notification_contentTitle">Ligue o Bloqueio de aplicações</string>
   <string name="ac_pre_notification_contentText">Proteja as suas informações pessoais</string>
   <string name="ac_pre_notification_contentTitle">Experimente o Bloqueio de aplicações</string>
-  <string name="ac_recommend_guide_dialog_app_content">Utilizar o Bloqueio de aplicaçõe com esta aplicação para proteger as suas informações pessoais</string>
+  <string name="ac_recommend_guide_dialog_app_content">Utilizar o Bloqueio de aplicações com esta aplicação para proteger as suas informações pessoais</string>
   <string name="ac_recommend_guide_dialog_content">Pode proteger as suas informações pessoais utilizando o Bloqueio de aplicações</string>
   <string name="ac_recommend_guide_dialog_ignore">Não mostrar novamente</string>
   <string name="ac_recommend_guide_dialog_open">Ligar</string>
