@@ -594,7 +594,7 @@
   <string name="mail_header_network_not_available">Não tem uma ligação de rede</string>
   <string name="mail_login_help">Como iniciar sessão</string>
   <string name="mail_login_help_bottom_tip">"Se esqueceu a sua palavra-passe ou necessita de verificar o estado da sua conta, utilize a versão web de NetEase Mail. Pode obter ajuda no WeChat: "</string>
-  <string name="mail_login_help_details1">1. A palavra-passe do email pode ser utilizado quando não existe código de autorização e os serviços POP3/IMAP/SMTP estão activados</string>
+  <string name="mail_login_help_details1">1. A palavra-passe do email pode ser utilizada quando não existe código de autorização e os serviços POP3/IMAP/SMTP estão activados</string>
   <string name="mail_login_help_details2">2. Os códigos de autorização podem ser utilizados para iniciar sessão em clientes de email de terceiros quando os serviços POP3/IMAP/SMTP estão activados</string>
   <string name="mail_login_help_title">Palavra-passe do email/cliente de email:</string>
   <string name="mail_outlook_login_tips">Vai ser redireccionado para a Microsoft para introduzir a palavra-passe</string>
@@ -811,7 +811,7 @@
   <string name="permission_access_provider_label">Aceder aos dados de utilizador</string>
   <string name="permission_des_calendar">Para sincronizar eventos do calendário</string>
   <string name="permission_des_contact">Para aceder a emails dos seus contactos devido ao preenchimento automático</string>
-  <string name="permission_des_detail">Se não concordar com as permissões ou a partilha e envio de informações pessoais, não vai poder utilizar esta aplicação. Pode desinstalar, terminar sessão ou restringir permissões em Definições</string>
+  <string name="permission_des_detail">Se não concordar com as permissões ou a partilha e envio de informações pessoais, não vai poder utilizar esta aplicação. Pode desinstalar, terminar sessão ou restringir as permissões em Definições</string>
   <string name="permission_des_external_storage">Para criar novos emails e guardar/adicionar anexos</string>
   <string name="permission_des_phone_status">Para aceder ao IMEI para identificar o seu dispositivo</string>
   <string name="permission_des_storage">Para criar novos emails, assim como guardar e adicionar anexos</string>
@@ -1072,7 +1072,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="toast_bar_no_connection_network">Sem ligação à Internet</string>
   <string name="toast_bar_open_gmail_synchronization">Não foi possível ligar ao Gmail. Verifique as suas definições de rede e tente novamente</string>
   <string name="toast_bar_send_fail_remind">Não foi possível enviar o email. Foi guardado na pasta \"Caixa de saída\"</string>
-  <string name="toast_bar_sync_failed_client_cert">Não foi possível sincronizar devido à falta dum certificado. Toque para adicionar o certificado novamente</string>
+  <string name="toast_bar_sync_failed_client_cert">Não foi possível sincronizar devido à falta de um certificado. Toque para adicionar o certificado novamente</string>
   <string name="toast_bar_sync_failed_mi_authority">Iniciar sessão para autorizar o seu dispositivo</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Para sincronizar o calendário e contactos, conceda ao Email as permissões necessárias nas Definições</string>
   <string name="toastbar_calendar_permission_switch_close">Para receber alertas do calendário, conceda ao Email as permissões necessárias nas Definições</string>
@@ -1101,7 +1101,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="turn_auto_sync_on_dialog_title">Activar sincronização automática?</string>
   <string name="unbind_dialog_text">"O Email não vai mais analizar os seus emails.
 Remover conta?"</string>
-  <string name="under_16_content">Confirma ser maior de 16 anos?</string>
+  <string name="under_16_content">Confirma ter mais de 16 anos?</string>
   <string name="under_sixteen">Eu tenho menos de 16 anos</string>
   <string name="undo">Anular</string>
   <string name="unknow">Desconhecido</string>
@@ -1123,9 +1123,9 @@ Remover conta?"</string>
   <string name="uploading_logs">Aguarde…</string>
   <string name="user_new_auth_code">Iniciar sessão com um novo código</string>
   <string name="user_privacy_settings">Definições de privacidade</string>
-  <string name="user_privacy_settings_agreement_authorization">(Ao tocar em \"Concordar\" estou a conceder todas as permissões necessárias a WPS Mai)</string>
+  <string name="user_privacy_settings_agreement_authorization">(Ao tocar em \"Concordar\" estou a conceder todas as permissões necessárias a WPS Mail)</string>
   <string name="user_privacy_settings_path">Pode revogar a sua autorização em Definições &gt; Privacidade</string>
-  <string name="user_privacy_settings_summary">Vamos obter o seu ID do Android criptografadoe utilizá-lo como o seu identificador único no Email. Pode revogar a sua autorização nas definições de privacidade em qualquer momento</string>
+  <string name="user_privacy_settings_summary">Vamos obter o seu ID do Android criptografado e utilizá-lo como o seu identificador único no Email. Pode revogar a sua autorização a qualquer momento nas definições de privacidade</string>
   <string name="user_privacy_settings_title">Declaração de privacidade do Email</string>
   <string name="validation_failed_prompt">Não foi possível verificar a conta, verifique as definições do servidor %s</string>
   <string name="veiled_address"/>
@@ -1137,7 +1137,7 @@ Remover conta?"</string>
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Ver mais conversas</string>
   <string name="wait_for_manual_sync_body">"Esta conta não está configurada para sincronizar automaticamente.
-Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definições de sincronização</b> para configurar esta conta para sincronizar emails automaticamente</string>
+Toque "<b>Sincronizar agora</b> para sincronizar emails ou <b>Alterar definições de sincronização</b> para configurar esta conta para sincronizar emails automaticamente</string>
   <string name="wait_for_sync_title">A aguardar sincronização</string>
   <string name="wait_while_update_db">A actualizar a base de dados…</string>
   <string name="webview_logout">Pode tentar iniciar sessão novamente</string>
