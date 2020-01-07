@@ -7,7 +7,7 @@
   <string name="accessibility_shutter_button">Disparador</string>
   <string name="action_search">Pesquisar</string>
   <string name="address">Endereço:</string>
-  <string name="agree_app_use">Digitalizar códigos QR e reconhecê-los noutras imagens</string>
+  <string name="agree_app_use">Digitalizar códigos QR e outras imagens (pode ser necessário acesso à localização)</string>
   <string name="agree_btn">Concordar</string>
   <string name="agree_camera_permission">Para tirar fotos e gravar vídeos</string>
   <string name="agree_storage_permission">Para aceder a fotos e ficheiros armazenados no seu dispositivo</string>

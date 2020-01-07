@@ -388,14 +388,14 @@
   <string name="device_paired_dialog_title">A procurar contactos…</string>
   <string name="device_pairing_dialog_message">A emparelhar…</string>
   <string name="device_pairing_dialog_title">Emparelhar dispositivos</string>
-  <string name="device_transfer_by_bluetooth_message">"1. Ligue o Bluetooth no outro dispositivo. 
+  <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Ligue o Bluetooth no outro dispositivo. 
 
 - O Bluetooth pode ser encontrado nas definições de rede nos dispositivos Android. 
 - Nos dispositivos iOS, o Bluetooth está nas Definições. 
 
-2. O modo Vísivel também deve estar ligado nos dispositivos Android. 
+%d. O modo Vísivel também deve estar ligado nos dispositivos Android. 
 
-3. Toque \"Seguinte\" e dê aos Contactos as permissões necessárias"</string>
+%d. Toque \"Seguinte\" e dê aos Contactos as permissões necessárias"</string>
   <string name="device_version_header_bluetooth">Importar via Bluetooth</string>
   <string name="device_version_header_no_bluetooth">Importar via cartão SIM</string>
   <string name="dial">Marcar</string>
@@ -555,8 +555,7 @@ Motivo: \"%s\""</string>
   <string name="import_from_sim2">Importar do cartão SIM 2</string>
   <string name="import_multiple_vcard_string">Importar vários ficheiros vCard</string>
   <string name="import_name">Nome</string>
-  <string name="import_one_vcard_string">Importar um ficheiro vCard</string>
-  <string name="import_percent">0%</string>
+  <string name="import_one_vcard_string">Importar %d ficheiro vCard</string>
   <string name="import_selected_sim_entries_miui">Importar contactos seleccionados</string>
   <string name="import_sim_contacts_hint_title">Importar contactos do SIM</string>
   <string name="import_sim_entries_finish">Contactos importados do cartão SIM</string>
@@ -1054,7 +1053,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="set_photo_failed_msg">Não foi possível atribuir foto</string>
   <string name="share_contact_as">Partilhar contacto como</string>
   <string name="share_error">Este contacto não pode ser partilhado</string>
-  <string name="share_over_limit">Não é possível partilhar mais de 1000 contactos</string>
+  <string name="share_over_limit">Não é possível partilhar mais de %d contactos</string>
   <string name="share_qrcode">Partilhar código QR</string>
   <string name="share_via">Enviar via</string>
   <string name="share_visible_contacts">Partilhar contactos</string>
@@ -1097,9 +1096,9 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="smart_group_company_label">Empresas</string>
   <string name="smart_group_company_unavailable">Sem informação da empresa</string>
   <string name="smart_group_frequency_1">No mês passado</string>
-  <string name="smart_group_frequency_2">Um a três meses</string>
-  <string name="smart_group_frequency_3">Três a seis meses</string>
-  <string name="smart_group_frequency_4">Há mais de 6 meses</string>
+  <string name="smart_group_frequency_2" formatted="false">%d a %d meses</string>
+  <string name="smart_group_frequency_3" formatted="false">%d to %d meses</string>
+  <string name="smart_group_frequency_4">Há mais de %d meses</string>
   <string name="smart_group_frequency_label">Recentes</string>
   <string name="smart_group_label">Grupos inteligentes</string>
   <string name="smart_group_loading">Aguarde…</string>
@@ -1148,9 +1147,9 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="t9_search_empty_send_sms">Enviar mensagem</string>
   <string name="t9_search_empty_video_call">Videochamada</string>
   <string name="t9_search_guide_pinyin_title1">Pesquisa rápida de contactos</string>
-  <string name="t9_search_guide_pinyin_title2">Introduzir 9 e 4 para pesquisar por Xavi Hernandez</string>
+  <string name="t9_search_guide_pinyin_title2">Introduzir %d e %d para pesquisar por Xavi Hernandez</string>
   <string name="t9_search_guide_zhuyin_title1">Pesquisa rápida de contactos</string>
-  <string name="t9_search_guide_zhuyin_title2">Introduzir 5 e 6 para pesquisar por João Moutinho</string>
+  <string name="t9_search_guide_zhuyin_title2">Introduzir %d e %d para pesquisar por João Moutinho</string>
   <string name="take_new_photo">Tirar nova foto</string>
   <string name="take_photo">Tirar foto</string>
   <string name="titleJoinContactDataWith">Associar contactos</string>

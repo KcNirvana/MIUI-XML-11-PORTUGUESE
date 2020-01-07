@@ -181,6 +181,9 @@ e ajustar as preferências automaticamente"</string>
   <string name="dirty_tip_toast">A lente está suja. Limpe-a</string>
   <string name="do_not_remind_me">Não mostrar novamente</string>
   <string name="document_blackwhite">Preto e branco</string>
+  <string name="document_mode_use_hint_text_body">"Alinhar e melhorar
+documentos digitalizados automaticamente"</string>
+  <string name="document_mode_use_hint_text_title">Digitalizar documentos</string>
   <string name="document_origin">Original</string>
   <string name="document_strengthen">Melhorada</string>
   <string name="dual_camera_lens_covered_toast">A lente está tapada</string>

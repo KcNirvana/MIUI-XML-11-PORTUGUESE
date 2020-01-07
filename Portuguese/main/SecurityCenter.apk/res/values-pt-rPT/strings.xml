@@ -1221,11 +1221,15 @@ medical card"</string>
   <string name="gb_sound_audition">Tentar</string>
   <string name="gb_voice_change_settinged">Modificador de voz ligado</string>
   <string name="gb_voice_changer_cartoon">Desenhos animados</string>
+  <string name="gb_voice_changer_dlg_button_agree">Permitir</string>
+  <string name="gb_voice_changer_dlg_button_refuse">Restringir</string>
   <string name="gb_voice_changer_dlg_title">Modificador de voz</string>
   <string name="gb_voice_changer_lady">Mulher</string>
   <string name="gb_voice_changer_loli">Rapariga</string>
   <string name="gb_voice_changer_men">Homem</string>
   <string name="gb_voice_changer_normal">Original</string>
+  <string name="gb_voice_changer_permission_dlg_msg">O modificador de voz necessita de poder gravar áudio para funcionar correctamente</string>
+  <string name="gb_voice_changer_permission_dlg_title">Permissões necessárias</string>
   <string name="gb_voice_changer_robot">Robot</string>
   <string name="gb_wonderful_video_cancel">Cancelar</string>
   <string name="gb_wonderful_video_checkall">Seleccionar tudo</string>
@@ -1282,6 +1286,8 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
   <string name="gs_show_way_horizontal">Horizontal</string>
   <string name="gs_show_way_vertical">Vertical</string>
   <string name="gs_slip_gamebox_detail">Utilize o controlo para fazer o painel de atalhos aparecer</string>
+  <string name="gtb_exit_game_to_gtb">Abrir atalhos</string>
+  <string name="gtb_exit_game_to_home">Voltar para o ecrã inicial</string>
   <string name="guide_get_operator_error">"<font color='#33b4ff'><u>Operadora errada?</u></font>"</string>
   <string name="guide_operator_text">"A sua operadora actual: "</string>
   <string name="guide_quck_open">Ligar</string>

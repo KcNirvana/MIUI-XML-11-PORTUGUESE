@@ -1546,6 +1546,7 @@ para personalizar a galeria"</string>
   <string name="video_editor_loading_warning_msg">Algumas funcionalidades não vão estar disponíveis devido a um erro de codificação. O vídeo final não vai ser afectado</string>
   <string name="video_editor_loading_warning_title">Erro de codificação</string>
   <string name="video_editor_more">Avançado</string>
+  <string name="video_editor_not_support_8k_tips">Não é possível editar vídeos 8K</string>
   <string name="video_editor_not_support_tips">Este formato de vídeo não é suportado</string>
   <string name="video_editor_ok">OK</string>
   <string name="video_editor_regulator">Ajustar</string>

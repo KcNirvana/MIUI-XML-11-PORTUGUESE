@@ -36,7 +36,6 @@
   <string name="anniversary_event_title">Aniversário: %1$s</string>
   <string name="anniversary_secondary_tag">Aniversário</string>
   <string name="app_label">Calendário</string>
-  <string name="app_name">Comum</string>
   <string name="birthday_born">Data de nascimento</string>
   <string name="birthday_calendar_display_name">Aniversários</string>
   <string name="birthday_event_description_a_week_ago">Uma semana atrás</string>
@@ -219,7 +218,7 @@
   <string name="fortune_no_name">Preencha</string>
   <string name="free_day_default_banner_title">Boas férias!</string>
   <string name="from_google_group_calendar">Calendário Google</string>
-  <string name="gadget_no_events">Sem eventos para breve no calendário</string>
+  <string name="gadget_no_events">Sem eventos próximos no calendário</string>
   <string name="gadget_title">Calendário</string>
   <string name="guide_card_hint_text">Importar aniversários dos contactos</string>
   <string name="guide_card_close">Fechar</string>

@@ -206,10 +206,7 @@ Envie este código ao supervisor"</string>
   <string name="passport_change_phone_number">Trocar números</string>
   <string name="passport_checking_account">A verificar palavra-passe…</string>
   <string name="passport_checking_input">A verificar método de entrada…</string>
-  <string name="passport_click_email_to_valid">"
-
-Para activar a sua conta siga o 
- link que enviámos para o seu email"</string>
+  <string name="passport_click_email_to_valid">Para activar a sua conta siga o link que enviámos para o seu email</string>
   <string name="passport_completed">Concluir</string>
   <string name="passport_confirm_login">Continuar</string>
   <string name="passport_confirm_recycle_account">Sim</string>
