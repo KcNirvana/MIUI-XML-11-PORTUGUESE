@@ -296,7 +296,7 @@ no modo Retrato"</string>
   <string name="live_speed_extreme_slow">Super lento</string>
   <string name="live_speed_fast">Rápido</string>
   <string name="live_speed_fragment_tab_name">Vel. de gravação</string>
-  <string name="live_speed_normal">Regular</string>
+  <string name="live_speed_normal">Normal</string>
   <string name="live_speed_slow">Lento</string>
   <string name="live_sticker_network_error_hint">Erro de rede</string>
   <string name="live_sticker_updating">A actualizar…</string>
@@ -673,7 +673,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">Luz fraca</string>
   <string name="pref_camera_zoom_mode_entry_macro">Macro</string>
   <string name="pref_camera_zoom_mode_entry_macro_abbr">Macro</string>
-  <string name="pref_camera_zoom_mode_entry_standard">Regular</string>
+  <string name="pref_camera_zoom_mode_entry_standard">Normal</string>
   <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
   <string name="pref_camera_zoom_mode_entry_tele_2X_abbr">Tele 2X</string>
