@@ -6224,7 +6224,7 @@ ou auscultadores com ficha de 3,5 mm"</string>
   <string name="use_otg_charge_only">Carregamento inverso</string>
   <string name="use_otg_charge_only_summary">Carregamento 1A mais rápido</string>
   <string name="use_otg_file_transfers">Carregamento inverso e transferência de ficheiros</string>
-  <string name="use_otg_file_transfers_summary">Carregamento e transfereências de ficheiros de 500mA mais lentos</string>
+  <string name="use_otg_file_transfers_summary">Carregamento e transferências de ficheiros de 500mA mais lentos</string>
   <string name="use_otg_title">USB OTG</string>
   <string name="use_personalized_ad_service">Anúncios personalizados</string>
   <string name="use_personalized_ad_service_summary">Quando esta funcionalidade estiver desligada, vai ver a mesma quantidade de anúncios mas não vão ser baseados nas suas informações pessoais</string>

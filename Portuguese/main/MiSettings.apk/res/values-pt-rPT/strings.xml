@@ -131,7 +131,7 @@ Esta aplicação necessita também de ligar à Internet e das seguintes permiss�
   <string name="usage_no_net_summary">Verifique as suas definições de rede e tente novamente</string>
   <string name="usage_refresh">Tentar novamente</string>
   <string name="usage_request_error_summary">Erro desconhecido</string>
-  <string name="usage_request_timeout_summary">Pedido expirdo</string>
+  <string name="usage_request_timeout_summary">Pedido expirado</string>
   <string name="usage_special_feature">Funcionalidades especiais</string>
   <string name="usage_state_accurate_date">dd MMMM yyyy</string>
   <string name="usage_state_add_up_count">Sessões</string>

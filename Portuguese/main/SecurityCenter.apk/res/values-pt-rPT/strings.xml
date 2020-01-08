@@ -150,8 +150,8 @@
   <string name="app_bg_restrict_dialog_message">Restringir o acesso à rede em segundo plano pode fazer com que a aplicação deixe de funcionar normalmente</string>
   <string name="app_check_no_issue">Não existem problemas de bateria</string>
   <string name="app_detail">Detalhes</string>
-  <string name="app_error_tip_for_launcher">O hardware do seu dispositivo ou a sua versão Android pode causar problemas de incompatibilidade. Se encontrar problemas, partilhe os seus comentários com os programadores da aplicação</string>
-  <string name="app_error_tip_for_store">O hardware do seu dispositivo ou a sua versão Android pode causar problemas de incompatibilidade. Se encontrar problemas, aguarde até que os programadores da aplicação corrijam os erros e tente instalar novamente</string>
+  <string name="app_error_tip_for_launcher">O hardware do seu dispositivo ou a sua versão Android podem causar problemas de incompatibilidade. Se encontrar problemas, partilhe os seus comentários com os programadores da aplicação</string>
+  <string name="app_error_tip_for_store">O hardware do seu dispositivo ou a sua versão Android podem causar problemas de incompatibilidade. Se encontrar problemas, aguarde até que os programadores da aplicação corrijam os erros e tente instalar novamente</string>
   <string name="app_install_intercept">Bloquear instalação</string>
   <string name="app_install_tips_go_to">Abrir</string>
   <string name="app_install_tips_install_success">%1$s instalado com sucesso</string>
