@@ -4705,7 +4705,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_confirm">Ligar</string>
   <string name="screen_dark_mode_advanced_title">Avançado</string>
   <string name="screen_dark_mode_select_time_error_summary">A hora de início e a hora de fim não podem ser iguais</string>
-  <string name="screen_dark_mode_smart_dark_summary">Aplicar o Modo Escuro para aplicações de terceiros. Algumas aplicações pode ser mostradas incorrectamente</string>
+  <string name="screen_dark_mode_smart_dark_summary">Aplicar o Modo Escuro para aplicações de terceiros. Algumas aplicações podem ser mostradas incorrectamente</string>
   <string name="screen_dark_mode_smart_dark_title">Modo Escuro global</string>
   <string name="screen_dark_mode_time_title">Programar</string>
   <string name="screen_effect">Contraste e cores</string>
