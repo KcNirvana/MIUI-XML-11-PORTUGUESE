@@ -326,7 +326,7 @@ Aumentar a segurança da sua conta"</string>
   <string name="plus_loading_text">A carregar…</string>
   <string name="plus_mine_gallery">Os meus álbuns</string>
   <string name="plus_mine_videos">Os meus vídeos</string>
-  <string name="plus_player_8k_video_not_support">Não é possível reproduzir videos 8K neste dispositivo</string>
+  <string name="plus_player_8k_video_not_support">Não é possível reproduzir vídeos 8K neste dispositivo</string>
   <string name="plus_player_audio_track">Faixa de áudio</string>
   <string name="plus_player_detail_file_location">"Localização: "</string>
   <string name="plus_player_detail_file_name">"Nome: "</string>
@@ -405,18 +405,18 @@ Aumentar a segurança da sua conta"</string>
   <string name="pw_comment_send">Enviar</string>
   <string name="pw_comment_type_all">Todos os comentários</string>
   <string name="pw_comment_type_hot">Comentários em destaque</string>
-  <string name="pw_comment_write_comment">Add a comment…</string>
-  <string name="pw_comment_write_comment2">Add a comment</string>
+  <string name="pw_comment_write_comment">Adicione um comentário…</string>
+  <string name="pw_comment_write_comment2">Adicione um comentário</string>
   <string name="pw_debug_close">Desligar</string>
-  <string name="pw_debug_close_log">Turn off debugging</string>
-  <string name="pw_debug_open_log">Turn on debugging</string>
+  <string name="pw_debug_close_log">Desligar depuração</string>
+  <string name="pw_debug_open_log">Ligar depuração</string>
   <string name="pw_enter_detail">Ver detalhes</string>
   <string name="pw_filter_empty">"Sem resultados.
 Tente ver outros vídeos!"</string>
   <string name="pw_filter_no_result">Sem resultados</string>
-  <string name="pw_onlineservice_close_info">"You won't be able to play latest videos after you turn this feature off."</string>
+  <string name="pw_onlineservice_close_info">"Não é possível reproduzir os vídeos mais recentes depois de desligar este recurso."</string>
   <string name="pw_onlineservice_close_title">Atenção</string>
-  <string name="pw_onlineservice_open_info">Turn on online services to use this feature.</string>
+  <string name="pw_onlineservice_open_info">Ligue os serviços online para usar este recurso</string>
   <string name="pw_onlineservice_open_title">Atenção</string>
   <string name="pw_people_search">Em destaque</string>
   <string name="pw_permission_content">Não vai poder utilizar Vídeos sem as permissões necessárias</string>
