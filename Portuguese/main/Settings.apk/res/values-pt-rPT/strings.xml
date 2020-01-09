@@ -4705,7 +4705,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_confirm">Ligar</string>
   <string name="screen_dark_mode_advanced_title">Avançado</string>
   <string name="screen_dark_mode_select_time_error_summary">A hora de início e a hora de fim não podem ser iguais</string>
-  <string name="screen_dark_mode_smart_dark_summary">Aplicar o Modo Escuro para aplicações de terceiros. Algumas aplicações pode ser mostradas incorrectamente</string>
+  <string name="screen_dark_mode_smart_dark_summary">Aplicar o Modo Escuro para aplicações de terceiros. Algumas aplicações podem ser mostradas incorrectamente</string>
   <string name="screen_dark_mode_smart_dark_title">Modo Escuro global</string>
   <string name="screen_dark_mode_time_title">Programar</string>
   <string name="screen_effect">Contraste e cores</string>
@@ -6224,7 +6224,7 @@ ou auscultadores com ficha de 3,5 mm"</string>
   <string name="use_otg_charge_only">Carregamento inverso</string>
   <string name="use_otg_charge_only_summary">Carregamento 1A mais rápido</string>
   <string name="use_otg_file_transfers">Carregamento inverso e transferência de ficheiros</string>
-  <string name="use_otg_file_transfers_summary">Carregamento e transfereências de ficheiros de 500mA mais lentos</string>
+  <string name="use_otg_file_transfers_summary">Carregamento e transferências de ficheiros de 500mA mais lentos</string>
   <string name="use_otg_title">USB OTG</string>
   <string name="use_personalized_ad_service">Anúncios personalizados</string>
   <string name="use_personalized_ad_service_summary">Quando esta funcionalidade estiver desligada, vai ver a mesma quantidade de anúncios mas não vão ser baseados nas suas informações pessoais</string>

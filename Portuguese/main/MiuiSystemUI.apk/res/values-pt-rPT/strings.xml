@@ -1313,7 +1313,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="qs_dnd_replace">Substituir</string>
   <string name="qs_dnd_until">Até %s</string>
   <string name="qs_edit">Editar</string>
-  <string name="qs_open_night_mode_alert_summary">Algumas definições de ecrã não são compatíveis com o Modo Escuro. No entanto, elas vão ser restauradas assim que desligar o Modo Escuro</string>
+  <string name="qs_open_night_mode_alert_summary">Algumas definições de ecrã não são compatíveis com o Modo Escuro. No entanto, estas vão ser restauradas assim que desligar o Modo Escuro</string>
   <string name="qs_paging">Utilizar as Definições rápidas</string>
   <string name="qs_rearrange">Reorganizar as Definições rápidas</string>
   <string name="quick_settings">Definições rápidas</string>
