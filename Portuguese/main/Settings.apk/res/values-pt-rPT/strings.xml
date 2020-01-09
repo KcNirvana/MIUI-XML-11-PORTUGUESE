@@ -4792,7 +4792,7 @@ Para utilizar a fixação no ecrã:
   <string name="screen_projection_example_game_summary">O Game Turbo permite transmitir jogos para um ecrã externo. Utilize o atalho no Game Turbo para ligar esta funcionalidade</string>
   <string name="screen_projection_example_game_title">Jogos</string>
   <string name="screen_projection_help">Ajuda</string>
-  <string name="screen_projection_sample_summary">Transmitir documentos, jogos, fotos e videos</string>
+  <string name="screen_projection_sample_summary">Transmitir documentos, jogos, fotos e vídeos</string>
   <string name="screen_projection_sample_title">Demonstrações</string>
   <string name="screen_projection_title">Transmissão</string>
   <string name="screen_reader_category_title">Leitores de ecrã</string>
@@ -5264,7 +5264,7 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="share_remote_bugreport_dialog_message_finished">O seu administrador solicitou um relatório de erros para ajudar a solucionar este dispositivo. Aplicações e dados podem ser partilhados</string>
   <string name="share_remote_bugreport_dialog_title">Partilhar relatório de erros?</string>
   <string name="share_this_wifi">Ampliar cobertura Wi-Fi</string>
-  <string name="sharing_remote_bugreport_dialog_message">Este relatório de erros está a ser partilhado com o seu administrador. Entre em contato com eles para saber mais detalhes</string>
+  <string name="sharing_remote_bugreport_dialog_message">Este relatório de erros está a ser partilhado com o seu administrador. Entre em contacto com eles para saber mais detalhes</string>
   <string name="short_summary_font_size">Aumentar ou diminuir o texto</string>
   <string name="show_all_anrs">Mostrar todos os ANRs</string>
   <string name="show_all_anrs_summary">Mostrar erro de Aplicação não está a responder para aplicações em segundo plano</string>

@@ -95,7 +95,7 @@
   <string name="app_rank">Classificação</string>
   <string name="app_rate">Rate: %1$s</string>
   <string name="app_search_hint">Introduza o nome da aplicação</string>
-  <string name="app_search_title_mishop">Encontradas %d aplicações na Loja Mi</string>
+  <string name="app_search_title_mishop">Encontradas %d aplicações na Mi Store</string>
   <string name="app_search_title_thirdpatry">Encontradas %d aplicações na Internet</string>
   <string name="app_size">Tamanho: %1$s</string>
   <string name="app_sort">Ordenar</string>
