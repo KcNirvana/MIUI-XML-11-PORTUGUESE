@@ -825,25 +825,25 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="enable_extreme_power_save_mode">Poupança de bateria extrema</string>
   <string name="enable_network">Ligue a rede primeiro</string>
   <string name="every_day">Todos os dias</string>
-  <string name="ew_alert_arrive_location">Seismic wave arrived in %s</string>
-  <string name="ew_alert_dial_text">"Call emergency
-contact"</string>
-  <string name="ew_alert_earthquake_center_title">Epicenter</string>
-  <string name="ew_alert_earthquake_distance">"You're %s km away from the epicenter"</string>
-  <string name="ew_alert_earthquake_feel_little">Slight shaking</string>
-  <string name="ew_alert_earthquake_feel_max">Severe</string>
-  <string name="ew_alert_earthquake_feel_middle">Strong</string>
-  <string name="ew_alert_earthquake_feel_none">Not sensible</string>
-  <string name="ew_alert_earthquake_feel_normal">Moderate</string>
-  <string name="ew_alert_earthquake_feel_title">Estimated intensity</string>
-  <string name="ew_alert_earthquake_level_title">Estimated magnitude</string>
-  <string name="ew_alert_emergency_text">"Show
-medical card"</string>
+  <string name="ew_alert_arrive_location">Onda sísmica chegou em %s</string>
+  <string name="ew_alert_dial_text">"Ligar a contacto
+de emergência"</string>
+  <string name="ew_alert_earthquake_center_title">Epicentro</string>
+  <string name="ew_alert_earthquake_distance">A uma distãncia de %s km do epicentro"</string>
+  <string name="ew_alert_earthquake_feel_little">Agitação ligeira</string>
+  <string name="ew_alert_earthquake_feel_max">Severo</string>
+  <string name="ew_alert_earthquake_feel_middle">Forte</string>
+  <string name="ew_alert_earthquake_feel_none">Não aconselhável</string>
+  <string name="ew_alert_earthquake_feel_normal">Moderado</string>
+  <string name="ew_alert_earthquake_feel_title">Intensidade estimada</string>
+  <string name="ew_alert_earthquake_level_title">Magnitude estimada</string>
+  <string name="ew_alert_emergency_text">"Mostrar
+cartão de médico"</string>
   <string name="ew_alert_help_earthquake_title">Seismic wave arrived</string>
-  <string name="ew_alert_help_place_navigation">Navigate</string>
+  <string name="ew_alert_help_place_navigation">Navegar</string>
   <string name="ew_alert_help_place_text">If necessary, go to the nearest shelter to ensure safety and get the necessary assistance.</string>
   <string name="ew_alert_help_place_title">Nearby shelter</string>
-  <string name="ew_alert_help_safe_title">Avoid danger</string>
+  <string name="ew_alert_help_safe_title">Evitar o perigo</string>
   <string name="ew_alert_help_tips">"Keep calm and stay alert. Stay away from hanging objects, don't take the elevator. Find a safe space, drop, cover, and hold on."</string>
   <string name="ew_alert_no_contact">Set an emergency contact in Security &gt; Earthquake warning first</string>
   <string name="ew_alert_no_emergency">Add your medical data in Security &gt; Earthquake warning</string>
