@@ -79,7 +79,7 @@
   <string name="lp_videoView_error_text_unknown">Não é possível reproduzir este vídeo</string>
   <string name="lp_videoView_error_title">Não é possível reproduzir</string>
   <string name="lv_advance_sound">Melhoramento de áudio</string>
-  <string name="lv_airkan_control_device_des">Para controlar a reprodução, toque na barra na parte inferior</string>
+  <string name="lv_airkan_control_device_des">Para controlar a reprodução, toque na barra inferior</string>
   <string name="lv_airkan_device_xiaomi_phone">O meu telefone Mi</string>
   <string name="lv_airkan_playing">A transmitir em %s</string>
   <string name="lv_airkan_tips">Toque para transmitir</string>
