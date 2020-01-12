@@ -416,7 +416,7 @@ Tente ver outros vídeos!"</string>
   <string name="pw_filter_no_result">Sem resultados</string>
   <string name="pw_onlineservice_close_info">Não vai ser possível reproduzir os vídeos mais recentes depois de desligar esta funcionalidade</string>
   <string name="pw_onlineservice_close_title">Atenção</string>
-  <string name="pw_onlineservice_open_info">Ligue os serviços online para usar este recurso</string>
+  <string name="pw_onlineservice_open_info">Ligue os serviços online para utilizar esta funcionalidade</string>
   <string name="pw_onlineservice_open_title">Atenção</string>
   <string name="pw_people_search">Em destaque</string>
   <string name="pw_permission_content">Não vai poder utilizar Vídeos sem as permissões necessárias</string>

@@ -743,6 +743,8 @@ Tente novamente dentro de %d segundos"</string>
   <string name="peerTtyModeOff">O par solicitou o modo DESLIGADO de TTY</string>
   <string name="peerTtyModeVco">O par solicitou o modo VCO de TTY</string>
   <string name="perm_costs_money">Isto pode estar sujeito a custos</string>
+  <string name="permdesc_acceptHandovers">Permite que a aplicação continue uma chamada que foi iniciada noutra aplicação</string>
+  <string name="permdesc_accessBackgroundLocation">Permite que a aplicação aceda à localização enquanto estiver a ser executada em segundo plano</string>
   <string name="permdesc_accessCoarseLocation">Permite que a aplicação obtenha a sua localização aproximada. Esta localização é gerada pelos serviços de localização, que utilizam fontes de localização da rede, tais como, torres de telemóvel e Wi-Fi. Estes serviços de localização têm de estar activados e disponíveis no dispositivo para que a aplicação os utilize. As aplicações poderão utilizá-los para determinar a sua localização aproximada</string>
   <string name="permdesc_accessDrmCertificates">Permite que uma aplicação forneça e utilize certificados DRM. Nunca deve ser necessário para aplicações normais</string>
   <string name="permdesc_accessFineLocation">Permite que a aplicação obtenha a sua localização exacta através do Sistema de Posicionamento Global (GPS) ou das fontes de localização da rede, tais como, torres de telemóvel e Wi-Fi. Estes serviços de localização têm de estar activados e disponíveis no dispositivo para que a aplicação os utilize. As aplicações poderão utilizá-los para determinar a sua localização e poderão consumir mais energia da bateria</string>
@@ -792,6 +794,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_manageNetworkPolicy">Permite que a aplicação faça a gestão de políticas de rede e defina regras específicas de aplicações</string>
   <string name="permdesc_manageOwnCalls">Permite que a aplicação encaminhe as respectivas chamadas através do sistema de modo a melhorar a experiência da chamada</string>
   <string name="permdesc_manageProfileAndDeviceOwners">Permite que as aplicações definam proprietários de perfis e o proprietário do dispositivo</string>
+  <string name="permdesc_mediaLocation">Permite que que a aplicação leia localizações da sua colecção multimédia</string>
   <string name="permdesc_modifyAudioSettings">Permite que a aplicação modifique definições de áudio globais, tais como o volume e qual o altifalante utilizado para a saída de som</string>
   <string name="permdesc_modifyNetworkAccounting">Permite que a aplicação modifique o modo como a utilização da rede é contabilizada em relação às aplicações. Nunca é necessário para aplicações normais</string>
   <string name="permdesc_nfc">Permite que a aplicação comunique com etiquetas, cartões e leitores Near Field Communication (NFC)</string>
@@ -849,6 +852,9 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_writeHistoryBookmarks">Permite que a aplicação modifique o histórico do navegador ou marcadores guardados no telefone. Isto pode permitir que a aplicação elimine ou modifique dados do navegador. Nota: esta permissão pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na web</string>
   <string name="permdesc_writeSettings">Permite à aplicação modificar os dados das definições do sistema. As aplicações maliciosas podem corromper a configuração do seu sistema</string>
   <string name="permdesc_writeSyncSettings">Permite que uma aplicação modifique as definições de sincronização de uma conta. Por exemplo, pode ser utilizada para activar a sincronização da aplicação Contactos com uma conta</string>
+  <string name="permgroupbackgroundrequest_location">Permitir que <b>%1$s</b> possa aceder à localização do dispositivo <b>o tempo todo</b>?</string>
+  <string name="permgroupbackgroundrequestdetail_location">A aplicação actualmente apenas pode aceder à localização enquanto estiver a ser utilizada</string>
+  <string name="permgroupdesc_activityRecognition">aceder à sua actividade física</string>
   <string name="permgroupdesc_calendar">aceder ao calendário</string>
   <string name="permgroupdesc_calllog">ler e escrever nos registos de chamadas</string>
   <string name="permgroupdesc_camera">tirar fotos e gravar vídeos</string>
@@ -883,6 +889,8 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permission_request_notification_title">Permissão pedida</string>
   <string name="permission_request_notification_with_subtitle">"Permissão pedida
 para a conta %s"</string>
+  <string name="permlab_acceptHandover">continuar uma chamada de outra aplicação</string>
+  <string name="permlab_accessBackgroundLocation">aceder à localização em segundo plano</string>
   <string name="permlab_accessCoarseLocation">aceder à localização aproximada (baseada na rede)</string>
   <string name="permlab_accessDrmCertificates">aceder a certificados DRM</string>
   <string name="permlab_accessFineLocation">aceder à localização exacta (baseada no GPS e na rede)</string>
@@ -932,6 +940,7 @@ para a conta %s"</string>
   <string name="permlab_manageNetworkPolicy">gerir a política de rede</string>
   <string name="permlab_manageOwnCalls">encaminhar chamadas através do sistema</string>
   <string name="permlab_manageProfileAndDeviceOwners">gerir proprietários de perfis e de dispositivos</string>
+  <string name="permlab_mediaLocation">ler a localização da sua colecção multimédia</string>
   <string name="permlab_modifyAudioSettings">alterar as suas definições de áudio</string>
   <string name="permlab_modifyNetworkAccounting">modificar contabilização da utilização da rede</string>
   <string name="permlab_nfc">controlar NFC</string>
