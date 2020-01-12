@@ -6,7 +6,7 @@
   <string name="Whatsapp_main">Fotos</string>
   <string name="Whatsapp_parent">WhatsApp</string>
   <string name="accessibility_title">Assistente</string>
-  <string name="accordingto_position">Reconhecer lugares frequentes através de GPS</string>
+  <string name="accordingto_position">Reconhecer locais frequentes através de GPS</string>
   <string name="account_address">Morada</string>
   <string name="add_stock">Adicionar</string>
   <string name="address_name_spell">Introduzir morada</string>
@@ -55,7 +55,7 @@
   <string name="apps">Sugestões da aplicação</string>
   <string name="apps_label">Aplicações</string>
   <string name="assistant_format_MMdd">dd/MM</string>
-  <string name="assistant_place">Reconhecer lugares frequentes</string>
+  <string name="assistant_place">Reconhecer locais frequentes</string>
   <string name="assistant_summary">Tenha sugestões úteis quando precisar delas</string>
   <string name="ball_dialog_confirm">Instalar</string>
   <string name="ball_dialog_content">Instalar HuPu Sports para utilizar esta funcionalidade. Instalar agora?</string>
@@ -333,7 +333,7 @@
   <string name="load_no_more">É tudo por agora</string>
   <string name="locating_fail">"Não foi possível obter a localização"</string>
   <string name="location_permission_desc">Para construir rotas de navegação e fornecer serviços de boleia</string>
-  <string name="locations">Lugares frequentes</string>
+  <string name="locations">Locais frequentes</string>
   <string name="locations_preferences">Endereços</string>
   <string name="main_add">Adicionar</string>
   <string name="main_mark">Importante</string>
@@ -367,7 +367,7 @@
   <string name="miuishare_account_login_ok">Iniciar sessão</string>
   <string name="miuishare_account_need_activate">Partilha Weibo necessita que a sua conta Weibo esteja ligada à sua conta Xiaomi. Deseja activar a sua conta?</string>
   <string name="miuishare_account_need_login">Partilha Weibo necessita que a sua conta Weibo esteja ligada à sua conta Xiaomi. Deseja iniciar sessão para partilhar?</string>
-  <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_app_name">Partilha MIUI</string>
   <string name="miuishare_no_network">Sem rede rede para partilhar</string>
   <string name="miuishare_publish">Enviar</string>
   <string name="miuishare_qzone_title">Qzone</string>
@@ -415,7 +415,7 @@
   <string name="ola_micro">Micro</string>
   <string name="ola_mini">Mini</string>
   <string name="ola_prime">Prime</string>
-  <string name="ola_trip">Chamar táxi</string>
+  <string name="ola_trip">Chamar um táxi</string>
   <string name="ola_trip_content">Calcular tarifa e chamar um ola</string>
   <string name="ola_trip_content_detail">Calcular tarifa ola aproximada e ligar para um ola</string>
   <string name="opened">On</string>
@@ -425,7 +425,7 @@
   <string name="paycode_sdk_parent_title">Atalho de pagamentos</string>
   <string name="payment">Os meus pagamentos</string>
   <string name="phone_check">Optimização</string>
-  <string name="place_label">Frequent places</string>
+  <string name="place_label">Locais frequentes</string>
   <string name="preference_privacy_settings">Definições de privacidade</string>
   <string name="preferences">Preferências</string>
   <string name="preferences_label">Preferências</string>
@@ -596,7 +596,7 @@
   <string name="system_favorite_dialog_title_confirm">Favoritos</string>
   <string name="taxi">Táxi</string>
   <string name="taxi_open">Mostrar cartão de táxi</string>
-  <string name="taxi_setting_brief">Apanhe um táxi com um único toque</string>
+  <string name="taxi_setting_brief">Chamar um táxi num único toque</string>
   <string name="time_just_now">Agora mesmo</string>
   <string name="time_month">dd/MM</string>
   <string name="time_year">dd/MM/yyyy</string>
