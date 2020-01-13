@@ -3768,7 +3768,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notch_force_black_desc">Ligar para escurecer a área à volta da monocelha</string>
   <string name="notch_force_black_title">Ocultar monocelha</string>
   <string name="notch_settings">Monocelha</string>
-  <string name="notch_style_mod_description">Opções de visualização de barra de estado e monocelha</string>
+  <string name="notch_style_mod_description">Opções de visualização da barra de estado e monocelha</string>
   <string name="notch_style_mod_title">Ocultar monocelha</string>
   <string name="notch_style_show">Não ocultar</string>
   <string name="notch_style_status_bar_inside">Ocultar sem mover a barra de estado</string>
