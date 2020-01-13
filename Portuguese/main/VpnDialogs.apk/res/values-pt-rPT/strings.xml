@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="always_on_disconnected_message">"%1$s está configurado para permanecer sempre-ligado, mas de momento não se consegue ligar. O seu telefone vai utilizar uma rede pública até que a VPN volte a ligar novamente a %1$s</string>
-  <string name="always_on_disconnected_message_lockdown">%1$s está configurado para permanecer sempre-ligado, mas de momento não se consegue ligar. Não terá ligação até que a VPN volte a ligar novamente</string>
+  <string name="always_on_disconnected_message">"%1$s está configurado para permanecer sempre ligado, mas de momento não se consegue ligar. O seu telefone vai utilizar uma rede pública até que a VPN volte a ligar novamente a %1$s</string>
+  <string name="always_on_disconnected_message_lockdown">%1$s está configurado para permanecer sempre ligado, mas de momento não se consegue ligar. Não terá ligação até que a VPN volte a ligar novamente</string>
   <string name="always_on_disconnected_message_separator">" "</string>
   <string name="always_on_disconnected_message_settings_link">Alterar definições da VPN</string>
-  <string name="always_on_disconnected_title">Não é possível ligar-se à VPN sempre-ligada</string>
+  <string name="always_on_disconnected_title">Não é possível ligar-se à VPN sempre ligada</string>
   <string name="configure">Configurar</string>
   <string name="data_received">Recebido:</string>
   <string name="data_transmitted">Enviado:</string>
