@@ -236,7 +236,7 @@ utilizando %s"</string>
   <string name="deny_button">Recusar</string>
   <string name="description_target_unlock_tablet">Deslizar para desbloquear</string>
   <string name="device_storage_monitor_notification_channel">Armazenamento do dispositivo</string>
-  <string name="dial">Telefone</string>
+  <string name="dial">Marcar</string>
   <string name="dial_number_using">"Marcar número
 utilizando %s"</string>
   <string name="dialog_alert_title">Atenção</string>
@@ -865,6 +865,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permgroupdesc_sensors">aceder a dados do sensor acerca dos seus sinais vitais</string>
   <string name="permgroupdesc_sms">enviar e ver mensagens SMS</string>
   <string name="permgroupdesc_storage">aceder a fotos, multimédia e ficheiros no dispositivo</string>
+  <string name="permgrouplab_activityRecognition">Actividade física</string>
   <string name="permgrouplab_calendar">Calendário</string>
   <string name="permgrouplab_calllog">Registos de chamadas</string>
   <string name="permgrouplab_camera">Câmara</string>

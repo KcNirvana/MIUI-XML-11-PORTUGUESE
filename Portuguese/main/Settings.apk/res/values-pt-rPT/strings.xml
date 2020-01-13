@@ -3581,6 +3581,9 @@ Seleccione o seu sistema operativo:"</string>
   <string name="my_device_disclaimer">Nota: As informações de hardware, incluíndo CPU, capacidade de bateria, tamanho de ecrã, resolução e câmara são fornecidas pela Xiaomi</string>
   <string name="n_cacrts">%d certificados CA</string>
   <string name="nature_color">Predefinida</string>
+  <string name="navigation_guide_app_quick_switch_hide_line_summary">Deslizar para cima desde a parte inferior do ecrã e depois deslizar para a esquerda ou direita</string>
+  <string name="navigation_guide_app_quick_switch_summary">Deslizar para a esquerda ou direita desde o limite do ecrã</string>
+  <string name="navigation_guide_app_quick_switch_title">Trocar entre aplicações</string>
   <string name="navigation_guide_app_summary">Deslizar para a esquerda ou direita desde o limite do ecrã na parte superior</string>
   <string name="navigation_guide_appswitch_summary">Deslizar para a esquerda ou direita desde o limite do ecrã e segurar por um bocado</string>
   <string name="navigation_guide_appswitch_title">Voltar à aplicação anterior</string>
@@ -3597,6 +3600,10 @@ Seleccione o seu sistema operativo:"</string>
   <string name="navigation_guide_dialog_skip">Agora não</string>
   <string name="navigation_guide_dialog_summary">Aprender que gestos pode utilizar para navegar no sistema</string>
   <string name="navigation_guide_dialog_title">Aprender gestos</string>
+  <string name="navigation_guide_gesture_line_dialog_summary">Vai ser utilizado um novo gesto para trocar entre aplicações quando ocultar o indicador de ecrã em tamanho inteiro. Aprender este gesto agora?</string>
+  <string name="navigation_guide_gesture_line_dialog_title">Aprender um novo gesto</string>
+  <string name="navigation_guide_hide_gesture_line_summary">Não mostrar indicador quando utilizar gestos de ecrã em tamanho inteiro</string>
+  <string name="navigation_guide_hide_gesture_line_title">Ocultar indicador de ecrã em tamanho inteiro</string>
   <string name="navigation_guide_home_summary">Deslizar para cima</string>
   <string name="navigation_guide_home_title">Ir para o ecrã inicial</string>
   <string name="navigation_guide_recent_summary">Deslizar para cima e pausar</string>
@@ -6452,9 +6459,9 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="vpn_ipsec_server_cert">Certificado de servidor IPSec</string>
   <string name="vpn_ipsec_user_cert">Certificado de Utilizador IPSec</string>
   <string name="vpn_l2tp_secret">Segredo L2TP</string>
-  <string name="vpn_lockdown_config_error">VPN sempre ligada necessita de um endereço IP para o servidor e para o DNS</string>
+  <string name="vpn_lockdown_config_error">A VPN sempre ligada necessita de um endereço IP tanto para o servidor como para DNS</string>
   <string name="vpn_lockdown_none">Nenhum</string>
-  <string name="vpn_lockdown_summary">Seleccionar um perfil VPN para manter sempre ligado. A ligação apenas pode estar activa quando está ligado a esta VPN</string>
+  <string name="vpn_lockdown_summary">Seleccionar um perfil VPN para permanecer sempre ligado. O tráfego de rede apenas vai ser permitido quando estiver ligado a esta VPN</string>
   <string name="vpn_menu_delete">Eliminar perfil</string>
   <string name="vpn_menu_edit">Editar perfil</string>
   <string name="vpn_menu_lockdown">VPN sempre ligada</string>

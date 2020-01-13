@@ -76,4 +76,8 @@
         <item quantity="other">%s serviços vão ser sincronizados com a Xiaomi Cloud</item>
         <item quantity="one">%s serviço vai ser sincronizado com a Xiaomi Cloud</item>
     </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">Não é possível seleccionar mais do que %d itens</item>
+        <item quantity="one">Não é possível seleccionar mais do que %d item</item>
+    </plurals>
 </resources>

@@ -80,6 +80,8 @@
   <string name="handy_mode_enter_dlg_title">Entrar no Modo Uma Mão</string>
   <string name="handy_mode_summary">Para sair toque na área escurecida</string>
   <string name="handy_mode_title">Modo Uma Mão</string>
+  <string name="help">Ver ajuda</string>
+  <string name="help_content">Se não consegue encontrar o dispositivo que necessita, peça à outra pessoa para ligar o Mi Share</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Coloque o seu dedo no botão Início</string>
   <string name="input_method_clipboard_tips">Os itens copiado vão ser eliminados da área de transferências após 48 horas</string>
   <string name="input_method_edit_phrase_text">Editar frases frequentes</string>

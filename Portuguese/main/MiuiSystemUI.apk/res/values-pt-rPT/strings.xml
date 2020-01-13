@@ -246,6 +246,7 @@
   <string name="accessibility_status_bar_headphones">Auscultadores ligados</string>
   <string name="accessibility_status_bar_headset">Auriculares ligados</string>
   <string name="accessibility_status_bar_hotspot">PA Móvel</string>
+  <string name="accessibility_status_bar_micphone">Microfone ligado</string>
   <string name="accessibility_status_bar_no_slave_wifi">Wi-Fi auxiliar desligada</string>
   <string name="accessibility_status_bar_slave_wifi_four_bars">Wi-Fi auxiliar quatro barras</string>
   <string name="accessibility_status_bar_slave_wifi_one_bar">Wi-Fi auxiliar uma barra</string>
@@ -740,6 +741,9 @@ Assim que o telefone tiver arrefecido, vai funcionar normalmente"</string>
   <string name="home">Definições do ecrã inicial</string>
   <string name="how_to_back_home">Ir para o ecrã inicial</string>
   <string name="how_to_switch_recents">Abrir Recentes</string>
+  <string name="how_to_use_app_quick">Como trocar entre aplicações</string>
+  <string name="how_to_use_app_quick_hide_line_summary">Deslizar para cima desde a parte inferior do ecrã e depois deslizar para a esquerda ou direita</string>
+  <string name="how_to_use_app_quick_summary">Deslizar para a esquerda ou direita desde o limite do ecrã</string>
   <string name="how_to_use_drawer">Como abrir o menu</string>
   <string name="how_to_use_drawer_summary">Deslize desde a direita na parte superior do ecrã</string>
   <string name="how_to_use_fsg">Pode fazer todas estas acções utilizando gestos:</string>

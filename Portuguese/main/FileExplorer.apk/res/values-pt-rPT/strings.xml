@@ -131,6 +131,7 @@
   <string name="error_file_already_exists">Este ficheiro já existe</string>
   <string name="error_filename_too_long">O nome do ficheiro é muito longo</string>
   <string name="error_folder_already_exists">Este ficheiro já existe</string>
+  <string name="error_hint_copy_folder_to_self_or_sub">Não é possível mover ou copiar pastas para elas mesmas ou subpastas</string>
   <string name="error_info_cant_send_folder">Não é possível enviar esse tipo de ficheiro</string>
   <string name="error_invalid_path">Caminho incorrecto</string>
   <string name="error_not_support">Não suportado</string>

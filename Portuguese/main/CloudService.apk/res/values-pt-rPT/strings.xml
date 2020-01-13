@@ -13,6 +13,8 @@
   <string name="btn_return">Voltar</string>
   <string name="button_cancel">Cancelar</string>
   <string name="calendar_sync">Calendário</string>
+  <string name="check_contact">Adicionar</string>
+  <string name="choose_contact_title">Contactos</string>
   <string name="click_to_enabled">Toque para sincronizar</string>
   <string name="close_shortcut">Fechar</string>
   <string name="cloud_find_device">Localizar Dispositivo</string>
@@ -348,6 +350,9 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="pay_info_dialog_mibi_balance_prefix">Utilizar os restantes Mi Credits: %s</string>
   <string name="pay_info_dialog_title">Seleccionar método de pagamento</string>
   <string name="phone_number_required_dspt_provision">"Este serviço necessita do seu número de telefone "</string>
+  <string name="picker_list_empty">Sem contactos</string>
+  <string name="picker_search_empty">Sem contactos</string>
+  <string name="picker_search_hint">Pesquisar</string>
   <string name="pre_privacy_policy">Política de Privacidade</string>
   <string name="pre_user_agreement">Termos de Utilização</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Apenas sincronizar as fotos de perfil dos contactos quando estiver ligado a uma rede Wi-Fi</string>
@@ -458,6 +463,7 @@ Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.u
   <string name="soundrecorder_sync_only_in_wifi">Utilizar apenas Wi-Fi para sincronizar</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">O Gravador não vai utilizar dados móveis para transferir ou enviar gravações</string>
   <string name="soundrecorder_sync_records">Sincronizar com a Xiaomi Cloud</string>
+  <string name="starred_contact">Favoritos</string>
   <string name="storage_manage_expansion">Obter mais</string>
   <string name="storage_manage_list_title">Dados da Xiaomi Cloud</string>
   <string name="storage_manage_list_title_action">Ver mais</string>
