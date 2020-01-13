@@ -159,7 +159,7 @@
   <string name="lv_subtitle_onlinesub_loading">A carregar legendas…</string>
   <string name="lv_subtitle_onlinesub_loading_wait">A carregar legendas…</string>
   <string name="lv_subtitle_onlinesub_right_declare">Aviso</string>
-  <string name="lv_subtitle_onlinesub_right_declare_content">Obter legendas <br/><br/>de <a href="http://www.opensubtitles.org">opensubtitles.org</a>.<br/><br/>Todas as legendas online são fornecidas por <a href="http://www.opensubtitles.org">opensubtitles.org</a></string>
+  <string name="lv_subtitle_onlinesub_right_declare_content">"Obter legendas <br/><br/>de <a href="http://www.opensubtitles.org">opensubtitles.org</a>.<br/><br/>Todas as legendas online são fornecidas por <a href="http://www.opensubtitles.org">opensubtitles.org</a>"</string>
   <string name="lv_subtitle_onlinesub_save_failed">Não foi possível adicionar legendas</string>
   <string name="lv_subtitle_onlinesub_save_success">Legendas adicionadas com sucesso</string>
   <string name="lv_subtitle_onlinesub_search_keyword">Introduzir palavras-chave para pesquisar</string>
