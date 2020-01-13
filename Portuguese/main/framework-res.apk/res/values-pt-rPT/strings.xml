@@ -794,7 +794,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_manageNetworkPolicy">Permite que a aplicação faça a gestão de políticas de rede e defina regras específicas de aplicações</string>
   <string name="permdesc_manageOwnCalls">Permite que a aplicação encaminhe as respectivas chamadas através do sistema de modo a melhorar a experiência da chamada</string>
   <string name="permdesc_manageProfileAndDeviceOwners">Permite que as aplicações definam proprietários de perfis e o proprietário do dispositivo</string>
-  <string name="permdesc_mediaLocation">Permite que que a aplicação leia localizações da sua colecção multimédia</string>
+  <string name="permdesc_mediaLocation">Permite que a aplicação leia localizações da sua colecção multimédia</string>
   <string name="permdesc_modifyAudioSettings">Permite que a aplicação modifique definições de áudio globais, tais como o volume e qual o altifalante utilizado para a saída de som</string>
   <string name="permdesc_modifyNetworkAccounting">Permite que a aplicação modifique o modo como a utilização da rede é contabilizada em relação às aplicações. Nunca é necessário para aplicações normais</string>
   <string name="permdesc_nfc">Permite que a aplicação comunique com etiquetas, cartões e leitores Near Field Communication (NFC)</string>
