@@ -6459,7 +6459,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="vpn_ipsec_server_cert">Certificado de servidor IPSec</string>
   <string name="vpn_ipsec_user_cert">Certificado de Utilizador IPSec</string>
   <string name="vpn_l2tp_secret">Segredo L2TP</string>
-  <string name="vpn_lockdown_config_error">A VPN sempre ligada necessita de um endereço IP tanto para o servidor como para DNS</string>
+  <string name="vpn_lockdown_config_error">VPN sempre ligada necessita de um endereço IP tanto para o servidor como para DNS</string>
   <string name="vpn_lockdown_none">Nenhum</string>
   <string name="vpn_lockdown_summary">Seleccionar um perfil VPN para permanecer sempre ligado. O tráfego de rede apenas vai ser permitido quando estiver ligado a esta VPN</string>
   <string name="vpn_menu_delete">Eliminar perfil</string>
