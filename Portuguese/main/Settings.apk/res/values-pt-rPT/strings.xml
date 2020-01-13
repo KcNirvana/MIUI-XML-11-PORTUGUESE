@@ -6452,12 +6452,12 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="vpn_ipsec_server_cert">Certificado de servidor IPSec</string>
   <string name="vpn_ipsec_user_cert">Certificado de Utilizador IPSec</string>
   <string name="vpn_l2tp_secret">Segredo L2TP</string>
-  <string name="vpn_lockdown_config_error">VPN sempre-ligada necessita de um endereço IP tanto para o servidor como para DNS</string>
+  <string name="vpn_lockdown_config_error">VPN sempre ligada necessita de um endereço IP para o servidor e para o DNS</string>
   <string name="vpn_lockdown_none">Nenhum</string>
-  <string name="vpn_lockdown_summary">Seleccionar um perfil VPN para manter sempre ligado. A ligação apenas pode estar activa apenas quando esta ligado a esta VPN</string>
+  <string name="vpn_lockdown_summary">Seleccionar um perfil VPN para manter sempre ligado. A ligação apenas pode estar activa quando está ligado a esta VPN</string>
   <string name="vpn_menu_delete">Eliminar perfil</string>
   <string name="vpn_menu_edit">Editar perfil</string>
-  <string name="vpn_menu_lockdown">VPN sempre-ligada</string>
+  <string name="vpn_menu_lockdown">VPN sempre ligada</string>
   <string name="vpn_missing_cert">Falta um certificado. Edite o perfil</string>
   <string name="vpn_mppe">Encriptação PPP (MPPE)</string>
   <string name="vpn_name">Nome</string>
