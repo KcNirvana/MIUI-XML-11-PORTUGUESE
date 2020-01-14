@@ -34,7 +34,7 @@
 
 Nem todas as aplicações suportam esta definição"</string>
   <string name="accessibility_control_timeout_preference_title">Limite de tempo para acções</string>
-  <string name="accessibility_daltonizer_master_switch_title">Utilizar correção de cor</string>
+  <string name="accessibility_daltonizer_master_switch_title">Utilizar correcção de cor</string>
   <string name="accessibility_description_state_stopped">Este serviço está a funcionar mal</string>
   <string name="accessibility_dialog_button_allow">Permitir</string>
   <string name="accessibility_dialog_button_cancel">Cancelar</string>

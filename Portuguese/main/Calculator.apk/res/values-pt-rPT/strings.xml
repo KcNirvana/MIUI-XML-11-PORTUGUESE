@@ -124,7 +124,7 @@
   <string name="loan_type_summary_lpr">LPR</string>
   <string name="loan_type_title">Taxa de juro</string>
   <string name="lpr_ok">Percebi</string>
-  <string name="lpr_tips_msg">"A partir de 8 de Outubro de 2019, a taxa de juros do empréstimo à habitação comercial e pessoal vai ser calculada de acordo com a taxa básica de juros do empréstimo (LPR) em vez da taxa de juros de referência anteriormente implementada de 4.9%. Agora, a taxa final vai ser confirmada adicionando um ponto base LPR.
+  <string name="lpr_tips_msg">"A partir de 8 de Outubro de 2019, as taxas de juro do crédito à habitação comercial e pessoal vão ser calculadas de acordo com a taxa básica de juros do empréstimo (LPR) em vez da taxa de juros de referência anteriormente implementada de 4.9%. Agora, a taxa final vai ser confirmada adicionando um ponto base LPR.
 
 Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorrer atrasos devido a feriados bancários) no site do Banco Popular da China"</string>
   <string name="lpr_tips_title">LPR (Principal taxa de empréstimo)</string>
