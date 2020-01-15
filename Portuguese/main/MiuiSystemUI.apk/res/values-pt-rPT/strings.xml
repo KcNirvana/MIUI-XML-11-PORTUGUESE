@@ -1342,7 +1342,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_cellular_detail_remaining_data">Dados restantes</string>
   <string name="quick_settings_cellular_detail_title">Dados móveis</string>
   <string name="quick_settings_cellular_detail_unable_change">Não é possível definir durante a chamadas</string>
-  <string name="quick_settings_color_space_label">Modo de correção de cor</string>
+  <string name="quick_settings_color_space_label">Modo de correcção de cor</string>
   <string name="quick_settings_connected">Ligado</string>
   <string name="quick_settings_connect_success">Ligado</string>
   <string name="quick_settings_connecting">A ligar</string>
