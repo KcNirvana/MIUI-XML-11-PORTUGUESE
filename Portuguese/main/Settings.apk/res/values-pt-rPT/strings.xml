@@ -3685,9 +3685,9 @@ Seleccione o seu sistema operativo:"</string>
   <string name="nfc_how_it_works_title">Pagamento num terminal</string>
   <string name="nfc_more_title">Mais…</string>
   <string name="nfc_payment_default">Pagamento predefinido</string>
-  <string name="nfc_payment_default_not_set">Não definida</string>
-  <string name="nfc_payment_favor_default">Utilizar sempre a aplicação predefinida</string>
-  <string name="nfc_payment_favor_open">Substituir a aplicação predefinida quando estiver aberta outra aplicação de pagamento</string>
+  <string name="nfc_payment_default_not_set">Não definido</string>
+  <string name="nfc_payment_favor_default">Utilizar sempre aplicação predefinida</string>
+  <string name="nfc_payment_favor_open">Substituir aplicação predefinida quando estiver aberta outra aplicação de pagamento</string>
   <string name="nfc_payment_how_it_works">Como funciona</string>
   <string name="nfc_payment_no_apps">Pague apenas com um toque</string>
   <string name="nfc_payment_pay_with">Num terminal compatível com a funcionalidade Tocar e pagar, pagar com:</string>
