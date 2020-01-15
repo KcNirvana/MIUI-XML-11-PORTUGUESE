@@ -28,6 +28,14 @@
         <item quantity="other">Atraso: %d segundos</item>
         <item quantity="one">Atraso: %d segundo</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%s dias</item>
+        <item quantity="one">%s dia</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
 %d tentativas restantes"</item>

@@ -792,6 +792,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="mmiStarted">Código MMI iniciado</string>
   <string name="mobile_advanced_dns_server_title">Servidor DNS</string>
   <string name="mobile_advanced_ip_address_title">Endereço IP</string>
+  <string name="mobile_advanced_nr_network_title">Tipo de rede 5G</string>
   <string name="mobile_connection_management">Gestão da ligação de rede móvel</string>
   <string name="mobile_data">Dados móveis</string>
   <string name="mobile_data_activate_button">Adicionar dados</string>
@@ -908,6 +909,13 @@ Vai ser utilizada a rede preferida"</string>
   <string name="notification_voicemail_text_format">Marcar %s</string>
   <string name="notification_voicemail_title">Nova mensagem de voz</string>
   <string name="notification_voicemail_title_count">Nova mensagem de voz (%d)</string>
+  <string name="nr_network_info">Informações da utilização da rede 5G</string>
+  <string name="nr_usaged_first_used_time">Registado na rede 5G</string>
+  <string name="nr_usaged_module">Modelo do dispositivo</string>
+  <string name="nr_usaged_network_rate">Velocidade máxima</string>
+  <string name="nr_usaged_network_usaged">Dados de hoje</string>
+  <string name="nr_usaged_operator">Operadora</string>
+  <string name="nr_usaged_used_time">Duração da utilização</string>
   <string name="number">Número</string>
   <string name="numerous_emergency_numbers_title">Números de emergência</string>
   <string name="nw_subset_unlock_failed">O pedido de desbloqueio do subconjunto do cartão SIM falhou</string>

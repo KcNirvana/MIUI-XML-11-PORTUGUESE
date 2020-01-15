@@ -4162,6 +4162,8 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="power_mgr">Optimização de bateria</string>
   <string name="power_mode">Definições de energia</string>
   <string name="power_mode_balanced_title">Modo equilibrado</string>
+   <string name="power_monitor_summary">Ferramentas utilizadas para monitorizar energia</string>
+  <string name="power_monitor_title">Controlo de energia</string>
   <string name="power_optimize">Poupança de bateria</string>
   <string name="power_overcounted">Contabilizada em excesso</string>
   <string name="power_phone">Chamadas de voz</string>

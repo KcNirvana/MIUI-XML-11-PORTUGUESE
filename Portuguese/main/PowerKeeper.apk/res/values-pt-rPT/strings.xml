@@ -76,6 +76,8 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="power_hide_mode_app_list_summary">Poupança de bateria em segundo plano</string>
   <string name="power_hide_mode_title">Bateria e desempenho</string>
   <string name="power_mode">Definições de bateria</string>
+  <string name="power_tools_current">Actual</string>
+  <string name="power_tools_fps">FPS</string>
   <string name="power_usage">Utilização de bateria</string>
   <string name="pref_config_title">Optimização de desempenho</string>
   <string name="privacy">Política de Privacidade</string>
