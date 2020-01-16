@@ -32,13 +32,13 @@
   <string name="settings_guide_title">Necessita de outras definições?</string>
   <string name="show_badge_notifications">Emblemas</string>
   <string name="status_bar_setting">Barra de estado</string>
-  <string name="summary_disable_float_notification">Notificações flutuantes não permitidas</string>
-  <string name="summary_disable_lockscreen_notification">Notificações no ecrã de bloqueio não permitidas</string>
-  <string name="summary_disable_show_badge_notification">Emblemas de notificações não permitidos</string>
-  <string name="summary_enable_float_notification">Notificações flutuantes permitidas</string>
-  <string name="summary_enable_lockscreen_notification">Notificações no ecrã de bloqueio permitidas</string>
-  <string name="summary_enable_show_badge_notification">Emblemas de notificações permitidos</string>
-  <string name="summary_float_enable_notification_first">Permitir notificações para poder ligar as notificações flutuantes</string>
-  <string name="summary_lock_screen_enable_notification_first">Permitir notificaçõe para poder ligar as notificações no ecrã de bloqueio</string>
-  <string name="summary_show_badge_enable_notification_first">Permitir notificaçõe para poder ligar os emblemas de notificações</string>
+  <string name="summary_disable_float_notification">Notificações não permitidas</string>
+  <string name="summary_disable_lockscreen_notification">Notificações não permitidas</string>
+  <string name="summary_disable_show_badge_notification">Emblemas não permitidos</string>
+  <string name="summary_enable_float_notification">Notificações permitidas</string>
+  <string name="summary_enable_lockscreen_notification">Notificações permitidas</string>
+  <string name="summary_enable_show_badge_notification">Emblemas permitidos</string>
+  <string name="summary_float_enable_notification_first">Sem notificações permitidas</string>
+  <string name="summary_lock_screen_enable_notification_first">Sem notificações permitidas</string>
+  <string name="summary_show_badge_enable_notification_first">Sem notificações permitidas</string>
 </resources>
