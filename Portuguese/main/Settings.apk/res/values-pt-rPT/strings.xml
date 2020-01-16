@@ -3445,9 +3445,9 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_sos_msg_call_log_prefix">Aqui está o meu registo de chamadas da última hora:</string>
   <string name="miui_sos_play_voice">Reproduzir mensagem SOS</string>
   <string name="miui_sos_remind_add">Adicionar</string>
-  <string name="miui_sos_remind_infocontent">Eu adicionei-o como contacto de emergência. Vai receber uma mensagem com a minha localização no caso de eu estar em perigo. [Mi Emergency SOS]</string>
+  <string name="miui_sos_remind_infocontent">Eu adicionei-o como contacto de emergência. Vai receber uma mensagem com a minha localização no caso de eu necessitar de ajuda. [Mi Emergency SOS]</string>
   <string name="miui_sos_remind_open">O SOS Emergência necessita de pelo menos um contacto para funcionar normalmente</string>
-  <string name="miui_sos_remind_sendinfo">Não se esqueça de dizer às pessoas que agora são os seus contactos de emergência. Eles vão poder ajudá-lo em caso de emergência</string>
+  <string name="miui_sos_remind_sendinfo">Não se esqueça de informar as pessoas que agora são os seus contactos de emergência. Os contactos de emergência vão poder ajudá-lo em caso de urgência</string>
   <string name="miui_sos_remind_sendnow">Enviar agora</string>
   <string name="miui_sos_remind_title">Atenção</string>
   <string name="miui_sos_settings_alert_contacts_repeat">Não pode adicionar contactos duplicados</string>

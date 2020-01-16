@@ -840,7 +840,7 @@ de emergência"</string>
   <string name="ew_alert_earthquake_feel_title">Intensidade estimada</string>
   <string name="ew_alert_earthquake_level_title">Magnitude estimada</string>
   <string name="ew_alert_emergency_text">"Mostrar
-cartão de médico"</string>
+cartão de saúde"</string>
   <string name="ew_alert_help_earthquake_title">Onda sísmica chegou</string>
   <string name="ew_alert_help_place_navigation">Navegar</string>
   <string name="ew_alert_help_place_text">Se necessário, vá até ao abrigo mais próximo para garantir a sua segurança e obtenha a assistência necessária</string>
@@ -857,7 +857,7 @@ cartão de médico"</string>
   <string name="ew_arrive_text_tips">Onda sísmica chegou: %s</string>
   <string name="ew_button_confirm">Concordar</string>
   <string name="ew_button_exit">Não concordar</string>
-  <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;"This feature provides you with earthquake warning functionality. It will notify you about upcoming earthquakes and play warning sound. You'll be able to find the nearest shelter, call your emergency contact, and present your medical card if required. &amp;lt;br&amp;gt;We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. &amp;lt;br&amp;gt;To be able to work normally, this feature requires the following permissions in order to collect your personal information: &amp;lt;br&amp;gt;&amp;#8226; Location info: &amp;lt;br&amp;gt;For accessing your location and providing accurate earthquake warnings. &amp;lt;br&amp;gt;If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this feature. You can choose to turn this feature off or not turn it on in such cases. &amp;lt;br&amp;gt;You must read and agree to our &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; before using this feature."&lt;/Data&gt;</string>
+  <string name="ew_china_version_first_start_network_msg">&lt;Nota:&gt;"Este serviço fornece avisos sobre terramotos. Será enviada uma notificação sobre os próximos terremotos e emitido um som de aviso. Poderá encontrar um abrigo mais próximo, ligar para um dos seus contactos de emergência e se necessário apresentar o seu cartão de saúde. &amp;lt;br&amp;gt; As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade. &amp;lt;br&amp;gt;Para funcionar normalmente, é necessário ligar à Internet e das seguintes permissões para obter as suas informações pessoais: &amp;lt;br&amp;gt;&amp;#8226; Localização: &amp;lt;br&amp;gt;Para aceder à sua localização e fornecer avisos precisos sobre terremotos. &amp;lt;br&amp;gt;Se não concordar com as permissões ou a partilha e envio de informações pessoais, não vai poder utilizar este serviço. Pode optar por desligar esta funcionalidade ou não activá-la nesses casos. &amp;lt;br&amp;gt;tem de ler e concordar com os nossos &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar esta funcionalidade."&lt;/Nota&gt;</string>
   <string name="ew_close">Desligar alertas</string>
   <string name="ew_emergency_allergy">Alergias</string>
   <string name="ew_emergency_basic_info">Informação básica</string>
@@ -869,28 +869,28 @@ cartão de médico"</string>
   <string name="ew_emergency_delete_title">Eliminar</string>
   <string name="ew_emergency_detail_info">Detalhes</string>
   <string name="ew_emergency_edit_text">Editar</string>
-  <string name="ew_emergency_edit_title">Cartão médico</string>
+  <string name="ew_emergency_edit_title">Cartão de saúde</string>
   <string name="ew_emergency_idcard">ID</string>
   <string name="ew_emergency_input">Ok</string>
   <string name="ew_emergency_input_allergy">Adicione as suas alergias</string>
-  <string name="ew_emergency_input_medical">List your conditions and treatments</string>
-  <string name="ew_emergency_input_medicine">"List the medicines you've been taking"</string>
-  <string name="ew_emergency_medical">Medical conditions</string>
-  <string name="ew_emergency_medicine">Active medication</string>
+  <string name="ew_emergency_input_medical">Adicione o seu estado de saúde e tratamentos</string>
+  <string name="ew_emergency_input_medicine">Adicione os medicamentos que está a tomar</string>
+  <string name="ew_emergency_medical">Estado clínico</string>
+  <string name="ew_emergency_medicine">Medicação administrada</string>
   <string name="ew_emergency_name">Nome</string>
-  <string name="ew_emergency_organ_donation">Are you an organ donation volunteer?</string>
+  <string name="ew_emergency_organ_donation">É um dador de órgãos?</string>
   <string name="ew_emergency_privacy">"Privacy statement: The info you provide here will only be used for emergency cases and stored on your device. We won't upload this info to our servers."</string>
-  <string name="ew_emergency_recent_medicine">Recent active medication</string>
-  <string name="ew_emergency_title">Medical card</string>
-  <string name="ew_first_start_network_title">Terms and conditions</string>
-  <string name="ew_guide_law_agree">Agree</string>
-  <string name="ew_guide_law_done">Got it</string>
-  <string name="ew_guide_law_exit">"Don't agree"</string>
+  <string name="ew_emergency_recent_medicine">Medicação recentemente administrada</string>
+  <string name="ew_emergency_title">Cartão de saúde</string>
+  <string name="ew_first_start_network_title">Termos e condições</string>
+  <string name="ew_guide_law_agree">Concordar</string>
+  <string name="ew_guide_law_done">Percebi</string>
+  <string name="ew_guide_law_exit">Não concordo</string>
   <string name="ew_guide_law_text">"This feature provides you with earthquake warning functionality. You must understand that the earthquake warning information is provided by a third party early warning agency. Xiaomi doesn't oversee third party agencies and doesn't have any control over them. Xiaomi doesn't promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs. You must understand that this feature is provided for your reference only. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature."</string>
-  <string name="ew_guide_law_title">Disclaimer</string>
-  <string name="ew_guide_next_text">Next</string>
-  <string name="ew_guide_play_audio">Play warning sound</string>
-  <string name="ew_guide_play_audio_last">Play warning sound (%ds)</string>
+  <string name="ew_guide_law_title">Aviso legal</string>
+  <string name="ew_guide_next_text">Seguinte</string>
+  <string name="ew_guide_play_audio">Tocar som de aviso</string>
+  <string name="ew_guide_play_audio_last">Tocar som de aviso (%ds)</string>
   <string name="ew_guide_statement_text">&lt;Data&gt;"&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Disclaimer&amp;lt;/a&amp;gt; Whenever a user (hereinafter referred to as \"you\") activates earthquake warning functionality, he or she enters a legally binding contract with Xiaomi and its affiliates (hereinafter referred to as \"Xiaomi\"). By using this feature, you acknowledge that you've read this disclaimer, and you fully understand and agree to the entire contents of this disclaimer. If you don't agree to this disclaimer, you should turn off the earthquake warning feature immediately.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Special statement&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; In accordance with relevant laws and regulations, earthquake early warning services are provided only to the areas that have been authorized by the relevant government departments. This means that when you turn on the earthquake warning functionality and your device is in an authorized area, you can receive earthquake warning services. You can check the list of areas where earthquake warning services are currently provided. More areas will be supported in the future. Stay tuned!&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Disclaimer&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; The Security app provides you with earthquake warning functionality. You must understand that the earthquake warning information is provided by the government early warning agencies. Xiaomi doesn't oversee such agencies and doesn't have any control over them. &amp;lt;br&amp;gt; Xiaomi doesn't promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs.&amp;lt;br&amp;gt; Receiving earthquake warning information requires you to keep your device connected to the mobile network. Third party communication line failures, technical problems, network or terminal equipment failures, system instability, and other various force majeure events might prevent you from receiving earthquake warning information. Xiaomi shall not bear any responsibility for any losses caused by such events.&amp;lt;br&amp;gt; You must understand that this feature is provided for your reference only. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature. &amp;lt;br&amp;gt;"&lt;/Data&gt;</string>
   <string name="ew_guide_tips_1">"You'll be notified about upcoming earthquakes and hear warning sound"</string>
   <string name="ew_guide_tips_2">Information and warning sound will be updated during the earthquake</string>

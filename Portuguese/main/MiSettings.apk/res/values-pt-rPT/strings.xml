@@ -121,12 +121,12 @@
   <string name="usage_home_permission_phone_title">Aceder à informação do dispositivo</string>
   <string name="usage_home_premission_main_summary">Bem-vindo ao tempo de ecrã. Pode utilizar esta aplicação para definir limites de tempo de ecrã, ver estatísticas e trocar para o Modo Foco. Esta aplicação necessita de obter informações do tempo de ecrã para funcionar normalmente</string>
   <string name="usage_home_premission_main_summary_new">"Bem-vindo ao tempo de ecrã!
-Para poder funcionar normalmente, esta aplicação necessita de obter informações de tempo de ecrã: número de vezes que desbloqueia o seu telefone, nomes das aplicações e a duração da utilização de cada aplicação.
+Para funcionar normalmente, esta aplicação necessita de obter informações de tempo de ecrã: número de vezes que desbloqueia o seu telefone, nomes das aplicações e a duração da utilização de cada aplicação.
 Esta aplicação necessita também de ligar à Internet e das seguintes permissões para obter informações pessoais:"</string>
   <string name="usage_home_premission_main_summary_new_o">"Bem-vindo ao tempo de ecrã!
-Para poder funcionar normalmente, esta aplicação necessita de obter informações de tempo de ecrã: número de vezes que desbloqueia o seu telefone, nomes das aplicações e a duração da utilização de cada aplicação.
+Para funcionar normalmente, esta aplicação necessita de obter informações de tempo de ecrã: número de vezes que desbloqueia o seu telefone, nomes das aplicações e a duração da utilização de cada aplicação.
 Esta aplicação necessita também de ligar à Internet e das seguintes permissões para obter informações pessoais:"</string>
-  <string name="usage_home_premission_second_summary">Para poder funcionar normalmente, esta aplicação necessita de obter informações pessoais. As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade</string>
+  <string name="usage_home_premission_second_summary">Para funcionar normalmente, esta aplicação necessita de obter informações pessoais. As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade</string>
   <string name="usage_home_premission_second_summary_new">As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade. Se não concordar com estas permissões ou o envio das suas informações pessoais, não vai poder utilizar esta aplicação. Pode revogar a sua autorização em Tempo de ecrã &gt; Definições &gt; Desligar tempo de ecrã. Se tiver mais questões acerca de privacidade, contacte-nos através do email privacy@xiaomi.com</string>
   <string name="usage_no_net_summary">Verifique as suas definições de rede e tente novamente</string>
   <string name="usage_refresh">Tentar novamente</string>
