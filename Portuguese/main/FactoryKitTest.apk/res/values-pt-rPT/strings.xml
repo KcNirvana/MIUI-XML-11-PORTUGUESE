@@ -518,7 +518,7 @@ N:sem teste"</string>
   <string name="touch_panel_key_message">"Prima o
 &lt; botão %1$s&gt;"</string>
   <string name="touchpanel_edge_name">Ecrã táctil</string>
-  <string name="touchpanel_key_and_key_light_name">Botão e luz Ecrã táctil</string>
+  <string name="touchpanel_key_and_key_light_name">Botões ecrã táctil e Luz</string>
   <string name="touchpanel_key_name">Botão ecrã táctil</string>
   <string name="tprawdatatest_click_fail">Falha no toque tprawdatatest</string>
   <string name="tprawdatatest_read_fail">Leitura tp_capacitance_data falhou</string>
