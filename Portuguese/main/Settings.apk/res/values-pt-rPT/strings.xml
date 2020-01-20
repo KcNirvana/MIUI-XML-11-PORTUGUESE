@@ -147,16 +147,16 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
   <string name="accessibility_tutorial_dialog_message_button">"Para ligar ou desligar este serviço, toque no botão de acessibilidade %s na parte inferior do ecrã.
 
 Para alternar entre serviços, toque sem soltar no botão de acessibilidade"</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_settings_with_talkback">"Para ligar ou desligar um serviço de acessibilidade, deslize com três dedos para cima a partir da parte inferior do ecrã.
+  <string name="accessibility_tutorial_dialog_message_gesture_settings_with_talkback">"Para ligar ou desligar um serviço de acessibilidade, deslize com três dedos para cima a partir da parte inferior do ecrã.
 
 Para alternar entre serviços, deslize com três dedos para cima sem soltar"</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_settings_without_talkback">"Para ligar ou desligar um serviço de acessibilidade, deslize com dois dedos para cima a partir da parte inferior do ecrã.
+  <string name="accessibility_tutorial_dialog_message_gesture_settings_without_talkback">"Para ligar ou desligar um serviço de acessibilidade, deslize com dois dedos para cima a partir da parte inferior do ecrã.
 
 Para alternar entre serviços, deslize com dois dedos para cima sem soltar"</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_with_talkback">"Para ligar ou desligar este serviço, deslize com três dedos para cima a partir da parte inferior do ecrã.
+  <string name="accessibility_tutorial_dialog_message_gesture_with_talkback">"Para ligar ou desligar este serviço, deslize com três dedos para cima a partir da parte inferior do ecrã.
 
 Para alternar entre serviços, deslize com três dedos para cima sem soltar"</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_without_talkback">"Para ligar ou desligar este serviço, deslize com dois dedos para cima a partir da parte inferior do ecrã.
+  <string name="accessibility_tutorial_dialog_message_gesture_without_talkback">"Para ligar ou desligar este serviço, deslize com dois dedos para cima a partir da parte inferior do ecrã.
 
 Para alternar entre serviços, deslize com dois dedos para cima sem soltar"</string>
   <string name="accessibility_tutorial_dialog_title_button">Utilizar o botão de acessibilidade para abrir</string>
@@ -1534,6 +1534,8 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="copy">Copiar</string>
   <string name="copyable_slice_toast">%1$s copiado para a área de transferências</string>
   <string name="copyright_title">Direitos de autor</string>
+  <string name="corner_assistant_gesture_summary">Deslizar para cima a partir do canto inferior esquerdo ou inferior direito para ligar o assistente Google</string>
+  <string name="corner_assistant_gesture_title">Deslizar para cima do canto para o assitente Google</string>
   <string name="country_name">%s (sistema)</string>
   <string name="create">Criar</string>
   <string name="credential_contains">Esta entrada contém:</string>
@@ -4162,7 +4164,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="power_mgr">Optimização de bateria</string>
   <string name="power_mode">Definições de energia</string>
   <string name="power_mode_balanced_title">Modo equilibrado</string>
-   <string name="power_monitor_summary">Ferramentas utilizadas para monitorizar energia</string>
+  <string name="power_monitor_summary">Ferramentas utilizadas para monitorizar energia</string>
   <string name="power_monitor_title">Controlo de energia</string>
   <string name="power_optimize">Poupança de bateria</string>
   <string name="power_overcounted">Contabilizada em excesso</string>
