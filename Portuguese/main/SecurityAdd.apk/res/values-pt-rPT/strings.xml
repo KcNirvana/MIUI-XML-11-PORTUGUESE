@@ -27,12 +27,12 @@
   <string name="ew_detail_earthquake_feel_title">Intensidade estimada</string>
   <string name="ew_detail_earthquake_level_title">Magnitude estimada</string>
   <string name="ew_detail_receive_alert_from">Dados fornecidos pelo instituto Chengdu Hi-tech</string>
-  <string name="ew_detail_receive_distance_message2">%s km (o epicentro está longe. Pode não sentir o terramoto)</string>
+  <string name="ew_detail_receive_distance_message2">%s km (o epicentro está longe de si. Poderá não sentir o sismo)</string>
   <string name="ew_detail_receive_distance_title">Distância ao epicentro</string>
   <string name="ew_detail_receive_location_title">Localização</string>
   <string name="ew_detail_receive_time_title">Hora de início</string>
   <string name="ew_detail_receive_warn_time_title">Tempo antes do início</string>
-  <string name="ew_share_logo_title">Aviso de terramoto</string>
+  <string name="ew_share_logo_title">Aviso de sismo</string>
   <string name="ew_share_save_tips">Guardado em %s</string>
   <string name="ew_share_title">Partilhar</string>
   <string name="ew_warning_detail">Detalhes do aviso</string>
