@@ -77,10 +77,10 @@
   <string name="enable_cmas_test_alerts_title">Mostrar difusões de teste CMAS</string>
   <string name="enable_emergency_alerts_summary">Apresentar transmissões de alertas de emergência</string>
   <string name="enable_emergency_alerts_title">Ligar notificações</string>
-  <string name="enable_etws_test_alerts_summary">Mostrar transmissões de teste para o Sistema de Aviso de Terramotos e Tsunamis</string>
+  <string name="enable_etws_test_alerts_summary">Mostrar transmissões de teste para o Sistema de Aviso de Sismos e Tsunamis</string>
   <string name="enable_etws_test_alerts_title">Mostrar difusões de teste ETWS</string>
-  <string name="etws_earthquake_and_tsunami_warning">Aviso de terramoto e tsunami</string>
-  <string name="etws_earthquake_warning">Aviso de terremoto</string>
+  <string name="etws_earthquake_and_tsunami_warning">Aviso de sismo e tsunami</string>
+  <string name="etws_earthquake_warning">Aviso de sismo</string>
   <string name="etws_other_emergency_type">Aviso de emergência</string>
   <string name="etws_test_message">Mensagem de teste do ETWS</string>
   <string name="etws_tsunami_warning">Aviso de tsunami</string>
