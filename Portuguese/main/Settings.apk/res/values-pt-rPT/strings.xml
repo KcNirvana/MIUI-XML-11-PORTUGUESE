@@ -5975,7 +5975,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="turn_on_keyguard_password_alert_foget_cacel">Agora não</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">Percebi</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">Percebi(%ds)</string>
-  <string name="turn_on_keyguard_password_alert_forget_content">Memorize a sua palavra-passe. Se a esquecer, vai ter que eliminar todos os dados no seu dispositivo, incluindo fotos e contactos, e definir uma nova</string>
+  <string name="turn_on_keyguard_password_alert_forget_content">Memorize a sua palavra-passe. Se a esquecer, vai ter que eliminar todos os dados no seu dispositivo, incluindo fotos, contactos e definir uma nova palavra-passe</string>
   <string name="turn_on_keyguard_password_alert_forget_title">Memorizar a sua palavra-passe</string>
   <string name="turn_on_radio">Ligar rádio</string>
   <string name="turn_on_security_lock">Escolher bloqueio de ecrã</string>
