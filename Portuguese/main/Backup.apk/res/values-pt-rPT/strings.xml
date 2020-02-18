@@ -231,9 +231,36 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="list_footer_tip_title">Dicas:</string>
   <string name="loading_data">A carregar dados</string>
   <string name="local_app_name">Cópias de segurança</string>
+  <string name="local_back_up_detail_description">"Nota:
+1. Para evitar a perda de dados, copie as cópias locais para o seu computador
+2. Copie sempre as cópias locais para o seu computador antes de fazer uma reposição de fábrica
+3. Onde estão guardadas as cópias locais? %1$s"</string>
+  <string name="local_backup_select_activity">Criar uma cópia</string>
   <string name="local_backup_window_title">Dados da cópia local</string>
+  <string name="local_button_backup_data">Copiar</string>
+  <string name="local_button_backup_now">Copiar</string>
+  <string name="local_button_restore_data">Restaurar para este dispositivo</string>
+  <string name="local_button_restore_now">Restaurar</string>
+  <string name="local_click_to_jump">Toque para ver</string>
+  <string name="local_config_off">Desligado</string>
+  <string name="local_config_on">Ligado</string>
   <string name="local_home_title">Cópia de segurança local</string>
-  <string name="local_no_backup">Sem cópias de segurança locais</string>
+  <string name="local_main_auto_backup_title">Copiar automaticamente</string>
+  <string name="local_main_backup">Cópias locais</string>
+  <string name="local_main_backup_and_restore">Neste dispositivo</string>
+  <string name="local_main_backup_detail_title">Definições de sistema, contas e dados das aplicações</string>
+  <string name="local_main_backup_manager">Gerir as cópias locais</string>
+  <string name="local_main_backup_manager_title">Gestão de cópias</string>
+  <string name="local_main_backup_settings">Definições das cópias locais</string>
+  <string name="local_main_backup_time">Última cópia: %1$s</string>
+  <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
+  <string name="local_main_encrypt_backup_summary">Encriptar os itens utilizando a sua Conta Mi</string>
+  <string name="local_main_encrypt_backup_title">Encriptação de cópias</string>
+  <string name="local_main_latest_backup_time_loading">Aguarde…</string>
+  <string name="local_no_backup">Sem cópias locais</string>
+  <string name="local_no_backup_data">Sem cópias</string>
+  <string name="local_restore_select_activity">Gerir cópias</string>
+  <string name="local_restore_select_data_activity">Restaurar uma cópia</string>
   <string name="local_restore_window_title">Restauro local</string>
   <string name="local_select_account_contact">Contas e contactos</string>
   <string name="local_select_audio">Ficheiros áudio</string>

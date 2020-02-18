@@ -25,6 +25,14 @@
         <item quantity="other">%d dias</item>
         <item quantity="one">%d dia</item>
     </plurals>
+    <plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%s horas</item>
+        <item quantity="one">≈%s hora</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%s minutos</item>
+        <item quantity="one">≈%s minuto</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Desbloqueado %d vezes</item>
         <item quantity="one">Desbloqueado %d vez</item>
@@ -88,6 +96,14 @@
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">Dias úteis: %d minutos</item>
         <item quantity="one">Dias úteis: %d minuto</item>
+    </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" horas"</item>

@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="mortgage_repayment">
+    <string-array name="height_array">
+        <item>Centímetros</item>
+        <item>Metros</item>
+        <item>Pés</item>
+        <item>Polegadas</item>
+    </string-array>
+    <string-array name="mortgage_repayment">
         <item>Prestações iguais</item>
         <item>Prestações decrescentes</item>
-     </string-array>
-     <string-array name="operatorDescs">
+    </string-array>
+    <string-array name="operatorDescs">
         <item>parêntese esquerdo</item>
         <item>parêntese direito</item>
         <item>factorial</item>
@@ -22,5 +28,9 @@
         <item>cosseno</item>
         <item>pi</item>
         <item>igual a</item>
-     </string-array>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Quilogramas</item>
+        <item>Libras</item>
+    </string-array>
 </resources>

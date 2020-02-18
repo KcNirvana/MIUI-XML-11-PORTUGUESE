@@ -295,12 +295,14 @@
         <item>Latência longa (300~500ms)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimizado para baixas latências</item>
         <item>Optimizado para a ligação</item>
         <item>Balanceado</item>
         <item>Optimizado para o áudio</item>
         <item>Melhor esforço (taxa de bits automática)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimizado para baixas latências (256kbps)</item>
         <item>Optimizado para a ligação (400kbps)</item>
         <item>Balanceado (500/560kbps)</item>
         <item>Optimizado o áudio (900kbps)</item>

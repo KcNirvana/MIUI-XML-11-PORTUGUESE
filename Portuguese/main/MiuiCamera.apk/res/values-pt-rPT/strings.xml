@@ -70,6 +70,7 @@
 e ajustar as preferências automaticamente"</string>
   <string name="ai_scene_top_moon_off">Modo luz fraca</string>
   <string name="ai_scene_top_tip">Modo Lua</string>
+  <string name="ai_watermark_title">"Marca d'água IA"</string>
   <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>
   <string name="autozoom_click_hint">Toque num objecto para o manter focado enquanto estiver em movimento. Mantenha-se a pelo menos 3 metros para obter melhores resultados</string>
   <string name="autozoom_disabled_hint">A procura de objectos em movimento foi interrompida</string>
@@ -147,6 +148,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="color_effect_live_none">Normal</string>
   <string name="color_effect_live_solar">Céu azul</string>
   <string name="color_effect_live_years">Sépia</string>
+  <string name="color_enhance_mode">Cores melhoradas</string>
   <string name="config_name_group">Selfie de grupo</string>
   <string name="config_name_hht">Nocturno</string>
   <string name="config_name_magic">Magia</string>
@@ -887,6 +889,11 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
 gravar e editar vídeos no momento"</string>
   <string name="vv_use_hint_text_title">Registos de vídeo</string>
   <string name="wait">Aguarde…</string>
+  <string name="watermark_tab_city">Cidades</string>
+  <string name="watermark_tab_festival">Férias</string>
+  <string name="watermark_tab_general">Geral</string>
+  <string name="watermark_tab_scene">Cenas</string>
+  <string name="watermark_tab_spots">Sítios</string>
   <string name="wideselfie_press_shoot_key_to_start">Toque no botão de disparo</string>
   <string name="wideselfie_result_image_lossless">Não foi possível guardar o panorama</string>
   <string name="wideselfie_rotate_slowly">Rode o telefone de lado lentamente</string>

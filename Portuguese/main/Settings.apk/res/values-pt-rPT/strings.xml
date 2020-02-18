@@ -195,6 +195,7 @@ Para alternar entre serviços, deslize com dois dedos para cima sem soltar"</str
   <string name="account_settings_title">Google e contas</string>
   <string name="account_sync_settings_title">Definições de sincronização</string>
   <string name="account_sync_title">Sincronização de contas</string>
+  <string name="acount_data">Contas</string>
   <string name="action_drag_label_move_bottom">Mover para o fundo</string>
   <string name="action_drag_label_move_down">Mover para baixo</string>
   <string name="action_drag_label_move_top">Mover para o topo</string>
@@ -452,6 +453,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="app_usage_preference">Preferências de utilização da aplicação</string>
   <string name="app_version">Versão</string>
   <string name="app_wifi">Wi-Fi</string>
+  <string name="application_data">Aplicações</string>
   <string name="application_forbid_auto_startup">Parar %s de iniciar em segundo plano</string>
   <string name="application_info_label">Informações da aplicação</string>
   <string name="application_item_already_permission">Permitido</string>
@@ -604,14 +606,25 @@ Sensibilidades mais elevadas podem entrar em conflito com quaisquer gestos de ap
   <string name="background_traffic">Segundo plano %s</string>
   <string name="backup_configure_account_default_summary">Sem contas a armazenar as cópias de segurança actualmente</string>
   <string name="backup_configure_account_title">Conta das cópias de segurança</string>
+  <string name="backup_data">Cópias de segurança</string>
   <string name="backup_data_management_title">Gestão da conta das cópias</string>
   <string name="backup_data_summary">Fazer cópias de segurança dos dados das aplicações, palavras-passe de Wi-Fi e outras definições para os servidores Google</string>
   <string name="backup_data_title">Cópias de segurança</string>
+  <string name="backup_difference_content">"Cópias locais:
+As cópias locais incluem dados das aplicações e mais itens. Os ficheiros da cópia são guardados em MIUI-backup-AllBackup e necessitam de ser copiados para um computador assim que o processo estiver concluído.
+
+Cópias na Xiaomi Cloud:
+As cópias são guardadas na Xiaomi Cloud e podem ser acedidas de qualquer lugar. Este método é mais rápido e fácil que as cópias locais mas não copia os dados das aplicações
+"</string>
+  <string name="backup_difference_title">4. Quais as diferenças entre as cópias locais e as da Xiaomi Cloud?</string>
   <string name="backup_erase_dialog_message">Deixar de fazer cópia de segurança de palavras-passe de rede Wi-Fi, marcadores, outras definições e dados da aplicação, bem como eliminar todas as cópias nos servidores da Google?</string>
   <string name="backup_inactive_title">Serviço de cópia está inactivo</string>
   <string name="backup_pw_cancel_button_text">Cancelar</string>
   <string name="backup_pw_set_button_text">Definir palavra-passe da cópia de segurança</string>
-  <string name="backup_section_title">Cópia e restauro</string>
+  <string name="backup_restore_data_content">"As suas cópias contêm contactos, mensagens (SMS e MMS), registos de chamadas, eventos do calendário, fotos, ficheiros de áudio, vídeos, documentos, aplicações, dados das aplicações e o layout do ecrã inicial
+"</string>
+  <string name="backup_restore_data_title">5. Que itens posso copiar ou restaurar?</string>
+  <string name="backup_section_title">Cópias e restauro</string>
   <string name="backup_set_clear_success">Palavra-passe da cópia desligada</string>
   <string name="backup_set_clear_title">Desligar palavra-passe da cópia</string>
   <string name="backup_set_confirm">OK</string>
@@ -1165,8 +1178,7 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="bt_hci_snoop_log">Activar registo de monitorização Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI num ficheiro</string>
   <string name="bt_ldac_declaration">Quando um dispositivo Bluetooth suporta LDAC, vai ser ligado por defeito. O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria</string>
-  <string name="bt_ldac_dialog_summary">"O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria.
-Esta funcionalidade pode ser desligada nas Definições"</string>
+  <string name="bt_ldac_dialog_summary">O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria. Esta funcionalidade pode ser desligada nas Definições</string>
   <string name="bt_ldac_dialog_title">O dispositivo actual suporta LDAC, que foi ligado:</string>
   <string name="bt_ldac_open_dialog_summary">O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria. Podem ocorrer problemas devido a limitações do hardware Bluetooth</string>
   <string name="bt_ldac_open_dialog_title">Ligar LDAC?</string>
@@ -1176,8 +1188,7 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="bt_ldac_remember_choice">Memorizar preferência</string>
   <string name="bt_ldac_settings">Definições</string>
   <string name="bt_lhdc_declaration">Quando um dispositivo Bluetooth suporta LHDC, vai ser ligado por defeito. O LHDC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria</string>
-  <string name="bt_lhdc_dialog_summary">"O LHDC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria.
-Esta funcionalidade pode ser desligada nas Definições"</string>
+  <string name="bt_lhdc_dialog_summary">O LHDC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria. Esta funcionalidade pode ser desligada nas Definições</string>
   <string name="bt_lhdc_dialog_title">The current device supports LHDC, which has been connected by default:</string>
   <string name="bt_lhdc_open_dialog_summary">O LHDC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria. Podem ocorrer problemas devido a limitações do hardware Bluetooth</string>
   <string name="bt_lhdc_open_dialog_title">Ligar LHDC?</string>
@@ -1341,6 +1352,7 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="clear_activities">Limpar predefinições</string>
   <string name="clear_activities_summary">Utilizar esta aplicação para algumas operações predefinidas</string>
   <string name="clear_adb_keys">Revogar autorizações de depuração USB</string>
+  <string name="clear_all_data">Eliminar todos os dados</string>
   <string name="clear_cache_btn_text">Limpar cache</string>
   <string name="clear_data_dlg_text">Todos os dados desta aplicação vão ser eliminados definitivamente. Isto inclui todos os ficheiros, definições, contas, bases de dados, etc.</string>
   <string name="clear_data_dlg_title">Eliminar dados da aplicação</string>
@@ -1349,6 +1361,7 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="clear_failed_dlg_title">Limpar dados</string>
   <string name="clear_instant_app_confirmation">Quer remover esta aplicação instantânea?</string>
   <string name="clear_instant_app_data">Limpar aplicação</string>
+  <string name="clear_phone_data_category">Eliminar os seguintes itens</string>
   <string name="clear_text_end_icon_content_description">Limpar texto</string>
   <string name="clear_uri_btn_text">Limpar acesso</string>
   <string name="clear_user_data_text">Limpar dados</string>
@@ -1360,7 +1373,9 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="cloud_backup_section_title">Cópias da Xiaomi Cloud</string>
   <string name="cloud_backup_settings_section_title">Definições das cópias</string>
   <string name="cloud_restore_section_summary">Restaurar aplicações, disposição do ecrã inicial e as definições de sistema</string>
+  <string name="cloud_restore_section_summary_new">Copiar o layout do ecrã inicial, aplicações, definições de sistema e mais</string>
   <string name="cloud_restore_section_title">Restaurar da Xiaomi Cloud</string>
+  <string name="cloud_restore_section_title_new">Na Xiaomi Cloud</string>
   <string name="close_hotspot_hint">Desligar o PA Móvel antes de transmitir</string>
   <string name="close_miui_optimization_title">Desligar optimização MIUI</string>
   <string name="close_optimization_message">O tamanho do tipo de letra, contas e outras partes da MIUI vão ser afectadas se desligar esta funcionalidade</string>
@@ -1368,7 +1383,7 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="close_privacy_thumbnail_blur_title">As pré-visualizações não estão desfocadas</string>
   <string name="close_slave_wifi_hint">Desligar das redes Wi-Fi auxiliares antes de transmitir</string>
   <string name="cmcc_hardware_version">Versão de hardware</string>
-  <string name="codec_low_latency_summary">Fornece uma experiência de baixa latência para a sincronização áudio/vídeo</string>
+  <string name="codec_low_latency_summary">Minimizar a latência durante a sincronização do áudio e vídeo nos jogos</string>
   <string name="codec_low_latency_title">Baixa latência</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
@@ -1423,6 +1438,7 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="color_unspecified">Predefinido</string>
   <string name="color_white">Branco</string>
   <string name="color_yellow">Amarelo</string>
+  <string name="common_issue">FAQ</string>
   <string name="common_settings">Definições rápidas</string>
   <string name="complete_parameters">Especificações</string>
   <string name="complete_settings">Definições gerais</string>
@@ -1509,6 +1525,7 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="connected_wifi">Ligado</string>
   <string name="connecting_to_vpn">A ligar à VPN</string>
   <string name="connection_and_sharing">Ligações e partilha</string>
+  <string name="contact_data">Contactos</string>
   <string name="content_capture">Conteúdo da aplicação</string>
   <string name="content_capture_summary">Permitir que as aplicações enviem conteúdo para o sistema Android</string>
   <string name="content_description_menu_button">Menu</string>
@@ -1534,8 +1551,6 @@ Esta funcionalidade pode ser desligada nas Definições"</string>
   <string name="copy">Copiar</string>
   <string name="copyable_slice_toast">%1$s copiado para a área de transferências</string>
   <string name="copyright_title">Direitos de autor</string>
-  <string name="corner_assistant_gesture_summary">Deslizar para cima a partir do canto inferior esquerdo ou inferior direito para ligar o assistente Google</string>
-  <string name="corner_assistant_gesture_title">Deslizar para cima do canto para o assistente Google</string>
   <string name="country_name">%s (sistema)</string>
   <string name="create">Criar</string>
   <string name="credential_contains">Esta entrada contém:</string>
@@ -1744,6 +1759,9 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="data_usage_uninstalled_apps">Aplicações removidas</string>
   <string name="data_usage_uninstalled_apps_users">Aplicações e utilizadores removidos</string>
   <string name="data_usage_warning_editor_title">Definir aviso de utilização de dados</string>
+  <string name="datasize_decrease_content">"Os contactos, mensagens e dados de sistema são compactados enquanto estão a ser copiados, o que resulta num tamanho de ficheiro menor
+"</string>
+  <string name="datasize_decrease_title">6. Porque é que os ficheiros das cópias são menores que os itens actuais?</string>
   <string name="date_and_time">Data e hora</string>
   <string name="date_and_time_settings_summary">Definir a data, hora, fuso horário e formatos</string>
   <string name="date_and_time_settings_title">Data e hora</string>
@@ -2646,6 +2664,39 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="homepage_all_settings">Todas as definições</string>
   <string name="homepage_condition_footer_content_description">Fechar</string>
   <string name="homepage_personal_settings">Sugestões</string>
+  <string name="how_backup_content">"Existem 3 tipos de cópias: locais, Xiaomi Cloud e USB.
+
+Cópias locais:
+As cópias locais permitem guardar definições de sistema, contas, dados das aplicações e outros itens num ficheiro separado guardado no seu dispositivo (MIUI-backup-AllBackup). Após o ficheiro estar criado, pode transferi-lo para o seu computador via USB
+Nota:
+Pode utilizar o Mi PC Suite para copiar ou restaurar itens
+Cópias na Xiaomi Cloud:
+Pode copiar definições de sistema, layout do ecrã inicial, aplicações e outros itens para a Xiaomi Cloud
+
+Cópias USB:
+Este método permite guardar definições de sistema, contas, dados das aplicações e outros itens para um armazenamento USB externo
+"</string>
+  <string name="how_backup_title">1. Como é que faço cópias dos itens?</string>
+  <string name="how_encrypt_content">Apenas pode encriptar as cópias locais. Existem 2 métodos para fazer isto:
+a) Abrir a página com as suas cópias locais, ligar a encriptação e iniciar sessão na sua Conta Mi. As cópias vão ser encriptadas automaticamente. Lembre-se que tem de iniciar sessão na sua Conta Mi para restaurar cópias encriptadas
+b) Se utilizar o Mi PC Suite para copiar itens, pode utilizar as opções de encriptação da ferramenta
+
+Nota:
+Lembre-se da palavra-passe que definir para as cópias encriptadas. Não vai poder desencriptar as suas cópias se a esquecer
+"</string>
+  <string name="how_encrypt_title">3. Como encripto as minhas cópias?</string>
+  <string name="how_restore_backup_content">"Pode ver aqui como restaurar itens que foram copiados utilizando diferentes métodos:
+
+Cópias locais:
+Copie o ficheiro da cópia do seu computador para o seu dispositivo (MIUI-backup-AllBackup). Vá a Definições &gt; Cópias e restauro &gt; Neste dispositivo e seleccione o ficheiro da cópia
+
+Cópias na Xiaomi Cloud:
+Inicie sessão na sua Conta Mi, Vá a Definições &gt; Cópias e restauro &gt; Na Xiaomi Cloud e seleccione o ficheiro da cópia
+
+Cópias USB:
+Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a Definições &gt; Cópias e restauro &gt; Neste dispositivo e seleccione o ficheiro da cópia
+"</string>
+  <string name="how_restore_backup_title">2. Como é que restauro itens?</string>
   <string name="http_invoke_app">Aplicações Web</string>
   <string name="http_invoke_app_summary">Abrir aplicações rapidamente sem as instalar</string>
   <string name="hwui_force_dark_summary">Substituir a funcionalidade de forçar a activação permanente do Modo Escuro</string>
@@ -2942,7 +2993,9 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="local_backup_password_toast_success">Nova palavra-passe da cópia de segurança definida</string>
   <string name="local_backup_password_toast_validation_failure">Erro na definição da palavra-passe da cópia de segurança</string>
   <string name="local_backup_section_summary">Definições das cópias do sistema, contas e aplicações</string>
+  <string name="local_backup_section_summary_new">Copiar contas, dados das aplicações e mais</string>
   <string name="local_backup_section_title">Cópias de segurança locais</string>
+  <string name="local_backup_section_title_new">Neste dispositivo</string>
   <string name="locale_default">Predefinido</string>
   <string name="locale_settings">Região</string>
   <string name="location_access_summary">As aplicações podem obter informação da sua localização</string>
@@ -3260,6 +3313,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="master_clear_progress_text">Por favor, aguarde…</string>
   <string name="master_clear_progress_title">A eliminar</string>
   <string name="master_clear_title">Reposição de definições de fábrica</string>
+  <string name="master_clear_title_new">Eliminar todos os dados (reposição de fábrica)</string>
   <string name="max_aspect_settings_all_app_display_loading">Aguarde…</string>
   <string name="max_cpu10_info">"Deca-Core, "</string>
   <string name="max_cpu2_info">"Dual-Core, "</string>
@@ -3965,6 +4019,7 @@ A aplicação também pode ligar ou desligar o modo Não incomodar e alterar def
 O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="other">Outros</string>
   <string name="other_advanced_settings">Definições adicionais</string>
+  <string name="other_data">Outros itens neste dispositivo</string>
   <string name="other_device_info">Outros</string>
   <string name="other_input_settings">Definições de teclado adicionais</string>
   <string name="other_personal_settings">Definições adicionais</string>
@@ -4092,6 +4147,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="phone_index_label">Seleccionar lista telefónica</string>
   <string name="phone_info_label">Informações do telefone</string>
   <string name="phone_language">Idioma</string>
+  <string name="photo_data">Fotos e vídeos</string>
   <string name="physical_keyboard_title">Teclado físico</string>
   <string name="picture_color_mode">Modo de cor da imagem</string>
   <string name="picture_color_mode_desc">Utilizar sRGB</string>
@@ -4381,8 +4437,9 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_protect_title">Protecção de Privacidade</string>
   <string name="privacy_protection_title">Privacidade</string>
   <string name="privacy_relative">Privacidade</string>
-  <string name="privacy_settings">Cópia e restauro</string>
-  <string name="privacy_settings_title">Cópia e restauro</string>
+  <string name="privacy_settings">Cópias e restauro</string>
+  <string name="privacy_settings_new">Cópias e restauro</string>
+  <string name="privacy_settings_title">Cópias e restauro</string>
   <string name="privacy_thumbnail_blur_progress_message">Aguarde…</string>
   <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações</string>
   <string name="private_dns_help_message">&lt;annotation id="url"&gt;Saber mais&lt;/annotation&gt; acerca de funcionalidade de DNS privado</string>
@@ -4606,6 +4663,7 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="reset_second_space_passwd_detail">Introduza a palavra-passe da Conta Mi utilizada no Primeiro espaço</string>
   <string name="reset_shortcut_manager_throttling">Repor o limite de taxa do gestor de atalhos</string>
   <string name="reset_shortcut_manager_throttling_complete">O limite de taxa do gestor de atalhos foi reposto</string>
+  <string name="reset_title">Reposição</string>
   <string name="resetting_second_space_passwd">A repor a palavra-passe do Segundo espaço</string>
   <string name="resident_timezone_summary">Segundo relógio</string>
   <string name="resolver_settings_label">Ordenar</string>
@@ -4858,6 +4916,7 @@ Para utilizar a fixação no ecrã:
   <string name="screenshot_three_gesture">Deslizar três dedos para tirar uma captura de ecrã</string>
   <string name="screenshot_three_gesture_summary">Os outros gestos de três dedos vão ser desligados</string>
   <string name="sd_card_settings_label">Cartão SD</string>
+  <string name="sd_data">Dados do cartão SD</string>
   <string name="sd_eject">Desmontar cartão SD</string>
   <string name="sd_eject_summary">Desmontar o cartão SD para o remover em segurança</string>
   <string name="sd_ejecting_summary">A desmontar…</string>
@@ -4999,7 +5058,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_pref_volume_wake_title">Ligar ecrã com botões de Volume;botões de volume</string>
   <string name="search_preferred_network_type_title">Tipo de rede preferida;Rede preferencial;Tipo de rede</string>
   <string name="search_privacy_policy">Política de Privacidade</string>
-  <string name="search_privacy_settings">Cópia e restauro;Copiar e restaurar;Copiar;restaurar;Copiar</string>
+  <string name="search_privacy_settings">Cópias e restauro;Copiar e restaurar;Copiar;restaurar;Copiar</string>
   <string name="search_radio_controls_title">Mais;Sem fios</string>
   <string name="search_results_title">Definições</string>
   <string name="search_ring_volume_option_title">Volumes;volume;Toques e notificações;toque;toques;Alarme;Música</string>
@@ -5788,6 +5847,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="system_app_settings">Aplicações de sistema</string>
   <string name="system_apps_updater">Actualizar aplicações de sistema</string>
   <string name="system_backup_section_title">Cópias de segurança</string>
+  <string name="system_backup_section_title_new">Cópias e restauro</string>
   <string name="system_dashboard_summary">Idiomas, hora, cópia de segurança, actualizações</string>
   <string name="system_haptic_feedback">Feedback táctil</string>
   <string name="system_navigation_title">Navegação no sistema</string>
@@ -5853,6 +5913,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="time_zone_auto_stub">Seleccionar fuso horário</string>
   <string name="timed_titlei">Temporizador %d</string>
   <string name="timezone_settings">Fuso horário</string>
+  <string name="tip_remove_data">Uma reposição de fábrica vai eliminar estes itens do seu dispositivo</string>
   <string name="title_color_calibration">Correcção de cores</string>
   <string name="title_convert_fbe">Converter para a encriptação baseada em ficheiros</string>
   <string name="title_font">Tipo de letra</string>
@@ -6513,7 +6574,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="vt_provisioned_switch_string">Videochamadas fornecidas</string>
   <string name="wait_for_debugger">Aguarde pelo depurador</string>
   <string name="wait_for_debugger_summary">Aplicação em modo de depuração aguarda pelo depurador que anexe antes de executar</string>
-  <string name="wake_suppression_summary">O seu dispositivo pode não responder a toques acidentais mas vai responder a gestos pertos das laterais</string>
+  <string name="wake_suppression_summary">O seu dispositivo vai responder a toques acidentais e a gestos pertos das laterais</string>
   <string name="wake_suppression_title">Área pequena</string>
   <string name="wakeup_and_sleep_settings_category_name">Definições do ecrã de bloqueio</string>
   <string name="wakeup_for_keyguard_notification_title">Ligar ecrã para notificações</string>
@@ -6611,7 +6672,8 @@ Reveja a Política de Privacidade do fornecedor de serviços"</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_ask_disable">%s quer desligar o Wi-Fi</string>
   <string name="wifi_ask_enable">%s quer ligar o Wi-Fi</string>
-  <string name="wifi_assistant">Assistente Wi-Fi</string>
+  <string name="wifi_assist">Assistente Wi-Fi</string>
+  <string name="wifi_assistant">Seleccionar as melhores redes automaticamente</string>
   <string name="wifi_assistant_auto_confirm_data_message">Esta rede Wi-Fi não tem acesso à Internet. O seu dispositivo vai utilizar dados móveis. Pode desligar o assistente de Wi-Fi nas Definições</string>
   <string name="wifi_assistant_confirm_always">Não mostrar novamente</string>
   <string name="wifi_assistant_confirm_connection_title">Confirmar</string>
@@ -6816,9 +6878,14 @@ Definir a rede como oculta não altera as definições do router"</string>
   <string name="wifi_link_turbo">Utilizar dados móveis para optimizar velocidade</string>
   <string name="wifi_link_turbo_app_settings_summary">Seleccionar aplicações que vão utilizar esta funcionalidade</string>
   <string name="wifi_link_turbo_app_settings_title">Seleccionar aplicações</string>
+  <string name="wifi_link_turbo_customize">Aplicações personalizadas</string>
+  <string name="wifi_link_turbo_customize_summary">Seleccionar aplicações que vão funcionar com o assistente Wi-Fi</string>
+  <string name="wifi_link_turbo_list">Aplicações</string>
   <string name="wifi_link_turbo_no_app">Sem aplicações</string>
   <string name="wifi_link_turbo_off">Desligado</string>
   <string name="wifi_link_turbo_on">Ligado</string>
+  <string name="wifi_link_turbo_recommendation">Aplicações recomendadas</string>
+  <string name="wifi_link_turbo_recommendation_summary">Receber recomendações baseadas na estatística de utilização de dados</string>
   <string name="wifi_link_turbo_summary">Optimizar a velocidade da ligação para as aplicações seleccionadas utilizandos dados móveis quando a ligação Wi-Fi for fraca</string>
   <string name="wifi_menu_advanced">Avançado</string>
   <string name="wifi_menu_connect">Ligar à rede</string>

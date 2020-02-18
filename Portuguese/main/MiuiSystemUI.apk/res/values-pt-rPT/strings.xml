@@ -1501,6 +1501,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="screenshot_dlg_cancel">Cancelar</string>
   <string name="screenshot_dlg_delete_button">Eliminar</string>
   <string name="screenshot_edit">Editar</string>
+  <string name="screenshot_failed_in_landscape_mode">Não é possíve tirar capturas de ecrã extensas no modo paisagem</string>
   <string name="screenshot_failed_text">Não é possível tirar captura de ecrã devido ao espaço limitado de armazenamento ou a aplicação não o permite</string>
   <string name="screenshot_failed_title">Não foi possível tirar captura de ecrã</string>
   <string name="screenshot_failed_to_capture_text">A aplicação ou a sua organização não permitem tirar capturas de ecrã</string>

@@ -901,6 +901,7 @@ Vai ser utilizada a rede preferida"</string>
   <string name="not_allowed">O seu cartão SIM não permite ligar a esta rede</string>
   <string name="not_set">Não definido</string>
   <string name="not_voice_capable">Chamada por voz não suportada</string>
+  <string name="notification_channel_demo">Dispositivo de demonstração</string>
   <string name="notification_demo_version_text">Não é possível efectuar chamadas ou utilizar dados móveis</string>
   <string name="notification_demo_version_title">Isto é um serviço de demonstração</string>
   <string name="notification_network_selection_text">Rede seleccionada (%s) indisponível</string>
