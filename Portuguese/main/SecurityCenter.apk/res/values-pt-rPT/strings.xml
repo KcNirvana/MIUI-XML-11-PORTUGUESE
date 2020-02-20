@@ -1153,7 +1153,7 @@ cartão de saúde"</string>
   <string name="gb_advance_settings_edge_gear3">Média</string>
   <string name="gb_advance_settings_edge_gear4">Grande</string>
   <string name="gb_advance_settings_edge_suppression">Área de toque resistente</string>
-  <string name="gb_advance_settings_edge_suppression_summary">Reduzir a sensibilidade do toque perto das bordas para evitar activar o toque nos controlos da borda. Segure o seu dispositivo nas áreas marcadas para manter o altifalante descoberto</string>
+  <string name="gb_advance_settings_edge_suppression_summary">Reduzir a sensibilidade do toque perto das laterais para evitar activar o toque nos controlos laterais. Segure o seu dispositivo nas áreas marcadas para manter o altifalante descoberto</string>
   <string name="gb_advance_settings_finger_up">Sensibilidade para toques repetidos</string>
   <string name="gb_advance_settings_follow_up">Resposta do toque</string>
   <string name="gb_advance_settings_reset">Restaurar as definições predefinidas</string>
