@@ -12,7 +12,7 @@
   <string name="app_name">Calculadora</string>
   <string name="app_notification_info">A Calculadora está a ser executada em segundo plano</string>
   <string name="base_rate">Taxa de juro base</string>
-  <string name="bmi_error_text">"This BMI doesn't look right. Make sure the height and weight you entered are correct."</string>
+  <string name="bmi_error_text">O IMC parece não estar correcto. Verifique se colocou correctamente o peso e altura</string>
   <string name="bmi_label_information">Informações</string>
   <string name="bmi_label_normal">Normal</string>
   <string name="bmi_label_overweight">Excesso de peso</string>
