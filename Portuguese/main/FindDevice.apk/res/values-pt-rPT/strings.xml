@@ -82,6 +82,7 @@ Vá a id.mi.com para repor a sua palavra-passe.
 Outros motivos
 Inicie sessão em i.mi.com e tente desbloquear o seu dispositivo a partir de lá"</string>
   <string name="unlock_help_title">Ajuda a desbloquear:</string>
+  <string name="unlock_number">Código de desbloqueio: %s</string>
   <string name="unlock_wrong_captcha">O código que introduziu está incorrecto</string>
   <string name="unlocking">A activar…</string>
   <string name="verifing_account">A verificar palavra-passe…</string>

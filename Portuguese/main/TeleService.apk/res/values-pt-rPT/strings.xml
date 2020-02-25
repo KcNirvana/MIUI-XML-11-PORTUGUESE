@@ -1041,6 +1041,7 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"
   <string name="phone_entered_ecm_text">Entrou no Modo de Emergência</string>
   <string name="phone_in_ecm_call_notification_text">A ligação de dados está desligada</string>
   <string name="phone_in_ecm_notification_title">Modo de Emergência</string>
+  <string name="phone_report_title">Ler informações da chamada</string>
   <string name="phone_number_hint_text">Número de telefone</string>
   <string name="pin2_attempts">"
 Tem mais %d tentativas"</string>
@@ -1150,6 +1151,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Apenas GSM</string>
   <string name="preferred_network_type_pref_entries_only_3g">Rede 3G</string>
   <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Apenas WCDMA</string>
+  <string name="preferred_network_type_pref_entries_only_4g">Apenas 4G</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Tipo de rede preferida</string>
   <string name="preferred_phone_account">Conta de chamadas preferida</string>
@@ -1214,6 +1216,9 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="remove_sip_account">Remover conta</string>
   <string name="removing_account">A remover conta…</string>
   <string name="replace_4g_template">4G</string>
+  <string name="report_method_entries_item1">Apenas com os auriculares ligados</string>
+  <string name="report_method_entries_item2">Sempre</string>
+  <string name="report_method_entries_item3">Desligar</string>
   <string name="requesting_corporate_unlock">A solicitar o desbloqueio do cartão SIM da empresa…</string>
   <string name="requesting_nw_subset_unlock">A solicitar o desbloqueio do subconjunto do cartão SIM…</string>
   <string name="requesting_puk_unlock">A solicitar o código PUK para desbloquear…</string>

@@ -76,6 +76,10 @@
   <string name="global_actions_reboot">Reiniciar</string>
   <string name="global_actions_shutdown">Desligar</string>
   <string name="global_actions_silent_mode">Silêncio</string>
+  <string name="handset_text_unsupported_handset_insert">Toque para ver detalhes</string>
+  <string name="handset_text_usb_handset_insert">Toque para abrir definições adicionais</string>
+  <string name="handset_title_unsupported_handset_insert">Auriculares USB não suportados</string>
+  <string name="handset_title_usb_handset_insert">Reproduzir som através de USB</string>
   <string name="handy_mode_enter_dlg_msg">Entrar no Modo Uma Mão?</string>
   <string name="handy_mode_enter_dlg_title">Entrar no Modo Uma Mão</string>
   <string name="handy_mode_summary">Para sair toque na área escurecida</string>
@@ -103,6 +107,8 @@
   <string name="maml_component_customization_title">Definições</string>
   <string name="memory_clear_nothing_result">Nada para limpar na cache</string>
   <string name="memory_clear_result">%1$sB limpos</string>
+  <string name="miaudiovisual_notification_summary">Ligar para mostrar efeitos no ecrã de bloqueio</string>
+  <string name="miaudiovisual_notification_title">Efeitos visuais e de áudio</string>
   <string name="miui_forbid_poweroff_when_device_locked">Não é possível desligar. Dispositivo bloqueado</string>
   <string name="miui_screen_ratio_hint">Problema de resolução do ecrã</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Não mostrar novamente</string>

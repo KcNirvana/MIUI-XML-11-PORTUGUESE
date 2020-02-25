@@ -329,6 +329,8 @@ no modo Retrato"</string>
   <string name="network_access_user_notice_agree">Concordar</string>
   <string name="network_access_user_notice_message_live_video">"A Câmara necessita de ligar à Internet para fornecer efeitos, música e outras funcionalidades para vídeos curtos.
 Ao clicar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt; e a permitir que a Câmara se ligue à Internet</string>
+  <string name="network_access_user_notice_message_mi_live_video">"A Câmara necessita de ligar à Internet para fornecer efeitos, música e outras funcionalidades para vídeos curtos.
+Ao clicar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt; e a permitir que a Câmara se ligue à Internet</string>
   <string name="network_access_user_notice_message_sticker">"A Câmara necessita de ligar à Internet para fornecer stickers.
 Ao clicar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt; e a permitir que a Câmara se ligue à Internet</string>
   <string name="network_access_user_notice_message_voice_caption">"A Câmara necessita de ligar à Internet para fornecer a funcionalidade de texto para voz.
@@ -463,7 +465,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_coloreffect_entry_big_face">Aumentar</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">Preto e branco</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Olho-de-Peixe</string>
-  <string name="pref_camera_coloreffect_entry_instagram_clarendon">Clarendon</string>
+  <string name="pref_camera_coloreffect_entry_instagram_clarendon">Foco de cor</string>
   <string name="pref_camera_coloreffect_entry_instagram_crema">Rústico</string>
   <string name="pref_camera_coloreffect_entry_instagram_hudson">Gelado</string>
   <string name="pref_camera_coloreffect_entry_instagram_rise">Lomo</string>
@@ -777,6 +779,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_watermark_on">Ligada</string>
   <string name="pref_watermark_title">"Marca d'água"</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
+  <string name="pro_color_mode">Cor Pro</string>
   <string name="recommend_macro_mode">Experiment o Modo Macro</string>
   <string name="recommend_portrait">Experimente o Modo Retrato</string>
   <string name="recommend_soft_light_tip">Ligue o flash</string>
@@ -817,9 +820,10 @@ e traz as pessoas que estão na frente"</string>
   <string name="spaceIsLow_content_primary_storage_priority">O armazenamento USB está a ficar cheio</string>
   <string name="start_capture">OK</string>
   <string name="subtitle_network_exception_tips">Não foi possível ligar à rede</string>
-  <string name="super_eis">Super estabilização</string>
-  <string name="super_eis_disabled_hint">Super estabilização desligada</string>
+  <string name="super_eis">Estabilização digital</string>
+  <string name="super_eis_disabled_hint">Estabilização digital desligada</string>
   <string name="super_night_hint">A optimizar imagem… Mantenha o dispositivo estável</string>
+  <string name="super_night_se_tip">Modo Nocturno</string>
   <string name="super_night_toast">Mantenha o seu telefone firme enquanto tira a foto</string>
   <string name="tap_to_exposure">Toque para ajustar a exposição manualmente</string>
   <string name="tap_to_focus">Toque para focar</string>
@@ -866,7 +870,7 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
   <string name="video_effect_entry_blackwhite">Preto e branco</string>
   <string name="video_effect_entry_bygone">Passado</string>
   <string name="video_effect_entry_central">Central</string>
-  <string name="video_effect_entry_color_retention">Cor pop</string>
+  <string name="video_effect_entry_color_retention">Foco de cor</string>
   <string name="video_effect_entry_fantasy">Fantasia</string>
   <string name="video_effect_entry_film">Filme</string>
   <string name="video_effect_entry_forest">Floresta</string>

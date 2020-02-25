@@ -285,6 +285,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_setting_phrase_summary">Frases frequentes</string>
   <string name="micloud_setting_recorder_summary">Gravações de áudio e chamadas</string>
   <string name="micloud_setting_sms_summary">SMS e MMS</string>
+  <string name="micloud_setting_sms_summary_for_google_csp">Mensagens de texto</string>
   <string name="micloud_setting_wifi_summary">Definições Wi-Fi</string>
   <string name="micloud_space_applist_detail">Gerir aplicações no ecrã inicial</string>
   <string name="micloud_space_applist_title">Gerir aplicações</string>

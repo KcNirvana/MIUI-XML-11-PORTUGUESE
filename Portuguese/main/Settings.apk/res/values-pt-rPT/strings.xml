@@ -1551,6 +1551,8 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="copy">Copiar</string>
   <string name="copyable_slice_toast">%1$s copiado para a área de transferências</string>
   <string name="copyright_title">Direitos de autor</string>
+  <string name="corner_assistant_gesture_summary">Deslizar desde o canto inferior esquerdo ou direito para ligar o assistente Google</string>
+  <string name="corner_assistant_gesture_title">Deslizar desde o canto para o assistente Google</string>
   <string name="country_name">%s (sistema)</string>
   <string name="create">Criar</string>
   <string name="credential_contains">Esta entrada contém:</string>
@@ -1654,6 +1656,7 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="dark_ui_settings_dark_summary">As aplicações suportadas também vão mudar para o tema escuro</string>
   <string name="dark_ui_settings_dialog_acknowledge">Percebi</string>
   <string name="dark_ui_settings_light_summary">Estas definições também se aplicam às aplicações</string>
+  <string name="dark_wallpaper_mode">Ajustar papel de parede para o Modo Escuro</string>
   <string name="dashboard_title">Definições</string>
   <string name="data_during_calls_summary">Permitir a utilização deste SIM para dados móveis apenas durante as chamadas</string>
   <string name="data_during_calls_title">Dados durante chamadas</string>
@@ -5897,6 +5900,8 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="tethering_help_button_text">Ajuda</string>
   <string name="tethering_settings_not_available">Alterar as definições de partilha de ligação no Primeiro espaço</string>
   <string name="tether_share_qrcode_title">Partilhar código QR</string>
+  <string name="tether_use_wifi6_summary">Alguns dispositivos podem ser incompatíveis com o padrão 802.11ax. Desligue esta funcionalidade se detectar problemas</string>
+  <string name="tether_use_wifi6_title">Suporte 6ª geração Wi-Fi</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Ligar assistente Google no modo ecrã inteiro</string>
   <string name="theme_customization_accent_color_title">Cor de destaque</string>
   <string name="theme_customization_category">Temas</string>

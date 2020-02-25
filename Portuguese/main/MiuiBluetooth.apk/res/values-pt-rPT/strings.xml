@@ -47,6 +47,9 @@
   <string name="mi_band_vibrate_sms">Vibrar ao receber SMS e MMS</string>
   <string name="mi_band_vibrate_sms_in_contacts">Mensagens de contactos</string>
   <string name="mi_band_vibrate_sms_no_contacts">Mensagens de números desconhecidos</string>
+  <string name="mi_home_device_find">Descobrir dispositivos</string>
+  <string name="mi_home_device_ignore">Ignorar</string>
+  <string name="mi_home_device_start_binding">Emparelhar agora</string>
   <string name="mi_key_alert_dialog_message">Toque OK para silenciar alarme</string>
   <string name="mi_key_alert_dialog_title">Alarme MiKey</string>
   <string name="mi_key_find_mikey">Localizar MiKey</string>
@@ -56,6 +59,16 @@
   <string name="mi_key_summary_open_camera">Duplo toque na MiKey para abrir a câmara</string>
   <string name="mi_key_summary_take_photo">Toque na MiKey para tirar uma foto</string>
   <string name="mi_key_take_photo">Tirar foto</string>
+  <string name="mihome_app_download">Instalar agora</string>
+  <string name="mihome_app_update">Actualizar agora</string>
+  <string name="mihome_download_tips">Instalar Mi Home, iniciar sessão e segurar o seu telefone junto ao dispositivo</string>
+  <string name="mihome_download_title">Instalar Mi Home</string>
+  <string name="mihome_ignore">Cancelar</string>
+  <string name="mihome_ignore_query">Ignorar</string>
+  <string name="mihome_ignore_tips">Se ignorar este dispositivo, vai ter de o adicionar manualmente em Mi Home</string>
+  <string name="mihome_ignore_title">Ignorar este dispositivo?</string>
+  <string name="mihome_update_tips">Actualizar Mi Home e depois segurar o seu telefone junto ao dispositivo</string>
+  <string name="mihome_update_title">Actualizar Mi Home</string>
   <string name="not_set">Não definido</string>
   <string name="notify_device_lose_connection_text">Toque para desemparelhar %1$s</string>
   <string name="notify_device_lose_connection_title">Ligação perdida com %1$s</string>

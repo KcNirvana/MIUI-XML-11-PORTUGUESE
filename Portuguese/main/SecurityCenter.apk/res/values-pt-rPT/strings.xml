@@ -1148,6 +1148,8 @@ cartão de saúde"</string>
   <string name="gateway_exception_summary">Verifique o seu router e tente novamente</string>
   <string name="gateway_exception_summary2">Não é possível ligar ao servidor</string>
   <string name="gateway_exception_title">Testar router</string>
+  <string name="gb_add_game_hint">Adicionar itens da lista de aplicações</string>
+  <string name="gb_add_game_loading_tips">Aguarde…</string>
   <string name="gb_advance_settings_edge_gear1">Nenhuma</string>
   <string name="gb_advance_settings_edge_gear2">Pequena</string>
   <string name="gb_advance_settings_edge_gear3">Média</string>
@@ -1169,8 +1171,6 @@ cartão de saúde"</string>
   <string name="gb_advance_settings_touch">Controlos de toque</string>
   <string name="gb_advance_settings_vibration_4d">Vibração 4D</string>
   <string name="gb_advance_settings_vibration_4d_summary">Demonstrar acções no jogo utilizando a vibração</string>
-  <string name="gb_ad_game_size">MB</string>
-  <string name="gb_add_game_hint">Adicionar itens da lista de aplicações</string>
   <string name="gb_audition_instruction">Prima e segure para gravar (%1$s-%2$ss)</string>
   <string name="gb_audition_play_instruction">Utilize auriculares para um melhor efeito</string>
   <string name="gb_create_icon_summary">Criar atalho no ecrã inicial</string>

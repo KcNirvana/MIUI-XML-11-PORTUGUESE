@@ -57,8 +57,8 @@
         <item quantity="one">Próximo período em %1$d dia</item>
     </plurals>
     <plurals name="minutes">
-        <item quantity="other">%1$d minutos</item>
-        <item quantity="one">%1$d minuto</item>
+        <item quantity="other">" %1$d minutos"</item>
+        <item quantity="one">" %1$d minuto"</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d novas notificações</item>

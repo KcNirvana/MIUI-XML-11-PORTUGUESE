@@ -991,6 +991,10 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="ret_sign">"
 "</string>
   <string name="returnCall">Devolver chamada</string>
+  <string name="return_call">Toque para voltar à chamada</string>
+  <string name="return_call_calling">Chamada em curso</string>
+  <string name="return_call_dialing">A marcar</string>
+  <string name="return_call_incoming">Chamada recebida</string>
   <string name="ringLabelsGroup">Toque</string>
   <string name="save_photo_progress">A guardar foto…</string>
   <string name="savingContact">A guardar o contacto…</string>
@@ -1041,6 +1045,9 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="select_none">Sem itens seleccionados</string>
   <string name="select_show_contacts">Lista de contactos</string>
   <string name="select_vcard_title">Escolher ficheiro vCard</string>
+  <string name="send_contact_shortcut_todesktop_duplicate">Este atalho já existe</string>
+  <string name="send_contact_shortcut_todesktop_failed">Não foi possível adicionar ao ecrã inicial</string>
+  <string name="send_contact_shortcut_todesktop_overflow">Não é possível adicionar mais atalhos no ecrã inicial</string>
   <string name="send_contact_shortcut_todesktop_success">Adicionado ao ecrã inicial</string>
   <string name="send_to_voicemail_checkbox">Enviar chamadas directamente para o Voice Mail</string>
   <string name="separatorJoinAggregateAll">Todos os contactos</string>

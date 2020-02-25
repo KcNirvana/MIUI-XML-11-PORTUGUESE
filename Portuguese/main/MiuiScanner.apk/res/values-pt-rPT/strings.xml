@@ -192,6 +192,7 @@
   <string name="see_app_details">Ver detalhes da aplicação</string>
   <string name="see_details">Toque para ver detalhes</string>
   <string name="select_dialog_confirm">OK</string>
+  <string name="select_from_album">Seleccionar do álbum</string>
   <string name="send_mail">Enviar email</string>
   <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">Perguntar sempre</string>
@@ -204,6 +205,7 @@
   <string name="shopping_searching">A pesquisar…</string>
   <string name="shopping_title">Tirar uma foto do produto</string>
   <string name="shopping_vendor_info">Fornecido por Taobao</string>
+  <string name="submitting">A submeter</string>
   <string name="suggested_submission_success">Comentários submetidos com sucesso</string>
   <string name="spaceIsLow_content">Sem espaço suficiente no armazenamento interno</string>
   <string name="store_feedback_prompt">Introduza o seu comentário primeiro</string>
@@ -219,6 +221,7 @@
   <string name="study_title">Digitalize o problema que quer resolver</string>
   <string name="study_vendor_info">Fornecido por Zuoyebang</string>
   <string name="switch_open">Ligar</string>
+  <string name="take_a_picture">Tirar uma foto</string>
   <string name="tel">Telefone</string>
   <string name="title">Título:</string>
   <string name="to_install_title">Este código QR redirecciona-o para uma aplicação desinstalada. Transferir esta aplicação agora?</string>
