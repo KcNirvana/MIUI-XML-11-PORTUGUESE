@@ -44,6 +44,18 @@
   <string name="choose_open_code_app">Seleccionar uma aplicação</string>
   <string name="choose_pay_title">Seleccionar método de pagamento</string>
   <string name="choose_picture">Seleccionar a imagem do código QR</string>
+  <string name="classesNameNull_toast">O nome da aula não pode estar vazio</string>
+  <string name="classes_canfirmTitle">Confirmar resultados e começar a importação</string>
+  <string name="classes_company">Importar</string>
+  <string name="classes_dealalert">Nota: As aulas importadas vão substituir os dados anteriores</string>
+  <string name="classes_delete">Eliminar aula</string>
+  <string name="classes_deleteMessage">Eliminar esta aula permanentemente?</string>
+  <string name="classes_edit_dialog_title">Nome da aula</string>
+  <string name="classes_edit_name">Introduzir nome da aula</string>
+  <string name="classes_fail">Não foi possível reconhecer. Tente novamente</string>
+  <string name="classes_isNull">Sem aulas</string>
+  <string name="classes_titlt">Horário das aulas</string>
+  <string name="classes_topTitle">Digitalizar o seu horário de aulas</string>
   <string name="close_hotspot_when_connecting_to_wifi">PA Móvel ligado. Ligue o Wi-Fi</string>
   <string name="common_retake_picture">Tirar novamente</string>
   <string name="common_retry">Tentar novamente</string>
@@ -192,7 +204,7 @@
   <string name="see_app_details">Ver detalhes da aplicação</string>
   <string name="see_details">Toque para ver detalhes</string>
   <string name="select_dialog_confirm">OK</string>
-  <string name="select_from_album">Seleccionar do álbum</string>
+  <string name="select_from_album">Galeria</string>
   <string name="send_mail">Enviar email</string>
   <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">Perguntar sempre</string>
@@ -221,7 +233,7 @@
   <string name="study_title">Digitalize o problema que quer resolver</string>
   <string name="study_vendor_info">Fornecido por Zuoyebang</string>
   <string name="switch_open">Ligar</string>
-  <string name="take_a_picture">Tirar uma foto</string>
+  <string name="take_a_picture">Câmara</string>
   <string name="tel">Telefone</string>
   <string name="title">Título:</string>
   <string name="to_install_title">Este código QR redirecciona-o para uma aplicação desinstalada. Transferir esta aplicação agora?</string>

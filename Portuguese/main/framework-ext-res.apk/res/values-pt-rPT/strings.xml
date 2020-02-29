@@ -261,7 +261,7 @@
   <string name="wireless_charging_notification_message1">Não foi possível encontrar dispositivos sem fios para carregar. O carregamento reverso foi desligado</string>
   <string name="wireless_charging_notification_message2">A bateria está a menos de 30%. O carregamento reverso foi desligado</string>
   <string name="wireless_charging_notification_message3">Ocorreu um erro durante o carregamento. O carregamento reverso foi desligado</string>
-  <string name="wireless_charging_notification_titile">Turned off reverse wireless charging</string>
+  <string name="wireless_charging_notification_titile">O carregamento sem fios reverso foi desligado</string>
   <string name="xspace_resolver_activity_title">Seleccionar aplicação</string>
   <string name="xspace_head">Aplicações clonadas</string>
 </resources>

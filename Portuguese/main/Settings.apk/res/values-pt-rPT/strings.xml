@@ -862,6 +862,8 @@ Aplicações:
   <string name="bluetooth_battery_level">Bateria %1$s</string>
   <string name="bluetooth_battery_level_untethered">E: bateria %1$s | D: bateria %2$s</string>
   <string name="bluetooth_broadcasting">Difusão</string>
+  <string name="bluetooth_connect_failed">Não foi possível ligar. Tente novamente</string>
+  <string name="bluetooth_connect_settings">Definições da ligação Bluetooth</string>
   <string name="bluetooth_confirm_passkey_msg">Para emparelhar com:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Certifique-se que está a mostrar esta palavra-chave:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connect_specific_profiles_title">Ligar a…</string>
   <string name="bluetooth_connected">Ligado</string>
@@ -905,8 +907,6 @@ Aplicações:
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Reiniciar dispositivo</string>
   <string name="bluetooth_disable_absolute_volume">Desactivar volume absoluto</string>
   <string name="bluetooth_disable_absolute_volume_summary">Desactiva a funcionalidade de volume absoluto do Bluetooth caso existam problemas de volume com dispositivos remotos, como um volume insuportavelmente alto ou a ausência de controlo</string>
-  <string name="bluetooth_disable_mi_fast_connect">Desactivar Mi Link</string>
-  <string name="bluetooth_disable_mi_fast_connect_summary">Desactivar a funcionalidade Mi Link</string>
   <string name="bluetooth_disable_profile_message">Isto vai desactivar:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;De:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Desactivar perfil?</string>
   <string name="bluetooth_disabled">Desligado</string>
@@ -920,6 +920,7 @@ Aplicações:
   <string name="bluetooth_disconnected">Desligado</string>
   <string name="bluetooth_disconnecting">A desligar…</string>
   <string name="bluetooth_display_passkey_pin_msg">Para emparelhar com: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Introduza: &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, em seguida, prima Voltar ou Avançar</string>
+  <string name="bluetooth_display_settings">Definições de visualização Bluetooth</string>
   <string name="bluetooth_dock_settings">Definições da estação de ancoragem</string>
   <string name="bluetooth_dock_settings_a2dp">Para música e multimédia</string>
   <string name="bluetooth_dock_settings_headset">Como altifalante do telefone</string>
@@ -963,6 +964,8 @@ Aqui está o que pode estar errado:
   <string name="bluetooth_max_connected_audio_devices_dialog_title">Seleccionar o número máximo de dispositivos de áudio Bluetooth ligados</string>
   <string name="bluetooth_max_connected_audio_devices_string">Máximo de dispositivos de áudio Bluetooth ligados</string>
   <string name="bluetooth_menu_advanced">Avançado</string>
+  <string name="bluetooth_mi_fast_connect">Mi Link</string>
+  <string name="bluetooth_mi_fast_connect_summary">Ligar a dispositivos Bluetooth próximos</string>
   <string name="bluetooth_middle_name">Capa</string>
   <string name="bluetooth_name_not_set">Não há nenhum nome definido, a utilizar o nome da conta</string>
   <string name="bluetooth_no_devices_found">Não foram encontrados dispositivos Bluetooth</string>
@@ -7187,6 +7190,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="xiaomi_router_available_notif_title">Router Mi disponível</string>
   <string name="xiaomi_router_notif_summary">Notificar-me quando estiver disponível um Router Mi</string>
   <string name="xiaomi_router_notif_title">Notificação de Router Mi</string>
+  <string name="xiaomi_transfer">Mi Share</string>
   <string name="xspace">Aplicações clonadas</string>
   <string name="yes">Sim</string>
   <string name="zen_access_detail_switch">Permitir Não incomodar</string>

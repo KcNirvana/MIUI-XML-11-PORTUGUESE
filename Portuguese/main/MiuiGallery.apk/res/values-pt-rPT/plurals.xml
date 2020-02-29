@@ -287,8 +287,8 @@
         <item quantity="one">A foto seleccionada (%dMB) não está no dispositivo. Transferir utilizando os dados móveis?</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">Cancelar a transferência das %d fotos restantes?</item>
-        <item quantity="one">Cancelar a transferência da última foto?</item>
+        <item quantity="other">%d ficheiros ainda não foram transferidos. Cancelar mesmo assim?</item>
+        <item quantity="one">%d ficheiro ainda não foi transferido. Cancelar mesmo assim?</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">Não foi possível transferir %1$d fotos</item>
@@ -297,6 +297,10 @@
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">Não foi possível transferir %1$d fotos (%2$dMB)</item>
         <item quantity="one">Não foi possível transferir foto (%2$dMB)</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d ficheiros (%2$dMB) ainda não foram transferidos. Transferir utilizando dados móveis?</item>
+        <item quantity="one">%1$d ficheiro (%2$dMB) ainda não foi transferido. Transferir utilizando dados móveis?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">Não foi possível transferir %1$d fotos. Tentar novamente?</item>
