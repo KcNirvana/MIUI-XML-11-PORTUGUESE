@@ -108,27 +108,35 @@ Envie este código ao supervisor"</string>
   <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi</string>
   <string name="exit">Sair</string>
   <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
+  <string name="find_device">Localizar Dispositivo</string>
   <string name="find_device_access_denied">Não é possível obter estado. Acesso negado</string>
   <string name="find_device_account_error">Não é possível obter estado devido a um erro na conta</string>
   <string name="find_device_activate_account">Activar conta</string>
   <string name="find_device_bad_response_error">Não é possível obter estado devido a um erro no servidor. Tente novamente mais tarde</string>
+  <string name="find_device_clear_data">Eliminar dados</string>
+  <string name="find_device_close">Desligado</string>
   <string name="find_device_error_password_not_confirmed">Não é possível desligar Localizar Dispositivo. Introduza a palavra-passe da sua Conta Mi novamente</string>
   <string name="find_device_error_password_recently_changed">Alterou a sua palavra-passe há menos de 3 dias. Não é possível desligar Localizar Dispositivo agora devido a motivos de segurança</string>
   <string name="find_device_interrupted">A acção foi interrompida. Tente novamente mais tarde</string>
   <string name="find_device_io_error">Não é possível ligar à rede</string>
+  <string name="find_device_location">Localizar</string>
   <string name="find_device_locked_account_email" formatted="false">%s, endereço de email associado: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, número de telefone associado: %s</string>
   <string name="find_device_message">O dispositivo está bloqueado. Enviar mensagem: %1$s. Ligar: %2$s</string>
   <string name="find_device_null_credential_error">Não é possível obter a informação do dispositivo. Contacte o serviço de clientes Xiaomi</string>
+  <string name="find_device_open">Ligado</string>
   <string name="find_device_operation_failed_error">Ocorreu um erro no servidor. Tente novamente mais tarde</string>
   <string name="find_device_operation_failed_error_unknown">Ocorreu um erro. Tente novamente mais tarde</string>
   <string name="find_device_owner_phone">O dispositivo está bloqueado. Ligar: %1$s</string>
+  <string name="find_device_play_sound">Reproduzir som</string>
   <string name="find_device_prompt_message">O dispositivo está bloqueado. Enviar mensagem: %1$s</string>
   <string name="find_device_remote_exception">Erro de RPC</string>
   <string name="find_device_request_error">Não é possível obter estado devido a um erro no servidor. Tente novamente mais tarde</string>
   <string name="find_device_request_prepare_error">Não é possível obter estado. Tente novamente mais tarde</string>
+  <string name="find_device_set_lost_model">Modo Perdido</string>
+  <string name="find_device_title">Localizar Dispositivo</string>
   <string name="find_device_unknown_error">Não é possível obter estado do dispositivo. Tente novamente mais tarde</string>
-  <string name="for_diagnosis_usage_only">Utilizado apenas para problemas de localização</string>
+  <string name="for_diagnosis_usage_only">Utilizado apenas para diagnósticos</string>
   <string name="get_back_pwd">A repor palavra-passe</string>
   <string name="get_device_list_failed">Não é possível obter dispositivos</string>
   <string name="get_phone_bind_exceed_limit">O número de telefone associado ao número da conta atingiu o máximo(3). Não pode associar mais contas</string>

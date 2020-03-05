@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="doc_photo_adjust_section_title">Arrasar para ajustar</string>
+  <string name="doc_photo_doc_photo_title">Editar documento</string>
+  <string name="doc_photo_enhance_bin">Preto e branco</string>
+  <string name="doc_photo_enhance_color">Melhorado</string>
+  <string name="doc_photo_enhance_none">Original</string>
+  <string name="doc_photo_idcard_emblem">Voltar</string>
+  <string name="doc_photo_idcard_mode_title">Cartão ID</string>
+  <string name="doc_photo_idcard_portrait">Frente</string>
+  <string name="doc_photo_not_support">Não é possível editar esta imagem como documento</string>
+  <string name="doc_photo_view_effect">Pré-visualizar</string>
   <string name="extra_photo_common_permission_name">Bokeh</string>
   <string name="extra_photo_common_save_fail">Não foi possível guardar</string>
   <string name="extra_photo_common_saving">A guardar…</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="actionbar_button_up_description">Voltar</string>
+    <string name="app_name">Serviço MiLink</string>
     <string name="tile_label">Transmitir</string>
     <string name="dialog_can_not_find_device">Não foi possível localizar dispositivos</string>
     <string name="dialog_please_make_sure_tv_ok_or_help">"Certifique-se que a transmissão sem fios está ligada no destinatário.
@@ -28,6 +29,11 @@ Para mais questões, veja a ajuda"</string>
     <string name="help_page_text_05">Passo 1</string>
     <string name="help_page_text_06">"1. Utilizando o telefone Xiaomi para se ligar a uma Mi TV, pode estabelecer uma ligação sem ser necessário ambiente de rede
 2. Algumas Mi TVs ou outras marcas não suportam a transmissão de ecrã inteligente. É necessário ligar a sua TV ao seu telefone através da mesma rede sem fios"</string>
+    <string name="help_page_text_06_global">"1. Mi TVs, Mi Boxes e Mi Projectores:
+Ligue tanto o seu telefone como o monitor externo à mesma rede Wi-Fi. Se estiver ligados a redes diferentes, pode levar algum tempo até encontrar o monitor externo
+Nota: Mi TVs antigas podem não suportar transmissões em redes diferentes
+2. Se está a utilizar TVs, boxes set-top ou projectores de outras marcas, ligue ambos à mesma rede Wi-Fi
+Se os dois dispositivos não puderem ser ligados à mesma rede, ligue a funcionalidade Miracast no seu monitor externo"</string>
     <string name="help_page_text_08">Passo 2</string>
     <string name="help_page_text_09">Toque no botão \"Transmitir\" na área de notificações. Ligue o Wi-Fi e o Bluetooth para uma ligação estável.</string>
     <string name="help_page_text_10">Se quiser transmitir da Galeria ou Vídeos, pode utilizar a função de transmissão nestas aplicações</string>
@@ -89,6 +95,7 @@ Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão 
 4. Em caso de outros problemas, pode submeter as suas questões e sugestões através da aplicação \"Serviços e comentários\""</string>
     <string name="help_page_text_end">Se a marca do seu dispositivo não estiver listada, contacte o fabricante para saber mais</string>
     <string name="small_window">Minimizar janela</string>
+    <string name="small_window_not_supported">Não é possível minimizar esta aplicação enquanto estiver a ser transmitida</string>
     <string name="console_guide_subtitle_small_window">Minimizar a janela para poder utilizar outras funcionalidades enquanto transmite</string>
     <string name="hang_up">Transmitir com o ecrã desligado</string>
     <string name="console_guide_subtitle_hang_up">Não interromper a transmissão quando o ecrã estiver desligado. Esta funcionalidade pode aumentar o consumo de bateria</string>
@@ -97,6 +104,7 @@ Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão 
     <string name="console_guide_btn_got_it">Percebi</string>
     <string name="toast_guide_title">Novas funcionalidades</string>
     <string name="toast_guide_show_more">Saber mais</string>
+    <string name="nfc_connect_failed_toast">Não foi possível transmitir. Tente novamente</string>
     <string name="notification_show_more">Ver mais funcionalidades</string>
     <string name="disconnect">Parar transmissão</string>
     <string name="hang_up_alert_dialog_title">Transmissão com o ecrã desligado</string>

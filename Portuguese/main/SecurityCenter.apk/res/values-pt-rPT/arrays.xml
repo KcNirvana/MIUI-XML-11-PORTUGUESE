@@ -13,6 +13,13 @@
     <item>Dias úteis</item>
     <item>Personalizar</item>
   </string-array>
+  <string-array name="app_behavior_type_menu">
+    <item>Todos os registo</item>
+    <item>Início automático</item>
+    <item>Início em cadeia</item>
+    <item>Utilização de permissões</item>
+    <item>Acções sensíveis</item>
+  </string-array>
   <string-array name="applock_password_types">
     <item>Padrão</item>
     <item>PIN</item>

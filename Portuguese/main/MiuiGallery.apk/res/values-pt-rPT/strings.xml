@@ -5,6 +5,8 @@
   <string name="actionbar_overflow_item_desc">Mais opções</string>
   <string name="add_automatically_alert_msg">Adicionar fotos de \"%1$s\" a este álbum automaticamente?</string>
   <string name="add_automatically_alert_title">Adicionar fotos automaticamente</string>
+  <string name="add_nomedia_with_move_to_rubbish">Adicionar ficheiros \".nomedia\" para os álbuns seleccionados para os tornar invisíveis para as outras aplicações</string>
+  <string name="add_remove_nomedia_dialog_message">Adicionar ficheiros \".nomedia\" para os álbuns seleccionados? As outras aplicações não vão ver estes álbuns depois disto</string>
   <string name="add_secret_ensure_title">Ocultar</string>
   <string name="add_sharer">Adicionar membro</string>
   <string name="add_to_album">Adicionar ao álbum</string>
@@ -42,6 +44,10 @@
   <string name="ai_album_setting_key_word">Procurar fotos</string>
   <string name="ai_album_setting_sub_title">Permita que a IA identifique pessoas, lugares e objectos nas suas fotos para as conseguir localizar mais rápido</string>
   <string name="ai_album_setting_title">Identificação de objectos nas fotos</string>
+  <string name="album_ai_description">Pessoas, lugares, objectos</string>
+  <string name="album_ai_international_description">Pessoas</string>
+  <string name="album_ai_international_title">Pessoas</string>
+  <string name="album_ai_page_title">Álbuns inteligentes</string>
   <string name="album_already_exists_check">Ver</string>
   <string name="album_already_exists_msg">O álbum \"%s\" já existe</string>
   <string name="album_already_forced_top">Já está no topo</string>
@@ -58,6 +64,8 @@
   <string name="album_member">Membros do álbum %s</string>
   <string name="album_midrop">Mi Drop</string>
   <string name="album_name">Nome do álbum</string>
+  <string name="album_name_all_photos">Todas as fotos</string>
+  <string name="album_name_all_photos_shortcut">Tudo</string>
   <string name="album_name_locations">Locais</string>
   <string name="album_name_people">Pessoas</string>
   <string name="album_name_recent_discovery">Recentes</string>
@@ -65,15 +73,21 @@
   <string name="album_hidden_item_button_title">Mostrar</string>
   <string name="album_hidden_page_title">Ocultar</string>
   <string name="album_notes">Notas</string>
+  <string name="album_other_page_title">Outros álbuns</string>
   <string name="album_others_share_baby_info_format">Álbum de bebé de %s</string>
   <string name="album_others_share_info_format">De %s</string>
   <string name="album_owner_share">Partilhado</string>
   <string name="album_page_empty">Vazio</string>
   <string name="album_page_label">Álbuns</string>
   <string name="album_quota_fulfiled">Demasiados álbuns. Elimine alguns álbuns e tente novamente</string>
+  <string name="album_rubbish_cant_change_status">Não é possível sincronizar álbuns movidos para o lixo</string>
+  <string name="album_rubbish_clear_all_item_description">Limpar lixo</string>
+  <string name="album_rubbish_page_title">Lixo</string>
+  <string name="album_rubbish_tip_title">Álbuns redundantes</string>
   <string name="album_scanner">Digitalizador</string>
   <string name="album_screen_recorder">Gravador de ecrã</string>
   <string name="album_screenshot_name">Capturas de ecrã</string>
+  <string name="album_share_cant_move_to_rubbish_tip">Não é possível mover álbuns partilhados para o lixo"</string>
   <string name="album_share_exit_confirm">Sair deste álbum?</string>
   <string name="album_share_kicked">%1$s está fechado</string>
   <string name="album_share_stat_content">Convites</string>
@@ -87,6 +101,12 @@
   <string name="album_share_title_new_album">Partilhar novo álbum</string>
   <string name="album_show_local_only">Mostrar apenas álbuns locais</string>
   <string name="album_show_local_only_summary">Ligar para ver e eliminar fotos apenas no dispositivo</string>
+  <string name="album_sort_type">Ordenação</string>
+  <string name="album_sort_type_create_time_asc">Mais antigos</string>
+  <string name="album_sort_type_create_time_desc">Mais recentes</string>
+  <string name="album_sort_type_custom">Personalizado</string>
+  <string name="album_sort_type_name_asc">De A para Z</string>
+  <string name="album_sort_type_name_desc">De Z para A</string>
   <string name="album_type_baby">Álbum de bebé</string>
   <string name="album_type_share">Álbuns partilhados</string>
   <string name="album_type_system">Álbuns de sistema</string>
@@ -372,19 +392,21 @@
   <string name="confirm">OK</string>
   <string name="confirm_cancel_task_files">Cancelar o envio de ficheiro para %1$s?</string>
   <string name="confirm_cancel_task_images">Cancelar o envio de imagens para %1$s?</string>
+  <string name="confirm_delete_selected_albums">Eliminar álbuns seleccionados?</string>
   <string name="confirm_download_video_message">Tem que terminar de transferir este vídeo para que possa vê-lo. A transferência vai ser retomada quando a ligação Wi-Fi estiver disponível</string>
   <string name="confirm_download_video_title">Transferir vídeo</string>
   <string name="confirm_face">Corresponder</string>
   <string name="confirm_hidden_recommend_group">OK</string>
   <string name="confirm_hidden_recommend_group_message">Quando as recomendações estão desligadas, ainda pode utilizar a opção \"Mais pessoas parecidas\"</string>
   <string name="confirm_hidden_recommend_group_title">Não mostrar recomendações</string>
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Unir este álbum com &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Unir estes álbuns com %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_hide_selected_albums">Ocultar álbuns seleccionados?</string>
+  <string name="confirm_merge_face_albums">Unir este álbum com &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?</string>
+  <string name="confirm_merge_many_face_albums">Unir estes álbuns com %s?</string>
   <string name="confirm_not_face">Sem correspondências</string>
-  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Tem a certeza que este é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Esta pessoa vai ser movida para o álbum \"%2$s\" após confirmação. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Certeza que este não é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Tem a certeza que estes são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estas pessoas vão ser movidas para o álbum \"%2$s\" após confirmação. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Tem a certeza que estes não são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_is">Tem a certeza que este é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Esta pessoa vai ser movida para o álbum \"%2$s\" após confirmação</string>
+  <string name="confirm_recommandation_face_not">Certeza que este não é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?</string>
+  <string name="confirm_recommandation_multiple_faces_are">Tem a certeza que estes são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estas pessoas vão ser movidas para o álbum \"%2$s\" após confirmação</string>
+  <string name="confirm_recommandation_multiple_faces_not">Tem a certeza que estes não são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?</string>
   <string name="contact_tip">Contacto</string>
   <string name="context_menu_add_contact">Adicionar aos contactos</string>
   <string name="context_menu_copy">Copiar</string>
@@ -474,6 +496,8 @@
   <string name="email_picker_title">Adicionar email partilhado</string>
   <string name="empty_album_cloud_list_title">Sem álbuns para sincronizar</string>
   <string name="empty_album_hidden_list_title">Sem álbuns ocultos</string>
+  <string name="empty_album_other_list_title">Sem álbuns</string>
+  <string name="empty_album_rubbish_list_title">Sem álbuns</string>
   <string name="empty_description_conditions">Lembre-se das coisas que importam</string>
   <string name="empty_description_no_cards">Lembre-se das coisas que importam</string>
   <string name="empty_query_text_msg">Não sabe o que procurar…</string>
@@ -677,6 +701,12 @@ efeitos de fotos"</string>
   <string name="filter_sky_download_sdk_without_wifi_msg">Se não estiver ligado ao Wi-Fi, pode utilizar os dados móveis para transferir o plugin (%1$dMB) que permite substituir o céu nas suas fotos</string>
   <string name="filter_sky_download_sdk_without_wifi_title">Transferir plugin</string>
   <string name="filter_sky_dusk">Escuro</string>
+  <string name="filter_sky_dynamic_note">Itens com este filtro são guardados como vídeos</string>
+  <string name="filter_sky_dynamic_rain">Chuva</string>
+  <string name="filter_sky_dynamic_saving">A criar vídeo</string>
+  <string name="filter_sky_dynamic_snow">Neve</string>
+  <string name="filter_sky_dynamic_stop_saving">Toque novamente para cancelar</string>
+  <string name="filter_sky_dynamic_unavailable">Não é possível aplicar este filtro a essas imagens</string>
   <string name="filter_sky_glow">Quente</string>
   <string name="filter_sky_hint">Skyscaping</string>
   <string name="filter_sky_nimbus">Nimbus</string>
@@ -799,6 +829,8 @@ efeitos de fotos"</string>
   <string name="main_save_compress">Comprimir e guardar</string>
   <string name="main_save_error_msg">Não foi possível guardar as alterações</string>
   <string name="main_save_origin">Guardar ficheiro original</string>
+  <string name="manual_hide_manage">Adicionar ficheiros \".nomedia\"</string>
+  <string name="manual_hide_state">Ficheiros \".nomedia\" adicionados com sucesso</string>
   <string name="mark_myself_default_name">Me</string>
   <string name="mark_myself_suggestion_load_more">Não sou eu</string>
   <string name="mark_myself_suggestion_title">"Seleccionar fotos com o seu rosto
@@ -825,10 +857,12 @@ para personalizar a galeria"</string>
   <string name="month_view_tip_title">Vista mensal</string>
   <string name="more">Mais</string>
   <string name="more_album_hint">", etc."</string>
+  <string name="more_album_tip">Mais álbuns</string>
   <string name="more_face">Mais pessoas parecidas</string>
   <string name="more_face_album_name">Mais pessoas</string>
   <string name="motion_photo_play">Reproduzir</string>
   <string name="move_to_other_albums_tip">Mover este álbum para outros álbuns?</string>
+  <string name="move_to_rubbish_albums_tip">Mover álbuns seleccionados para o lixo?</string>
   <string name="movie_add_disable">Pode seleccionar até 20 fotos</string>
   <string name="movie_audio_antiquity">Retro</string>
   <string name="movie_audio_custom">Dispositivo</string>
@@ -927,6 +961,7 @@ para personalizar a galeria"</string>
   <string name="operation_cast_connected_format">Transmitir - %s</string>
   <string name="operation_cast_connecting_format">A ligar a %s</string>
   <string name="operation_delete">Eliminar</string>
+  <string name="operation_delete_all_albums_from_rubbish_page_tip">Não vai poder restaurar os álbuns após os eliminar. Eliminar mesmo assim?</string>
   <string name="operation_detail">Detalhes</string>
   <string name="operation_disable_auto_upload">Desligue a sincronização com a Xiaomi Cloud</string>
   <string name="operation_download">Transferir original (%s)</string>
@@ -939,12 +974,15 @@ para personalizar a galeria"</string>
   <string name="operation_hide">Ocultar</string>
   <string name="operation_in_process">A processar…</string>
   <string name="operation_move_to_other_albums">Mover para outros álbuns</string>
+  <string name="operation_move_to_rubbish_albums">Mover para o lixo</string>
   <string name="operation_not_show_in_photos_tab">Não mostrar em Fotos</string>
   <string name="operation_produce">Criatividade</string>
   <string name="operation_projection">Transmitir</string>
   <string name="operation_remove_face">Remover</string>
   <string name="operation_remove_from_face_album">Remover do álbum</string>
   <string name="operation_remove_from_other_albums">Mover de outros álbuns</string>
+  <string name="operation_remove_from_rubbish_albums">Restaurar</string>
+  <string name="operation_remove_rubbish">Restaurar</string>
   <string name="operation_remove_secret">Mostrar</string>
   <string name="operation_rename">Mudar o nome</string>
   <string name="operation_save">Guardar</string>
@@ -969,6 +1007,8 @@ para personalizar a galeria"</string>
   <string name="origin_image_name">Ficheiro original</string>
   <string name="origin_video_name">Vídeo</string>
   <string name="other_album">Outros álbuns</string>
+  <string name="other_album_operation_move_to_rubbish_albums">Mover para o lixo</string>
+  <string name="other_album_operation_remove_from_other_albums">Remover</string>
   <string name="other_settings">Definições adicionais</string>
   <string name="owner_album_subtitle">Partilhar com %1$s pessoas</string>
   <string name="pc_device_model_name">Computador</string>
@@ -1180,6 +1220,8 @@ para personalizar a galeria"</string>
   <string name="remove_hidden_status_success">%s removido do álbum oculto</string>
   <string name="remove_hidden_status_tip">Este álbum vai ser mostrado com os outros os álbuns se remover dos ocultos</string>
   <string name="remove_hidden_status_title">Mostrar</string>
+  <string name="remove_single_album_from_rubbish_page_tip">Restaurar álbuns seleccionados?</string>
+  <string name="remove_single_manual_hide_album_from_rubbish_page_tip">Restaurar os álbuns seleccionados e eliminar os ficheiros \".nomedia\"?</string>
   <string name="remove_to_album_title">Unir com</string>
   <string name="remove_to_other_album">Unir com uma pessoa diferente</string>
   <string name="removed_from_favorites_desc">Removido dos favoritos</string>
@@ -1205,6 +1247,8 @@ para personalizar a galeria"</string>
   <string name="risk_control_deleted_date">dd/MM</string>
   <string name="risk_control_deleted_message">Alguém eliminou os seus itens da Galeria da Xiaomi Cloud utilizando um %3$s em %1$s às %2$s. Foi você?</string>
   <string name="risk_control_deleted_title">Aviso de segurança</string>
+  <string name="rubbish_album_move_to_other_album_success">Pode ver estes álbuns em \"Outros álbuns\"</string>
+  <string name="rubbish_nomedia_manager_button_text">Gerir álbuns com ficheiros \".nomedia\"</string>
   <string name="runtime_permission_ungranted">A Galeria fechou devido a permissões não concedidas</string>
   <string name="same_name_album_exist_and_toast">"Já existe um álbum com esse nome. Foi criado como '%s' em vez"</string>
   <string name="save">Guardar</string>
@@ -1343,10 +1387,12 @@ para personalizar a galeria"</string>
   <string name="show_hidden_album_title">Ver álbuns ocultos</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Movido com sucesso. Vá a outros álbuns para ver</string>
   <string name="show_in_other_albums_enable_toast_long_press_menu">Movido com sucesso. Vá a outros álbuns para ver</string>
+  <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Movido para o lixo com sucesso</string>
   <string name="similar_keep_clear">Manter as melhores fotos</string>
   <string name="slideshow_interval_dialog_title">Introduzir intervalo</string>
   <string name="slideshow_interval_invalid">Intervalo tem de ser entre 3 e 3600 segundos</string>
   <string name="slideshow_interval_title">Mostrar cada diapositivo por</string>
+  <string name="slideshow_loop_title">Repetir todos</string>
   <string name="slim_complete">Concluído</string>
   <string name="slim_complete_action_title">Optimizado com sucesso</string>
   <string name="slim_cost_time_minute">%dm restantes</string>
@@ -1361,6 +1407,7 @@ para personalizar a galeria"</string>
   <string name="slim_running">A optimizar…</string>
   <string name="slim_space">Libertado</string>
   <string name="slim_stop">Parar optimização</string>
+  <string name="sort">Ordenar</string>
   <string name="special_type_8k">IA 8K</string>
   <string name="special_type_eye_repair">Corrigir olhos fechados utilizando a IA</string>
   <string name="special_type_hdr">HDR</string>
@@ -1402,7 +1449,7 @@ para personalizar a galeria"</string>
   <string name="story_option_menu_delete">Eliminar memória</string>
   <string name="story_option_menu_rename">Mudar o nome</string>
   <string name="story_photo_downloading">A transferir…</string>
-  <string name="story_remove_confirm_message">As fotos removidas não vão aparecer na memória novamente</string>
+  <string name="story_remove_confirm_message">O itens removidos não vão aparecer nesta memória novamente</string>
   <string name="story_remove_confirm_positive">Remover</string>
   <string name="story_remove_confirm_title">A remover fotos</string>
   <string name="story_rename_invalid_char">Não pode utilizar \"%s\" no título da memória. Utilize letras, dígitos ou caracteres Chineses</string>
@@ -1719,6 +1766,7 @@ para personalizar a galeria"</string>
   <string name="vlog_float_view_ratio">Proporção do ecrã</string>
   <string name="vlog_load_data_fail">Não foi possível carregar dados</string>
   <string name="vlog_mi_clip">Editor de vídeo</string>
+  <string name="vlog_mi_clip_cn">Editor de vídeo</string>
   <string name="vlog_nav_title_audio">Banda sonora</string>
   <string name="vlog_nav_title_caption">Legendas</string>
   <string name="vlog_nav_title_clip">Editor</string>

@@ -2127,6 +2127,7 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="dump_log_summary">"Esta funcionalidade serve para gerar o registo 284 nas versões Alpha e Beta da MIUI. Utilize-a com cuidado.
 Pode ver o registo gerado no Explorador"</string>
   <string name="dump_log_title">Acerca desta funcionalidade</string>
+  <string name="easymode_hint">Toque para desligar o Modo Leve</string>
   <string name="edge_mode_back">Voltar</string>
   <string name="edge_mode_back_summary">Duplo toque na lateral do seu telefone para voltar</string>
   <string name="edge_mode_clean">Limpar cache de sistema</string>
@@ -3985,14 +3986,15 @@ A aplicação também pode ligar ou desligar o modo Não incomodar e alterar def
   <string name="off">Desligado</string>
   <string name="ok_rules">Concluir</string>
   <string name="okay">OK</string>
-  <string name="oldman_app_label">Lite mode</string>
+  <string name="oldman_app_label">Modo Leve</string>
   <string name="oldman_installed_current_btn">Restaurar ecrã inicial original</string>
-  <string name="oldman_installed_current_des">Definiu o Modo leve como ecrã inicial predefinido. Toque no botão abaixo para voltar ao ecrã inicial original</string>
+  <string name="oldman_installed_current_des">Definiu o Modo Leve como ecrã inicial predefinido. Toque no botão abaixo para voltar ao ecrã inicial original</string>
   <string name="oldman_installed_not_current_btn">Definir como ecrã inicial</string>
-  <string name="oldman_installed_not_current_des">O Modo leve está instalado no seu dispositivo. Pode utilizá-lo como ecrã inicial predefinido</string>
-  <string name="oldman_mode_entry_name">Modo leve</string>
+  <string name="oldman_installed_not_current_des">O Modo Leve está instalado no seu dispositivo. Pode utilizá-lo como ecrã inicial predefinido</string>
+  <string name="oldman_mode_entry_name">Modo Leve</string>
+  <string name="oldman_mode_settings">Modo Leve</string>
   <string name="oldman_uninstalled_btn">Instalar</string>
-  <string name="oldman_uninstalled_des">O modo leve mantém o seu ecrã inicial simples e minimalista</string>
+  <string name="oldman_uninstalled_des">O Modo Leve mantém o seu ecrã inicial simples e minimalista</string>
   <string name="on">Ligado</string>
   <string name="onehour">30 minutos</string>
   <string name="onekey_migrate">Mi Mover</string>

@@ -68,6 +68,7 @@
   <string name="dialog_privacy_content">Além das funcionalidades básicas inclui uma calculadora científica e um conversor. Algumas funcionalidades necessitam de ligar à Internet para funcionar normalmente. Antes de utilizar esta aplicação, tem de ler e concordar com os nossos %1$s e %2$s antes de utilizar a Calculadora</string>
   <string name="dialog_privacy_title">Termos e condições</string>
   <string name="divDesc">Dividir</string>
+  <string name="dob_selection_error">A data de nascimento tem de ser menor que hoje</string>
   <string name="dotDesc">Ponto</string>
   <string name="eDesc">Número de Euler</string>
   <string name="equalDesc">Igual</string>
@@ -119,6 +120,7 @@
   <string name="hint_annual_rate">Introduzir taxa anual</string>
   <string name="hint_enter_amount">Introduzir valor</string>
   <string name="hint_floatwindow_alpha_guide_text">Toque para ajustar opacidade</string>
+  <string name="history_delete_confirmation">Limpar histórico agora?</string>
   <string name="home_title_calculator">Calculadora</string>
   <string name="install">Instalar</string>
   <string name="install_scanner_to_continued_use">O Digitalizador está desinstalado. Instalar novamente?</string>
@@ -148,14 +150,19 @@
   <string name="item_title_vel_conversion">Velocidade</string>
   <string name="item_title_volume_conversion">Volume</string>
   <string name="item_title_weight_conversion">Peso</string>
+  <string name="label_about">Acerca</string>
+  <string name="label_clear_history">Limpar tudo</string>
   <string name="label_date_difference">Diferença</string>
   <string name="label_days">Dias</string>
+  <string name="label_delete">Limpar</string>
   <string name="label_emi">EMI</string>
   <string name="label_first_repayment">Primeira prestação</string>
   <string name="label_from_date">De</string>
+  <string name="label_history">Histórico</string>
   <string name="label_interest">Juros</string>
   <string name="label_loan_tenure">Posse do empréstimo</string>
   <string name="label_months">Meses</string>
+  <string name="label_no_history">Sem itens</string>
   <string name="label_principal">Principal</string>
   <string name="label_share">Partilhar</string>
   <string name="label_start_date">Data de início</string>

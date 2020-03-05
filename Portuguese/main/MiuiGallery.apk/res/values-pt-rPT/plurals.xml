@@ -312,7 +312,7 @@
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">Foram ignoradas %d fotos que não estão no dispositivo</item>
-        <item quantity="one">Foi ignorada uma foto que não está no dispositivo</item>
+        <item quantity="one">Foi ignorada %d foto que não está no dispositivo</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">Encontrou %1$d novas fotos</item>

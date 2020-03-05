@@ -366,9 +366,11 @@
   <string name="copy_number">Copiar número de telefone</string>
   <string name="create_action">Novo</string>
   <string name="custom_from_account_label">Enviar como:</string>
+  <string name="database_exception">Erro nos dados. Inicie sessão novamente</string>
   <string name="date_heading">"Data: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Hoje, %1$s</string>
+  <string name="db_error">Existe uma excepção nos dados da mensagem de email. Inicie sessão novamente</string>
   <string name="debug_mode_preferencecategory">Defina o modo de registo</string>
   <string name="debug_mode_settings">Definições do modo depuração</string>
   <string name="default_">Predefinidas</string>

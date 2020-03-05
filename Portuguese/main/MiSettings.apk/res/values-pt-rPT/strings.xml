@@ -8,12 +8,17 @@
   <string name="calendar_tip">Os sons dos lembretes dos eventos funcionam para calendário, lembretes, notas e tarefas</string>
   <string name="category_other">Outros</string>
   <string name="color_gamut">Gama de cores</string>
+  <string name="contact_description">Colocar atalhos dos contactos no seu ecrã inicial e tocar para efectuar uma chamada</string>
+  <string name="contact_title">Atalhos de contactos</string>
   <string name="contrast_ratio">Contraste</string>
   <string name="create">Criar</string>
   <string name="create_failed">Não foi possível criar</string>
   <string name="create_shortcut">Atalho de ecrã inicial</string>
   <string name="created">Criado</string>
   <string name="created_successfully">Criado com sucesso</string>
+  <string name="display_description">Itens maiores, textos maiores, menos confusão visual</string>
+  <string name="display_title">Itens maiores</string>
+  <string name="exit_easymode">Desligar Modo Leve</string>
   <string name="first_unlock_time">"Primeiro desbloqueado: "</string>
   <string name="follow_sim1">Aplicar definições do SIM 1</string>
   <string name="gamma">Gama</string>
@@ -65,6 +70,7 @@
   <string name="sms_received_sound_title">Mensagem recebida</string>
   <string name="srgb_color_region">RGB</string>
   <string name="srgb_color_region_summary">Mostrar todo o conteúdo do ecrã na gama de cores RGB</string>
+  <string name="start_easymode">Ligar Modo Leve</string>
   <string name="stop_app_timer">Desligar tempo de ecrã</string>
   <string name="stop_app_timer_fail">Não foi possível desligar o tempo de ecrã</string>
   <string name="stop_app_timer_success">O tempo de ecrã foi desligado com sucesso</string>
@@ -72,8 +78,11 @@
   <string name="stop_summary">Todos os dados e estatísticas do tempo de ecrã vão ser eliminados quando desligar esta funcionalidade</string>
   <string name="suggestion">Comentários</string>
   <string name="thememanager_not_found">Não foi possível abrir Temas. Certifique-se que a aplicação está instalada no seu dispositivo</string>
+  <string name="title_activity_easy_mode">Modo Leve</string>
   <string name="today_usage_title">Hoje</string>
   <string name="today_use_time">Tempo de ecrã: %1$s</string>
+  <string name="touch_description">Botões e atalhos optimizados vão ajudá-lo a evitar toques acidentais</string>
+  <string name="touch_title">Controlos de toque melhorados</string>
   <string name="trend_from_yesterday_equal">Mesmo que ontem</string>
   <string name="trend_from_yesterday_less">%1$s menos que ontem</string>
   <string name="trend_from_yesterday_less_simple">%1$s menos que ontem</string>
@@ -135,6 +144,8 @@ Esta aplicação necessita também de ligar à Internet e das seguintes permiss�
   <string name="usage_home_premission_main_summary_new_o">"Bem-vindo ao tempo de ecrã!
 Para funcionar normalmente, esta aplicação necessita de obter informações de tempo de ecrã: número de vezes que desbloqueia o seu telefone, nomes das aplicações e a duração da utilização de cada aplicação.
 Esta aplicação necessita também de ligar à Internet e das seguintes permissões para obter informações pessoais:"</string>
+  <string name="usage_home_premission_second_summary_double_link_prefix">As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade. Se não concordar com estas permissões ou o envio das suas informações pessoais, não vai poder utilizar esta aplicação. Pode revogar a sua autorização em Tempo de ecrã &gt; Definições &gt; Desligar tempo de ecrã</string>
+  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"Antes de utilizar esta aplicação, tem de ler e concordar com os nossos &amp;lt;a href='%1s'&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href='%2s'&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;"</string>
   <string name="usage_home_premission_second_summary">Para funcionar normalmente, esta aplicação necessita de obter informações pessoais. As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade</string>
   <string name="usage_home_premission_second_summary_new">As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade. Se não concordar com estas permissões ou o envio das suas informações pessoais, não vai poder utilizar esta aplicação. Pode revogar a sua autorização em Tempo de ecrã &gt; Definições &gt; Desligar tempo de ecrã. Se tiver mais questões acerca de privacidade, contacte-nos através do email privacy@xiaomi.com</string>
   <string name="usage_no_net_summary">Verifique as suas definições de rede e tente novamente</string>

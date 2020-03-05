@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
  <resources>
-     <string-array name="month12">
+    <string-array name="account_user_gender_name">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string-array name="month12">
         <item>Janeiro</item>
         <item>Fevereiro</item>
         <item>Março</item>

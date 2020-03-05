@@ -4,6 +4,22 @@
     <item quantity="other">%d jogos adicionados</item>
     <item quantity="one">%d jogo adicionado</item>
   </plurals>
+  <plurals name="app_behavior_desc_allow">
+        <item quantity="other">Foram permitidas %3$d vezes entre %1$s e %2$s</item>
+        <item quantity="one">Foi permitida %3$d vez entre %1$s e %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny">
+        <item quantity="other">Foram restringidas %3$d vezes entre %1$s e %2$s</item>
+        <item quantity="one">Foi restringida %3$d vez entre %1$s e %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_off">
+        <item quantity="other">Não vai ser notificado acerca de acções sensíveis de %1$d aplicações</item>
+        <item quantity="one">Não vai ser notificado acerca de acções sensíveis de %1$d aplicação</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_on">
+        <item quantity="other">Vai ser notificado acerca de acções sensíveis de %1$d aplicações</item>
+        <item quantity="one">Vai ser notificado acerca de acções sensíveis de %1$d aplicação</item>
+    </plurals>
   <plurals name="app_manager_permission_summary_accept">
     <item quantity="other">Concedeu %d permissões</item>
     <item quantity="one">Concedeu %d permissão</item>
