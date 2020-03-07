@@ -177,7 +177,7 @@
   <string name="app_behavior_location">%1s tentou aceder à sua localização</string>
   <string name="app_behavior_location_bg">%1s tentou aceder à sua localização em segundo plano</string>
   <string name="app_behavior_location_now">%1s está a aceder à sua localização em segundo plano</string>
-  <string name="app_behavior_menu_about">Acerca dos registos de comportamento das aplicações</string>
+  <string name="app_behavior_menu_about">Acerca do comportamento das aplicações</string>
   <string name="app_behavior_monitor_off">Desligar notificações</string>
   <string name="app_behavior_monitor_off_content">Não vai receber notificações sobre acções sensíveis desta aplicação. Desligar mesmo assim?</string>
   <string name="app_behavior_monitor_off_positive">Desligar</string>

@@ -14,7 +14,7 @@
     <item>Personalizar</item>
   </string-array>
   <string-array name="app_behavior_type_menu">
-    <item>Todos os registo</item>
+    <item>Todos os registos</item>
     <item>Início automático</item>
     <item>Início em cadeia</item>
     <item>Utilização de permissões</item>

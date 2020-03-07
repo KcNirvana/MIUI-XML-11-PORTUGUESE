@@ -10,6 +10,7 @@
   <string name="age_label_weeks">Semanas</string>
   <string name="allow">Concordar</string>
   <string name="app_name">Calculadora</string>
+  <string name="app_name_danfa">Calculadora</string>
   <string name="app_notification_info">A Calculadora está a ser executada em segundo plano</string>
   <string name="base_rate">Taxa de juro base</string>
   <string name="bmi_error_text">O IMC parece não estar correcto. Verifique se colocou correctamente o peso e altura</string>
