@@ -484,6 +484,8 @@
   <string name="download_with_metered_network_title">Está ligado a uma rede paga</string>
   <string name="downloading_dialog_message">Pode seleccionar a qualidade das imagens transferidas ou desligar as transferências automáticas nas Definições</string>
   <string name="downloading_title">Transferir fotos da Xiaomi Cloud</string>
+  <string name="drag_view_tip_sub_title">Premir e segurar um álbum para reordenar</string>
+  <string name="drag_view_tip_title">Reordenar álbuns</string>
   <string name="dump_db_info">Transferir informações da base de dados</string>
   <string name="double_tap_for_hr_preview_108m">Faça duplo toque novamente para trocar para pré-visualização de 108MB</string>
   <string name="edit_baby_info">Ver informação do bebé</string>
@@ -680,7 +682,7 @@ efeitos de fotos"</string>
   <string name="filter_people_sepia">Sépia</string>
   <string name="filter_people_story">História</string>
   <string name="filter_people_tea">Chá</string>
-  <string name="filter_portrait_hint">Cor pop</string>
+  <string name="filter_portrait_hint">Foco de cor</string>
   <string name="filter_scene_city">Cidade</string>
   <string name="filter_scene_df">Nevoeiro</string>
   <string name="filter_scene_koizora">Amor</string>
@@ -1117,7 +1119,7 @@ para personalizar a galeria"</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada na Galeria</string>
   <string name="photo_portrait_color_download_fail">Não foi possível transferir plugin. Ligue-se à rede e tente novamente</string>
   <string name="photo_portrait_color_download_success">Filtros transferidos com sucesso</string>
-  <string name="photo_portrait_color_no_face">A cor pop apenas funciona em fotos com pessoas</string>
+  <string name="photo_portrait_color_no_face">O foco de cor apenas funciona em fotos com pessoas</string>
   <string name="photo_portrait_download_sdk_without_wifi_msg">Não está ligado ao Wi-Fi. Pode transferir os filtros (%1$dMB) utilizando dados móveis</string>
   <string name="photo_portrait_download_sdk_without_wifi_title">Transferir filtros</string>
   <string name="photo_print_menu_loading">A carregar plugin…</string>
@@ -1728,6 +1730,7 @@ para personalizar a galeria"</string>
   <string name="vlog_caption_style">Formato das legendas</string>
   <string name="vlog_caption_title">Créditos</string>
   <string name="vlog_clip_cut_fail">Os clips têm de ter pelo menos %1$d segundo(s)</string>
+  <string name="vlog_clip_cut_fail_min_time">Os clips têm de ter pelo menos %1$s segundo(s)</string>
   <string name="vlog_clip_delete_dialog_btn_cancel">Cancelar</string>
   <string name="vlog_clip_delete_dialog_btn_delete">Eliminar</string>
   <string name="vlog_clip_delete_dialog_btn_msg">Eliminar este vídeo?</string>

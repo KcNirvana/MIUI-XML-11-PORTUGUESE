@@ -4,6 +4,14 @@
         <item quantity="other">%d dias</item>
         <item quantity="one">%d dia</item>
     </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">Já utilizou o seu dispositivo por %d minutos sem interrupções</item>
+        <item quantity="one">Já utilizou o seu dispositivo por %d minuto sem interrupções</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">O tempo de ecrã hoje é igual à sua média de %d dias</item>
         <item quantity="one">O tempo de ecrã hoje é igual à sua média de %d dia</item>

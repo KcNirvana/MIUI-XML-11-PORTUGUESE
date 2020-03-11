@@ -91,6 +91,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="confirm_restore">Restaurar</string>
   <string name="confirm_restore_summary">O ecrã inicial vai reiniciar. As aplicações copiadas vão ser transferidas automaticamente</string>
   <string name="confirm_restore_title">Restaurar</string>
+  <string name="copy">Copiar</string>
   <string name="customization"><u>Personalizar</u></string>
   <string name="date_format">dd/mm/yyyy</string>
   <string name="deskclock_backup">Alarmes</string>
@@ -120,6 +121,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="download_settings_fail">Não foi possível transferir o ecrã inicial</string>
   <string name="error_retry_later">Não foi possível concluir a acção. Tente novamente mais tarde</string>
   <string name="error_unknown">Erro</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="get_device_id_error">Não foi possível obter o ID do dispositivo</string>
   <string name="hint_restore_cross_space">O layout do ecrã inicial pode ser mostrado incorrectamente se transferir itens entre espaços</string>
   <string name="home_hint_global_launcher">Launcher Poco</string>
@@ -144,6 +146,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="network_error">Ligue-se à rede</string>
   <string name="no_account">Sem sessão iniciada na Conta Mi</string>
   <string name="no_backup">Sem cópias na Xiaomi Cloud</string>
+  <string name="not_set">Não definido</string>
   <string name="notification_channel_remind">Lembretes</string>
   <string name="notification_channel_service">Serviços</string>
   <string name="open_backup_switch">Ligue as cópias</string>
@@ -152,6 +155,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="open_wifi_setting">Definições Wi-Fi</string>
   <string name="other_device_main_space">Primeiro espaço</string>
   <string name="other_device_second_space">Segundo espaço</string>
+  <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="process_whole_recovery">A restaurar \"%s\"</string>
   <string name="provision_background_restore_more_data">Restaurar mais itens em segundo plano</string>
   <string name="provision_error_connect_msg">Teste a rede e tente novamente. As cópias não estão disponíveis quando o seu dispositivo está offline</string>
@@ -204,6 +208,7 @@ Verifique as suas definições de rede e tente novamente"</string>
   <string name="restoring_home_screen_apps">A restaurar da Xiaomi Cloud…</string>
   <string name="restoring_settings">A restaurar definições…</string>
   <string name="retry">Tentar novamente</string>
+  <string name="search_menu_title">Pesquisa</string>
   <string name="selected">Seleccionado</string>
   <string name="self_device_main_space">O Primeiro espaço deste telefone</string>
   <string name="self_device_second_space">O Segundo espaço deste telefone</string>

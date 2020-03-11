@@ -15,6 +15,7 @@
   <string name="cloud_addr_info">Informação da nuvem</string>
   <string name="cloud_china_addr">Actualizar dados do servidor chinês</string>
   <string name="cloud_international_addr">Actualizar dados do servidor internacional</string>
+  <string name="cloud_russion_addr">Actualizar dados do servidor</string>
   <string name="cloud_staging_addr">Actualizar dados do servidor desenvolvimento</string>
   <string name="config_classify">Ordenar por definições da aplicação</string>
   <string name="config_description">A MIUI consegue identificar as aplicações com processos em segundo plano (p.e. aplicações de mensagens e navegação, leitores de música) e poupar bateria de modo a que não influencie as actividades mais importantes em segundo plano</string>

@@ -225,6 +225,7 @@ Pode também transferi-las separadamente"</string>
   <string name="master_clear_apply_step_2">Certifique-se que fez uma cópia de todos os seus dados importantes. Após carregar em \"OK\", vai ser feita uma reposição de fábrica e todos os seus dados vão ser eliminados</string>
   <string name="master_clear_apply_title">Atenção</string>
   <string name="master_clear_not_available">A reposição de fábrica foi restrita pela sua empresa</string>
+  <string name="master_clear_not_available_ep">Não tem permissão para fazer uma reposição de fábrica ou revogar a sua autorização. Contacte o seu administrador</string>
   <string name="menu_item_about_privacy_title">Política de Privacidade</string>
   <string name="messageData">Mensagens</string>
   <string name="more_settings">Mais</string>

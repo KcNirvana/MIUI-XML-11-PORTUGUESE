@@ -14,6 +14,7 @@
   <string name="hide_touch_assistant_intro">Ocultar o menu flutuante nas aplicações seleccionadas</string>
   <string name="hide_when_fullscreen">Mover para o lado em ecrã inteiro</string>
   <string name="hide_when_fullscreen_intro">Mover para o lado quando entrar em modo ecrã inteiro</string>
+  <string name="mi_ai">Atalhos Mi IA</string>
   <string name="motion_behavior">Gesto preferido</string>
   <string name="name_alipay_payment_code">Pagamento Alipay</string>
   <string name="name_alipay_scan">Digitalizador Alipay</string>

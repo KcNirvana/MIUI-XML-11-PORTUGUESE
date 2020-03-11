@@ -80,6 +80,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="auxiliary_exposure_feedback_status">Verificação de exposição ligada</string>
   <string name="auxiliary_focus_peak_status">Foco máximo ligado</string>
   <string name="back_bokeh_use_hint">Certifique-se que o objecto não está a mais de 1,5 metros</string>
+  <string name="background">Segundo plano</string>
   <string name="beauty_body">Figura</string>
   <string name="beauty_body_body">Fino</string>
   <string name="beauty_body_head">Cabeça</string>
@@ -430,6 +431,7 @@ Mantenha a pessoa nítida ao desfocar o fundo"</string>
 e traz as pessoas que estão na frente"</string>
   <string name="pref_960_watermark_title">"Marca d'água 960fps"</string>
   <string name="pref_ai_detect">Detecção IA</string>
+  <string name="pref_advance_settings">Definições adicionais</string>
   <string name="pref_audio_focus_entry_front">Frente</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Atrás</string>
@@ -751,6 +753,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_video_quality_entry_4kuhd">4K (2160p) 30fps</string>
   <string name="pref_video_quality_entry_4kuhd_60fps">4K (2160p) 60fps</string>
   <string name="pref_video_quality_entry_720p">HD (720p) 30fps</string>
+  <string name="pref_video_quality_entry_720p_60fps">HD (720p) 60fps</string>
+  <string name="pref_video_quality_entry_8k_24fps_uhd">UHD (8K) 24fps</string>
   <string name="pref_video_quality_entry_8kuhd">UHD (8K) 30fps</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
   <string name="pref_video_quality_title">Qualidade de vídeo</string>
@@ -779,6 +783,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_watermark_on">Ligada</string>
   <string name="pref_watermark_title">"Marca d'água"</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
+  <string name="preview_back_pressed_hint">Toque novamente para voltar à pré-visualização</string>
   <string name="pro_color_mode">Cor Pro</string>
   <string name="recommend_macro_mode">Experiment o Modo Macro</string>
   <string name="recommend_portrait">Experimente o Modo Retrato</string>
@@ -792,6 +797,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="search_settings">Definições da câmara;Qualidade;Qualidade de imagem;Localização de imagem;Localização de foto;Detecção de rosto;Sons da câmara</string>
   <string name="see_qrcode_detals">Ver detalhes do código QR</string>
   <string name="setting_top_text">Modos da câmara</string>
+  <string name="share">Partilhar</string>
   <string name="simple_mode_button_asd_flash">Desligar Flash</string>
   <string name="simple_mode_button_asd_hdr">Desligar HDR</string>
   <string name="simple_mode_button_text_audio_capture">Desligar Disparo por Voz</string>
@@ -829,6 +835,13 @@ e traz as pessoas que estão na frente"</string>
   <string name="tap_to_focus">Toque para focar</string>
   <string name="text_ai_scene_selector_text_on">Silhueta</string>
   <string name="text_ai_scene_selector_text_off">Luz de fundo</string>
+  <string name="timbre">Voz</string>
+  <string name="timbre_baby">Criança</string>
+  <string name="timbre_gentlemen">Senhor</string>
+  <string name="timbre_girl">Rapariga</string>
+  <string name="timbre_lady">Senhora</string>
+  <string name="timbre_normal">Original</string>
+  <string name="timbre_robot">Robot</string>
   <string name="time_lapse_error">Tamanho de vídeo inválido para gravação de Time Lapse</string>
   <string name="title_snap_double_confirm">Confirme novamente</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">O Disparo Contínuo não é suportado quando a captura de áudio está ligada</string>
@@ -855,6 +868,7 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
   <string name="ultra_wide_open_tip_sat">Ultra grande-angular 0.6X</string>
   <string name="ultra_wide_recommend_tip_hint">Experimente o Ultra grande-angular</string>
   <string name="ultra_wide_recommend_tip_hint_sat">Troque para o modo Ultra grande-angular 0.6X</string>
+  <string name="unknow_error">Erro desconhecido</string>
   <string name="user_agree">Concordar</string>
   <string name="user_agreement2">Termos de Serviço</string>
   <string name="user_agreement4">Política de Privacidade</string>
