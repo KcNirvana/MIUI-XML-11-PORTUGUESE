@@ -244,10 +244,9 @@
   <string name="filter_by_duration_prefix">"Ocultar ficheiros inferiores a: "</string>
   <string name="filter_by_duration_summary">Ocultar ficheiros de áudio de curta duração</string>
   <string name="filter_by_folder">Por pasta</string>
-  <string name="filter_by_folder_summary">Escolha as pasta a mostrar</string>
+  <string name="filter_by_folder_summary">Escolher as pasta a mostrar</string>
+  <string name="filter_by_MP4">Mostrar pastas com ficheiros MP4</string>
   <string name="filter_by_size">Por tamanho</string>
-  <string name="filter_by_size_max">%dMB</string>
-  <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">"Ocultar ficheiros inferiores a: "</string>
   <string name="filter_by_size_summary">Ocultar pequenos ficheiros de áudio</string>
   <string name="floating_view_dialog_desc">A música vai parar de tocar se sair desta página agora. Sair mesmo assim?</string>

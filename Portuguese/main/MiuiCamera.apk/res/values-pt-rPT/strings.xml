@@ -164,7 +164,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="confirm_install_scanner_message">O Digitalizador permite digitalizar códigos QR, códigos de barras,etc. Não tem de ligar à Internet para o instalar</string>
   <string name="confirm_install_scanner_title">Instalar o Digitalizador</string>
   <string name="confirm_location_alert">Guardar localização das fotos</string>
-  <string name="confirm_location_message">Etiquetar as suas fotos e vídeos com as localizações de onde foram tiradas. Outras aplicações podem aceder a esta informação assim como às imagens guardadas</string>
+  <string name="confirm_location_message">Bem-vindo à Câmara! Etiquetar as suas fotos e vídeos com as localizações de onde foram tiradas vai tornar a Galeria mais organizada. Algumas funcionalidades podem não estar disponíveis se restringir as informações de localização</string>
   <string name="confirm_location_title">Guardar localização das fotos?</string>
   <string name="confirm_recording_fail_calling_alert">Não é possível gravar durante uma chamada</string>
   <string name="confirm_recording_fail_recorder_busy_alert">Outra aplicação pode já estar a usar o microfone para gravar</string>

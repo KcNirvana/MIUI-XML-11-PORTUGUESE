@@ -763,7 +763,7 @@ efeitos de fotos"</string>
   <string name="ignore_album">Não mostrar</string>
   <string name="ignore_alert_title">Não mostrar este álbum? Toque no canto superior direito para ver as fotos que ignorou</string>
   <string name="ignore_face">Ignorar esta pessoa</string>
-  <string name="ignore_faces_title">Ignorada</string>
+  <string name="ignore_faces_title">Ignoradas</string>
   <string name="image_decode_failed">Não foi possível decifrar imagem</string>
   <string name="image_download_item_title">Transferir ficheiro original (%s)</string>
   <string name="image_invalid_path">Caminho inválido</string>
