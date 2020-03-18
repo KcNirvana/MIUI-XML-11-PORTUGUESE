@@ -57,6 +57,8 @@
   <string name="HIPS_Perm_add_voicemail_Desc">adicionar mensagens de voz de sistema</string>
   <string name="HIPS_Perm_background_start_activity">Mostrar janelas em segundo plano</string>
   <string name="HIPS_Perm_background_start_activity_Desc">mostrar janelas pop-up enquanto estiver a executar em segundo plano</string>
+  <string name="HIPS_Perm_clipboard">Área de transferências</string>
+  <string name="HIPS_Perm_clipboard_Desc">aceder e alterar conteúdos na área de transferências</string>
   <string name="HIPS_Perm_deamon_notification">Notificações permanentes</string>
   <string name="HIPS_Perm_deamon_notification_Desc">mostrar notificações permanentes</string>
   <string name="HIPS_Perm_get_accounts">Aceder a contas no dispositivo</string>
@@ -93,10 +95,11 @@
   <string name="grant_dialog_button_allow_always">Permitir sempre</string>
   <string name="grant_dialog_button_allow_background">Permitir sempre</string>
   <string name="grant_dialog_button_allow_foreground">Permitir apenas durante a utilização</string>
+  <string name="grant_dialog_button_allow_onetime">Permitir desta vez</string>
   <string name="grant_dialog_button_deny">Negar</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Negar e não perguntar novamente</string>
   <string name="grant_dialog_button_deny_background">Apenas durante a utilização</string>
-  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Negar e não perguntar novamente</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Permitir apenas enquanto estiver a utilizar e não perguntar novamente</string>
   <string name="location_settings">Definições de localização</string>
   <string name="location_warning">%1$s é um fornecedor de serviços de localização para este dispositivo. O acesso à localização pode ser modificado nas definições de localização</string>
   <string name="never_ask_again">Não perguntar novamente</string>

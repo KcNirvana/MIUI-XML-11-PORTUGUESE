@@ -100,6 +100,7 @@
   <string name="recognition_error_engine_singleton">O mecanismo de reconhecimento está ocupado</string>
   <string name="recognition_error_format">Formato de áudio inválido</string>
   <string name="recognition_error_internal">Erro interno</string>
+  <string name="recognition_notification_channel">Transcrição</string>
   <string name="recognition_error_stopped">O reconhecimento parou</string>
   <string name="recognition_status_downloading">A transferir</string>
   <string name="record">Gravar</string>

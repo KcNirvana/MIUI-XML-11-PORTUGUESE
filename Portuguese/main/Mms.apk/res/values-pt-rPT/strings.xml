@@ -155,7 +155,7 @@
   <string name="delete_verification_code_sms_message">Eliminar todas as OTPs?</string>
   <string name="delete_verification_code_sms_title">Eliminar OTPs</string>
   <string name="delete_wild_sims">Eliminar números</string>
-  <string name="delete_wild_sims_confirm">Todas as mensagens pertencentes aos números seleccionados vão ser eliminadas deste telefone. Pode restaurá-las em i.mi.com</string>
+  <string name="delete_wild_sims_confirm">Todas as mensagens dos números seleccionados vão ser eliminadas deste telefone. Pode restaurá-las em i.mi.com</string>
   <string name="delete_wild_sims_title">Eliminar números seleccionados</string>
   <string name="delivery_report_activity">Relatório de entrega</string>
   <string name="delivery_toast_body">Mensagem recebida por %s</string>
@@ -165,6 +165,8 @@
   <string name="dialog_message_networking">As Mensagens necessitam de ligar à Internet e aceder à sua localização para fornecer serviços. Permitir?</string>
   <string name="dialog_message_rcs">As Mensagens China Mobile permite enviar mensagens gratuitas para outros utilizadores China Mobile. Tem de concordar com \"%1$s\" antes de utilizar</string>
   <string name="dialog_sim_locked_confirm">OK</string>
+  <string name="dialog_title_correct_as_ad">Definir como empresarial</string>
+  <string name="dialog_title_correct_as_normal">Definir como normal</string>
   <string name="dialog_title_fake_cell_detect_error">Correções</string>
   <string name="dialog_title_mx_rcs">Mi Message</string>
   <string name="dialog_title_networking">Termos e condições</string>
@@ -262,6 +264,8 @@
   <string name="heduohao_sub_sim_card">Sub</string>
   <string name="hidden_sender_address">Ocultar endereço do remetente</string>
   <string name="hold_to_talk">Segure para falar</string>
+  <string name="home_tab_ad">Empresa</string>
+  <string name="home_tab_common">Normal</string>
   <string name="hybrid_check_network">Definições de rede</string>
   <string name="hybrid_data_error">Ocorreu um erro</string>
   <string name="hybrid_locating_fail">Não foi possível encontrar a sua localização</string>
@@ -295,6 +299,8 @@
   <string name="menu_call">Ligar</string>
   <string name="menu_compose_new">Escrever</string>
   <string name="menu_contact">Ver info. de contacto</string>
+  <string name="menu_correct_as_ad">Definir como empresarial</string>
+  <string name="menu_correct_as_normal">Definir como normal</string>
   <string name="menu_delete_messages">Eliminar mensagens</string>
   <string name="menu_edit">Editar</string>
   <string name="menu_forward">Reencaminhar</string>
@@ -350,8 +356,8 @@ Esta mensagem pode não ser solicitada"</string>
   <string name="msg_no_member_selected">Seleccione pelo menos 1 contacto</string>
   <string name="msg_type_hint_mms">Mensagem multimédia (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
-  <string name="msg_type_hint_mx">Mi Message</string>
-  <string name="msg_type_hint_mx_omit">Mi Msg</string>
+  <string name="msg_type_hint_mx">Mi Msg</string>
+  <string name="msg_type_hint_mx_omit">Mi Message</string>
   <string name="msg_type_hint_sms">Mensagem de texto</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msg_type_sms_rcs">SMS, MMS e mensagens pela Internet</string>
@@ -514,6 +520,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_title_allow_si_sl_push">Permitir envio de mensagens WAP</string>
   <string name="pref_title_auto_delete">Eliminar mensagens antigas</string>
   <string name="pref_title_card_format">Formato de partilha de cartões</string>
+  <string name="pref_title_collapse_ad_notification">Não mostrar mensagens empresariais</string>
   <string name="pref_title_delivery_reports">Relatórios de entrega</string>
   <string name="pref_title_fwd_sender_info">Reencaminhar informações do remetente</string>
   <string name="pref_title_manage_sim_messages">Armazenamento do cartão SIM</string>
@@ -627,6 +634,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="search_hint">Pesquisar mensagens</string>
   <string name="search_keyword_mms">Mensagens</string>
   <string name="search_label">Mensagens</string>
+  <string name="search_menu_title">Pesquisa</string>
   <string name="search_path_mms">Definições/Aplicações de sistema/Mensagens</string>
   <string name="search_setting_description">Texto nas suas mensagens</string>
   <string name="search_show_more_results">Mostrar mais</string>
@@ -698,8 +706,6 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="smart_message_title">Mensagens Inteligentes</string>
   <string name="smart_msg_main_purpose">As Mensagens Inteligentes fornecem identificação do remetente e serviços inteligentes</string>
   <string name="smart_msg_privacy_policy">Política de Privacidade das Mensagens Inteligentes</string>
-  <string name="sms_card_partner_label">"Cartão SMS de parceiro: "</string>
-  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Conteúdo:</string>
   <string name="sms_full_body">A mensagem a receber foi rejeitada: Não existe espaço neste dispositivo</string>
   <string name="sms_full_title">Memória de mensagens de texto cheia</string>

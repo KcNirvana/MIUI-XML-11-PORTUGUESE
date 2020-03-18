@@ -35,11 +35,14 @@
   <string name="cloud_trash_bin_title">Eliminar notas na Xiaomi Cloud</string>
   <string name="confirm_cancel">Não concordar</string>
   <string name="confirm_ok">Concordar</string>
+  <string name="copy">Copiar</string>
   <string name="cta_confirm_cancel">Não permitir</string>
   <string name="cta_confirm_ok">Permitir</string>
   <string name="cta_dialog_message">O Notas necessita de permissões para ligar à Internet, gravar áudio e aceder aos seus contactos para funcionar normalmente. Permitir?</string>
   <string name="cta_dialog_title">Permissões necessárias</string>
   <string name="cta_reminder">O Notas necessita de permissões para ligar à Internet, gravar áudio e aceder aos seus contactos para funcionar normalmente. Permitir?</string>
+  <string name="data_empty_note">Sem notas</string>
+  <string name="data_empty_todo">Sem tarefas</string>
   <string name="date_calculate_today">0 dias</string>
   <string name="date_time_picker_alarm_reminder">Alarmes</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
@@ -87,6 +90,7 @@
   <string name="error_unsupport_content">Esta nota contém conteúdo não suportado. Toque aqui para actualizar</string>
   <string name="error_widget_exist_for_send_to_desktop">Esta nota já existe no ecrã inicial</string>
   <string name="exceed_todo_text_limitation">A descrição da tarefa é demasiado longa</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="first_enter_custom_folder_hint">Pode mudar o nome ou eliminar pastas aqui</string>
   <string name="folder_exist">Já existe uma pasta com o mesmo nome</string>
   <string name="folder_operation_delete">Eliminar</string>
@@ -131,6 +135,7 @@
   <string name="new_audio_create_guide_tip">Premir e segurar para criar uma nota de voz</string>
   <string name="new_audio_create_talkback_des">Toque para criar uma nota de texto. Prima e segure para criar uma nota de voz. Soltar o botão para parar a gravação e criar a nota ou deslizar para cima para cancelar</string>
   <string name="not_now">Agora não</string>
+  <string name="not_set">Não definido</string>
   <string name="note_alert_expired">Expirado</string>
   <string name="note_description_content">A aplicação Notas é uma óptima ferramenta para guardar as suas ideias. Tem lembretes embutidos e sincroniza os seus itens para a Xiaomi Cloud para que os possa aceder a qualquer altura em qualquer lado. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
   <string name="note_description_title">Acerca de Notas</string>
@@ -167,6 +172,7 @@
   <string name="pref_title_skip_confirm_for_quick_delete">Eliminar com gestos</string>
   <string name="pref_title_todo_float_mode">Utilizar as ferramentas das tarefas</string>
   <string name="pref_title_todo_shorcut">Ferramentas</string>
+  <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="privacy_note_content_empty">Sem itens</string>
   <string name="recover_notes_hint">Ocorreu um erro. Vá a i.mi.com para restaurar as notas</string>
   <string name="redo">Refazer</string>
@@ -207,6 +213,7 @@
   <string name="search_hint">Pesquisar notas</string>
   <string name="search_keyword_notes">Notas;Memo</string>
   <string name="search_label">A pesquisar…</string>
+  <string name="search_menu_title">Pesquisa</string>
   <string name="search_path_notes">Aplicações de sistema/Notas</string>
   <string name="search_setting_description">Texto nas suas notas</string>
   <string name="search_title_notes">Notas</string>

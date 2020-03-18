@@ -17,12 +17,12 @@
   <string name="cannot_change_parames">Não é possível alterar os parâmetros ao gravar</string>
   <string name="cannot_record">Não foi possível gravar. Tente novamente mais tarde</string>
   <string name="close_screen_record">A gravação parou</string>
-  <string name="date_month">/</string>
-  <string name="date_year">/</string>
+  <string name="copy">Copiar</string>
   <string name="description_content">O gravador de ecrã fornece capacidades de gravação ao nível do sistema. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
   <string name="description_title">Acerca de Gravador de Ecrã</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="error_open_file_failed_no_app_found">Não foi possível localizar uma aplicação para abrir este ficheiro</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="first_using_mic_dialog_message">O Gravador de Ecrã necessita de acesso ao microfone para gravar áudio. Permitir?</string>
   <string name="first_using_mic_dialog_title">Permissões necessárias</string>
   <string name="fixed_frame_rate">Frame rate fixo</string>
@@ -53,11 +53,13 @@
   <string name="no_recorder_info">Sem vídeos</string>
   <string name="no_recorder_info2">Toque no botão para iniciar a gravação​</string>
   <string name="no_sound">Sem som</string>
+  <string name="not_set">Não definido</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_send">Enviar</string>
   <string name="permission_intro_microphone">Para gravar som quando a origem do som for o microfone</string>
   <string name="permission_intro_storage">Para guardar gravações de ecrã</string>
   <string name="permission_microphone_desc">Utilizar o microfone como origem do áudio para gravações de ecrã</string>
+  <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="quit_recording">Sair do Gravador de Ecrã</string>
   <string name="recording_failure">Não foi possível gravar. Comece de novo</string>
   <string name="recording_max_size">A gravação foi parada e guardada porque o vídeo atingiu o tamanho máximo. Comece a gravar de onde ficou se ainda não terminou</string>
@@ -68,6 +70,7 @@
   <string name="screen_orientation_summary">Orientação dos vídeos gravados</string>
   <string name="screen_record_option">Opções de gravação</string>
   <string name="screen_record_params">Parâmetros de gravação</string>
+  <string name="search_menu_title">Pesquisa</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="settings">Definições</string>
   <string name="settings_other">Outros</string>

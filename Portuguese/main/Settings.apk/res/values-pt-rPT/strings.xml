@@ -4729,6 +4729,9 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="retail_demo_reset_title">Necessário palavra-passe</string>
   <string name="retry">Tentar novamente</string>
   <string name="rgb_manage_facerecoginition_text">Gerir dados de rosto 2D</string>
+  <string name="right_function_key">Atalho da direita</string>
+  <string name="ring_to_you">Toque de chamada personalizado</string>
+  <string name="ring_to_you_info">Definir um toque de chamada personalizado</string>
   <string name="ring_volume_option_title">Volume do toque</string>
   <string name="ring_volume_title">Volume do toque</string>
   <string name="ringtone_slot_setting_title">Definições SIM individuais</string>
