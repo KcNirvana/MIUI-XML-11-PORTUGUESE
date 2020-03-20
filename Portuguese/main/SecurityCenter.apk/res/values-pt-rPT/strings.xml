@@ -185,6 +185,10 @@
   <string name="app_behavior_desc_deny_once">Restringido às %1$s</string>
   <string name="app_behavior_door">Comportamento das aplicações</string>
   <string name="app_behavior_header_time">"dd 'de ' MMMM"</string>
+  <string name="app_behavior_key_audio">Gravação de áudio</string>
+  <string name="app_behavior_key_camera">Câmara</string>
+  <string name="app_behavior_key_location">Localização</string>
+  <string name="app_behavior_key_protect">Proteger informações privadas</string>
   <string name="app_behavior_kill_process">Forçar paragem</string>
   <string name="app_behavior_list_load_more">A carregar…</string>
   <string name="app_behavior_location">%1s acedeu à sua localização</string>
@@ -200,6 +204,12 @@
   <string name="app_behavior_monitor_tips_key">Notificações sobre acções sensíveis</string>
   <string name="app_behavior_monitor_tips_summary">Pode receber notificações quando as aplicações gravarem áudio, acederem à sua localização ou executarem acções sensíveis em segundo plano</string>
   <string name="app_behavior_no_recorder">Sem resultados</string>
+  <string name="app_behavior_notification_audio_now_one">%1s está a gravar áudio</string>
+  <string name="app_behavior_notification_audio_now_two">%1s e mais 1 aplicação estão a gravar áudio</string>
+  <string name="app_behavior_notification_camera_one">%1s está a utilizar a câmara</string>
+  <string name="app_behavior_notification_camera_two">%1s e mais 1 aplicação estão a utilizar a câmara</string>
+  <string name="app_behavior_notification_location_one">%1s está a aceder à sua localização</string>
+  <string name="app_behavior_notification_location_two">%1s e mais 1 aplicação estão a aceder à sua localização</string>
   <string name="app_behavior_notification_title_calllog_read">%1s acedeu aos registos de chamadas em segundo plano</string>
   <string name="app_behavior_notification_title_calllog_write">%1s editou o seu registo de chamadas em segundo plano</string>
   <string name="app_behavior_notification_title_clipboard_read">%1s acedeu à área de transferências em segundo plano</string>
@@ -229,6 +239,10 @@
   <string name="app_behavior_search">Pesquisar</string>
   <string name="app_behavior_sensor">%1s acedeu aos dados do sensor</string>
   <string name="app_behavior_sensor_single">Esta aplicação acedeu aos dados do sensor</string>
+  <string name="app_behavior_settings_category_perm">Lembrete de utilização de permissões</string>
+  <string name="app_behavior_settings_category_privacy">Protecção de informações privadas</string>
+  <string name="app_behavior_settings_perm_tips">Mostrar uma notificação sempre que a aplicação utilizar alguma destas permissões:</string>
+  <string name="app_behavior_settings_privacy_tips">Mostrar uma notificação sempre que a aplicação ler/escrever informação sensível em segundo plano (contactos, registo de chamadas, etc.)</string>
   <string name="app_behavior_sms_read">%1s leu SMS</string>
   <string name="app_behavior_sms_read_single">Esta aplicação leu SMS</string>
   <string name="app_behavior_sms_send">%1s enviou SMS</string>
@@ -1793,6 +1807,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="notification_masked_subtitle">Utilizar o Bloqueio de aplicações para ocultar o conteúdo das notificações para as aplicações seleccionadas</string>
   <string name="notification_summary_cmcc_app_check">Toque para ver detalhes</string>
   <string name="notify_channel_mipush">Mensagens push de segurança</string>
+  <string name="notify_channel_name_behavior">Comportamento das aplicações</string>
   <string name="notify_channel_name_security">Segurança do sistema</string>
   <string name="notify_channel_optimize">Notificações de segurança</string>
   <string name="notify_daily_data_usage_body">Para limitar a utilização de dados automaticamente, defina um plano de dados mensal</string>

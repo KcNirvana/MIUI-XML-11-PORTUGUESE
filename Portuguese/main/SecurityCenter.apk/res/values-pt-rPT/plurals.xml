@@ -12,6 +12,18 @@
         <item quantity="other">Foram restringidas %3$d vezes entre %1$s e %2$s</item>
         <item quantity="one">Foi restringida %3$d vez entre %1$s e %2$s</item>
     </plurals>
+    <plurals name="app_behavior_notification_audio_more">
+        <item quantity="other">%1$s e mais %2$d aplicações estão a gravar áudio</item>
+        <item quantity="one">%1$s está a gravar áudio</item>
+    </plurals>
+    <plurals name="app_behavior_notification_camera_more">
+        <item quantity="other">%1$s e mais %2$d aplicações estão a utilizar a câmara</item>
+        <item quantity="one">%1$s está a utilizar a câmara</item>
+    </plurals>
+    <plurals name="app_behavior_notification_location_more">
+        <item quantity="other">%1$s e mais %2$d aplicações estão a aceder à sua localização</item>
+        <item quantity="one">%1$s está a aceder à sua localização</item>
+    </plurals>
     <plurals name="app_behavior_privacy_manager_off">
         <item quantity="other">Não vai ser notificado acerca de acções sensíveis de %1$d aplicações</item>
         <item quantity="one">Não vai ser notificado acerca de acções sensíveis de %1$d aplicação</item>
