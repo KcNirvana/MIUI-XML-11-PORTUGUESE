@@ -412,9 +412,9 @@
   <string name="notification_channel_favorite_description">Notificações acerca de favoritos</string>
   <string name="notification_channel_payment_description">Notificações acerca de pagamentos</string>
   <string name="notification_channel_shopping_description">Notificações acerca de produtos adicionados aos favoritos</string>
-  <string name="notification_content_fail_not_support">"Couldn't get payment info, add the record manually."</string>
-  <string name="notification_content_fail_stay_longer">Stay on the payment page for at least 1 second</string>
-  <string name="notification_content_success">%2$s CNY payment in %1$s</string>
+  <string name="notification_content_fail_not_support">Não foi possível obter as informações de pagamento, adicione manualmente</string>
+  <string name="notification_content_fail_stay_longer">Permaneça na página de pagamento pelo menos 1 segundo</string>
+  <string name="notification_content_success">%2$s CNY pagamento em %1$s</string>
   <string name="notification_express_app_open">Ligado</string>
   <string name="notification_express_content">Pesquisar pedidos utilizando o assistente</string>
   <string name="notification_express_title">Ligar cartões de aplicações de compras</string>

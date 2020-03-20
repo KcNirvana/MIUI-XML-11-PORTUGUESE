@@ -54,7 +54,7 @@ Ligue ambos os dispositivos à mesma rede Wi-Fi ou ligue o monitor externo ao PA
 Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão [Menu] no seu controlo remoto para seleccionar Aplicações > Transmissão de ecrã > Miracast"</string>
     <string name="help_page_text_17_1">Apoio clientes Xiaomi: 400-100-5678 (China)</string>
     <string name="help_page_text_18">TV Samsung</string>
-    <string name="help_page_text_19">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode premir o botão [SOURCE] no controlo remoto e seleccionar \"Transmissão de ecrã\". Esta funcionalidade está ligada por defeito em vários modelos</string>
+    <string name="help_page_text_19">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, pode premir o botão [SOURCE] no controlo remoto e seleccionar \"Transmissão de ecrã\". Esta funcionalidade está ligada por defeito em vários modelos</string>
     <string name="help_page_text_20">Apoio clientes Samsung: 400-810-5858 (China)</string>
     <string name="help_page_text_21">TV LG</string>
     <string name="help_page_text_22">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Esta funcionalidade está ligada por defeito em vários modelos</string>
@@ -63,35 +63,35 @@ Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão 
     <string name="help_page_text_25">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Esta funcionalidade está ligada por defeito em vários modelos</string>
     <string name="help_page_text_26">Apoio clientes Philips: 400-880-0008 (China)</string>
     <string name="help_page_text_27">TPV</string>
-    <string name="help_page_text_28">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode premir o botão [MENU] no controlo remoto e seleccionar Definições > Ligação > Rede > Vários ecrãs</string>
+    <string name="help_page_text_28">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, pode premir o botão [MENU] no controlo remoto e seleccionar Definições > Ligação > Rede > Vários ecrãs</string>
     <string name="help_page_text_29">Apoio clientes TPV: 400-887-8007 (China)</string>
     <string name="help_page_text_30">Hisense</string>
-    <string name="help_page_text_31">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode premir o botão [SMART] no controlo remoto e seleccionar Transmissão > Visualização sem fios</string>
+    <string name="help_page_text_31">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, pode premir o botão [SMART] no controlo remoto e seleccionar Transmissão > Visualização sem fios</string>
     <string name="help_page_text_32">Apoio clientes Hisense: 400-611-1111 (China)</string>
     <string name="help_page_text_33">Skyworth</string>
-    <string name="help_page_text_34">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode seleccionar Aplicações > Transmissão > Dispositivo Android > Miracast</string>
+    <string name="help_page_text_34">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, pode seleccionar Aplicações > Transmissão > Dispositivo Android > Miracast</string>
     <string name="help_page_text_35">Apoio clientes Skyworth: 95105555 (China)</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode premir o botão [SOURCE] no controlo remoto e seleccionar \"Transmissão de ecrã\"</string>
+    <string name="help_page_text_37">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, pode premir o botão [SOURCE] no controlo remoto e seleccionar \"Transmissão de ecrã\"</string>
     <string name="help_page_text_38">Apoio clientes Sony: 400-810-9000 (China)</string>
     <string name="help_page_text_39">Panasonic</string>
-    <string name="help_page_text_40">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode seleccionar Aplicações > Transmissão de ecrã</string>
+    <string name="help_page_text_40">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, pode seleccionar Aplicações > Transmissão de ecrã</string>
     <string name="help_page_text_41">Apoio clientes Panasonic: 400-881-1315 (China)</string>
     <string name="help_page_text_42">Changhong</string>
-    <string name="help_page_text_43">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode seleccionar Sistema > Ferramentas > Vários ecrãs > Transmissão de ecrã</string>
+    <string name="help_page_text_43">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, pode seleccionar Sistema > Ferramentas > Vários ecrãs > Transmissão de ecrã</string>
     <string name="help_page_text_44">Apoio clientes Changhong: 400-811-1666 (China)</string>
     <string name="help_page_text_45">TCL</string>
-    <string name="help_page_text_46">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode seleccionar Aplicações > Visualização sem fios</string>
+    <string name="help_page_text_46">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Em alguns modelos, pode seleccionar Aplicações > Visualização sem fios</string>
     <string name="help_page_text_47">Apoio clientes TCL: 400-812-3456 (China)</string>
     <string name="help_page_text_48">AODIN</string>
     <string name="help_page_text_49">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Para ligar esta funcionalidade vá a As minhas aplicações > Visualização sem fios</string>
     <string name="help_page_text_50">Apoio clientes AODIN:400-810-5858 (China)</string>
     <string name="help_page_text_51">LeTV</string>
-    <string name="help_page_text_52">Certifique-se que o seu ecrã suporta o protocolo Miracast. Nalguns modelos, pode seleccionar Definições > Rede > Vários ecrãs > Visualização sem fios</string>
+    <string name="help_page_text_52">Certifique-se que o seu ecrã suporta o protocolo Miracast. Em alguns modelos, pode seleccionar Definições > Rede > Vários ecrãs > Visualização sem fios</string>
     <string name="help_page_text_53">Apoio clientes LeTV: 10109000 (China)</string>
     <string name="help_page_text_55">"Se não houver redes Wi-Fi disponíveis, certifique-se que o dispositivo externo (p.e. TV) suporta a funcionalidade Miracast. Os nomes das funcionalidades de transmissão podem variar consoante a marca do seu dispositivo. Consulte as informações abaixo para saber mais sobre a funcionalidade Miracast em diferentes dispositivos
 4. Em caso de outros problemas, pode submeter as suas questões e sugestões através da aplicação \"Serviços e comentários\""</string>
-    <string name="help_page_text_55_global">"Se não consegue ligar à rede, certifique-se que o seu monitor externo suporta a funcionalidade Miracast e está ligada. Nalguns modelos, esta funcionalidade é chamada de Visualização sem fios, Espelho de ecrã ou Vários ecrãs
+    <string name="help_page_text_55_global">"Se não consegue ligar à rede, certifique-se que o seu monitor externo suporta a funcionalidade Miracast e está ligada. Em alguns modelos, esta funcionalidade é chamada de Visualização sem fios, Espelho de ecrã ou Vários ecrãs
 4. Em caso de outros problemas, pode submeter as suas questões e sugestões através da aplicação \"Serviços e comentários\""</string>
     <string name="help_page_text_end">Se a marca do seu dispositivo não estiver listada, contacte o fabricante para saber mais</string>
     <string name="small_window">Minimizar janela</string>

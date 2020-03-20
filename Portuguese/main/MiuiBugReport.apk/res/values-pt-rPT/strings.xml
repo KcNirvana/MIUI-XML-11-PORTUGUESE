@@ -65,7 +65,7 @@
   <string name="feedback_continue">Continuar com o comentário</string>
   <string name="feedback_delete_images">Eliminar imagens</string>
   <string name="feedback_description">Descrição</string>
-  <string name="feedback_description_bugreport_hint">Nalguns casos (…) o meu telefone funciona mal (…)</string>
+  <string name="feedback_description_bugreport_hint">Em alguns casos (…) o meu telefone funciona mal (…)</string>
   <string name="feedback_description_hint">Descreva o problema que encontrou</string>
   <string name="feedback_description_hint_suggestion">Diga-nos como gostaria de melhorar a MIUI</string>
   <string name="feedback_description_label">Descrição</string>
