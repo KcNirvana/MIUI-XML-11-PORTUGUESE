@@ -23,6 +23,9 @@
   <string name="accessibility_camera_ultra_wide_bokeh_on">Modo ecrã inteiro ligado</string>
   <string name="accessibility_closed">Desligou</string>
   <string name="accessibility_effect_mode_button">Botão de efeitos</string>
+  <string name="accessibility_eis_normal">EIS ligado</string>
+  <string name="accessibility_eis_off">EIS desligado</string>
+  <string name="accessibility_eis_pro">EIS Pro ligado</string>
   <string name="accessibility_filter_close_panel">Menu de filtros fechado</string>
   <string name="accessibility_filter_open_panel">Menu de filtros aberto</string>
   <string name="accessibility_filter_pad_close">Menu de filtros fechado</string>
@@ -496,6 +499,10 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_device_watermark_title">"Marca d'água"</string>
   <string name="pref_camera_dual_enable_title">Ligar câmara dupla</string>
   <string name="pref_camera_dual_sat_enable_title">Ligar câmara SAT dupla</string>
+  <string name="pref_camera_eis_entry_normal">EIS</string>
+  <string name="pref_camera_eis_entry_off">Desligado</string>
+  <string name="pref_camera_eis_entry_pro">EIS Pro</string>
+  <string name="pref_camera_eis_title">EIS</string>
   <string name="pref_camera_exposuretime_entry_auto">Automático</string>
   <string name="pref_camera_exposuretime_entry_auto_abbr">Automático</string>
   <string name="pref_camera_face_info_watermark_title">Adicionar idade na foto</string>
@@ -794,6 +801,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="reset_manually_parameter_hint">Repor</string>
   <string name="screen_on_proximity_sensor_hint">Para desligar esta funcionalidade, prima os botões Volume + e Voltar simultaneamente</string>
   <string name="screen_on_proximity_sensor_summary">Não tape a área dos auriculares</string>
+  <string name="search_menu_title">Pesquisa</string>
   <string name="search_settings">Definições da câmara;Qualidade;Qualidade de imagem;Localização de imagem;Localização de foto;Detecção de rosto;Sons da câmara</string>
   <string name="see_qrcode_detals">Ver detalhes do código QR</string>
   <string name="setting_top_text">Modos da câmara</string>
@@ -824,10 +832,14 @@ e traz as pessoas que estão na frente"</string>
   <string name="snap_confirmed">Substituir</string>
   <string name="spaceIsLow_content_external_storage_priority">O cartão SD está a ficar cheio</string>
   <string name="spaceIsLow_content_primary_storage_priority">O armazenamento USB está a ficar cheio</string>
+  <string name="speech_shutter_open_tip">Diga \"Pāizhào\" ou \"Haku Teru\" para tirar uma foto</string>
+  <string name="speech_shutter_tip">Disparo por voz</string>
   <string name="start_capture">OK</string>
   <string name="subtitle_network_exception_tips">Não foi possível ligar à rede</string>
   <string name="super_eis">Estabilização digital</string>
   <string name="super_eis_disabled_hint">Estabilização digital desligada</string>
+  <string name="super_eis_pro">Estabilização digital Pro</string>
+  <string name="super_eis_pro_disabled_hint">Estabilização digital Pro desligada</string>
   <string name="super_night_hint">A optimizar imagem… Mantenha o dispositivo estável</string>
   <string name="super_night_se_tip">Modo Nocturno</string>
   <string name="super_night_toast">Mantenha o seu telefone firme enquanto tira a foto</string>

@@ -19,6 +19,7 @@
   <string name="device_picker">Definições de dispositivo Bluetooth</string>
   <string name="disconnect">Desemparelhar</string>
   <string name="expand_button_title">Avançado</string>
+  <string name="fast_connect_bt_speaker2_name">MI Portable BT Speaker 2</string>
   <string name="fast_connect_device_battery">Bateria</string>
   <string name="fast_connect_device_box">Box</string>
   <string name="fast_connect_device_box_name">Box %1$s</string>

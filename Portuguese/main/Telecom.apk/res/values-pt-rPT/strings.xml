@@ -496,6 +496,7 @@ Selecção"</string>
   <string name="voice_dial_out">Chamada de voz</string>
   <string name="voice_report_incoming_call">Chamada recebida</string>
   <string name="voice_report_unknown_num">Número desconhecido</string>
+  <string name="volume_boost_text">Volume aumentado com sucesso</string>
   <string name="vpn_settings_not_available">VPN settings are not available for this user</string>
   <string name="wait_for_debugger">Aguarde pelo depurador</string>
   <string name="wait_for_debugger_summary">Aplicação em modo de depuração aguarda pelo depurador que anexe antes de executar</string>
