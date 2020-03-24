@@ -41,6 +41,7 @@
   <string name="all_list_empty">Sem contactos</string>
   <string name="antispam_mark_my_contribution">A partilhar informações do marcador</string>
   <string name="antispam_provider_format">Identificado por %s</string>
+  <string name="app_name">Contactos</string>
   <string name="attach_photo_dialog_title">Foto do contacto</string>
   <string name="audio_chat">Conversa de voz</string>
   <string name="auto_nickname">Auto</string>
@@ -66,7 +67,7 @@
   <string name="callAgain">Ligar novamente</string>
   <string name="callBack">Ligar de volta</string>
   <string name="callDetailTitle">Detalhes da chamada</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s mins %s segs</string>
+  <string name="callDetailsDurationFormat">%1$s min %2$s seg</string>
   <string name="callShortcutActivityTitle">Escolha um número para ligar</string>
   <string name="call_assistant">Ligar para %s</string>
   <string name="call_callback">Ligar de volta</string>
@@ -388,14 +389,14 @@
   <string name="device_paired_dialog_title">A procurar contactos…</string>
   <string name="device_pairing_dialog_message">A emparelhar…</string>
   <string name="device_pairing_dialog_title">Emparelhar dispositivos</string>
-  <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Ligue o Bluetooth no outro dispositivo. 
+  <string name="device_transfer_by_bluetooth_message">"%1$d. Ligue o Bluetooth no outro dispositivo. 
 
 - O Bluetooth pode ser encontrado nas definições de rede nos dispositivos Android. 
 - Nos dispositivos iOS, o Bluetooth está nas Definições. 
 
-%d. O modo Vísivel também deve estar ligado nos dispositivos Android. 
+%2$d. O modo Vísivel também deve estar ligado nos dispositivos Android. 
 
-%d. Toque \"Seguinte\" e dê aos Contactos as permissões necessárias"</string>
+%3$d. Toque \"Seguinte\" e dê aos Contactos as permissões necessárias"</string>
   <string name="device_version_header_bluetooth">Importar via Bluetooth</string>
   <string name="device_version_header_no_bluetooth">Importar via cartão SIM</string>
   <string name="dial">Marcar</string>
@@ -475,13 +476,13 @@ Para prevenir perguntas frequentes, actualizamos a informação do saldo uma vez
 Motivo: \"%s\""</string>
   <string name="exporting_contact_failed_title">Não foi possível exportar</string>
   <string name="exporting_contact_list_message">A exportar para %s</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s de %s contactos</string>
+  <string name="exporting_contact_list_progress">%1$s de %2$s contactos</string>
   <string name="exporting_contact_list_title">A exportar dados do contacto</string>
   <string name="exporting_vcard_canceled_title">Exportação %s cancelada</string>
   <string name="exporting_vcard_finished_title">Exportação %s concluída</string>
   <string name="external_profile_title">O meu perfil %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">Não foi possível iniciar a exportação: \"%s\"</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">Não foi possível abrir \"%s\": %s</string>
+  <string name="fail_reason_could_not_open_file">Não foi possível abrir \"%1$s\": %2$s</string>
   <string name="fail_reason_error_occurred_during_export">Ocorreu um erro durante a exportação: \"%s\"</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">Não foi possível recolher informações meta de determinado ficheiro vCard</string>
   <string name="fail_reason_failed_to_read_files">Um ou mais ficheiros não puderam ser importados (%s)</string>
@@ -737,7 +738,7 @@ Motivo: \"%s\""</string>
   <string name="multi_number_menu_delete">Eliminar</string>
   <string name="multi_number_menu_group">Novo grupo</string>
   <string name="multi_number_menu_message">Mensagem</string>
-  <string name="multi_number_title">Chamada em conferência</string>
+  <string name="multi_number_title">Seleccionar</string>
   <string name="multipleContactDeleteConfirmation">A eliminação deste contacto vai eliminar detalhes de várias contas</string>
   <string name="my_phone_not_provider_bluetooth">Não</string>
   <string name="my_phone_provider_bluetooth">Sim</string>
@@ -1077,7 +1078,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="simContacts_title">Contactos do Cartão SIM</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Ver espaço do cartão SIM</string>
-  <string name="sim_capacity_content" formatted="false">%d total | %d utilizado</string>
+  <string name="sim_capacity_content">%1$d total | %2$d utilizado</string>
   <string name="sim_card_no_free_space_message">Sem espaço suficiente</string>
   <string name="sim_card_no_free_space_title">Cartão SIM cheio</string>
   <string name="sim_contact_existing">O contacto já existe</string>
@@ -1103,8 +1104,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="smart_group_company_label">Empresas</string>
   <string name="smart_group_company_unavailable">Sem informação da empresa</string>
   <string name="smart_group_frequency_1">No mês passado</string>
-  <string name="smart_group_frequency_2" formatted="false">%d a %d meses</string>
-  <string name="smart_group_frequency_3" formatted="false">%d to %d meses</string>
+  <string name="smart_group_frequency_2">%1$d a %2$d meses</string>
+  <string name="smart_group_frequency_3">%1$d a %2$d meses</string>
   <string name="smart_group_frequency_4">Há mais de %d meses</string>
   <string name="smart_group_frequency_label">Recentes</string>
   <string name="smart_group_label">Grupos inteligentes</string>

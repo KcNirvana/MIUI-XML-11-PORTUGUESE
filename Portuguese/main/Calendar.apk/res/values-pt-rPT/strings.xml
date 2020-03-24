@@ -36,6 +36,7 @@
   <string name="anniversary_event_title">Aniversário: %1$s</string>
   <string name="anniversary_secondary_tag">Aniversário</string>
   <string name="app_label">Calendário</string>
+  <string name="app_name">Calendário</string>
   <string name="birthday_born">Data de nascimento</string>
   <string name="birthday_calendar_display_name">Aniversários</string>
   <string name="birthday_event_description_a_week_ago">Uma semana atrás</string>
@@ -360,6 +361,12 @@
   <string name="preferences_use_home_tz_title">Utilizar o fuso horário local</string>
   <string name="preferences_week_start_day_dialog">Início da semana</string>
   <string name="preferences_week_start_day_title">Início da semana</string>
+  <string name="productivity_add_event">Criar evento</string>
+  <string name="productivity_cannot_move_event">Não é possível mover este evento</string>
+  <string name="productivity_move_event_failed">Não é possível mover este evento para dd de MMMM de yyyy</string>
+  <string name="productivity_move_event_hint">Premir e segurar num evento para o mover para outra datae</string>
+  <string name="productivity_move_event_success">Evento movido para dd de MMMM de yyyy</string>
+  <string name="productivity_no_event">Sem eventos para hoje</string>
   <string name="pull_to_refresh_hint">Puxe para carregar eventos de %1$d</string>
   <string name="refresh">Actualizar</string>
   <string name="refreshing_hint">Aguarde…</string>
