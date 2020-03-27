@@ -381,10 +381,10 @@
   <string name="repeat_alarm_changed_hotel_event">Lembrar sempre sobre hotéis</string>
   <string name="repeat_alarm_changed_loan_event">Lembrar sempre sobre os pagamentos de empréstimos</string>
   <string name="repeat_alarm_changed_movie_event">Lembrar sempre sobre filmes</string>
-  <string name="repeat_alarm_changed_ony_selected">Só por esta vez</string>
+  <string name="repeat_alarm_changed_ony_selected">Apenas esta vez</string>
   <string name="repeat_alarm_changed_title">Este é um evento repetido. Definir lembrete?</string>
   <string name="repeat_alarm_changed_train_event">Lembrar sempre sobre comboios</string>
-  <string name="repeat_alarm_close_title">Este é um evento repetido. Desativar lembrete de alarme?</string>
+  <string name="repeat_alarm_close_title">Este é um evento repetido. Desligar lembrete de alarme?</string>
   <string name="repeat_alarm_open_title">Este é um evento repetido. Definir lembrete de alarme?</string>
   <string name="repeat_custom_activity_label">Personalizar</string>
   <string name="repeat_custom_prompt_daily">a cada %1$s</string>

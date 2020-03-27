@@ -79,11 +79,11 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ adaptável</item>
         <item>Qualcomm® aptX™ TWS+</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Activar codecs opcionais</item>
-        <item>Activar codecs opcionais</item>
+        <item>Desactivar codecs opcionais</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Predefinição de sistema</item>
@@ -94,9 +94,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ adaptável</item>
         <item>Qualcomm® aptX™ TWS+</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Activar codecs opcionais</item>
         <item>Desactivar codecs opcionais</item>
     </string-array>
