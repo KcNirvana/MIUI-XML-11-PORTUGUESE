@@ -1987,7 +1987,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="permission_upgrade_privacy_title">As permissões para gravar áudio e aceder aos contactos têm agora uma opção para permitir apenas enquanto estiver a utilizar a aplicação. Para proteger as suas informações pessoais, estas acções não vão ser executadas não vão ser executadas em segundo plano</string>
   <string name="permission_upgrade_runtime">As permissões para aceder à sua localização ou utilizar a câmara têm agora uma opção para permitir apenas uma vez. Para proteger as suas informações pessoais, estas acções não vão ser executadas após sair da aplicação</string>
   <string name="permission_upgrade_title">Permissões actualizadas</string>
-  <string name="permission_upgrade_virtual">"If you don't want to allow apps to access your contacts or call history, you can select \"Return blank messages\" when you grant corresponding permissions."</string>
+  <string name="permission_upgrade_virtual">Se não quiser permitir que as aplicações acedam aos seus contactos ou registo de chamadas, pode seleccionar \"Devolver mensagens em branco\" quando conceder as permissões correspondentes</string>
   <string name="permission_with_SMS_and_MMS">Permissões relacionadas com SMS e MMS</string>
   <string name="permission_with_call_and_contact">Permissões relacionadas com chamadas telefónicas, informação de contactos e registo de chamadas</string>
   <string name="permit_running_network">Dados em segundo plano</string>
