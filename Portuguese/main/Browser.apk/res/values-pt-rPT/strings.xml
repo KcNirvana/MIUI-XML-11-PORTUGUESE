@@ -208,7 +208,7 @@
     <string name="contextmenu_webpage_html">Guardar como ficheiro HTML</string>
     <string name="contextmenu_webpage_snapshot">Guardar página</string>
     <string name="copy_url">Copiar URL</string>
-    <string name="could_not_load_data">Não foi possível carregar dados, atualize e tente novamente</string>
+    <string name="could_not_load_data">Não foi possível carregar dados, actualize e tente novamente</string>
     <string name="create_calendar_message">Pretende permitir ao anúncio criar um evento de calendário?</string>
     <string name="create_calendar_title">Criar evento de calendário</string>
     <string name="create_qr_code">Código QR</string>
@@ -386,7 +386,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="keep_queued_download">Manter</string>
     <string name="loading_tips">Puxar para actualizar</string>
     <string name="local_bookmarks">Mi</string>
-    <string name="login_failed_toast">Não foi possível iniciar sessão. Atualize e tente novamente</string>
+    <string name="login_failed_toast">Não foi possível iniciar sessão. Actualize e tente novamente</string>
     <string name="long_press_edit">Mantenha premido para editar</string>
     <string name="low_memory_toast">Não é possível utilizar o Navegador devido a memória insuficiente</string>
     <string name="max_tabs_warning">Não é possível abrir mais separadores</string>
