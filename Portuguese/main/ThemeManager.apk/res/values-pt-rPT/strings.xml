@@ -661,7 +661,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="video_audio_apply_success">Vídeo com som configurado com sucesso</string>
   <string name="video_data_tips_message">Utilizar dados móveis pode gerar custos adicionais. Continuar mesmo assim?</string>
   <string name="video_data_tips_title">Aviso de utilização de dados</string>
-  <string name="video_silence_apply_success">Vídeo sem som configurado com sucesso</string>
+  <string name="video_silence_apply_success">Aplicado com sucesso</string>
   <string name="video_wallpaper_import">Toque para adicionar itens</string>
   <string name="wallpaper_apply">Aplicar</string>
   <string name="wallpaper_crop">Cortar</string>

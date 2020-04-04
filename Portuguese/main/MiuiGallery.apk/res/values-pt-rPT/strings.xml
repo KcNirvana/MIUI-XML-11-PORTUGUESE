@@ -966,11 +966,11 @@ para personalizar a galeria"</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_delete_all_albums_from_rubbish_page_tip">Não vai poder restaurar os álbuns após os eliminar. Eliminar mesmo assim?</string>
   <string name="operation_detail">Detalhes</string>
-  <string name="operation_disable_auto_upload">Desligue a sincronização com a Xiaomi Cloud</string>
+  <string name="operation_disable_auto_upload">Desligar a sincronização com a Xiaomi Cloud</string>
   <string name="operation_download">Transferir original (%s)</string>
   <string name="operation_edit">Editar</string>
   <string name="operation_edit_video">Editar</string>
-  <string name="operation_enable_auto_upload">Ligue a sincronização com a Xiaomi Cloud</string>
+  <string name="operation_enable_auto_upload">Ligar a sincronização com a Xiaomi Cloud</string>
   <string name="operation_failed">A operação falhou</string>
   <string name="operation_favorites">Favoritos</string>
   <string name="operation_force_top">Fixar</string>
